@@ -42,7 +42,7 @@ jobs:
           if [ -n "$(git ls-files -u 2>/dev/null)" ]; then echo "Merge conflicts detected"; exit 1; fi
 
       - name: Validate PR checklist
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
             const requiredChecklistItems = [
