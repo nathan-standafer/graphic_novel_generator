@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Auto Close Duplicate PRs"
+
+on:
+  pull_request_target:
+
+jobs:
+  check-for-duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for duplicate PRs
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prTitle = context.payload.pull_request.title;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            // Get all open PRs
+            const { data: prs } = await github.rest.pulls.list({
+              owner,
+              repo,
+              state: 'open'
+            });
+
+            // Find duplicates (same title)
+            const duplicatePRs = prs.filter(pr => pr.title === prTitle && pr.number !== context.issue.number);
+
+            if (duplicatePRs.length > 0) {
+              throw new Error(`Duplicate PR found: ${duplicatePRs.map(pr => `#${pr.number}`).join(', ')}`);
+            }
+
+      - name: Close duplicate PRs
+        if: ${{ failure() }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed',
+              body: 'This pull request has been automatically closed because it appears to be a duplicate of existing PRs.'
+            });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

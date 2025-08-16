@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Requirements Checker"
+
+on:
+  pull_request_target:
+
+jobs:
+  check-requirements:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate PR title format
+        uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for merge conflicts
+        run: |
+          if [ -n "$(git ls-files -u 2>/dev/null)" ]; then echo "Merge conflicts detected"; exit 1; fi
+
+      - name: Validate PR checklist
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const requiredChecklistItems = [
+              '- [x] All tests are passing',
+              '- [x] Code follows style guidelines',
+              '- [x] Documentation is up to date'
+            ];
+
+            const prBody = context.payload.pull_request.body || '';
+            let allChecked = true;
+
+            for (const item of requiredChecklistItems) {
+              if (!prBody.includes(item)) {
+                allChecked = false;
+                break;
+              }
+            }
+
+            if (!allChecked) {
+              throw new Error('PR checklist not completed. Please make sure all required items are checked.');
+            }
+
+      - name: Check PR size
+        run: |
+          git diff --stat origin/main...HEAD | grep -E '^ files changed' | awk '{print $1}' > pr_size.txt
+          size=$(cat pr_size.txt)
+          if [ "$size" -gt 50 ]; then
+            echo "PR is too large (${size} files changed). Please break it down into smaller chunks."
+            exit 1
+          fi
+
+      - name: Run tests and linters
+        run: |
+          pip install -r requirements.txt
+          pip install -r requirements-dev.txt
+          pytest --cov=graphic_novel_video_creator --cov-report=xml
+          pre-commit run --all-files
+          black --check .
+          flake8 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Size Labeler"
+
+on:
+  pull_request_target:
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add size labels to PRs
+        uses: pascalgn/automerge-action@v0.15.2
+        with:
+          args: |
+            --size-label true
+            --size-label-small "Size/Small"
+            --size-label-medium "Size/Medium"
+            --size-label-large "Size/Large"
+            --size-label-xlarge "Size/X-Large"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

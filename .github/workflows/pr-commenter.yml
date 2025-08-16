@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Commenter"
+
+on:
+  pull_request_target:
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add welcome comment to PRs
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const message = `
+            🎉 Thank you for opening this pull request!
+
+            Our team will review it shortly. In the meantime, please make sure:
+
+            ✅ All tests are passing
+            ✅ Code follows our style guidelines
+            ✅ Documentation is up to date
+
+            If you have any questions, feel free to ask!
+            `;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message
+            });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

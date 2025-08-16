@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Merge Conflict Detector"
+
+on:
+  pull_request_target:
+
+jobs:
+  detect-conflicts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check for merge conflicts
+        run: |
+          if [ -n "$(git ls-files -u 2>/dev/null)" ]; then echo "Merge conflicts detected"; exit 1; fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

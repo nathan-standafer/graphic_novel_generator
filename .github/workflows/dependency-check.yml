@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Dependency Vulnerability Scan"
+
+on:
+  schedule:
+    - cron: '0 2 * * 1' # Every Monday at 2am
+  push:
+    branches: [ main ]
+    paths:
+      - '**/requirements*.txt'
+      - '**/setup.py'
+      - '**/pyproject.toml'
+
+jobs:
+  dependency-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.8"
+
+      - name: Install pip-audit
+        run: |
+          pip install pip-audit
+
+      - name: Run dependency vulnerability scan
+        run: |
+          pip-audit --ignore-vuln HaX0r,PYSEC-2021-001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Merge Strategy"
+
+on:
+  pull_request_target:
+
+jobs:
+  set-merge-method:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set merge method to squash and rebase
+        run: |
+          gh pr edit "${{ github.event.pull_request.html_url }}" --merge-method squash+rebase
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

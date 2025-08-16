@@ -1,0 +1,34 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/user/graphic_novel/discussions
+    about: Ask questions, share ideas, and get community support
+  - name: Reddit Community
+    url: https://www.reddit.com/r/graphicnovelvideo/
+    about: Join our community for casual discussion and user-generated content
+  - name: Professional Support
+    url: mailto:your.email@example.com
+    about: Contact us for priority support or custom development
+
+
+
+
+
+
+
+
+
+

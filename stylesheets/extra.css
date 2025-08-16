@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+/* Custom styles for Graphic Novel Video Creator documentation */
+
+/* Code blocks */
+pre {
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+code {
+  font-family: 'Fira Code', monospace;
+  background-color: #f0f0f0;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.badge img {
+  vertical-align: middle;
+}
+
+/* Buttons */
+.md-button {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.md-button:hover {
+  background-color: #45a049;
+}
+
+/* Section headers */
+h2, h3 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+/* Links */
+a {
+  color: #1a73e8;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Footnotes */
+.footnote {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Video embeds */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Custom icons */
+.icon-github {
+  background-image: url('https://github.githubassets.com/images/modules/logos_page/Octocat.png');
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.icon-python {
+  background-image: url('https://www.python.org/static/community_logos/python-logo.gif');
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Custom colors */
+.primary-color {
+  color: #1a73e8;
+}
+
+.secondary-color {
+  color: #4CAF50;
+}
+
+.warning-color {
+  color: #f44336;
+}
+
+.success-color {
+  color: #4CAF50;
+}
+
+.info-color {
+  color: #2196F3;
+}
+
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+

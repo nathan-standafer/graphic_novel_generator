@@ -1,0 +1,31 @@
+
+
+
+# Set default behavior, in case people don't have core.autocrlf set
+* text=auto
+
+# Ensure Python files use LF line endings
+*.py text eol=lf
+
+# Ensure shell scripts use LF line endings
+*.sh text eol=lf
+
+# Mark README and other markdown files as text
+*.md text
+
+# Mark JSON files as binary to preserve formatting
+*.json binary
+
+# Mark image files as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Mark audio files as binary
+*.wav binary
+*.mp3 binary
+
+# Mark video files as binary
+*.mp4 binary
+
+

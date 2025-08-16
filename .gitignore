@@ -1,0 +1,31 @@
+
+
+# Generated files
+*.mp4
+*.wav
+*.srt
+*.png
+
+# Generated directories
+generated_audio/
+generated_illustrations/
+generated_prompts/
+
+# Virtual environments and dependencies
+venv/
+env/
+__pycache__/
+*.egg-info/
+*.pyc
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+

@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Dependency Update Notifier"
+
+on:
+  pull_request_target:
+
+jobs:
+  notify:
+    if: ${{ github.actor == 'dependabot[bot]' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify about dependency updates
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const message = `
+            🚀 Dependency update detected!
+
+            This PR contains updates to our project dependencies. Please review and test thoroughly.
+
+            If everything looks good, this PR will be automatically merged after approval.
+            `;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message
+            });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

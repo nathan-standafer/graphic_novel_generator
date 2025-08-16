@@ -1,0 +1,15 @@
+
+# Core dependencies
+python>=3.8
+nltk
+torch
+torchaudio
+requests
+
+# WhisperSpeech dependencies
+whisperspeech
+transformers
+sentencepiece
+
+# Video processing
+ffmpeg-python

@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Issue Management"
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  welcome:
+    if: ${{ github.event.action == 'opened' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome new issue reporters
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: >
+            Thank you for opening your first issue! We appreciate your contribution.
+            Our team will review it shortly and provide feedback.
+
+  question-labeler:
+    if: ${{ contains(github.event.issue.labels.*.name, 'question') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add help-wanted label to questions
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['help-wanted']
+            })
+
+
+
+
+
+
+
+
+
+
+
+
+
+

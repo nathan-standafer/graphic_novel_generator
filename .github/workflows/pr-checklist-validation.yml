@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "PR Checklist Validation"
+
+on:
+  pull_request_target:
+
+jobs:
+  validate-checklist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate PR checklist
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const requiredChecklistItems = [
+              '- [x] All tests are passing',
+              '- [x] Code follows style guidelines',
+              '- [x] Documentation is up to date'
+            ];
+
+            const prBody = context.payload.pull_request.body || '';
+            let allChecked = true;
+
+            for (const item of requiredChecklistItems) {
+              if (!prBody.includes(item)) {
+                allChecked = false;
+                break;
+              }
+            }
+
+            if (!allChecked) {
+              throw new Error('PR checklist not completed. Please make sure all required items are checked.');
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

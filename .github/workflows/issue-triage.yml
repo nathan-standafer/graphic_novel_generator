@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Issue Triage"
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add help-wanted label to questions
+        uses: actions/github-script@v6
+        with:
+          script: |
+            if (context.payload.issue.labels.some(label => label.name === 'question')) {
+              github.rest.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['help-wanted']
+              });
+            }
+
+      - name: Add good-first-issue label to small tasks
+        uses: actions/github-script@v6
+        with:
+          script: |
+            if (context.payload.issue.body.includes('good first issue') ||
+                context.payload.issue.title.toLowerCase().includes('good first issue')) {
+              github.rest.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['good-first-issue']
+              });
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

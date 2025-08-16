@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Auto Assign"
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Auto-assign issue to project member'
+        uses: pozil/auto-assign-issue@v1.8.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: your-github-username, another-contributor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

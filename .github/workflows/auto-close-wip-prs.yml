@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Auto Close WIP PRs"
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # Every day at 1am
+  pull_request_target:
+
+jobs:
+  close-wip-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for WIP PRs
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prTitle = context.payload.pull_request.title;
+            if (prTitle.includes('[WIP]') || prTitle.includes('WIP:')) {
+              github.rest.issues.update({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'closed',
+                body: 'This WIP pull request has been automatically closed due to inactivity. Please reopen when ready for review.'
+              });
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

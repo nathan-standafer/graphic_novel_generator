@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: "Auto Close Outdated PRs"
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Every day at 2am
+  pull_request_target:
+
+jobs:
+  close-outdated-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close outdated PRs
+        uses: actions/stale@v8
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          stale-pr-message: >
+            This pull request has been automatically marked as stale because it is outdated.
+            It will be closed if no further activity occurs. Please create a new PR with the latest changes.
+          close-pr-message: >
+            This pull request has been automatically closed due to being outdated. If this is still relevant, please create a new PR with updated information.
+          days-before-stale: 14
+          days-before-close: 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
