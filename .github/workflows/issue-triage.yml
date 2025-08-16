@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Add help-wanted label to questions
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
             if (context.payload.issue.labels.some(label => label.name === 'question')) {
@@ -43,7 +43,7 @@ jobs:
             }
 
       - name: Add good-first-issue label to small tasks
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
             if (context.payload.issue.body.includes('good first issue') ||
