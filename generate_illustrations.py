@@ -1,6 +1,7 @@
 
 import os
 import json
+import random
 import requests
 import websocket
 import uuid
@@ -71,6 +72,9 @@ def generate_images_from_prompts():
             # Modify the workflow with the current prompt
             workflow["16"]["inputs"]["text"] = prompt_data["image_prompt"]
             workflow["9"]["inputs"]["filename_prefix"] = f"{chapter_name}_{scene_name}"
+
+            # Set a random seed for the generation
+            workflow["3"]["inputs"]["seed"] = random.randint(0, 9999999999)
 
             ws = websocket.WebSocket()
             ws.connect(f"ws://127.0.0.1:8188/ws?clientId={client_id}")

@@ -6,6 +6,8 @@ def parse_srt_time(s):
     return datetime.strptime(s, '%H:%M:%S,%f')
 
 def calculate_duration(start, end):
+    duration =  (end - start).total_seconds()
+    print("{} - {} = {}".format(start, end, duration))
     return (end - start).total_seconds()
 
 def generate_ffmpeg_input_file(srt_path, num_images, output_path):
@@ -20,22 +22,24 @@ def generate_ffmpeg_input_file(srt_path, num_images, output_path):
 
     image_durations = []
     image_counter = 1
+    duration_total = 0
+    last_end_str = "00:00:00,000"
+
     for i, block in enumerate(srt_blocks):
         lines = block.split('\n')
         time_line = lines[1]
         start_str, end_str = time_line.split(' --> ')
-        start_time = parse_srt_time(start_str)
+        start_time = parse_srt_time(last_end_str)
         end_time = parse_srt_time(end_str)
-        duration = calculate_duration(start_time, end_time)
-
-        num_images_for_block = images_per_block + (1 if i < extra_images else 0)
         
-        if num_images_for_block > 0:
-            duration_per_image = duration / num_images_for_block
-            for _ in range(num_images_for_block):
-                if image_counter <= num_images:
-                    image_durations.append((f"file 'generated_illustrations/chapter_001/chapter_001_scene_{image_counter:03d}.png'", duration_per_image))
-                    image_counter += 1
+        duration = calculate_duration(start_time, end_time)
+        last_end_str = end_str
+
+        duration_total += duration
+        print("Duration Total: {}".format(duration_total))
+
+        image_durations.append((f"file 'generated_illustrations/chapter_001/chapter_001_scene_{image_counter:03d}.png'", duration))
+        image_counter += 1
 
     with open(output_path, 'w') as f:
         for img_path, duration in image_durations:
