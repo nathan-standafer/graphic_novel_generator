@@ -27,18 +27,19 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
         "Your prompts should vividly summarize the action, characters, and setting of the scene. "
         "The desired art style is 'a dark, moody, 19th-century oil painting'. "
         "Do not respond with anything other than the prompt itself."
+        "Limit the prompt to 100 words. The prompt must always specify the desired art style and time period."
     )
 
     # Sanitize and truncate scene_text
     scene_text = re.sub(r'[^\w\s.,-]', '', scene_text)
-    if len(scene_text) > 2000:
-        scene_text = scene_text[:2000] + " [truncated]"
+    if len(scene_text) > 20000:
+        scene_text = scene_text[:20000] + " [truncated]"
 
     # Prepare the user message with context, characters, and the specific scene
     user_content = ""
     if chapter_context:
-        context_summary = chapter_context[:2000]
-        if len(chapter_context) > 2000:
+        context_summary = chapter_context[:20000]
+        if len(chapter_context) > 20000:
             context_summary += " [truncated for brevity]"
         user_content += f"Chapter Context: {context_summary}\n\n"
     
@@ -56,7 +57,7 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
         "model": model_name,
         "messages": messages,
         "temperature": 0.7,
-        "max_tokens": 150
+        "max_tokens": 350
     }
 
     for attempt in range(retries):
@@ -122,7 +123,8 @@ def main():
             if "Error:" in prompt:
                 print(f"    - {prompt}")
             else:
-                print(f"    - Prompt: {prompt}")
+                print(f"    - Segment: {segment}")
+                print(f"    - Prompt: {prompt}\n")
 
             chapter_prompts.append({
                 "segment_index": i,
