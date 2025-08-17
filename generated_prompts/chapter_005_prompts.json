@@ -1,7 +1,192 @@
 [
   {
-    "scene_index": 0,
-    "scene_text": "Chapter 5 BREAKFAST I quickly followed suit, and, descending into the bar-room, accosted the grinning landlord very pleasantly. I cherished no malice towards him, though he had been skylarking with me not a little in the matter of my bedfellow. However, a good laugh is a mighty good thing, and rather too scarce a good thing. The more's the pity. So, if any one man, in his own proper person, affords stuff for a good joke to anybody, let him not be backward, but let him cheerfully allow himself to spend and be spent in that way. And a man that has anything bountifully laughable about him, be sure there is more in that man than you perhaps think for. The bar-room was now full of the boarders who had been dropping in the night previous, and whom I had not as yet had a good look at. They were nearly all whalemen chief-mates, and second-mates, and third-mates, and sea-carpenters, and sea-coopers, and sea-blacksmiths, and harponeers, and ship-keepers, a brown and brawny company, with bosky beards, an unshorn shaggy set, all wearing monkey-jackets for morning gowns. You could pretty plainly tell how long each one had been ashore. This young fellow's healthy cheek is like a sun-toasted pear in hue, and would seem to smell almost as musky. He cannot have been three days landed from his Indian voyage. That man next him looks a few shades lighter. You might say a touch of satin wood is in him. In the complexion of a third still lingers a tropic tawn, but slightly bleached with awe. H. E. Doubtless has tarried whole weeks ashore, but who could show a cheek like Queequeg? Which, barred with various tents, seemed like the Andes' western slope, to show forth in one array, contrasting climates, zone by zone. Now cried the landlord, flinging open a door, and in we went to breakfast. They say that men who have seen the world thereby become quite at ease in manner, quite self-possessed in company. Not always, though Collediard, the great New England traveller, and Mungo Park, the Scotch one, of all men, they possessed the least assurance in the parlour. But perhaps the mere crossing of Siberia in a sledge drawn by dogs, as Ledger did, or the taking a long solitary walk on an empty stomach, in the negro heart of Africa, which was the sum of poor Mungo's performances, this kind of travel, I say. may not be the very best mode of attaining a high social polish. Still, for the most part, that sort of thing is to be had anywhere. These reflections just here are occasioned by the circumstance that after we were all seated at the table, And I was preparing to hear some good stories about whaling. To my no small surprise, nearly every man maintained a profound silence. Not only that, but they looked embarrassed. Yes, here were a set of sea-dogs, many of whom, without the slightest bashfulness, had boarded great whales on the high seas, entire strangers to them, and dueled them dead without winking. And yet, here they sat at a social breakfast-table all of the same coin, all of kindred tastes looking round, as sheepishly at each other, as though they had never been out of sight of some sheepfold among the green mountains. A curious sight, these bashful bears, these timid warrior whalemen! But as for Queequag Wye, Queequag sat there among them, at the head of the table, too, its so chanced, chanced, assed, cool as an icicle, to be sure I cannot say much for his breeding. His greatest admirer could not have cordially justified his bringing his harpoon into breakfast with him, and using it there, without ceremony, reaching over the table with it to the imminent jeopardy of many heads, and grappling the beefsteaks towards him. But that was certainly very coolly done by him, and everyone knows that in most people's estimation to do anything coolly is to do it gently. We will not speak of all Queequeg's peculiarities here, how he eschewed coffee and hot rolls, and applied his undivided attention to beefsteaks, done rare, enough that when breakfast was over he withdrew like the rest into the public room, lighted his tomahawk pipe, and was sitting there quietly digesting and smoking with his inseparable hat on, when I sallied out for a stroll.",
-    "image_prompt": "A dimly lit 19th\u2011century tavern bar\u2011room at dawn, rendered as a dark, moody oil painting. The scene shows a rugged, sun\u2011tanned young whaler with a musky-cheeked face stepping forward to greet the grinning landlord, who stands in the doorway flinging it open toward a breakfast gathering. Around them stand a rough crew of sea\u2011men\u2014chief mates, second mates, carpenters, coopers, blacksmiths, harpooners, and ship\u2011keepers\u2014each with thick beards, unshorn shaggy hair, wearing worn monkey\u2011jackets in various shades from sun\u2011burnt"
+    "segment_index": 0,
+    "segment_text": "Chapter 5 BREAKFAST",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a bustling bar‑room turned breakfast table: Captain Ahab and Ishmael sit among rugged whalemen—chief‑mates, sea‑carpenters, harpooners—in heavy monkey jackets, their beards bristling. Queequeg, head of the table, coolly holds a harpoon over the spread of rare beefsteaks, his hat perched on a chair, eyes unblinking. The landlord flings open a door, ushering them into the dim morning light. The sea‑dogs' faces show quiet embarrassment as they exchange hushed glances, their weathered hands resting on wooden bowls. A somber, atmospheric scene of maritime camaraderie and restrained violence."
+  },
+  {
+    "segment_index": 1,
+    "segment_text": "I quickly followed suit, and, descending into the bar-room, accosted the grinning landlord very pleasantly.",
+    "image_prompt": "A dimly lit 19th‑century tavern hall, smoke curling from a hearth, the heavy wooden door ajar. In the foreground, a young sailor in a tattered monkey‑jacket steps forward with a polite smile, eyes bright, holding a weathered handkerchief. He accosts an elderly landlord with a broad grin, their shoulders brushing as they exchange a brief, friendly nod. Behind them, rough‑haired whalemen—chief‑mates and harpooners—stand in the shadows, their coats draped over benches, watching the interaction with wary curiosity. The scene is rendered in moody oil brushwork, deep shadows, muted earth tones, capturing the tension between hospitality and the raw sea‑borne world."
+  },
+  {
+    "segment_index": 2,
+    "segment_text": "I cherished no malice towards him, though he had been skylarking with me not a little in the matter of my bedfellow.",
+    "image_prompt": "A dim, candlelit bar-room of a rugged whaling tavern in the 1840s, its walls lined with weather‑worn barrels and sea charts. The narrator, a young sailor with sun‑tanned cheeks, stands beside the grinning landlord, both men half‑clad in rough monkey jackets, their faces illuminated by flickering lantern light. The landlord's lips curl in playful mockery about the narrator’s bedfellow, yet the narrator's expression is calm and unbothered, eyes steady, a subtle smile hinting at acceptance. Behind them, other stout whalemen lean over wooden tables, their rough hands gripping mugs of ale, all set against a backdrop of storm‑blackened horizons and distant sails. The mood is brooding, the scene rendered in rich, oil brushstrokes that capture the gritty, melancholic atmosphere of 19th‑century maritime life."
+  },
+  {
+    "segment_index": 3,
+    "segment_text": "However, a good laugh is a mighty good thing, and rather too scarce a good thing.",
+    "image_prompt": "A dim, storm‑shadowed tavern bar in the early dawn, lanterns flickering on rough oak tables. In the center, a broad‑shouldered, bearded whaler (Queequeg) with sun‑tanned cheek and unshorn beard leans over a coarse table, holding a gleaming harpoon as if for a jest, while the landlord—grinning, gaunt, wearing a cracked leather jacket—raises a pint in salute. Around them, rugged sea‑men in monkey jackets sit silent, eyes flicking nervously; their faces are weathered and wary. The atmosphere is heavy with tension yet tinged with a fleeting moment of camaraderie, captured in a dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 4,
+    "segment_text": "The more's the pity.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a cramped tavern breakfast scene: rough‑haired whalemen in worn monkey jackets sit around a battered wooden table, their faces lit by flickering candlelight and the gray morning gloom outside. Queequeg sits at the head, his smooth, dark skin contrasting with the harpoon propped beside him, calmly grasping a rare beefsteak as other sailors stare nervously. Captain Ahab, Ishmael, Starbuck, Stubb, Flask, and Moby‑Dick’s presence hinted by shadowy silhouettes in the doorway. The atmosphere is tense, hushed, and tinged with the bitter irony of fierce sea warriors forced into polite silence at a humble breakfast."
+  },
+  {
+    "segment_index": 5,
+    "segment_text": "So, if any one man, in his own proper person, affords stuff for a good joke to anybody,",
+    "image_prompt": "A dark, moody, 19th‑century oil painting of the bustling bar-room as the grinning landlord flings open the door and ushers Captain Ahab, Ishmael, Queequeg, Starbuck, Stubb, Flask, and Moby‑Dick’s crew into a warm, candlelit breakfast. The men—broad‑shouldered whalemen with shaggy beards, wearing tattered monkey jackets—sits in silent, uneasy camaraderie around a heavy oak table. Queequeg, head of the group, coolly holds a harpoon beside his beefsteak, while Ahab’s eyes gleam with unspoken menace. The scene captures the tension between rugged seafaring bravado and fragile social propriety, rendered in deep chiaroscuro, rich oil textures, 19th‑century realism."
+  },
+  {
+    "segment_index": 6,
+    "segment_text": "let him not be backward, but let him cheerfully allow himself to spend and be spent in that way.",
+    "image_prompt": "A dimly lit 19th‑century tavern with a wide wooden bar and worn stone walls. In the foreground, a stout, grinning landlord in a tattered coat flings open an iron door, revealing a crowded bar‑room full of rugged whalers—chief mates, carpenters, blacksmiths—clad in monkey jackets, bearded faces weathered by sea. A heavy breakfast table dominates the middle ground: men sit stiffly, eyes darting nervously, their hands resting on plates of steaming beefsteaks while a lone figure, Queequeg, sits at the head, calmly holding a harpoon and reaching for his meat with an icy calm. The scene exudes a dark, moody atmosphere, heavy shadows, and oil‑painted texture, capturing the tension between rugged bravery and uneasy civility."
+  },
+  {
+    "segment_index": 7,
+    "segment_text": "And a man that has anything bountifully laughable about him, be sure there is more in that man than you perhaps think for.",
+    "image_prompt": "A dim, candlelit bar-room at dawn, a rough‑hewn wooden table crowded with weathered whalemen in tattered monkey jackets, their beards matted and faces sun‑tanned from the sea. In the center, Queequeg sits with his harpoon casually draped over the table, eyes gleaming with quiet confidence. Around him, Captain Ahab, Ishmael, Starbuck, Stubb, Flask, and a ghostly Moby‑Dick silhouette linger in the shadows, their expressions a mix of awe and restrained laughter at Queequeg’s calm bravado. The air is thick with salt, smoke from a tomahawk pipe, and the muted echo of distant whale songs. Dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 8,
+    "segment_text": "The bar-room was now full of the boarders who had been dropping in the night previous, and whom I had not as yet had a good look at.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a cramped bar‑room at dawn: a ragged wooden table crowded with rugged sea‑dogs—chief‑mates, second‑mates, carpenters, cooper, blacksmiths—each with shaggy beards and sun‑tanned faces. Their monkey jackets hang loosely; their eyes reflect weary adventure. A grinning landlord stands near an open door, beckoning them inside, while a lone young man, cheek bright as a toasted pear, steps forward. The room hums with low murmurs, the air thick with salt, tar, and the scent of stale ale. Shadows pool across weather‑worn wood, hinting at the untold voyages that shape these men."
+  },
+  {
+    "segment_index": 9,
+    "segment_text": "They were nearly all whalemen chief-mates, and second-mates, and third-mates, and sea-carpenters, and sea-coopers, and sea-blacksmiths, and harponeers, and ship-keepers, a brown and brawny company, with bosky beards, an unshorn shaggy set, all wearing monkey-jackets for morning gowns.",
+    "image_prompt": "A dimly lit bar‑room of a whaling ship, rendered as a dark, moody 19th‑century oil painting. The scene centers on a rugged, brown and brawny crew gathered around a low wooden table: chief‑mates, second‑mates, third‑mates, sea‑carpenters, sea‑coopers, sea‑blacksmiths, harpooners, and ship‑keepers. Each man sports a thick, unshorn shaggy beard, weathered faces, and sun‑tanned cheeks. They wear coarse monkey‑jackets as morning gowns, their bodies hunched over rough planks of the deck. The air is heavy with the scent of salt and oil, shadows pooling across the table where they silently share a sparse breakfast, a testament to their seafaring lives."
+  },
+  {
+    "segment_index": 10,
+    "segment_text": "You could pretty plainly tell how long each one had been ashore.",
+    "image_prompt": "A dimly lit bar‑room of a rugged New England wharf, morning light filtering through soot‑stained windows. A ragged band of sea‑men—chief‑mates, carpenters, blacksmiths, harpooners—clustered around a scarred wooden table, their beards thick and unshorn, clothes in monkey‑jackets, faces weather‑scarred from long voyages. Captain Ahab stands tall at the head, his eyes sharp; Ishmael observes, notebook tucked under arm; Queequeg sits coolly beside him, harpoon casually resting on the table. The atmosphere is tense and hushed, as if each man hides a storm beneath calm. Rendered in dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 11,
+    "segment_text": "This young fellow's healthy cheek is like a sun-toasted pear in hue, and would seem to smell almost as musky.",
+    "image_prompt": "A dimly lit 19th‑century tavern kitchen, steam curling from a chipped iron pot, the wooden table scarred by countless meals. At its center sits a young whaler, his healthy cheek sun‑toasted like a ripe pear, a faint musk lingering in the air. Rough‑eyed men—chief‑mates, blacksmiths, harpooners—crowd around him, their monkey jackets flapping, faces half‑shadowed by lantern light. The bar‑room’s low ceiling and worn timber exude melancholy; an oil painting style renders every line of muscle and beard with heavy brushstrokes, capturing the raw, moody atmosphere of a seafaring crew at breakfast, their eyes reflecting distant horizons and hidden tensions."
+  },
+  {
+    "segment_index": 12,
+    "segment_text": "He cannot have been three days landed from his Indian voyage.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: Queequeg, a robust sea‑blacksmith, stands in the dim bar‑room of a cramped whaling tavern after only three days ashore from India. His sun‑toasted cheek glows with a faint musky perfume, his shaggy beard and unshorn hair framing a weathered face that still bears the tropical tawn of distant seas. He wears a battered monkey jacket, his harpoon casually draped over his shoulder, eyes gleaming with quiet resolve. Around him, rough‑hewn wooden tables glow from lantern light, while other brash whalemen look on in uneasy silence, their faces a mixture of awe and embarrassment at this foreign mariner’s calm presence."
+  },
+  {
+    "segment_index": 13,
+    "segment_text": "That man next him looks a few shades lighter.",
+    "image_prompt": "A dimly lit bar‑room of a rugged whaling ship, early morning haze curling over brass lamps. At the head of the table sits Queequeg, his sun‑tanned face a deep, almost black hue, beard like tangled seaweed. Next to him, a younger whaleman stands out with a lighter complexion—washed by fresh sea spray, a faint satin‑wood glow across his cheeks. He wears a rough monkey jacket, his eyes wary yet curious as he watches the others. The surrounding crew—chief‑mates and ship‑keepers—are heavy‑bearded and brown‑skinned, their faces shadowed in oil paint’s muted tones. The scene exudes dark, moody 19th‑century realism."
+  },
+  {
+    "segment_index": 14,
+    "segment_text": "You might say a touch of satin wood is in him.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of the cramped bar‑room at sunrise. A line of rugged whalemen—chief‑mates, carpenters, blacksmiths—clothe in worn monkey jackets, their faces weathered and bearded. In the foreground stands a young man whose cheek glows with a subtle satin‑wood hue, his skin kissed by tropical sun yet softened by ashore life. He leans against a wooden table, a harpoon casually draped over his shoulder, eyes sharp yet oddly calm. The air is thick with steam from coffee and the distant clatter of a ship’s log, all rendered in muted oil tones to evoke a brooding maritime dawn."
+  },
+  {
+    "segment_index": 15,
+    "segment_text": "In the complexion of a third still lingers a tropic tawn, but slightly bleached with awe.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a bustling harbor tavern at dawn. In the foreground sits a rugged sea‑dog, his skin a deep tropical tan yet washed to a faint, almost pallid hue by long days ashore, eyes reflecting weary awe. He wears a weathered monkey jacket and bears an unshorn beard. Around him, other whalers—chief‑mates, carpenters, blacksmiths—cluster at a wooden table, their faces grim and silent, glancing warily at the lone figure. The room is dimly lit by flickering candles, casting long shadows across cracked plaster walls, evoking an atmosphere of uneasy camaraderie amid the sea’s mysteries."
+  },
+  {
+    "segment_index": 16,
+    "segment_text": "H. E. Doubtless has tarried whole weeks ashore, but who could show a cheek like Queequeg?",
+    "image_prompt": "A dark, moody 19th‑century oil painting: in a cramped bar‑room, the table is set for breakfast. A weary sea‑dog, Queequeg, sits at the head, his sun‑toasted, pear‑like cheek glowing against rough brown skin, a stark contrast to the other rugged whalers with shaggy beards and monkey jackets. He coolly reaches across the table with a harpoon, eyes glinting as he lifts a rare steak. The room hums with hushed awe; ashore men stare at him like sheep in a fold. A faint scent of musk lingers, hinting at distant oceans. The scene captures Queequeg’s striking complexion and quiet dominance amid the brooding atmosphere."
+  },
+  {
+    "segment_index": 17,
+    "segment_text": "Which, barred with various tents, seemed like the Andes' western slope, to show forth in one array, contrasting climates, zone by zone.",
+    "image_prompt": "A dim, storm‑clouded harbor at dawn, a cluster of weather‑worn canvas tents pitched along a jagged shoreline that rises like the western slope of the Andes. The tents’ tattered edges blend into the dark basalt cliffs, while faint mist curls around their poles. A lone figure—Queequeg—stands beneath one tent, his sun‑tanned beard contrasting with the pale slate sky, holding a harpoon poised as if for battle. Around him, rugged sea‑men in monkey jackets sit on rough planks, their faces shadowed by brimmed hats, gazing at the distant horizon where sea and mountain meet. The whole scene is rendered in brooding oil strokes, 19th‑century style, evoking a moody, twilight tension."
+  },
+  {
+    "segment_index": 18,
+    "segment_text": "Now cried the landlord, flinging open a door, and in we went to breakfast.",
+    "image_prompt": "A dim, smoky bar‑room of a coastal tavern, early dawn light leaking through soot‑stained windows. The rugged landlord, broad‑shouldered and grinning, flings open a heavy wooden door with a theatrical flourish, announcing the start of breakfast. Inside, a gaunt, sea‑blacksmith in a monkey jacket steps forward, followed by a line of brown‑skinned whalemen—chief‑mates, second‑mates, harpooners—bushy beards and weathered faces, their coats dripping with salt spray. At the head of a long, scarred oak table sits Queequeg, eyes calm as icicles, a harpoon casually resting beside a rare beefsteak. The scene is rendered in brooding 19th‑century oil style, shadows deep, atmosphere heavy with anticipation and maritime grit."
+  },
+  {
+    "segment_index": 19,
+    "segment_text": "They say that men who have seen the world thereby become quite at ease in manner, quite self-possessed in company.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a cramped bar‑room turned breakfast hall on a whaling ship. Captain Ahab sits at the head, stern and world‑worn, surrounded by rugged whalemen—chief‑mates, sea‑blacksmiths, harpooners—wearing tattered monkey jackets, their beards shaggy and faces weathered from salt spray. Queequeg, a tall, scarred figure with an icy calm, leans over the table holding a gleaming harpoon as if offering a silent challenge. The crew sits in tense silence, eyes darting, their expressions a mix of awe and discomfort. A faint, smoky haze lingers from a nearby pipe, underscoring the tension between adventure and domesticity. Style: dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 20,
+    "segment_text": "Not always, though Collediard, the great New England traveller, and Mungo Park, the Scotch one, of all men, they possessed the least assurance in the parlour.",
+    "image_prompt": "A dimly lit 19th‑century parlour draped in heavy velvet curtains, its polished mahogany furniture reflecting a faint candle glow. In the centre, Captain Ahab and Ishmael sit rigid, their eyes cast downwards, as if weighed by invisible chains of doubt; beside them, Queequeg leans against a wooden table, his harpoon resting casually at his side, while Starbuck fidgets with a rolled map, Stubb adjusts his brass sextant, Flask clutches a battered compass, and Moby‑Dick’s silhouette lingers in the doorway. The atmosphere is tense and melancholic, each figure embodying the uneasy confidence of seasoned travelers in an unfamiliar domestic setting. Dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 21,
+    "segment_text": "But perhaps the mere crossing of Siberia in a sledge drawn by dogs, as Ledger did, or the taking a long solitary walk on an empty stomach, in the negro heart of Africa, which was the sum of poor Mungo's performances, this kind of travel, I say.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: a lone explorer, Ledger, in tattered fur coat, stands on the crest of a frozen ridge, his silhouette framed by an endless snow‑drifted expanse. A sled laden with rough‑spun canvas glides behind him, pulled by a line of weary sledge dogs whose eyes burn with determination. The sky hangs heavy and gray, clouds gathering like distant storm fronts. In the distance, jagged ice towers loom, while faint footprints mark the path across the icy plain. Ledger’s face is set in grim resolve, hands gripping his compass, embodying the harsh, solitary trek through Siberia’s unforgiving wilderness. Art style: dark, moody, 19th‑century oil painting."
+  },
+  {
+    "segment_index": 22,
+    "segment_text": "may not be the very best mode of attaining a high social polish.",
+    "image_prompt": "A dim, smoky tavern in the early morning, 19th‑century oil style. The table is crowded with rugged whalemen—chief-mates, second-mates, sea‑carpenters, blacksmiths—dressed in coarse monkey jackets, their shaggy beards and sun‑tanned cheeks gleaming under low light. Captain Ahab sits aloof at the head, while Queequeg, a tall Polynesian with a calm, icicle‑cool demeanor, quietly handles his harpoon beside his rare beefsteak. The men stare sheepishly at each other, their faces tense and embarrassed, reflecting the uneasy contrast between their fierce sea lives and this fragile social setting. A hushed silence hangs over the room, heavy with tension and unspoken stories. 19th‑century oil painting."
+  },
+  {
+    "segment_index": 23,
+    "segment_text": "Still, for the most part, that sort of thing is to be had anywhere.",
+    "image_prompt": "A dimly lit bar‑room in a 19th‑century coastal tavern, the morning light filtering through soot‑stained windows. A long wooden table crowded with rugged whalemen—chief‑mates, sea‑carpenters, harpooners—clad in tattered monkey jackets, their shaggy beards and sun‑tanned cheeks a testament to months at sea. They sit in hushed silence, eyes darting nervously toward the head of the table where Queequeg, stoic and cool as an icicle, holds a harpoon casually by his side, a silent threat beneath the clatter of plates. The atmosphere is heavy with tension, yet oddly serene, captured in a dark, moody oil painting style of the 19th century."
+  },
+  {
+    "segment_index": 24,
+    "segment_text": "These reflections just here are occasioned by the circumstance that after we were all seated at the table,",
+    "image_prompt": "A dimly lit 19th‑century tavern kitchen, heavy wooden beams and flickering oil lamps casting long shadows over a rough stone hearth. A ragged sea‑dog crew—chief mates, carpenters, blacksmiths—gathers around a low oak table, their monkey jackets rumpled. Captain Ahab sits stoically at the head, his eyes narrowed; Ishmael leans forward, notebook in hand. Queequeg, bearded and imposing, casually holds a harpoon beside his plate of rare beefsteak, the blade glinting like moonlit water. The room hums with hushed whispers and uneasy silence as the men, once fierce hunters of whales, now sit awkwardly over breakfast, their faces a mixture of pride and shyness. Dark, moody oil painting style, 19th century."
+  },
+  {
+    "segment_index": 25,
+    "segment_text": "And I was preparing to hear some good stories about whaling.",
+    "image_prompt": "A dim, smoky tavern’s breakfast hall in the early morning, a long oak table crowded with rugged sea‑dogs—chief‑mates, second‑mates, and harpooners—wearing tattered monkey jackets, their beards thick and unshorn. Captain Ahab sits at the head, stern yet curious, while Ishmael leans forward, eyes wide for tales of the great white. Queequeg, calm as an icicle, holds a gleaming harpoon beside his plate of rare beefsteaks, his face serene amid the murmur of silence and hesitant laughter. The room is bathed in low candlelight, shadows pooling on rough stone walls, evoking a dark, moody 19th‑century oil painting atmosphere."
+  },
+  {
+    "segment_index": 26,
+    "segment_text": "To my no small surprise, nearly every man maintained a profound silence.",
+    "image_prompt": "Silent, brown‑bearded whalemen sit around an old wooden table in a dim, smoke‑filled bar‑room, their faces gaunt and eyes downcast as they eat rare beefsteaks. Queequeg, head of the group, calmly reaches for his harpoon, holding it like a relic amid the quiet. The air is heavy with tension, the clink of cutlery echoing in the gloom. Ahab, Ishmael, Starbuck, Stubb, Flask, and Moby‑Dick’s presence loom in shadow, their expressions unreadable. The scene is rendered as a dark, moody 19th‑century oil painting, rich with chiaroscuro and textured brushstrokes that capture the brooding atmosphere of a harrowing nautical tavern."
+  },
+  {
+    "segment_index": 27,
+    "segment_text": "Not only that, but they looked embarrassed.",
+    "image_prompt": "A dimly lit tavern kitchen in the early morning, where a ragged table of weary whalemen sit in stiff silence. Their weather‑worn monkey jackets hang loosely, faces pale and shamed, eyes darting to one another as if caught in an uneasy tableau. Queequeg, head held high, holds a harpoon with casual ease beside his plate, the metal catching the weak lantern glow. The air is thick with musk and salt; a lone pipe smokes in the corner, its ember glinting like distant stars. The scene exudes a dark, moody 19th‑century oil painting atmosphere, capturing the hushed embarrassment of seasoned sailors at breakfast."
+  },
+  {
+    "segment_index": 28,
+    "segment_text": "Yes, here were a set of sea-dogs, many of whom, without the slightest bashfulness, had boarded great whales on the high seas, entire strangers to them, and dueled them dead",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a cramped, smoky bar‑room table crowded with rugged whalemen—chief‑mates, second‑mates, carpenters, blacksmiths—each bearing weathered beards and tattered monkey jackets. In the center, Queequeg sits at the head, a lone harpoon resting beside him as he calmly snatches a rare beefsteak. The men’s faces are solemn, eyes fixed on one another in uneasy silence, their bodies tense yet restrained, hinting at the brutal battles they’ve fought against colossal whales. Subtle shadows cast by lanterns highlight scars and soot, evoking the raw, primal world of the sea within this intimate, austere tavern scene."
+  },
+  {
+    "segment_index": 29,
+    "segment_text": "without winking.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a cramped bar‑room turned breakfast table: weathered whalemen in monkey jackets sit around a worn oak table, their faces slack with silence and embarrassment. Captain Ahab looms at the head, stoic; Ishmael watches, eyes wide. Queequeg sits beside him, harpoon casually resting on the table as he pulls a rare steak toward his lips, a hint of icicle‑cool composure in his expression. Starbuck, Stubb, and Flask lean over, whispering nervously, their beards tangled. The room hums with muted murmurs of distant seas, yet no one winks or laughs—only solemn respect for the sea’s fierce warriors. 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 30,
+    "segment_text": "And yet, here they sat at a social breakfast-table all of the same coin, all of kindred tastes looking round, as sheepishly at each other, as though they had never been out of sight of some sheepfold among the green mountains.",
+    "image_prompt": "A dimly lit bar‑room turned breakfast hall in a 19th‑century oil painting style. The long wooden table is crowded with rough sea‑dogs—chief‑mates, blacksmiths, harpooners—wearing ragged monkey jackets, their faces gaunt and wary. They sit sheepishly at the same table, eyes darting around as if they have never seen a pastoral meadow, each man clutching a cold steak or clinking mugs of ale. Queequeg, head of the table, sits coolly with a harpoon beside him, his dark beard framing a solemn expression. The room is moody, candlelight flickering against soot‑stained walls, evoking a sense of uneasy camaraderie among hardened sailors."
+  },
+  {
+    "segment_index": 31,
+    "segment_text": "A curious sight, these bashful bears, these timid warrior whalemen!",
+    "image_prompt": "A dim, cramped bar‑room of a 19th‑century ship’s galley, misted with steam from the morning fire, where stout whaling men—chief‑mates, sea‑carpenters, blacksmiths—sit in rough monkey‑jackets, their shaggy beards and sun‑tanned cheeks glistening. In the center, Queequeg, a tall, stoic harpooner with a cool demeanor, sits at the head of the table, a polished harpoon casually resting beside his rare beef steak. The crew’s eyes dart nervously among each other, their faces half hidden by shadows, as they whisper in hushed tones. A hush hangs over the room, heavy with unspoken tales of the sea, captured in a dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 32,
+    "segment_text": "But as for Queequag Wye, Queequag sat there among them, at the head of the table, too, its so chanced, chanced, assed, cool as an icicle, to be sure I cannot say much for his breeding.",
+    "image_prompt": "A dimly lit tavern breakfast scene in a 19th‑century oil style: Queequeg sits at the head of a rough wooden table, surrounded by weathered whalers with shaggy beards and tattered monkey jackets. The room is shadowy, soot‑stained walls, flickering candlelight. Queequeg, calm as an icicle, holds a harpoon casually across the table, eyes unblinking, a slight smirk on his sun‑tanned face. Other men stare at him with uneasy respect, their faces illuminated by the weak glow. The atmosphere is tense and brooding, capturing the contrast between brutal sea life and fragile social veneer. Dark, moody, 19th‑century oil painting."
+  },
+  {
+    "segment_index": 33,
+    "segment_text": "His greatest admirer could not have cordially justified his bringing his harpoon into breakfast with him, and using it there, without ceremony, reaching over the table with it",
+    "image_prompt": "A dim, storm‑shadowed tavern hall in a 19th‑century oil style: at a rough oak breakfast table, Queequeg—tanned, bearded, stoic—sits calmly, harpoon thrust beside him. He reaches over the worn wood with the weapon, its polished blade glinting faintly against candlelight, hands steady as he plucks a rare beefsteak for himself. Other sea‑dogs sit tense, eyes wide, their rugged coats and monkey jackets contrasting with the somber mood. The room’s heavy drapes and cracked plaster echo the weight of silent awe, capturing the uneasy harmony between raw maritime prowess and fragile social etiquette. Dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 34,
+    "segment_text": "to the imminent jeopardy of many heads, and grappling the beefsteaks towards him.",
+    "image_prompt": "A dimly lit bar‑room at dawn, a long wooden table crowded with rugged whalemen in tattered monkey jackets. Queequeg sits at the head, his scarred face illuminated by flickering lanterns. He leans forward, hand gripping a gleaming harpoon, its blade catching the weak light as he thrusts it toward the center of the table, slicing through a sizzling beefsteak that hangs precariously in mid‑air. The startled faces of Captain Ahab, Starbuck, Stubb, and Ishmael blur into ghostly silhouettes, eyes wide with shock. Heavy smoke curls from a nearby fire, casting an ominous, sepia haze over the scene. The atmosphere is tense, claustrophobic, steeped in 19th‑century maritime dread—dark, moody oil painting style."
+  },
+  {
+    "segment_index": 35,
+    "segment_text": "But that was certainly very coolly done by him, and everyone knows that in most people's estimation to do anything coolly is to do it gently.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a cluttered tavern breakfast table in the early morning light. Men with weather‑worn faces and shaggy beards sit in rough monkey jackets, their eyes wary as they stare at each other. In the center, Queequeg—tall, broad‑shouldered, skin the color of sun‑baked parchment—leans over the table with a polished harpoon held coolly in one hand. He reaches toward a sizzling beefsteak with a calm, almost detached grace, his expression serene and unruffled. The scene captures tension between rugged sea warriors and domestic restraint, set against a dim, smoky tavern backdrop, rendered in heavy oil brushstrokes of the 19th century."
+  },
+  {
+    "segment_index": 36,
+    "segment_text": "We will not speak of all Queequeg's peculiarities here, how he eschewed coffee and hot rolls,",
+    "image_prompt": "A dark, moody 19th‑century oil painting: in a dimly lit bar‑room, Queequeg sits at the head of a worn wooden breakfast table surrounded by grizzled whalemen. He ignores steaming coffee and fresh rolls, eyes fixed on a rare beefsteak before him. His harpoon lies casually beside his plate, a silent reminder of the sea. The room hums with hushed tension; other sailors stare at him like wary sheep, their faces half‑masked by beards and sweat. Queequeg’s calm, icicle‑cool demeanor contrasts sharply with the rough, sun‑tanned crew, creating an eerie tableau of quiet defiance amid a bustling, smoky tavern atmosphere."
+  },
+  {
+    "segment_index": 37,
+    "segment_text": "and applied his undivided attention to beefsteaks, done rare, enough that when breakfast was over he withdrew like the rest into the public room, lighted his tomahawk pipe, and was sitting there quietly digesting and smoking with his inseparable hat on, when I sallied out for a stroll.",
+    "image_prompt": "A dim, candlelit public room in a 19th‑century coastal tavern, painted in heavy oil strokes with deep shadows and muted earth tones. In the center, Queequeg sits alone at a worn wooden table, his broad chestnut beard and scarred hands gripping a thick slice of rare steak with reverence. A flickering tomahawk pipe rests in his palm as he lifts it to light, smoke curling upward against a backdrop of peeling plaster walls and faded maritime maps. His inseparable hat sits on the floor beside him, hinting at quiet solitude after a bustling breakfast. The scene exudes a moody, somber atmosphere, capturing the solitary ritual of a seasoned whaleman in twilight gloom."
   }
 ]
