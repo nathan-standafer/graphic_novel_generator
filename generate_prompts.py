@@ -24,10 +24,10 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
         "You are an expert in creating concise, descriptive prompts for an image generation model. "
         "Your task is to generate vivid, detailed image prompts based on specific scenes from a novel chapter. "
         "Use the provided chapter context and character list to understand the narrative style, setting, and characters involved. "
-        "Your prompts should vividly summarize the action, characters, and setting of the scene. "
+        "You will be given a sentence from the chapter (Sentence to Illustrate). Your prompts should vividly summarize the action, characters, and setting taking place when the specified sentence is read. "
         "The desired art style is 'a dark, moody, 19th-century oil painting'. "
-        "Do not respond with anything other than the prompt itself."
-        "Limit the prompt to 100 words. The prompt must always specify the desired art style and time period."
+        "Do not respond with anything other than the prompt itself. "
+        "Limit the prompt to 75 words. The prompt must always specify the desired art style and time period."
     )
 
     # Sanitize and truncate scene_text
@@ -38,15 +38,15 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
     # Prepare the user message with context, characters, and the specific scene
     user_content = ""
     if chapter_context:
-        context_summary = chapter_context[:20000]
-        if len(chapter_context) > 20000:
+        context_summary = chapter_context[:40000]
+        if len(chapter_context) > 40000:
             context_summary += " [truncated for brevity]"
         user_content += f"Chapter Context: {context_summary}\n\n"
     
     if character_list:
         user_content += f"Key Characters: {', '.join(character_list)}\n\n"
 
-    user_content += f"Scene to illustrate: {scene_text}"
+    user_content += f"Sentence to Illustrate: {scene_text}"
 
     messages = [
         {"role": "system", "content": system_prompt},
@@ -59,6 +59,8 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
         "temperature": 0.7,
         "max_tokens": 350
     }
+
+    print(data)
 
     for attempt in range(retries):
         try:

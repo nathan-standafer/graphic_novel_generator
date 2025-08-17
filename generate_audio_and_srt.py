@@ -57,7 +57,7 @@ def generate_audio_and_srt():
     os.makedirs(output_dir, exist_ok=True)
 
     # Get all chapter files
-    chapter_files = sorted(glob.glob(os.path.join(source_text_dir, '*.txt')))[:5]
+    chapter_files = sorted(glob.glob(os.path.join(source_text_dir, '*.txt')))[8:]
 
     for chapter_file in chapter_files:
         chapter_name = os.path.splitext(os.path.basename(chapter_file))[0]

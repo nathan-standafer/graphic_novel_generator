@@ -1,0 +1,996 @@
+1
+00:00:00,031 --> 00:00:09,385
+CHAPTER XXXII CETOLOGY Already we are boldly launched upon the deep, but soon we shall be lost in its unshored, harborless immensities.
+
+2
+00:00:09,686 --> 00:00:17,618
+E'er that come to pass, e'er the Pequod's weedy hull rolls side by side with the barnacled hulls of the Leviathan.
+
+3
+00:00:18,138 --> 00:00:31,767
+At the outset it is but well to attend to a matter almost indispensable to a thorough appreciative understanding of the more special Leviathanic revelations and allusions of all sorts which are to follow.
+
+4
+00:00:32,388 --> 00:00:37,800
+It is some systematized exhibition of the whale in his broad genera.
+
+5
+00:00:37,780 --> 00:00:39,863
+that I would now fain put before you.
+
+6
+00:00:40,524 --> 00:00:42,106
+Yet is it no easy task.
+
+7
+00:00:42,587 --> 00:00:47,794
+The classification of the constituents of a chaos, nothing less, is here essayed.
+
+8
+00:00:48,415 --> 00:00:51,520
+Listen to what the best and latest authorities have laid down.
+
+9
+00:00:51,780 --> 00:00:58,570
+No branch of Zoology is so much involved as that which is entitled Cetology," says Captain Scoresby, A.D.
+
+10
+00:00:58,630 --> 00:00:59,451
+1820.
+
+11
+00:00:59,431 --> 00:01:07,940
+It is not my intention, were it in my power, to enter into the inquiry as to the true method of dividing the Cetacea into groups and families.
+
+12
+00:01:08,721 --> 00:01:15,248
+Utter confusion exists among the historians of this animal hail, says Surgeon Beale, A.D.
+
+13
+00:01:15,268 --> 00:01:15,788
+1839.
+
+14
+00:01:17,250 --> 00:01:20,473
+Unfitness to pursue our research in the unfathomable waters.
+
+15
+00:01:21,134 --> 00:01:24,357
+Impenetrable veil covering our knowledge of the Cetacea.
+
+16
+00:01:26,059 --> 00:01:27,801
+A field strewn with thorns.
+
+17
+00:01:29,232 --> 00:01:33,263
+All these incomplete indications but serve to torture us naturalists.
+
+18
+00:01:33,283 --> 00:01:41,025
+Thus speak of the whale, the great Cuvier, and John Hunter, and lessen those lights of zoology and anatomy.
+
+19
+00:01:41,065 --> 00:01:45,216
+Nevertheless, though of real knowledge there be little.
+
+20
+00:01:45,196 --> 00:01:52,485
+Yet of books there are aplenty, and so in some small degree, With cetology or the science of whales.
+
+21
+00:01:52,625 --> 00:02:01,256
+Many are the men, small and great, old and new, Landsmen and seamen, who had at large or in little Written of the whale.
+
+22
+00:02:01,537 --> 00:02:04,080
+Run over a few to the authors of the Bible, eh, Aristotle?
+
+23
+00:02:04,521 --> 00:02:05,702
+Plenty, Aldrovandi.
+
+24
+00:02:05,682 --> 00:02:28,956
+Sir Thomas Brown Ghesneray Linnaeus Varnetius Willoughby Ginn Green Sir Balde Brison Martin Lassabede Boneteers Dess Marist Byron Cuvier Frederick Cuvier John Hunter Ohm Scoresby Bennett Gross Brown Varthartha Miriam Cuffin Ohms Eid Grev Dijon T. Cheever
+
+25
+00:02:28,936 --> 00:02:41,591
+But to what ultimate generalizing purpose all these have written, the above-cited extracts will show, of the names in this list of whale authors, only those following Owen ever saw living whales.
+
+26
+00:02:42,592 --> 00:02:48,699
+And but one of them was a real professional harpooner and whaleman, I mean Captain Scoresby.
+
+27
+00:02:49,440 --> 00:02:55,888
+On the separate subject of the Greenland, or right whale, he is the best existing authority.
+
+28
+00:02:55,868 --> 00:03:04,441
+but Scoresby knew nothing, and says nothing of the great sperm-whale, compared with which the Greenland whale is almost unworthy mentioning.
+
+29
+00:03:05,262 --> 00:03:11,311
+And here be it said that the Greenland whale is an usurper upon the throne of the seas.
+
+30
+00:03:12,253 --> 00:03:15,377
+He is not even by any means the largest of the whales.
+
+31
+00:03:15,578 --> 00:03:21,066
+Yet, owing to the long priority of his claims, and the profound ignorance which,
+
+32
+00:03:21,046 --> 00:03:38,784
+till some seventy years back, invested the then fabulous or utterly unknown sperm-whale, and which, ignorance to this present day, still reigns in all but some few scientific retreats and whale-ports, tis usurpation has been every way complete.
+
+33
+00:03:38,804 --> 00:03:50,395
+Reference to nearly all the Leviathanic allusions in the great poets of past days will satisfy you that the Greenland whale, without one rival, was to them the monarch of the seas.
+
+34
+00:03:50,375 --> 00:03:54,045
+But the time has at last come for a new proclamation.
+
+35
+00:03:54,667 --> 00:03:56,131
+This is Sharing-Cross.
+
+36
+00:03:56,612 --> 00:03:59,220
+Hear ye, good people, all!
+
+37
+00:03:59,260 --> 00:04:02,328
+The Greenland whale is deposed.
+
+38
+00:04:02,870 --> 00:04:05,397
+The great sperm-whale now reigneth.
+
+39
+00:04:05,377 --> 00:04:16,060
+There are only two books in being which at all pretend to put the living sperm-whale before you, and at the same time, in the remotest degree, succeed in the attempt.
+
+40
+00:04:16,080 --> 00:04:25,140
+Those books are Beal's and Bennett's, both in their time surgeons to English South Sea whale-ships, and both exact and reliable men.
+
+41
+00:04:25,120 --> 00:04:38,997
+The original matter touching the sperm-whale to be found in their volumes is necessarily small, but so far as it goes, it is of excellent quality, though mostly confined to scientific description.
+
+42
+00:04:39,117 --> 00:04:45,606
+As yet, however, the sperm-whale, scientific or poetic, lives not complete in any literature.
+
+43
+00:04:46,487 --> 00:04:50,031
+Far above all other hunted whales, his is an unwritten life.
+
+44
+00:04:50,163 --> 00:05:04,632
+Now the various species of whales need some sort of popular, comprehensive classification, if only an easy-outlined one for the present, hereafter to be filled in all its departments by subsequent laborers.
+
+45
+00:05:04,953 --> 00:05:08,560
+As no better man advances to take this matter in hand,
+
+46
+00:05:08,540 --> 00:05:11,443
+I hereupon offer my own poor endeavors.
+
+47
+00:05:12,385 --> 00:05:20,114
+I promise nothing complete, because any human thing supposed to be complete must for that very reason infallibly be faulty.
+
+48
+00:05:20,174 --> 00:05:28,243
+I shall not pretend to a minute anatomical description of the various species, or in this place at least too much of any description.
+
+49
+00:05:29,525 --> 00:05:34,811
+My object here is simply to project the draft of a systematization of cetology.
+
+50
+00:05:35,952 --> 00:05:38,175
+I am the architect, not the builder.
+
+51
+00:05:38,155 --> 00:05:54,560
+But it is a ponderous task—no ordinary letter-sorter in the post-office is equal to it—to grope down into the bottom of the sea after them, to have one's hands among the unspeakable foundations, ribs, and very pelvis of the world.
+
+52
+00:05:55,261 --> 00:05:56,603
+This is a fearful thing.
+
+53
+00:05:56,803 --> 00:06:00,729
+What am I that I should essay to hook the nose of this Leviathan?
+
+54
+00:06:01,450 --> 00:06:04,855
+The awful tauntings in Job might well appall me.
+
+55
+00:06:04,835 --> 00:06:07,900
+Will he, the Leviathan, make a covenant with thee?
+
+56
+00:06:08,621 --> 00:06:10,524
+Behold, the hope of him is vain.
+
+57
+00:06:10,844 --> 00:06:14,350
+But I have swam through libraries and sailed through oceans.
+
+58
+00:06:14,931 --> 00:06:18,236
+I have had to do with whales, with these visible hands.
+
+59
+00:06:19,097 --> 00:06:21,641
+I am in earnest, and I will try.
+
+60
+00:06:21,661 --> 00:06:26,168
+There are some preliminaries to settle, first soar.
+
+61
+00:06:26,148 --> 00:06:37,804
+The uncertain, unsettled condition of this science of cytology is in the very vestibule attested by the fact, that in some quarters it still remains a moot point whether a whale be a fish.
+
+62
+00:06:38,465 --> 00:06:40,228
+In his System of Nature, A.D.
+
+63
+00:06:40,248 --> 00:06:49,641
+1776, Linnaeus declares, I hereby separate the whales from the fish, but, of my own knowledge, I know that down to the year 1850,
+
+64
+00:06:49,891 --> 00:07:00,373
+sharks and shad, alewives and herring, against Linnaeus's express edict, were still found dividing the possession of the same seas with the Leviathan.
+
+65
+00:07:00,733 --> 00:07:05,122
+The grounds upon which Linnaeus would feign have banished the whales from the waters.
+
+66
+00:07:05,623 --> 00:07:07,427
+He states as follows.
+
+67
+00:07:07,407 --> 00:07:21,346
+on account of their warm bilocular heart, their lungs, their movable eyelids, their hollow ears, penem interantem feminem mamis lactantem, and, finally, ex legis naturae e gerae marituc.
+
+68
+00:07:21,626 --> 00:07:32,301
+I submitted all this to my friends, Simeon Macy and Charlie Coffin, of Nantucket, both mess-mates of mine in a certain voyage, and they united in the opinion
+
+69
+00:07:32,500 --> 00:07:35,787
+that the reasons set forth were altogether insufficient.
+
+70
+00:07:36,589 --> 00:07:49,277
+Shirley profanely hinted they were humbug, be it known that, waiving all argument, I take the good old-fashioned ground that the whale is a fish, and call upon Holy Jonah to back me.
+
+71
+00:07:49,257 --> 00:07:51,540
+This fundamental thing settled.
+
+72
+00:07:52,141 --> 00:07:57,709
+The next point is, in what internal respect does the whale differ from other fish?
+
+73
+00:07:58,030 --> 00:08:07,564
+Above, Linnaeus has given you those items, but in brief, they are these lungs and warm blood, whereas all other fish are lungless and cold-blooded.
+
+74
+00:08:08,145 --> 00:08:16,497
+Next case, how shall we define the whale, by his obvious externals, so as conspicuously to label him for all time to come?
+
+75
+00:08:16,477 --> 00:08:21,324
+To be short, then, a whale is a spouting fish with a horizontal tail.
+
+76
+00:08:22,706 --> 00:08:23,507
+There you have him.
+
+77
+00:08:24,168 --> 00:08:28,454
+However contracted, that definition is the result of expanded meditation.
+
+78
+00:08:29,415 --> 00:08:35,303
+A walrus spouts much like a whale, but the walrus is not a fish, because he is amphibious.
+
+79
+00:08:35,403 --> 00:08:41,151
+But the last term of the definition is still more cogent, as coupled with the first.
+
+80
+00:08:41,131 --> 00:08:58,313
+Almost anyone must have noticed that all the fish familiar to landsmen have not a flat, but a vertical or up-and-down tail, whereas among spouting fish the tail, though it may be similarly shaped, invariably assumes a horizontal position.
+
+81
+00:08:58,293 --> 00:09:17,723
+By the above definition of what a whale is, I do by no means exclude from the Leviathanic Brotherhood any sea creature hitherto identified with the whale by the best-informed Nantucketers, nor, on the other hand, link with it any fish hitherto authoritatively regarded as alien.
+
+82
+00:09:18,224 --> 00:09:26,376
+For, hence, all the smaller, spouting, and horizontal-tailed fish must be included in this ground plan of cetology.
+
+83
+00:09:27,368 --> 00:09:30,651
+Now, then, come the grand divisions of the entire whale host.
+
+84
+00:09:30,931 --> 00:09:43,764
+I am aware that down to the present time the fish-styled llamatins and dugongs, fig-fish and sow-fish, of the coffins of Nantucket, are included by many naturalists among the whales.
+
+85
+00:09:43,944 --> 00:09:55,215
+But as these big fish are a noisy, contemptible set, mostly lurking in the mouths of rivers and feeding on wet hay, and, especially as they do not spout,
+
+86
+00:09:55,195 --> 00:10:02,806
+I deny their credentials as whales, and have presented them with their passports to quit the kingdom of cytology.
+
+87
+00:10:03,067 --> 00:10:12,861
+I. According to magnitude, I divide the whales into three primary books, subdivisible into chapters, and these shall comprehend them all, both small and large.
+
+88
+00:10:12,881 --> 00:10:14,023
+1.
+
+89
+00:10:14,604 --> 00:10:15,505
+The Folio Whale.
+
+90
+00:10:15,525 --> 00:10:16,126
+1.
+
+91
+00:10:16,427 --> 00:10:17,488
+The Octava Whale.
+
+92
+00:10:18,089 --> 00:10:18,129
+2.
+
+93
+00:10:18,149 --> 00:10:19,431
+The Tordesimu Whale.
+
+94
+00:10:19,597 --> 00:10:28,497
+As the type of the folio, I present the sperm whale of the octavo, the grampus of the doidecimo, the propoise, folios.
+
+95
+00:10:29,058 --> 00:10:37,437
+Among these, I here include the following chapters, cacao ma, the sperm whale, and I, the right whale, the finback whale, fine.
+
+96
+00:10:37,417 --> 00:10:39,881
+Sperm Whale.
+
+97
+00:10:40,683 --> 00:10:57,231
+This whale, among the English of old, vaguely known as the Trumper Whale, and the Physeter Whale, and the Anvil-Headed Whale, is the present cacalot of the French.
+
+98
+00:10:57,700 --> 00:11:02,765
+and the Potsvich of the Germans, and the Macrocephalus of the Long Words.
+
+99
+00:11:02,945 --> 00:11:21,883
+He is, without doubt, the largest inhabitant of the globe, the most formidable of all whales to encounter, the most majestic in aspect, and, lastly, by far the most valuable in commerce, he being the only creature from which that valuable substance, spermaceti, is obtained.
+
+100
+00:11:22,444 --> 00:11:27,589
+All his peculiarities will, in many other places, be enlarged upon.
+
+101
+00:11:27,569 --> 00:11:30,652
+It is chiefly with his name that I now have to do.
+
+102
+00:11:31,253 --> 00:11:33,875
+Philologically considered, it is absurd.
+
+103
+00:11:33,895 --> 00:11:57,458
+Some centuries ago, when the sperm whale was almost wholly unknown in his own proper individuality, and when his oil was only accidentally obtained from the stranded fish, in those days spermaceti, it would seem, was popularly supposed to be derived from a creature identical with the one then known in England as the Greenland or Right Whale.
+
+104
+00:11:57,927 --> 00:12:07,582
+It was the idea, also, that this same spermaceti was that quickening humor of the Greenland whale which the first syllable of the word literally expresses.
+
+105
+00:12:08,644 --> 00:12:18,059
+In those times, also, spermaceti was exceedingly scarce, not being used for light, but only as an ointment and medicament.
+
+106
+00:12:18,079 --> 00:12:23,648
+It was only to be had from the druggists, as you nowadays buy an ounce of rhubarb.
+
+107
+00:12:23,628 --> 00:12:38,811
+When, as I opine, in the course of time, the true nature of spermiceti became known, its original name was still retained by the dealers, no doubt to enhance its value by a notion so strangely significant of its scarcity.
+
+108
+00:12:39,472 --> 00:12:46,063
+And so the appellation must at last have come to be bestowed upon the whale from which this spermiceti was really derived.
+
+109
+00:12:47,685 --> 00:12:50,209
+Book I Folio, Chapter II
+
+110
+00:12:50,712 --> 00:12:59,079
+right whale, to live in one respect, this is the most venerable of the leviathans, being the one first regularly hunted by man.
+
+111
+00:12:59,280 --> 00:13:08,728
+It yields the article commonly known as whale bone or baleen, and the oil specially known as whale oil, an inferior article in commerce.
+
+112
+00:13:09,048 --> 00:13:18,897
+Among the fishermen, he is indiscriminately designated by all the following titles, the whale, the Greenland, whale, the black whale, the great whale,
+
+113
+00:13:18,877 --> 00:13:21,321
+The true whale, the right whale.
+
+114
+00:13:21,943 --> 00:13:28,434
+There is a deal of obscurity concerning the identity of the species thus multitudinously baptized.
+
+115
+00:13:29,296 --> 00:13:34,024
+What, then, is the whale, which I include in the second species of my folios?
+
+116
+00:13:34,545 --> 00:13:41,037
+It is the great mysticitous of the English naturalists, the Greenland whale of the English whalemen.
+
+117
+00:13:41,017 --> 00:13:47,214
+the balien ordinaire of the French whalemen, the groundlands wallfish of the Swedes.
+
+118
+00:13:47,414 --> 00:13:54,553
+It is the whale which for more than two centuries past has been hunted by the Dutch and English in the Arctic seas.
+
+119
+00:13:55,951 --> 00:14:10,547
+It is the whale which the American fishermen have long pursued in the Indian Ocean, on the Brazil banks, on the Norwest coast, and various other parts of the world, designated by them Right Whale Cruising Grounds.
+
+120
+00:14:10,867 --> 00:14:22,279
+Some pretend to see a difference between the Greenland Whale of the English and the Right Whale of the Americans, but they precisely agree in all their grand features,
+
+121
+00:14:22,259 --> 00:14:29,587
+Nor has there yet been presented a single determinate fact upon which to ground a radical distinction.
+
+122
+00:14:30,468 --> 00:14:40,358
+It is by endless subdivisions based upon the most inconclusive differences that some departments of natural history become so repellingly intricate.
+
+123
+00:14:41,079 --> 00:14:47,566
+The right whale will be elsewhere treated of at some length, with reference to elucidating the sperm-whale.
+
+124
+00:14:48,207 --> 00:14:49,428
+Book I. Folio.
+
+125
+00:14:49,648 --> 00:14:50,349
+Chapter III.
+
+126
+00:14:50,509 --> 00:14:51,270
+FINBECK.
+
+127
+00:14:51,250 --> 00:15:07,420
+Under this head I reckon a monster, which, by the various names of Finback, Talspout, and Long John, has been seen almost in every sea, and is commonly the whale, whose distant jet is so often described by passengers crossing the Atlantic,
+
+128
+00:15:07,400 --> 00:15:09,484
+in the New York packet tracks.
+
+129
+00:15:10,085 --> 00:15:21,225
+In the length he attains, and in his baleen, the finback resembles the right whale, but is of a less portly girth, and a lighter colour, approaching to olive.
+
+130
+00:15:22,186 --> 00:15:29,239
+His great lips present a cable-like aspect, formed by the intertwisting, slanting folds of large wrinkles,
+
+131
+00:15:29,219 --> 00:15:36,492
+His grand distinguishing feature, the fin from which he derives his name, is often a conspicuous object.
+
+132
+00:15:37,033 --> 00:15:47,312
+This fin is some three or four feet long, growing vertically from the hinder part of the back, of an angular shape, and with a very sharp pointed end.
+
+133
+00:15:47,292 --> 00:15:57,504
+Even if not the slightest other part of the creature be visible, this isolated fin will, at times, be seen plainly projecting from the surface.
+
+134
+00:15:57,705 --> 00:16:08,878
+When the sea is moderately calm and slightly marked with spherical ripples, and this gnomon-like fin stands up and casts shadows upon the wrinkled surface,
+
+135
+00:16:08,858 --> 00:16:18,719
+It may well be supposed that the watery circle surrounding it somewhat resembles a dial, with its style and wavy hour-lines grained on it.
+
+136
+00:16:19,020 --> 00:16:24,792
+On that Ahas dial the shadow often goes back, the finback is not gregarious,
+
+137
+00:16:24,772 --> 00:16:48,213
+He seems a whale-hater, as some men are man-haters, Very shy, always going solitary, Unexpectedly rising to the surface In the remotest and most sullen waters, Hiss straight, and single lofty jet rising Like a tall misanthropic spear upon a barren plain, Gifted with such wondrous power And velocity in swimming, as to defy All present pursuit from man.
+
+138
+00:16:48,273 --> 00:16:53,378
+This, Leviathan, seems the banished And unconquerable cane of his race,
+
+139
+00:16:53,611 --> 00:16:56,095
+bearing for his mark that style upon his back.
+
+140
+00:16:57,016 --> 00:17:09,797
+From having the baleen in his mouth, the finback is sometimes included with the right whale among a theoretic species denominated whale-bone whales, that is, whales with baleen.
+
+141
+00:17:09,777 --> 00:17:16,971
+Of these so-called whalebone whales, there would seem to be several varieties, most of which, however, are little known.
+
+142
+00:17:17,773 --> 00:17:29,355
+Broad-nosed whales and beaked whales, pike-headed whales, bunched whales, underjawed whales, and rostrated whales are the fishermen's names for a few sorts.
+
+143
+00:17:29,335 --> 00:17:47,901
+In connection with this appellative of whale-borne whales, it is of great importance to mention, that however such a nomenclature may be convenient in facilitating allusions to some kind of whales, yet it is in vain to attempt a clear classification of the leviathan, founded upon either his baleen, or hump, or fin, or teeth.
+
+144
+00:17:47,881 --> 00:18:09,973
+Notwithstanding that those marked parts or features very obviously seem better adapted to afford the basis for a regular system of cytology than any other detached bodily distinctions which the whale in his kinds present, how, then, the baleen, hump, back fin, and teeth, these are things whose peculiarities are indiscriminately dispersed among all sorts of whales,
+
+145
+00:18:09,953 --> 00:18:16,604
+without any regard to what may be the nature of their structure in other and more essential particulars.
+
+146
+00:18:17,064 --> 00:18:23,775
+Thus the sperm whale and the humpbacked whale each has a hump but there the similitude ceases.
+
+147
+00:18:24,537 --> 00:18:27,962
+Then the same humpbacked whale and the Greenland whale
+
+148
+00:18:27,942 --> 00:18:36,073
+Each of these has baleen, but there again the similitude ceases, and it is just the same with the other parts above mentioned.
+
+149
+00:18:36,653 --> 00:18:47,908
+In various sorts of whales, they form such irregular combinations, or, in the case of any one of them detached, such an irregular isolation, as utterly
+
+150
+00:18:47,888 --> 00:18:52,093
+to defy all general methodization formed upon such a basis.
+
+151
+00:18:52,314 --> 00:19:07,372
+On this rock every one of the whale naturalists has split, but it may possibly be conceived that in the internal parts of the whale, in his anatomy there, at least, we shall be able to hit the right classification.
+
+152
+00:19:07,613 --> 00:19:15,162
+Nay, what thing, for example, is there in the Greenland whale's anatomy more striking than his baleen?
+
+153
+00:19:15,142 --> 00:19:21,433
+Yet we have seen that by his baleen it is impossible correctly to classify the Greenland whale.
+
+154
+00:19:21,693 --> 00:19:30,028
+And if you descend into the bowels, nothing but to take hold of the whale's bodily, in their entire liberal volume, and boldly sort them that way.
+
+155
+00:19:30,749 --> 00:19:38,803
+And this is the bibliographical system here adopted, and it is the only one that can possibly succeed, for it alone is practicable.
+
+156
+00:19:39,205 --> 00:19:39,706
+proceed.
+
+157
+00:19:40,186 --> 00:19:40,687
+FOLIO.
+
+158
+00:19:40,987 --> 00:19:41,688
+CHAPTER IV.
+
+159
+00:19:42,168 --> 00:19:42,909
+HUMP BACK.
+
+160
+00:19:44,130 --> 00:19:47,013
+This whale is often seen on the northern American coast.
+
+161
+00:19:47,634 --> 00:19:51,197
+He has been frequently captured there and towed into harbor.
+
+162
+00:19:51,778 --> 00:19:56,943
+He has a great pack on him like a peddler, or you might call him the elephant and castle whale.
+
+163
+00:19:57,584 --> 00:20:06,613
+At any rate, the popular name for him does not sufficiently distinguish him, since the sperm whale also has a hump, though a smaller one.
+
+164
+00:20:06,593 --> 00:20:08,298
+His oil is not very valuable.
+
+165
+00:20:08,920 --> 00:20:10,083
+He has baleen.
+
+166
+00:20:10,264 --> 00:20:17,685
+He is the most gamesome and light-hearted of all the whales, making more gay foam and white water generally than any other of them.
+
+167
+00:20:18,428 --> 00:20:18,949
+Book One
+
+168
+00:20:19,267 --> 00:20:25,394
+FOLIO CHAPTER V RAZOR BACK Of this whale little is known but his name.
+
+169
+00:20:26,195 --> 00:20:28,478
+I have seen him at a distance off Cape Horn.
+
+170
+00:20:28,919 --> 00:20:31,922
+Of a retiring nature he eludes both hunters and philosophers.
+
+171
+00:20:32,343 --> 00:20:38,090
+Though no coward, he has never yet shown any part of him but his back, which rises in a long, sharp ridge.
+
+172
+00:20:38,650 --> 00:20:39,211
+Let him go.
+
+173
+00:20:39,231 --> 00:20:42,675
+I know little more of him, nor does anybody else.
+
+174
+00:20:44,461 --> 00:21:10,705
+Book 1 BULIO CHAPTER VI SULPHURBOTTOM.COM
+
+175
+00:21:10,685 --> 00:21:13,207
+Wood run away with rope-walks of line.
+
+176
+00:21:14,008 --> 00:21:15,229
+Prodigies are told of him.
+
+177
+00:21:16,030 --> 00:21:17,351
+Adieu, sulphur-bottom.
+
+178
+00:21:17,591 --> 00:21:21,355
+I can say nothing more that is true of ye, nor can the oldest Nantucketer.
+
+179
+00:21:22,175 --> 00:21:25,438
+Thus ends Book One, Folio, and now begins Book Two.
+
+180
+00:21:25,458 --> 00:21:27,981
+Octavo, Octavoes.
+
+181
+00:21:28,141 --> 00:21:40,692
+Who, Thesimus, embrace the whales of middling magnitude, among which presently be numbered to I, the grampus says I, the blackfish not too, the nur whale, the thrasher, the fifth, the killer?
+
+182
+00:21:40,672 --> 00:22:04,627
+Why this Book of Whales is not denominated the Quarto is very plain, because, while the whales of this order, though smaller than those of the former order, nevertheless retain a proportionate likeness to them in figure, yet the Bookbinder's Quarto volume in its dimensioned form does not preserve the shape of the Folio volume, but the Octavo volume does.
+
+183
+00:22:05,668 --> 00:22:06,390
+Vast Book II.
+
+184
+00:22:06,990 --> 00:22:07,631
+Octavo.
+
+185
+00:22:07,992 --> 00:22:08,653
+Chapter 1.
+
+186
+00:22:09,214 --> 00:22:10,155
+Grampus.
+
+187
+00:22:10,135 --> 00:22:22,105
+Though this fish, whose loud sonorous breathing, or rather blowing, has furnished a proverb to landsmen, is so well known a denizen of the deep, yet is he not popularly classed among whales.
+
+188
+00:22:22,225 --> 00:22:29,131
+But, possessing all the grand distinctive features of the Leviathan, most naturalists have recognized him for one.
+
+189
+00:22:30,092 --> 00:22:39,400
+He is of moderate octavo size, varying from fifteen to twenty-five feet in length, and of corresponding dimensions round the waist.
+
+190
+00:22:39,481 --> 00:22:46,423
+He swims in herds he has never regularly hunted, though his oil is considerable in quantity and pretty good for light.
+
+191
+00:22:47,266 --> 00:22:53,085
+By some fishermen his approach is regarded as premonitory of the advance of the great sperm whale.
+
+192
+00:22:54,331 --> 00:22:58,081
+Black fish!
+
+193
+00:22:58,582 --> 00:23:03,836
+I give the popular fishermen's names for all these fish, for generally they are the best.
+
+194
+00:23:04,458 --> 00:23:10,855
+Where any name happens to be vague or inexpressive, I shall say so, and suggest another.
+
+195
+00:23:10,835 --> 00:23:17,386
+I do so now, touching the black fish, so called, because blackness is the rule among almost all whales.
+
+196
+00:23:18,507 --> 00:23:21,152
+So, call him the Hyena Whale, if you please.
+
+197
+00:23:21,332 --> 00:23:32,570
+His voracity is well known, and from the circumstance that the inner angles of his lips are curved upwards, he carries an everlasting Mephistophelian grin on his face.
+
+198
+00:23:33,332 --> 00:23:37,939
+This whale averages some sixteen or eighteen feet in length.
+
+199
+00:23:37,919 --> 00:23:40,441
+He is found in almost all latitudes.
+
+200
+00:23:40,581 --> 00:23:48,048
+He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose.
+
+201
+00:23:48,228 --> 00:24:07,926
+When not more profitably employed, the sperm whale hunters sometimes capture the hyena whale to keep up the supply of cheap oil for domestic employment as some frugal housekeepers, in the absence of company, and quite alone by themselves burn unsavory tallow instead of odorous wax.
+
+202
+00:24:07,906 --> 00:24:13,553
+Though their blubber is very thin, some of these whales will yield you upwards of thirty gallons of oil.
+
+203
+00:24:14,694 --> 00:24:21,183
+Book 2 Octabo Chapter 3 Narhal, that is, Nostril Whale.
+
+204
+00:24:21,923 --> 00:24:29,813
+Another instance of a curiously named whale, so named, I suppose, from his peculiar horn, being originally mistaken for a peaked nose.
+
+205
+00:24:29,973 --> 00:24:32,817
+The creature is some sixteen feet in length.
+
+206
+00:24:32,797 --> 00:24:39,488
+while its horn averages five feet, though some exceed ten, and even attain to fifteen feet.
+
+207
+00:24:40,489 --> 00:24:48,662
+Strictly speaking, this horn is but a lengthened tusk, growing out from the jaw in a line a little depressed from the horizontal.
+
+208
+00:24:48,642 --> 00:24:58,334
+but it is only found on the sinister side, which has an ill effect, giving its owner something analogous to the aspect of a clumsy left-handed man.
+
+209
+00:24:59,356 --> 00:25:04,643
+What precise purpose this ivory horn or lance answers, it would be hard to say.
+
+210
+00:25:04,883 --> 00:25:18,160
+It does not seem to be used like the blade of the swordfish and billfish, though some sailors tell me that the narwhal employs it for a rake in turning over the bottom of the sea for food.
+
+211
+00:25:18,140 --> 00:25:31,365
+Charlie Coffin said it was used for an ice-piercer for the narwhal rising to the surface of the polar sea and finding it sheeted with ice, thrusts his horn up and so breaks through.
+
+212
+00:25:32,207 --> 00:25:35,794
+But you cannot prove either of these surmises to be correct.
+
+213
+00:25:35,774 --> 00:25:48,398
+My own opinion is that however this one-sided horn may really be used by the narwhal, however, that may be it, would certainly be very convenient to him for a folder in reading pamphlets.
+
+214
+00:25:49,540 --> 00:25:55,251
+The narwhal I have heard called the tusked whale, the horned whale, and the unicorn whale.
+
+215
+00:25:55,315 --> 00:26:02,587
+He is certainly a curious example of the unicornism to be found in almost every kingdom of animated nature.
+
+216
+00:26:03,168 --> 00:26:17,931
+From certain cloistered old authors I have gathered that this same sea-unicorn's horn was in ancient days regarded as the great antidote against poison, and, as such, preparations of it brought immense prices.
+
+217
+00:26:17,911 --> 00:26:26,559
+It was also distilled to abolital salts for fainting ladies, the same way that the horns of the male deer are manufactured into heart's horn.
+
+218
+00:26:27,520 --> 00:26:32,444
+Originally it was in itself a counted and object of great curiosity.
+
+219
+00:26:32,544 --> 00:26:46,197
+Black letter tells me that Sir Martin Frobisher, on his return from that voyage, when Queen Bess did gallantly wave her jeweled hand to him from a window of Gurnidge Palace, as his bold ship sailed down the Thames,
+
+220
+00:26:46,177 --> 00:27:00,338
+When Sir Martin returned from that voyage, saith Blackletter, on bended knees he presented to Her Highness a prodigious long horn of the Nurwell, which, for a long period after, hung in the castle at Windsor.
+
+221
+00:27:01,921 --> 00:27:14,248
+An Irish author avers that the Earl of Leicester, on bended knees, did likewise present to Her Highness another horn, pertaining to a land-beast of the unicorn nature.
+
+222
+00:27:14,268 --> 00:27:19,980
+The narwhal has a very picturesque, leopard-like look, being of a milk-white grand colour,
+
+223
+00:27:19,960 --> 00:27:23,147
+dotted with round and oblong spots of black.
+
+224
+00:27:23,949 --> 00:27:30,023
+His oil is very superior, clear and fine, but there is little of it, and he is seldom hunted.
+
+225
+00:27:30,745 --> 00:27:36,518
+He is mostly found in the circumpolar seas.
+
+226
+00:27:37,983 --> 00:27:45,413
+KILLER Of this whale little is precisely known to the Ned Tucketer, and nothing at all to the professed Naturalist.
+
+227
+00:27:46,214 --> 00:27:51,201
+From what I have seen of him at a distance, I should say that he was about the bigness of a Grampus.
+
+228
+00:27:51,301 --> 00:27:53,785
+He is very savage, a sort of Fiji fish.
+
+229
+00:27:54,466 --> 00:28:02,657
+He sometimes takes the great folio whales by the lip, and hangs there like a leech, till the mighty brute is worried to death.
+
+230
+00:28:02,637 --> 00:28:04,540
+The killer is never hunted.
+
+231
+00:28:05,081 --> 00:28:07,265
+I never heard what sort of oil he has.
+
+232
+00:28:07,305 --> 00:28:18,202
+Exception might be taken to the name bestowed upon this whale, on the ground of its indistinctness, for we are all killers, on land and on sea, Bonapartes and sharks included.
+
+233
+00:28:18,803 --> 00:28:19,785
+Book Two
+
+234
+00:28:19,765 --> 00:28:20,626
+OCAVO.
+
+235
+00:28:21,127 --> 00:28:22,730
+CHAPTER V. THRASHER.
+
+236
+00:28:23,291 --> 00:28:28,639
+This gentleman is famous for his tail, which he uses for a ferule in thrashing his foes.
+
+237
+00:28:29,381 --> 00:28:39,998
+He mounts the folio whale's back, and as he swims he works his passage by flogging him, as some schoolmasters get along in the world by a similar process.
+
+238
+00:28:40,398 --> 00:28:43,343
+Still less is known of the thrasher than of the killer,
+
+239
+00:28:43,323 --> 00:28:45,787
+Both are outlaws, even in the lawless seas.
+
+240
+00:28:46,168 --> 00:28:47,270
+Thus ends Book Two.
+
+241
+00:28:48,151 --> 00:28:49,954
+Octavo, and begins Book Three.
+
+242
+00:28:50,656 --> 00:28:51,798
+Duodecimo.
+
+243
+00:28:51,818 --> 00:28:53,220
+These include the smaller whales.
+
+244
+00:28:54,062 --> 00:28:55,744
+I, the Husa porpoise.
+
+245
+00:28:55,765 --> 00:28:57,387
+II, the Algerine porpoise.
+
+246
+00:28:57,908 --> 00:29:01,855
+III, the mealy-mouthed porpoise.
+
+247
+00:29:01,835 --> 00:29:18,679
+To those who have not chanced specially to study the subject, it may possibly seem strange that fishes not commonly exceeding four or five feet should be marshalled among whale as a word, which, in the popular sense, always conveys an idea of hugeness.
+
+248
+00:29:18,659 --> 00:29:29,232
+But the creatures set down above, as duodecimos, are infallibly whales, by the terms of my definition of what a whale is, i.e., a spouting fish, with a horizontal tail.
+
+249
+00:29:30,177 --> 00:29:32,247
+Book 3 DUODECIMO
+

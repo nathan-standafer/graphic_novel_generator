@@ -1,0 +1,388 @@
+1
+00:00:00,031 --> 00:00:00,972
+CHAPTER XIX.
+
+2
+00:00:01,493 --> 00:00:02,054
+THE PROPHET.
+
+3
+00:00:02,795 --> 00:00:04,638
+Shipmates, have you shipped in that ship?
+
+4
+00:00:04,818 --> 00:00:17,736
+Kwee Kweg and I had just left the Pequod, and were saltering away from the water for the moment each occupied with his own thoughts, when the above words were put to us by a stranger.
+
+5
+00:00:17,716 --> 00:00:23,383
+who, pausing before us, leveled his massive forefinger at the vessel in question.
+
+6
+00:00:24,104 --> 00:00:32,074
+He was but shabbily apparelled in faded jacket and patched trousers, a rag of a black handkerchief investing his neck.
+
+7
+00:00:32,094 --> 00:00:43,588
+A confluent smallpox had, in all directions, flowed over his face, and left it like the complicated ribbed bed of a torrent when the rushing waters had been dried up.
+
+8
+00:00:43,568 --> 00:00:45,010
+"'Have ye shipped in her?'
+
+9
+00:00:45,350 --> 00:00:45,991
+he repeated.
+
+10
+00:00:46,011 --> 00:00:54,121
+"'You mean the ship Pequod, I suppose,' said I, trying to gain a little more time for an uninterrupted look at him.
+
+11
+00:00:55,223 --> 00:01:07,298
+"'Ah, the Pequod, that ship there,' he said, drawing back his whole arm, and then rapidly shoving it straight out from him, with the fixed bayonet of his pointed finger darted full at the object.
+
+12
+00:01:08,560 --> 00:01:09,902
+"'Yes,' said I.
+
+13
+00:01:09,922 --> 00:01:12,085
+"'We have just signed the articles.'
+
+14
+00:01:12,105 --> 00:01:14,107
+"'Anything down there about your souls?'
+
+15
+00:01:14,127 --> 00:01:16,010
+"'About what?'
+
+16
+00:01:16,030 --> 00:01:20,115
+"'Oh, perhaps you haven't got any,' he said quickly.
+
+17
+00:01:20,135 --> 00:01:23,720
+"'No matter, though, I know many chaps that haven't got any.
+
+18
+00:01:24,180 --> 00:01:25,082
+Good luck, Twim.
+
+19
+00:01:25,682 --> 00:01:27,625
+And they are all the better off for it.
+
+20
+00:01:28,286 --> 00:01:31,230
+A soul's a sort of a fifth wheel to a wagon.'
+
+21
+00:01:31,250 --> 00:01:33,332
+"'What are you jabbering about, shit-mate?'
+
+22
+00:01:33,733 --> 00:01:34,534
+said I.
+
+23
+00:01:34,514 --> 00:01:40,441
+He's got enough, though, to make up for all deficiencies of that sort in other chaps."
+
+24
+00:01:41,242 --> 00:01:48,450
+Abruptly said the stranger, placing a nervous emphasis upon the word, "'Hech, kwee-kweg,' said I. Let's go.
+
+25
+00:01:48,510 --> 00:01:50,793
+This fellow is broken loose from somewhere.
+
+26
+00:01:50,853 --> 00:01:54,157
+He's talking about something and somebody we don't know."
+
+27
+00:01:54,177 --> 00:01:55,379
+"'Stop!'
+
+28
+00:01:55,759 --> 00:01:56,620
+cried the stranger.
+
+29
+00:01:56,640 --> 00:01:58,162
+"'He said true.
+
+30
+00:01:58,222 --> 00:02:01,686
+Ye haven't seen old Thunder yet, have ye?'
+
+31
+00:02:01,666 --> 00:02:03,088
+Who's old Thunder?"
+
+32
+00:02:03,529 --> 00:02:08,478
+said I, again riveted with the insane earnestness of his manner, Captain Ahab.
+
+33
+00:02:08,498 --> 00:02:12,365
+"'What, the captain of our ship, the Pequod?'
+
+34
+00:02:12,385 --> 00:02:16,852
+"'Ay, among some of us old sailor-chaps he goes by that name.
+
+35
+00:02:17,373 --> 00:02:18,836
+Ye haven't seen him yet, have ye?'
+
+36
+00:02:20,138 --> 00:02:21,100
+"'No, we haven't.'
+
+37
+00:02:21,120 --> 00:02:25,868
+"'He's sick, they say, but is getting better, and will be all right again before long.'
+
+38
+00:02:26,995 --> 00:02:32,560
+"'All right again before long,' laughed the stranger with a solemnly derisive sort of laugh.
+
+39
+00:02:32,580 --> 00:02:36,063
+"'Look ye, Captain Ahab is all right.
+
+40
+00:02:36,484 --> 00:02:39,066
+Then this left arm of mine will be all right.
+
+41
+00:02:39,767 --> 00:02:40,507
+Not before.
+
+42
+00:02:40,768 --> 00:02:41,969
+What do you know about him?'
+
+43
+00:02:43,730 --> 00:02:45,172
+"'What did they tell you about him?
+
+44
+00:02:45,452 --> 00:02:46,053
+Say that.'
+
+45
+00:02:46,073 --> 00:02:54,100
+"'They didn't tell much of anything about him, only I have heard that he's a good whale-hunter and a good captain to his crew.'
+
+46
+00:02:55,733 --> 00:03:01,139
+That's true, that's true, yes, both true enough, but you must jump when he gives an order.
+
+47
+00:03:01,900 --> 00:03:14,193
+Step and growl, growl and go, that's the word with Captain Ahab, but nothing about that thing that happened to him off Cape Horn, long ago, when he lay like dead for three days and nights.
+
+48
+00:03:15,114 --> 00:03:20,139
+Nothing about that deadly scrimmage with the Spaniard afore the altar in Santa.
+
+49
+00:03:20,920 --> 00:03:22,602
+Heard nothing about that, eh?"
+
+50
+00:03:22,582 --> 00:03:31,139
+Nothing about the silver calabash he sped into, and nothing about his losing his leg last voids, according to the prophecy.
+
+51
+00:03:31,840 --> 00:03:35,347
+Didn't ye hear a word about them matters and something more, eh?
+
+52
+00:03:36,289 --> 00:03:38,574
+No, I don't think ye did, Halkuji.
+
+53
+00:03:39,195 --> 00:03:40,337
+Who knows it?"
+
+54
+00:03:40,317 --> 00:03:42,038
+Not all Nantucket, I guess.
+
+55
+00:03:42,159 --> 00:03:43,580
+But Al's ever, Mayhap.
+
+56
+00:03:43,980 --> 00:03:47,563
+He've heard tell about the leg, and how he lost an eye.
+
+57
+00:03:48,084 --> 00:03:49,965
+He have heard of that, I dare say.
+
+58
+00:03:50,025 --> 00:03:58,733
+Oh yes, that everyone knows a Most Eye, mean they know he's only one leg, and that a Parmaceti took the other off.
+
+59
+00:03:58,753 --> 00:04:04,258
+My friend, said I, what all this gibberish of yours is about, I don't know.
+
+60
+00:04:04,298 --> 00:04:10,223
+And I don't much care, for it seems to me that you must be a little damaged in the head.
+
+61
+00:04:10,456 --> 00:04:19,064
+But if you are speaking of Captain Ahab, of that ship there, the Pequod, then let me tell you that I know all about the loss of his leg."
+
+62
+00:04:19,905 --> 00:04:20,606
+"'All about it?
+
+63
+00:04:21,086 --> 00:04:22,127
+A shree do?
+
+64
+00:04:22,968 --> 00:04:23,128
+All?'
+
+65
+00:04:23,869 --> 00:04:37,982
+Pretty sure, with finger pointed and eye levelled at the Pequod, the beggar-like stranger stood a moment, as if in a troubled reverie, then, starting a little, turned and said, Graa—' "'Your ship, Tavi?'
+
+66
+00:04:38,266 --> 00:04:39,488
+Names down on the papers?"
+
+67
+00:04:39,508 --> 00:04:47,179
+Well, well, what's signed is signed, And what's to be, will be, And then again, perhaps, it won't be After all.
+
+68
+00:04:47,219 --> 00:04:53,127
+Anyhow, it's all fixed And arranged ne'er ye dee, And some sailors or other Must go with him.
+
+69
+00:04:53,668 --> 00:04:55,991
+I suppose well These as any other men.
+
+70
+00:04:56,472 --> 00:05:03,702
+God pity M. Morning to ye, shipmates, morning, The ineffable heavens bless ye, And sorry I stopped ye.
+
+71
+00:05:04,403 --> 00:05:06,366
+Look here, friend, said I,
+
+72
+00:05:06,346 --> 00:05:10,013
+If you have anything important to tell us, out with it.
+
+73
+00:05:10,514 --> 00:05:14,883
+But if you are only trying to bamboozle us, you are mistaken in your game.
+
+74
+00:05:15,464 --> 00:05:21,216
+That's all I have to say."
+
+75
+00:05:23,339 --> 00:05:25,502
+I'll dress some men for him, the likes of ye.
+
+76
+00:05:26,142 --> 00:05:27,524
+Morning to ye, shipmates.
+
+77
+00:05:27,824 --> 00:05:29,667
+Morning."
+
+78
+00:05:29,687 --> 00:05:33,752
+Oh, when you get there, tell him I've concluded not to make one of him.
+
+79
+00:05:33,772 --> 00:05:36,175
+Ah, my dear fellow, you can't fool us that way.
+
+80
+00:05:36,255 --> 00:05:37,136
+You can't fool us.
+
+81
+00:05:37,736 --> 00:05:42,342
+It is the easiest thing in the world for a man to look as if he had a great secret in him.
+
+82
+00:05:44,044 --> 00:05:45,506
+Morning to ye, shipmates.
+
+83
+00:05:45,846 --> 00:05:46,427
+Morning.
+
+84
+00:05:47,757 --> 00:05:53,019
+Mourning it is," said I. Come along, Queequeg, let's leave this crazy man.
+
+85
+00:05:53,260 --> 00:05:55,489
+But stop, tell me your name, will you?"
+
+86
+00:05:56,093 --> 00:05:56,734
+Eliza!
+
+87
+00:05:57,515 --> 00:05:58,176
+Eliza!"
+
+88
+00:05:58,197 --> 00:06:09,836
+thought I, and we walked away, both commenting, after each other's fashion, upon this ragged old sailor, and agreed that he was nothing but a humbug trying to be a bugbear.
+
+89
+00:06:09,956 --> 00:06:22,337
+But we had not gone, perhaps, above a hundred yards, when, chancing to turn a corner, and looking back as I did so, who should be seen but Elijah following us, though at a distance?
+
+90
+00:06:22,317 --> 00:06:36,620
+Somehow the sight of him struck me so, that I said nothing to Queequeg of his being behind, but passed on with my comrade, anxious to see whether the stranger would turn the same corner that we did.
+
+91
+00:06:36,780 --> 00:06:44,933
+He did, and then, it seemed to me, that he was dogging us, but with what intent I could not for the life of me imagine.
+
+92
+00:06:45,073 --> 00:06:50,181
+This circumstance, coupled with this ambiguous, half-hinting, half-revealing, shrouded sort of talk,
+
+93
+00:06:50,161 --> 00:07:03,100
+Now begatten me all kinds of vague wonderments and half-apprehensions, and all connected with the Pequod, and Captain Ahab, and the leg he had lost, and the caporn fit, and the silver calabash, and what Captain Pellack had said of him.
+
+94
+00:07:03,481 --> 00:07:14,818
+When I left the ship the day previous, man, the perdition of the squall, tisti, cam, the voyage we had bound ourselves to sail, chin, and a hundred thundershadowy things.
+
+95
+00:07:14,798 --> 00:07:27,191
+I was resolved to satisfy myself whether this ragged Elijah was really dogging us or not, and with that intent crossed the way with Queequeg, and on that side of it retraced our steps.
+
+96
+00:07:28,234 --> 00:07:31,322
+But Elijah passed on without seeming to notice us.
+
+97
+00:07:31,522 --> 00:07:38,882
+This relieved me, and once more, and finally, as it seemed to me, I pronounced him in my heart, a humbug
+
