@@ -1,0 +1,137 @@
+[
+  {
+    "segment_index": 0,
+    "segment_text": "CHAPTER XI.",
+    "image_prompt": "A dim, cavernous bedroom of a 19th‑century whaling ship, illuminated only by a flickering oil lamp. Captain Ahab and Ishmael lie in crumpled, woolen bedclothes, their heads bent toward each other as they share a smoky haze from Queequeg’s tobacco pipe, the flame casting trembling shadows on the rough wooden floor. The air is cold, damp, and charged with tension; the sea’s distant roar is muffled by thick curtains. A dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 1,
+    "segment_text": "NIGHTGOWN.",
+    "image_prompt": "A dim, moonlit cabin with a low, weather‑worn wooden bed. Two figures recline together in close, relaxed pose—one a rugged sailor with brown‑tattooed legs, the other a lanky, introspective narrator. A single lantern casts soft amber light over their intertwined blankets and a faint blue haze of pipe smoke curling upward. The room feels cold and empty, no hearth visible, yet the pair share a quiet intimacy, eyes closed in comfort amid the stark 19th‑century gloom—dark, moody oil painting style."
+  },
+  {
+    "segment_index": 2,
+    "segment_text": "We had lain thus in bed, chatting and napping at short intervals, and Queequeg, now and then affectionately throwing his brown-tattooed legs over mine, and then drawing them back, so entirely sociable and free and easy, were way where",
+    "image_prompt": "In a dim, candlelit 19th‑century bedroom, Captain Ahab’s weary eyes rest on Ishmael as they lie side by side in a heavy quilted bed. Queequeg, brown‑tattooed and jovial, drapes his broad legs over Ishmael’s, then pulls them back with a playful grin. The scene is intimate and relaxed, the air thick with quiet conversation and the soft rustle of canvas sheets, captured as a dark, moody oil painting in the 19th century style."
+  },
+  {
+    "segment_index": 3,
+    "segment_text": "We in at last, by reason of our confabulations, what little knappishness remained in us altogether departed, and we felt like getting up again, though daybreak was yet some way down the future.",
+    "image_prompt": "A dimly lit 19th‑century cabin bedroom, moonlight filtering through a cracked window onto rough stone walls. Ishmael and Queequeg lie curled in tattered sheets, their faces illuminated by the flicker of a solitary lamp; their bodies are half‑up, knees drawn to chest, eyes closed in deep conversation. The air hangs heavy with smoke from a smoking pipe, blue haze curling around them. Their expressions show weary contentment as they let go of all restraint, ready to rise again though dawn is far away. Dark, moody oil painting style."
+  },
+  {
+    "segment_index": 4,
+    "segment_text": "Yes, we became very wakeful, so much so that our recumbent position began to grow wearisome, and by little and little we found ourselves sitting up, the clothes well tucked around us, leaning against the headboard with our four knees drawn up close together and our two noses bending over them, as if our nippons were warming pans.",
+    "image_prompt": "A dimly lit 19th‑century cabin interior, bathed in the flickering glow of a single lamp. Two figures—Queequeg and Ishmael—are captured mid‑moment: they are half‑upright on a worn quilted bed, their clothes neatly tucked, knees drawn close together, noses bent toward their throats as if breathing hot steam. The atmosphere is heavy with smoke from a pipe, shadows deep across the rough wooden headboard, evoking a dark, moody oil painting of quiet wakefulness."
+  },
+  {
+    "segment_index": 5,
+    "segment_text": "We felt very nice and snug, the more so since it was so chilly out of doors, indeed out of bedclothes too, seeing that there was no fire in the room.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a dimly lit cabin bedroom with two reclined figures—Captain Ahab and Ishmael—wrapped in rough wool blankets, their faces serene yet tired. The window is frosted, cold air seeping through, no hearth or firelight inside. The bedspread flutters slightly, hinting at chill. Shadows deepen the atmosphere, emphasizing the stark contrast between the warmth of their shared body heat and the biting outside cold. Style: 19th‑century oil painting."
+  },
+  {
+    "segment_index": 6,
+    "segment_text": "The more so, I say, because truly to enjoy bodily warmth some small part of you must be cold, for there is no quality in this world that is not what it is merely by contrast.",
+    "image_prompt": "A dimly lit 19th‑century cabin bedroom, a large oak bed at its center. Two men lie entwined: Ishmael in simple linens, Queequeg with his brown‑tattooed legs draped over him. The room is cold, no hearth fire; only the faint glow of a lamp casts long shadows on stone walls. Both sit upright, knees drawn, noses close, as they philosophically debate warmth by contrast—one man’s subtle chill against the other’s comfort—in a dark, moody oil painting style."
+  },
+  {
+    "segment_index": 7,
+    "segment_text": "Nothing exists in itself.",
+    "image_prompt": "A dim, candlelit bedroom of the Pequod, 19th‑century style, where Ishmael and Queequeg sit crouched on a rough wooden bedspread, legs draped over each other. Queequeg holds a smoldering tomahawk pipe, exhaling wisps of blue smoke that curl around their faces. The air is cold, the room devoid of fire; a single lamp casts harsh shadows. Their expressions mix quiet camaraderie and introspective melancholy, embodying the moody, dark oil‑painting aesthetic of the era."
+  },
+  {
+    "segment_index": 8,
+    "segment_text": "If you flatter yourself that you are all over-comfortable,",
+    "image_prompt": "A dimly lit 19th‑century cabin bedroom: a worn oak bed with threadbare sheets, Ishmael and Queequeg hunched together, shoulders wrapped in shaggy jackets. The air hangs heavy with blue smoke from a smoking tomahawk, illuminated by a single flickering lamp. Their faces are serene, eyes closed, the room cloaked in deep shadows and candlelight. A sense of cozy intimacy fills the scene, as if the darkness itself cradles their quiet, comfortable companionship. Art style: dark, moody oil painting."
+  },
+  {
+    "segment_index": 9,
+    "segment_text": "and have been so a long time, then you cannot be said to be comfortable any more.",
+    "image_prompt": "A dim, candlelit bedroom of the Pequod, with rough wooden walls and a low bed. Ishmael sits upright on his side, eyes closed in a moment of sudden discomfort, while Queequeg leans beside him, arms wrapped around the blanket. The room feels cold and claustrophobic; their faces are illuminated by a single flickering lamp, casting deep shadows. A sense of uneasy restlessness hangs in the air, as they question whether true comfort can exist after prolonged complacency. Style: dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 10,
+    "segment_text": "But if, like Queequeg and me in the bed, the tip of your nose or the crown of your head be slightly chilled, why then, indeed, in the general consciousness, you feel most delightfully and unmistakably warm?",
+    "image_prompt": "A dim, candlelit bedroom of a 19th‑century whaling ship, its low wooden bedboards scarred by voyages. Captain Ahab’s stern face is absent; instead, Ishmael lies hunched beside Queequeg, both in rough wool blankets, their noses and foreheads slightly chilled by the cold air from the ship’s open hatch. Queequeg's brown‑tattooed hands rest on Ishmael’s chest as he exhales a warm plume of tobacco smoke, creating a subtle blue haze that contrasts with the harsh wooden walls. The scene is rendered in a dark, moody oil painting style, evoking 19th‑century realism and atmospheric tension."
+  },
+  {
+    "segment_index": 11,
+    "segment_text": "For this reason, a sleeping apartment should never be furnished with a fire, which is one of the luxurious discomforts of the rich.",
+    "image_prompt": "A dimly lit 19th‑century bedroom, curtains drawn tight against a chill wind, where a single, flickering candle casts long shadows across rough wool blankets. Two figures—captain Ahab in weathered sea‑clothes and Ishmael with ink‑stained fingers—lie reclined on an uneven wooden bed, their faces turned toward the ceiling as they debate the folly of fire. The room feels austere, a stark contrast to opulent hearths, evoking a moody, dark oil painting style of the era."
+  },
+  {
+    "segment_index": 12,
+    "segment_text": "For then there you lie like the one warm spark in the heart of an arctic crystal.",
+    "image_prompt": "A dimly lit cabin at night, a single candle casting wavering shadows across a rough‑spun bed where Captain Ahab lies curled, the room cold and empty save for a faint blue haze of smoke from a nearby pipe. In his chest glows a solitary, warm ember—an amber spark nestled within an icy heart of crystal, its light trembling against frosted windows. The scene is rendered in dark, moody 19th‑century oil painting style, with muted earth tones and stark contrasts of light and shadow."
+  },
+  {
+    "segment_index": 13,
+    "segment_text": "We had been sitting in this crouching manner for some time, when all at once I thought I would open my eyes, for when between sheets, whether by day or by night, and whether asleep or awake, I have a way of always keeping my eyes shut, in order the more to concentrate the snugness of being in bed.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: In a dimly lit, frost‑chilled cabin, Ishmael and Queequeg sit crouched together on a worn wooden bed, their bodies close as they share a blanket. The night’s silence hangs heavy; only the faint glow of a lamp flickers across their faces. Ishmael's eyes slowly open from the comfort of closed lids, his expression a mix of wonder and melancholy, while Queequeg leans forward, ready to speak of distant islands. The atmosphere is thick with quiet intimacy and subtle tension."
+  },
+  {
+    "segment_index": 14,
+    "segment_text": "because no man can ever feel his own identity aright except his eyes be closed, as if darkness were indeed the proper element of our essences, though light be more congenial to our clayey part.",
+    "image_prompt": "A dim, moonlit cabin interior in a 19th‑century oil style: a lone figure lies reclined on an old wooden bed, eyes closed as if shrouded in darkness that defines his essence; the faint glow of a single lantern casts deep shadows across rough wool blankets. The scene emphasizes contrast between the comforting gloom and the harshness of daylight beyond, evoking a moody, introspective atmosphere. Dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 15,
+    "segment_text": "Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve o'clock at night, I experienced a disagreeable revulsion.",
+    "image_prompt": "A dimly lit 19th‑century cabin interior, rendered in a dark, moody oil painting style. The scene captures Ishmael’s moment of opening his eyes to the harsh, unlit night: a lone candle flickers weakly, casting deep shadows across the rough wooden floor and tangled sheets. His face is illuminated by a pale, uneasy glow as he recoils from the cold, oppressive gloom that has replaced his comforting darkness. The atmosphere feels tense, claustrophobic, and slightly uncanny."
+  },
+  {
+    "segment_index": 16,
+    "segment_text": "Nor did I at all object to the hint from Queequeg that perhaps it were best to strike a light, seeing that we were so wide awake.",
+    "image_prompt": "A dim, candlelit cabin in a 19th‑century whaling ship, the air thick with smoke from a flickering pipe. Ishmael sits on a rickety bed, eyes wide awake, while Queequeg leans against him, his brown‑tattooed limbs draped over the mattress. The two men share a single tomahawk flame, its glow casting long shadows across their faces. The mood is tense and intimate, with muted earth tones and deep contrasts typical of a dark, moody oil painting."
+  },
+  {
+    "segment_index": 17,
+    "segment_text": "And besides, he felt a strong desire to have a few quiet puffs from his tomahawk.",
+    "image_prompt": "A dimly lit 19th‑century cabin, stone walls and exposed beams draped in shadow. Captain Ahab’s stern silhouette leans against the weathered oak bedframe, a single lantern casting wavering light. Queequeg, his brown‑tattooed arms relaxed, holds a smoking tomahawk, exhaling quiet puffs of gray smoke that curl into the chill air. The room feels cold and austere, yet the crackling flame hints at fragile warmth amid the darkness—an oil painting in dark, moody tones."
+  },
+  {
+    "segment_index": 18,
+    "segment_text": "Be it said that though I had felt such a strong repugnance To his smoking in the bed the night before, Yet see how elastic our stiff prejudices grow When love once comes to bend them.",
+    "image_prompt": "A dimly lit, cramped cabin at midnight, a single lantern casting wavering amber light across worn wooden panels. Two figures lie on a threadbare mattress: Ishmael with his head bowed, Queequeg reclining beside him, a smoking pipe held between them. Smoke curls into an ethereal blue haze, swirling over their shoulders and the floor. The scene captures their uneasy intimacy as old prejudices melt away in the warm glow of shared companionship, rendered in dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 19,
+    "segment_text": "For now I liked nothing better than to have Queequeg Smoking by me, even in bed, because he seemed To be full of such serene household joy then.",
+    "image_prompt": "A dimly lit 19th‑century cabin at night, a large wooden bed with tattered sheets and a lone lamp casting weak amber light. Captain Ahab’s stoic figure reclines, his face illuminated by the soft glow of a smoking pipe held by Queequeg, who sits beside him, eyes closed in serene contemplation. The air is thick with blue‑hanging smoke curling upward, swirling around their intertwined bodies. The scene captures quiet domestic joy amid the harsh, moonlit wilderness, rendered in a dark, moody oil painting style."
+  },
+  {
+    "segment_index": 20,
+    "segment_text": "I no more felt unduly concerned for the Landlord's policy of insurance.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: a dimly lit, low‑cobbed bedroom where Ishmael reclines on a simple wooden bed, his eyes closed, surrounded by rough linen sheets. Queequeg sits beside him, pipe in hand, exhaling blue smoke that curls into the cold air. Their faces are serene, untroubled; the only light comes from a flickering lamp casting deep shadows. The scene evokes their carefree indifference to any landlord’s insurance policy, emphasizing intimate camaraderie amid night’s chill."
+  },
+  {
+    "segment_index": 21,
+    "segment_text": "I was only alive to the condensed, confidential comfortableness of sharing a pipe and a blanket with a real friend.",
+    "image_prompt": "A dimly lit, candle‑lit bedroom of a whaling ship, its rough wooden walls scarred by salt spray. In the center, Ishmael and Queequeg lie curled together on frayed blankets, both wrapped in shaggy jackets; a single glass lamp glows faintly, casting deep shadows across their faces. The sea’s chill is palpable as a pale blue haze of smoke curls around them, swirling like ghostly mist. Their eyes are closed, eyes reflecting the soft light, showing the intimate, confidential comfort of shared pipe and friendship—an eerie, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 22,
+    "segment_text": "With our shaggy jackets drawn about our shoulders, we now passed the tomahawk from one to the other, till slowly there grew over us a blue-hanging tester of smoke, illuminated by the flame of the new-lit lamp.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: Ishmael and Queequeg in a dimly lit cabin, both cloaked in shaggy jackets pulled tight over shoulders. They pass a flickering tomahawk between them, their faces illuminated by the soft glow of a newly lit lamp. A blue-hanging plume of smoke curls above, swirling like a ghostly veil, casting long shadows across weather‑worn wooden boards and a tattered map of distant islands. The atmosphere is tense yet intimate, echoing 19th‑century maritime gloom."
+  },
+  {
+    "segment_index": 23,
+    "segment_text": "Whether it was that this undulating tester rolled the savage away to far-distant scenes, I know not.",
+    "image_prompt": "A dimly lit 19th‑century cabin bedroom, a heavy quilted bed draped in tattered sheets. Two figures—Ishmael and Queequeg—are crouched close, shoulders hunched, their faces illuminated by the flickering glow of a single oil lamp. A pale blue haze of smoke curls around them like an ethereal veil, drifting upward and out the cracked window. The atmosphere is heavy with silence, the scent of tobacco mingling with cold air, as if the very mist carries distant memories of Queequeg’s island. Dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 24,
+    "segment_text": "But he now spoke of his native island, and, eager to hear his history, I begged him to go on and tell it.",
+    "image_prompt": "A dimly lit, crumbling colonial bedroom of the Pequod at midnight, a single lantern casting wavering amber light across rough‑worn sheets. In the center, a weary Ishmael lies half‑upturned, his face illuminated by the flame as he listens intently to Queequeg, a tall harpooner with a brown‑tattooed arm, animatedly recounting tales of his native island. Thick blue smoke curls around them, mingling with the faint scent of pipe tobacco, while the cold night air seeps through cracked windows. The scene is rendered in a dark, moody 19th‑century oil painting style."
+  },
+  {
+    "segment_index": 25,
+    "segment_text": "He gladly complied, though at the time I but ill comprehended not a few of his words, yet subsequent disclosures, when I had become more familiar with his broken phraseology.",
+    "image_prompt": "A dim, candlelit cabin at midnight, an iron‑bound bed with rough sheets. Ishmael lies bent over his knees, a trembling hand clutching a smoky tomahawk as Queequeg, the brown‑tattooed harpooner, leans forward to speak in broken tongue. The air is thick with blue haze from the lamp’s flame, shadows dancing on their faces. A 19th‑century oil painting style: dark, moody, chiaroscuro, with muted earth tones and a subtle glow illuminating the two companions amid the cold night."
+  },
+  {
+    "segment_index": 26,
+    "segment_text": "Now enable me to present the whole story, such as it may prove in the mere skeleton I give.",
+    "image_prompt": "A cramped, moonlit whaling cabin of the Pequod, a single flickering oil lamp casting deep shadows on rough pine walls. Two men—Ishmael, in threadbare coat, eyes wide, and Queequeg, half‑covered in a shaggy jacket, exhaling smoke—stand near a rickety table. The air thick with blue haze from their pipe; parchment scrolls spread before them. Ishmael gestures toward the open pages, his face illuminated by lamplight as he begins to recount the saga of the sea and its monstrous foe, in a dark, moody 19th‑century oil painting style."
+  }
+]
