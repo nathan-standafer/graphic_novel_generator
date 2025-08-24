@@ -67,7 +67,7 @@ def generate_images_from_prompts():
                 print(f"Image for {chapter_name} {scene_name} already exists. Skipping.")
                 continue
 
-            print(f"Generating image for {chapter_name} {scene_name}...")
+            print(f"Generating image for {chapter_name} {scene_name}: {prompt_data["image_prompt"]}")
 
             # Modify the workflow with the current prompt
             workflow["16"]["inputs"]["text"] = prompt_data["image_prompt"]

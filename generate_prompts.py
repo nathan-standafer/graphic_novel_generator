@@ -27,7 +27,7 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
         "You will be given a sentence from the chapter (Sentence to Illustrate). Your prompts should vividly summarize the action, characters, and setting taking place when the specified sentence is read. "
         "The desired art style is 'a dark, moody, 19th-century oil painting'. "
         "Do not respond with anything other than the prompt itself. "
-        "Limit the prompt to 75 words. The prompt must always specify the desired art style and time period."
+        "Limit the prompt to 60 words. The prompt must always specify the desired art style and time period."
     )
 
     # Sanitize and truncate scene_text

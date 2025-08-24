@@ -2,7 +2,9 @@
 import re
 from datetime import datetime, timedelta
 
-chapter_dir = "chapter_005"
+chapter_number_str = input("enter chapter number (XXX): ")
+chapter_number = int(chapter_number_str)
+chapter_dir = f"chapter_{chapter_number:03d}"
 
 def parse_srt_time(s):
     return datetime.strptime(s, '%H:%M:%S,%f')
@@ -84,3 +86,4 @@ if __name__ == '__main__':
         f.write(handbrake_command)
 
     print(f"FFmpeg command written to run_ffmpeg.sh")
+    print(f"add subtitles command written to add_subtitles.sh")
