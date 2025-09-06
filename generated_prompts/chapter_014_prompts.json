@@ -1,232 +1,197 @@
 [
   {
     "segment_index": 0,
-    "segment_text": "CHAPTER XIV NANTUCKET Nothing more happened on the passage worthy the mentioning so.",
-    "image_prompt": "A lone whaling ship glides across a moonlit Atlantic, its deck silent and still; the misty horizon reflects pale twilight, while faint silhouettes of Captain Ahab, Ishmael, Queequeg, Starbuck, Stubb, and Flask stand at the helm, eyes fixed on distant Nantucket. The scene is rendered in a dark, moody 19th‑century oil painting style, with deep shadows, muted blues, and subtle light glinting off wet sails, evoking the quiet passage that passed without incident."
+    "segment_text": "Chapter 14 Nantucket",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a battered wooden schooner approaching the lone, wind‑torn shores of Nantucket at dusk; waves crash against a sandy beach with a faint lighthouse silhouette in the distance. Crew—Captain Ahab, Ishmael, Queequeg—stand on deck, eyes fixed on the horizon, as gulls wheel overhead. The atmosphere is stormy and isolated, reflecting the island’s lonely, rugged character."
   },
   {
     "segment_index": 1,
-    "segment_text": "After a fine run we safely arrived in Nantucket.",
-    "image_prompt": "A dimly lit harbor at dusk, the storm‑raked waves of Nantucket lapping against weathered wooden pilings; Captain Ahab’s silhouette stands on a cracked dock, his eyes fixed toward the horizon where fog curls over the sea. Nearby, Ishmael and Queequeg lean against a rusted mast, their faces illuminated by a single lantern, while Starbuck watches from a shadowed corner. The scene is rendered in heavy oil brushstrokes, evoking a 19th‑century, moody maritime painting."
+    "segment_text": "Nothing more happened on the passage worthy the mentioning, so, after a fine run, we safely arrived in Nantucket.",
+    "image_prompt": "A dim, storm‑laden horizon as the Pequod cuts through foamy Atlantic waves; a solitary, weathered Nantucket island looms in the mist, its sandy shore and sparse pilings barely visible. Captain Ahab stands on deck, eyes fixed on the distant cliff, while Ishmael watches from below, Queequeg and Starbuck in shadowy silhouettes. The scene rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 2,
-    "segment_text": "Nantucket, take out your map and look at it.",
-    "image_prompt": "A dimly lit study aboard a weather‑torn Nantucket schooner, the deck below swaying with salt spray. Captain Ahab, gaunt and brooding, leans over an aged, cracked world map spread on a wooden table, his eyes fixed on the island’s jagged coastline. The lantern casts long shadows; waves crash against the hull in muted blues. In the background, a stormy Atlantic horizon looms, evoking a dark, moody 19th‑century oil painting."
+    "segment_text": "Nantucket!",
+    "image_prompt": "A dark, moody, 19th‑century oil painting of the solitary island of Nantucket, a jagged sandbar jutting from stormy Atlantic waves, its lone lighthouse standing like a sentinel. Rough wooden docks and weathered ships lie in silence, while gulls wheel overhead. The sea’s gray horizon looms, reflecting isolation and maritime destiny, all rendered with brooding chiaroscuro and muted palette."
   },
   {
     "segment_index": 3,
-    "segment_text": "See what a real corner of the world it occupies, how it stands there, a way offshore, more lonely than the Eddystone lighthouse.",
-    "image_prompt": "A lone Nantucket island, a jagged, wind‑blown hillock jutting from dark Atlantic waters, isolated like a solitary lighthouse on the horizon. Mist curls around its craggy shore, casting an eerie gloom over scattered seaweed and driftwood. In the distance, the Eddystone lighthouse glows faintly, yet the island’s silence feels deeper. A 19th‑century oil painting style, dark and moody, capturing the bleak isolation and stormy atmosphere of this remote corner of the world."
+    "segment_text": "Take out your map and look at it.",
+    "image_prompt": "A shadowed Nantucket shoreline under a stormy sky, Captain Ahab and Ishmael stand on the rocky beach, hands spread over an ancient nautical chart that unfurls like a weather‑torn map. Queequeg, Starbuck, Stubb, Flask, and Moby Dick’s silhouette loom in the mist beyond. The scene evokes 19th‑century oil painting darkness and moody atmosphere."
   },
   {
     "segment_index": 4,
-    "segment_text": "Look at it, a mere hillock, an elbow of sand, all beach, without a background.",
-    "image_prompt": "A lone, wind‑scarred hillock of sand thrusts into a bleak Atlantic horizon, its jagged shoreline curling like a broken elbow against endless white waves; no distant land or sky frames it—only the oppressive, gray sea and an unseen storm looming overhead. The scene is rendered in dark, moody 19th‑century oil painting style, with muted earth tones, heavy brushwork, and a sense of isolation that echoes Nantucket’s desolate edge."
+    "segment_text": "See what a real corner of the world it occupies, how it stands there, away offshore, more lonely than the Eddystone lighthouse.",
+    "image_prompt": "A lone Nantucket beach yawns into black Atlantic, a bleak, wind‑scarred hillock of sand framed by stormy clouds; its shore stretches to the horizon, more desolate than Eddystone’s lighthouse beacon. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 5,
-    "segment_text": "There is more sand there than you would use in twenty years as a substitute for blotting paper.",
-    "image_prompt": "A sprawling, wind‑blasted Nantucket shoreline under a bruised twilight sky, the endless dunes stretching to the horizon like a silent tide. The foreground shows an unbroken stretch of fine white sand, so immense it dwarfs any earthly measure—so vast that twenty years’ worth of blotting paper could be made from it. In the distance, jagged cliffs rise, and a lone gull cries above the sea’s misty spray. Rendered in dark, moody 19th‑century oil style, the scene conveys isolation and boundless desolation."
+    "segment_text": "Look at it, a mere hillock, an elbow of sand, all beach, without a background.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: the vast Atlantic yawns behind a lonely Nantucket shore—a modest hillock of sand, an elbow-shaped beach stretching to horizonless emptiness, waves lapping in muted blues. No distant land is visible; only wind‑blown dunes and a lone gull gliding above. The scene evokes isolation, with subtle light from a low sun, capturing the island’s stark solitude."
   },
   {
     "segment_index": 6,
-    "segment_text": "Some gamesome whites will tell you that they have to plant weeds there.",
-    "image_prompt": "A lone group of rugged, sun‑baked Nantucketers—clad in tattered sea coats and weathered boots—tend to a barren stretch of sand, planting stubborn weeds among the dunes. The horizon is an endless gray sea, with storm clouds gathering. A battered fishing boat lies moored nearby, its sails furled like wounded wings. In the background, a distant lighthouse flickers faintly. Render this in a dark, moody 19th‑century oil painting style, emphasizing chiaroscuro and muted earth tones."
+    "segment_text": "There is more sand there than you would use in twenty years as a substitute for blotting paper.",
+    "image_prompt": "A bleak, moonlit Nantucket shore stretches into the horizon, dunes rolling like endless waves of gray sand. A lone figure—perhaps Ishmael—stares at the barren beach, his eyes reflecting the cold Atlantic glare. The sky is heavy with storm clouds, casting a somber pall over the desolate landscape. Rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 7,
-    "segment_text": "They don't grow naturally.",
-    "image_prompt": "A bleak, 19th‑century oil portrait of Nantucket’s endless sandy shore under a stormy sky, where skeletal dunes rise like ghostly cliffs. In the foreground, a lone fisherman in tattered garb pulls up a bundle of strange, imported weeds—Canada thistles and odd toadstools—while the sea churns ominously behind him. The scene captures the island’s unnatural bounty, its isolation, and the eerie sense that even nature here must be coaxed by human hand. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Some gamesome whites will tell you that they have to plant weeds there, they don't grow naturally, that they import Canada thistles, that they have to send beyond seas for a spile to stop a leak in an oil cask, that pieces of wood in Nantucket are carried about like bits of the True Cross in Rome.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a sun‑bleached Nantucket shoreline: rough‑skinned sailors in tattered coats cluster around a cracked wooden cask dripping oil, one man holding a spile to plug the leak while another pulls a bundle of Canada thistles from a distant shore. The wind stirs the sand and gulls overhead, casting long shadows across the desolate beach."
   },
   {
     "segment_index": 8,
-    "segment_text": "That they import Canada thistles.",
-    "image_prompt": "A somber, dimly lit Nantucket harbor at twilight, where a weary merchant ship unloads crates of wild Canada thistles against the backdrop of crumbling stone quays and salt‑sprayed cliffs. Rough‑skinned sailors haul burlap bundles into the gloom, their faces illuminated by lantern glow, as gulls cry overhead. The sea is still, reflecting muted gray clouds; a lone lantern on the dock casts long shadows over the tangled thistles, hinting at foreign invasion. Dark, moody 19th‑century oil painting."
+    "segment_text": "that people there plant toadstools before their houses to get under the shade in summertime, that one blade of grass makes an oasis, three blades in a day's walk, a prairie, that they wear quicksand shoes, something like Laplander snowshoes, that they are so shut up, belted about, every way enclosed, surrounded, and made an utter island of by the ocean.",
+    "image_prompt": "A dark, moody, 19th‑century oil painting: Nantucket’s barren shore under a stormy sky, where rugged settlers in tattered garments stand amid strange toadstool patches beneath their houses, clutching single blades of grass that form an oasis. Their quicksand‑shoe‑like boots and tightly belted cloaks reflect isolation, as waves crash around the encircled island, evoking a forlorn maritime tableau."
   },
   {
     "segment_index": 9,
-    "segment_text": "They have to send beyond seas for a spile to stop a leak in an oil cask.",
-    "image_prompt": "A dimly lit harbor on a storm‑tossed night, where a ragged schooner’s deck is strewn with cracked barrels of oil. A weary crew—Captain Ahab in his tattered coat, Ishmael clutching a lantern, Queequeg and Starbuck in the foreground—lowers a long wooden spile into a leaking cask beneath a swirling gray sky. The moonlight glints off wet ropes; waves crash against the hull, casting an ominous, 19th‑century oil painting mood."
+    "segment_text": "that to their very charity, but these extravaganzas only show that Nantucket is no Illinois.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: a lone Nantucket shoreline under stormy sky, waves lashing the jagged coast, an old wooden schooner anchored off the beach. Captain Ahab and Ishmael stand on the deck, gazing at a tattered map that shows the island’s isolated “corner of the world.” The scene contrasts the barren sand with distant Illinois hills, emphasizing Nantucket’s solitude. Style: chiaroscuro, heavy brushwork, muted palette."
   },
   {
     "segment_index": 10,
-    "segment_text": "That pieces of wood in Nantucket are carried about like bits of the True Cross in Rome.",
-    "image_prompt": "A dim harbor at dusk, mist curling over the water. In a cramped wooden pier, rough‑handed Nantucket men haul bundles of weathered timber—splintered planks and beams—tied with frayed rope, their silhouettes framed by lantern glow. The cargo is reverently treated, each piece carried as if it were a relic of the True Cross, with solemn gestures and whispered prayers. Oil brushwork captures the gritty texture of wood against soot‑blackened stone, casting long shadows across the moody 19th‑century scene."
+    "segment_text": "Look now at the wondrous traditional story of how this island was settled by the Red Men.",
+    "image_prompt": "A lone, weather‑worn sea captain stands on a misty Nantucket beach as a towering, scarred eagle swoops down from storm clouds, clutching a newborn Native American in its talons. The infant’s parents watch in silent awe beside jagged cliffs and salt‑spattered rocks, while distant waves crash against a forlorn shoreline. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 11,
-    "segment_text": "That people there plant toadstools before their houses to get under the shade in summertime.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a Nantucket shoreline at dusk: a ragged cottage with rough wooden beams, surrounded by a patchwork of squat toadstools sprouting from the sandy ground, their caps forming a natural canopy over the house’s porch. The sky is bruised purple, waves lap silently against a lone driftwood log. In the foreground, a weather‑worn sailor (perhaps a Nantucket fisherman) crouches beside a mushroom, his face illuminated by lantern light, hinting at the island’s humble, earthy life."
+    "segment_text": "Thus goes the legend.",
+    "image_prompt": "Eagle swoops over New England coast, clutching a tiny Native American child in talons; distant waves crash against a lone shore. A shadowy, mist‑clad island rises from the horizon, its sands stretched wide like an empty ivory casket. The scene is drenched in twilight gloom, hinting at ancient mystery and maritime destiny. Rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 12,
-    "segment_text": "That that wade of grass makes an oasis, three blades in a day's walk of prairie.",
-    "image_prompt": "A lone, weather‑battered fisherman stands on a sun‑bleached Nantucket beach, his hand pressed against a solitary blade of stubborn green grass that pierces the endless dune. The sea stretches bleakly beyond, waves crashing like distant drums. In the background, dunes rise like silent cliffs under a bruised sky. A single feather from an eagle drifts near, hinting at legend. Rendered in a dark, moody 19th‑century oil painting style, with muted earth tones and dramatic chiaroscuro."
+    "segment_text": "In olden times, an eagle swooped down upon the New England coast and carried off an infant Indian in his talons.",
+    "image_prompt": "Eagle spiraling over mist‑cloaked New England coast, clutching a tiny Native American babe in its talons; the shoreline shrouded in twilight fog and jagged cliffs. Dark, brooding skies loom, hinting at impending storm. 19th‑century oil painting style, moody palette of greys and deep blues, dramatic chiaroscuro capturing the eerie moment of abduction."
   },
   {
     "segment_index": 13,
-    "segment_text": "That they wear quicksand shoes, something like Laplander snowshoes.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a desolate Nantucket shoreline at dusk. A solitary figure—Captain Ahab in tattered sea coat—stretches out a pair of bizarre “quicksand shoes,” glistening like wet stone, beside an ancient Laplander snowshoe, both relics of forgotten voyages. The wind‑tossed waves ripple against jagged rocks; distant gulls cry over the horizon. The scene evokes isolation and grim determination, rendered in muted earth tones with dramatic chiaroscuro lighting."
+    "segment_text": "With loud lament the parents saw their child born out of sight over the wide waters.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy New England coast at dusk. In the foreground, weary Native American parents clutch each other, eyes fixed on a small infant held by an enormous white‑winged eagle soaring over wide, roiling waters. The sky is bruised purple, waves crash against jagged rocks, and distant gulls cry, evoking sorrowful awe in this dramatic seafaring tableau."
   },
   {
     "segment_index": 14,
-    "segment_text": "That, that, tot, that.",
-    "image_prompt": "A lone, windswept Nantucket cliff at dusk, its sandy shore stretching into a black, misty ocean; the horizon is barely visible beneath heavy clouds. A solitary figure—Captain Ahab in tattered naval garb—stands on the beach, eyes fixed on the horizon, his silhouette framed by broken waves. The scene feels eerie and desolate, with muted earth tones, a faint glow from distant lanterns, and subtle hints of shipwrecked debris scattered along the shore. Rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "They resolved to follow in the same direction.",
+    "image_prompt": "A shadowed dawn over a windswept Nantucket beach, the lone infant Indian cradled in an eagle’s talons, its parents’ anguished faces illuminated by flickering firelight; a small wooden canoe lags beside them, ropes coiled, as they resolutely set sail toward the horizon. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 15,
-    "segment_text": "But these extravaganzas only show that Nantucket is no Illinois.",
-    "image_prompt": "A bleak, twilight tableau of Nantucket’s jagged shoreline, a lone wind‑tossed wooden schooner silhouetted against a stormy sky; endless dunes of coarse sand stretch to the horizon, punctuated by scattered seaweed and gulls in flight. In the foreground, rough, weather‑worn pilings rise from the surf, hinting at humble wharves. The mood is somber, with muted oil tones, capturing the island’s stark isolation—unlike Illinois’ flat plains—amid a 19th‑century maritime setting. Art style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Setting out in their canoes, after a perilous passage they discovered the island, and there they found an empty ivory casket, the poor little Indian skeleton.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: two rugged Indigenous figures in weathered canoes drift over stormy Atlantic waves toward a misty Nantucket shoreline; their eyes widen as they spot an ancient ivory casket on the sand, inside a faint skeletal outline of a child. The scene evokes peril, discovery, and eerie reverence beneath a bruised twilight sky."
   },
   {
     "segment_index": 16,
-    "segment_text": "Look now at the wondrous traditional story of how this island was settled by the Red Men.",
-    "image_prompt": "A dim, storm‑clouded Nantucket shore at dusk, an elderly Native American elder in tattered furs tells a tale to a small group of shipmates—Captain Ahab, Ishmael, Queequeg, Starbuck—standing on crumbling granite rocks. In the background, a ghostly white eagle swoops over the sea, clutching a tiny infant in its talons. The scene is bathed in low, brooding light, with salt spray and distant gulls; all rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "What wonder, then, that these Nantucketers, born on a beach, should take to the sea for a livelihood.",
+    "image_prompt": "A desolate Nantucket shoreline at dusk, gull‑winged waves lapping a lone, weather‑worn pier; rugged sailors—tanned, rough‑eyed men in tattered coats—clutching oars and nets, their faces set with resolve. The air is thick with salt and the distant roar of the sea, captured in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 17,
-    "segment_text": "Thus goes the legend.",
-    "image_prompt": "Eerie twilight over a mist‑shrouded Nantucket shore, an enormous black eagle swoops from stormy clouds, talons gripping a fragile infant Indian wrapped in seaweed. The infant’s parents, gaunt and desperate, watch as the bird vanishes into the churning Atlantic, their faces illuminated by lantern light on weathered cliffs. Behind them, gulls cry against a bruised horizon, hinting at a legend of conquest and destiny—captured in dark, moody 19th‑century oil style."
+    "segment_text": "They first caught crabs and quoll hogs in the sand.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a windswept Nantucket shore at dusk, waves lapping a sandy beach where a rough‑skinned sailor (Ishmael) stoops beside a crab pot, his hand clutching a freshly caught crab, while a hulking quoll hog—its fur mottled and eyes gleaming—stands on the sand, its snout digging for food. The horizon is bruised with storm clouds, reflecting a tense, rugged maritime life."
   },
   {
     "segment_index": 18,
-    "segment_text": "In olden times an eagle swooped down upon the New England coast.",
-    "image_prompt": "Ethereal, dimly lit oil canvas: a lone, majestic white‑haired sea‑eagle plunges from stormy Atlantic clouds toward a bleak New England shoreline at twilight, its wings casting long shadows over craggy cliffs and salt‑sprayed rocks. Below, mist curls around a solitary infant Indian clutching by the earlobes, eyes wide with terror, as ancient waves crash against the distant shore. The scene evokes 19th‑century maritime lore, cloaked in brooding gloom and subtle chiaroscuro. Art style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Grown bolder, they waded out with nets for mackerel.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: a stormy Nantucket shore at dusk, salt spray curling over rough waves. Rough‑haired seafarers in weathered wool and canvas coats wade through frothy surf, their sturdy nets cast wide against the gray horizon. The muted light reflects on slick skin and tangled seaweed, capturing the gritty resilience of mackerel hunters amid a brooding Atlantic night."
   },
   {
     "segment_index": 19,
-    "segment_text": "and carried off an infant Indian in his talons.",
-    "image_prompt": "A massive, shadow‑cloaked bald eagle swoops over a misty New England coast, its black wings spread wide against a stormy sky. In its talons, an infant Indian wrapped in coarse cloth clings to the bird’s claws, eyes wide with terror and awe. The sea roils below, waves crashing against jagged cliffs, while distant Nantucket glimmers like a lonely speck on the horizon. Dark, moody 19th‑century oil painting style."
+    "segment_text": "More experienced, they pushed off in boats and captured cod.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a storm‑swept Nantucket harbor at dusk: weathered wooden fishing boats creak as seasoned Nantucketers launch into churning Atlantic waves, nets bristling with glinting cod. Rough sea spray curls around their faces; the distant shoreline fades into mist. The scene captures rugged maritime life, echoing Moby‑Dick’s grim nautical realism."
   },
   {
     "segment_index": 20,
-    "segment_text": "With loud lament the parents saw their child born out of sight over the wide waters.",
-    "image_prompt": "A trembling, moonlit harbor in Nantucket’s dawn, an anguished pair of indigenous parents clutching a newborn infant whose eyes glimmer with sea‑blue sorrow. Their faces are etched with fierce grief, the wind whipping their rough coats; distant gulls cry above a roiling Atlantic. The infant lies cradled in a simple woven cradle, its skin pale against storm‑gray waves that crash below. Dark, moody 19th‑century oil painting style, atmospheric chiaroscuro and muted earth tones capture the tragic moment."
+    "segment_text": "And at last, launching a navy of great ships on the sea, explored this watery world, put an incessant belt of circumnavigations round it.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a battered Nantucket harbor at dusk, smoke curling from a fleet of large wooden galleons being launched onto stormy Atlantic waves; men in rough sea coats steer the vessels toward horizon, their silhouettes illuminated by flickering lanterns as they set out to circumnavigate the globe, charting unseen waters beneath a brooding sky."
   },
   {
     "segment_index": 21,
-    "segment_text": "They resolved to follow in the same direction, setting out in their canoes.",
-    "image_prompt": "A dimly lit dusk over a jagged Nantucket shoreline, a small fleet of weather‑worn wooden canoes bobbing on the foamy Atlantic, their silhouettes framed by stormy clouds. A group of rugged Native American figures—tanned skin, feathered headdresses—stand beside them, eyes fixed toward the horizon. Their determined faces are illuminated by flickering lanterns; one holds a carved spear, another grips a woven net. The sea roils ominously, hinting at forthcoming peril. Style: dark, moody 19th‑century oil painting."
+    "segment_text": "peeped in at Bering Straits, and in all seasons and all oceans declared everlasting war with the mightiest animated mass that has survived the flood, most monstrous and most mountainous.",
+    "image_prompt": "A bleak, moonlit harbor at Bering Strait, waves crashing against iron‑clad whaleboats; a lone, weathered Captain Ahab stands on the deck, eyes fierce with unending war. In the stormy sky, a colossal, shadowy whale emerges from the mist—monstrous, mountainous, survivor of the flood—its massive form looming over the sea, casting an ominous silhouette against the dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 22,
-    "segment_text": "After a perilous passage they discovered the island, and there they found an empty ivory casket, the poor little Indian's skeleton.",
-    "image_prompt": "A dimly lit, storm‑scarred Nantucket horizon at dusk, where a lone, weathered wooden canoe drifts near the shore. In its wake, an ancient ivory casket lies half buried in coarse sand, its lid open to reveal a skeletal Indian figure in tattered ceremonial garb. The scene is framed by jagged cliffs and gulls circling above, all rendered in muted earth tones and chiaroscuro shadows—an ominous 19th‑century oil painting style."
+    "segment_text": "That Himalayan, Salt Sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a colossal, mist‑cloaked mastodon-like creature looms over stormy saltwater, its massive tusks glinting under an ominous sky. Waves crash against the beast’s hide, swirling with unseen power; distant gulls cower in terror. The scene captures the dread of this “Himalayan” monster, its unseen might eclipsing even its fiercest attacks. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 23,
-    "segment_text": "What wonder, then, that these Nantucketers, born on a beach, should take to the sea for a livelihood.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a ragged Nantucket shoreline at dusk, waves lapping a whitewashed pier. A small band of rugged fishermen—tanned faces, rough coats—stand on the sand, clutching nets and oars, eyes fixed on the horizon. In the background, a modest wooden schooner waits, its sails furled against the stormy sky. The scene captures their birthright, born of beach, now bound to sea for livelihood, in stark chiaroscuro lighting."
+    "segment_text": "And thus have these naked Nantucketers, these sea hermits, issuing from their anthill in the sea, overrun and conquered the watery world like so many Alexanders, parceling out among them the Atlantic, Pacific, and Indian oceans, as the three pirate powers did Poland.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a ragged Nantucket crew—clad in weathered linen and leather—standing on a storm‑tossed deck, their faces fierce with ambition. Behind them, the vast Atlantic, Pacific, and Indian oceans spread like a conquered map, waves crashing against towering cliffs of iron and rope. A lone ship sails forward, symbolizing the “anthill” of sea hermits claiming dominion over the world."
   },
   {
     "segment_index": 24,
-    "segment_text": "They first caught crabs and quahogs in the sand-grown boulder.",
-    "image_prompt": "A dimly lit Nantucket shoreline at dusk, a weather‑worn boulder rising from the salt‑crusted sand. Captain Ahab, rugged and brooding, stands beside Ishmael in tattered sea coats, both crouching to haul crabs and quahogs from the gravel with rough wooden nets. Queequeg’s hand holds a battered spear, Starbuck watches anxiously, while Stubb and Flask lean against the boulder, their faces illuminated by flickering lantern light. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Let America add Mexico to Texas and pile Cuba upon Canada.",
+    "image_prompt": "A dramatic, dark‑moody 19th‑century oil painting of a stormy Atlantic horizon where an enormous, ominous sea‑ship looms beneath swirling clouds, its sails emblazoned with American and Cuban flags, while distant islands—Mexico, Texas, Canada—are subtly hinted as miniature specks. The sea roils in deep blues, reflecting the narrator’s grandiose conquest, evoking a bleak, foreboding maritime empire."
   },
   {
     "segment_index": 25,
-    "segment_text": "They waded out with nets for mackerel more experienced.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a windswept Nantucket shoreline at twilight. A ragged crew—Captain Ahab in tattered coat, Ishmael with ink‑stained notebook, Queequeg’s carved face, Starbuck’s weary eyes, Stubb laughing, Flask grim—wade through churned surf, nets braced against the sea. Their silhouettes loom over jagged rocks and a lone gull, while distant storm clouds gather above the horizon, evoking a sense of relentless struggle on the unforgiving ocean."
+    "segment_text": "Let the English overswarm all India and hang out their blazing banner from the sun.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a vast, stormy sea under bruised twilight sky, where a fleet of grim English galleons rises like black swarms above the distant silhouette of an Indian coastline. Their crimson banners blaze against the gloom, fluttering wildly in fierce winds as waves crash ominously, evoking dread and imperial ambition. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 26,
-    "segment_text": "They pushed off in boats and captured cod.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of rugged Nantucket fishermen launching modest wooden skiffs into a misty harbor at dawn. Captain Ahab stands tall on the deck, stern eyes fixed ahead; Ishmael watches with awe, while Queequeg, Stubb, and Flask row furiously through churning waves. The crew’s nets flare as they haul in glistening cod, their silhouettes stark against storm‑clouded skies, evoking a tense, maritime struggle beneath a brooding horizon."
+    "segment_text": "Two-thirds of this terraqueous globe are the Nantucketers.",
+    "image_prompt": "A vast, storm‑laden ocean dominates a swirling globe, its horizon shrouded in mist and blackened clouds. In the foreground, a ragged Nantucket schooner, tattered sails and weathered deck, stands proudly against a backdrop of jagged cliffs and endless sea. Dark, moody 19th‑century oil painting style, with muted earth tones and dramatic chiaroscuro."
   },
   {
     "segment_index": 27,
-    "segment_text": "and at last, launching a navy of great ships on the sea, explore this watery world, put an incessant belt of circumnavigations round it, at Beepton, at Bering Strait, Straits Undone.",
-    "image_prompt": "A dark, moody, 19th‑century oil painting: a vast, stormy Atlantic horizon where a fleet of imposing wooden galleons, their sails billowing like leviathan wings, launch from Nantucket’s rugged shore. The captain’s flag flutters against a bruised sky as the ships cut through mist toward distant straits—Bering, Beepton—charting an endless circumnavigation belt around the globe. Rough waves crash below, hinting at unseen horizons and the relentless quest of a sea‑borne empire."
+    "segment_text": "For the sea is his, he owns it, as emperors own empires, other seamen having but a right of way through it.",
+    "image_prompt": "A lone, weather‑battered Nantucket captain stands on a crumbling cliff overlooking an endless, stormy ocean, his eyes fixed on the horizon. Below, a fleet of merchant and warships sails in disciplined formation, their flags fluttering like wounded banners. The scene evokes imperial dominion: the sea as sovereign land, seamen mere passers‑by. Rendered in dark, moody 19th‑century oil style."
   },
   {
     "segment_index": 28,
-    "segment_text": "In all seasons, in all oceans, declare an everlasting war with the mightiest animated mass that has survived the flood, Mus Mostas, and Mus Mountainous.",
-    "image_prompt": "A storm‑tossed Nantucket horizon under a bruised twilight sky, where a hulking, spectral leviathan—Mus Mostas, the colossal post‑flood beast—looming from the abyss, its massive form half‑submerged in swirling dark waves. Captain Ahab stands on a weathered pier, his eyes fixed on the monstrous silhouette, while Ishmael and Queequeg watch in awe, their silhouettes framed by flickering lantern light. The scene exudes dread, tension, and an ominous promise of eternal conflict. Style: dark, moody 19th‑century oil painting."
+    "segment_text": "Merchant ships are but extension bridges, armed ones but floating forts, even pirates and privateers, though following the sea as highwaymen, the road, they but plunder other ships, other fragments of the land like themselves, without seeking to draw their living from the bottomless deep itself.",
+    "image_prompt": "A dimly lit harbor at twilight, where a battered merchant brig leans against a weather‑worn wooden pier like an extension of a crumbling bridge; beside it, a fierce armed ship with tattered flags looms as a floating fort, its cannons gleaming in the moonlight. Nearby, a ragged pirate schooner prowls, its crew cloaked in shadow, ready to plunder another vessel that drifts near a distant shore—an oil painting echoing 19th‑century maritime dread and intrigue, dark and moody."
   },
   {
     "segment_index": 29,
-    "segment_text": "that Himalayan salt-sea mastodon clothes with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults.",
-    "image_prompt": "A colossal Himalayan salt‑sea mastodon looms amid storm‑dark waves, its shaggy tusks dripping with brine, eyes glowing with primal terror. The ocean churns around it as distant gulls cry; the sky is a bruised violet, clouds swirling like dread. In the foreground, a lone sailor in tattered 19th‑century gear watches, trembling, as the beast’s massive flank rises—its very panic more fearsome than any attack. Dark, moody 19th‑century oil painting style."
+    "segment_text": "The Nantucketer, he alone resides and riots on the sea.",
+    "image_prompt": "A lone Nantucketer stands on a jagged, wind‑blasted cliff overlooking an endless black ocean, his weathered coat billowing like storm clouds; waves crash against the shore in ominous spray. He raises a hand to the horizon, eyes fixed on distant sails that blur into mist. The scene is rendered as a dark, moody 19th‑century oil painting, with muted earth tones and heavy chiaroscuro lighting."
   },
   {
     "segment_index": 30,
-    "segment_text": "And thus have these naked Nantucketers, these sea-hermits,",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a windswept Nantucket shoreline at dusk. Silhouetted against the stormy sky are rugged, bare‑armed Nantucketers—sea‑hermits in tattered coats and rough hats—standing on crumbling stone cliffs, their faces weathered by salt spray. Their backs to the viewer, they stare toward an endless gray sea, arms crossed or holding battered wooden tools, embodying a raw, untamed maritime spirit. The atmosphere is bleak, atmospheric, with heavy clouds and rolling waves in muted earth tones. Art style: 19th‑century oil painting."
+    "segment_text": "He alone, in Bible language, goes down to it in ships, to and fro plowing it as his own special plantation.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a lone Nantucketer in a weathered wooden schooner, his sails billowing against stormy Atlantic clouds. He steers the vessel with determined hands, cutting through rolling waves as if tilling an unseen field; the sea’s surface gleams like a dark green plantation under a bruised horizon, echoing biblical toil and solitary mastery."
   },
   {
     "segment_index": 31,
-    "segment_text": "issuing from their anthill in the sea, overrun and conquer the watery world like so many Alexanders, parceling out among them the Atlantic, Pacific, and Indian oceans, as the three pirate powers did Poland.",
-    "image_prompt": "A storm‑laden sea roils beneath a bruised twilight sky; from the misty depths, a legion of Nantucket “sea‑hermits” – hulking figures in ragged, weather‑worn coats and battered wooden oars – surge like an anthill erupted into motion. They brandish tattered flags bearing faded emblems, their eyes fierce with conquest. In the distance, colossal waves split the Atlantic, Pacific, and Indian oceans, each marked by a drifting banner as if the world itself were being parceled out to ruthless pirates. The scene is rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Vier is his home.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of Captain Ahab standing alone on the bow of his whaling vessel, “Vier,” amid a stormy Atlantic night. The blackened hull glistens under flickering lantern light; waves crash like skeletal hands. Ahab’s weathered face is set in grim determination, eyes fixed upon the endless horizon where distant moonlight cuts through swirling fog—his solitary home on the sea."
   },
   {
     "segment_index": 32,
-    "segment_text": "Let America add Mexico to Texas, and pile Cuba upon Canada, let the English overswarm all India,",
-    "image_prompt": "Dark, moody 19th‑century oil painting: a stormy Atlantic horizon where an enormous, ominous ship of the United States looms over fragmented flags—Mexico’s eagle and Texas’s longhorn—while a colossal Cuban flag drapes over a distant Canadian iceberg. In the background, a fleet of English war galleons swirl like swirling clouds above a stylized map of India, their sails billowing with oppressive ambition. The scene is drenched in deep blues, grays, and shadows, evoking dread and imperial hubris."
+    "segment_text": "Vier lies his business, which a Noah's flood would not interrupt, though it overwhelmed all the millions in China.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: a storm‑swept Nantucket harbor at twilight, waves crashing against iron‑clad wharves. A lone captain’s silhouette stands on the pier, his weathered hands clutching a brass sextant, gazing over the sea that swells like Noah’s flood yet remains untouched by the drowned world below. The sky roils with ominous clouds, reflecting the relentless spirit of the Nantucketer."
   },
   {
     "segment_index": 33,
-    "segment_text": "And hang out their blazing banner from the sun.",
-    "image_prompt": "A lone Nantucket brig sails under a bruised twilight sky, its mast towering like a skeletal hand toward the sun. A crimson banner—flames etched in gold thread—waves above the horizon, catching the last light as if hung from the sun itself. Dark, brooding clouds loom, while gulls cry against the muted sea. The scene feels like a 19th‑century oil painting: deep shadows, rich earth tones, and an ominous, cinematic stillness. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "He lives on the sea as prairie cocks in the prairie.",
+    "image_prompt": "A lone Nantucketer stands upon a weather‑torn deck, wind whipping his tattered coat as gulls circle overhead; the sea roils in dark, stormy swells below. He gazes toward horizon, eyes reflecting salt and solitude, like prairie cocks perched on lonely grasslands—an image of rugged isolation. Rendered in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 34,
-    "segment_text": "Two-thirds of this tarracuous globe Are the Nantucketers, for the sea is his, he owns it, As emperors own empires, other seamen Having but a right of way through it.",
-    "image_prompt": "A dramatic, dimly lit 19th‑century oil painting of a vast Atlantic horizon at twilight, with a massive armada of Nantucketer ships—sleek black hulls and billowing white sails—crowding the waves like an imperial fleet. Their crews, rugged and determined, stand on deck, gazing over endless blue as if claiming dominion; faint silhouettes of distant islands loom beneath storm clouds. The sea swells with a dark, ominous power, echoing the narrator’s claim that two‑thirds of the world belong to these maritime emperors. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "He hides among the waves.",
+    "image_prompt": "A lone sailor cloaked in tattered canvas slips into a roiling, moonlit Atlantic swell; the wind howls like unseen leviathans, and storm‑black waves crash against a weathered hull. In the dim oil painting, the figure’s silhouette is barely discernible amid frothy turbulence, evoking 19th‑century seafaring dread—a dark, moody oil portrait of a man hiding among the waves."
   },
   {
     "segment_index": 35,
-    "segment_text": "Merchant ships are but extension bridges,",
-    "image_prompt": "A dimly lit harbor at dusk, a line of weather‑worn merchant vessels docked beside crumbling stone piers, their hulls like battered bridges spanning the churning Atlantic. Captain Ahab’s silhouette looms on the deck, eyes fixed toward horizon, while Ishmael and Queequeg observe in hushed awe. The sea glows with a muted, stormy hue; gulls wheel overhead. Rendered as a dark, moody 19th‑century oil painting, emphasizing chiaroscuro, textured brushwork, and a brooding, nautical atmosphere."
+    "segment_text": "He climbs the Mishamoa hunters climb the Alps.",
+    "image_prompt": "A lone Nantucket mariner, gaunt and weather‑worn, scales a jagged cliff that mirrors the Alps, his silhouette set against a stormy sky. Waves crash below; distant gulls wheel in the wind. The scene evokes 19th‑century seafaring peril, rendered as a dark, moody oil painting with muted earth tones and dramatic chiaroscuro."
   },
   {
     "segment_index": 36,
-    "segment_text": "armed ones, but floating forts, even pirates and privateers.",
-    "image_prompt": "A battered wooden galley looms on a storm‑laden Nantucket horizon, its hull scarred by battle scars and cannons bristling like teeth. Lanterns sputter against the gloom as ragged pirates and stern privateers crowd the deck, their flags torn but still flying defiantly. The sea roils in a dark, moody 19th‑century oil painting style, capturing the tense, foreboding atmosphere of armed vessels turned floating forts on the brink of battle."
+    "segment_text": "For years he knows not the land, so that when he comes to it at last, it smells like another world, more strangely than the moon would to an earthsman.",
+    "image_prompt": "A lone Nantucketer in a battered wooden galley, eyes wide as he steps onto the mist‑laden shore of a distant island, his breath fogging in the chill sea air. Behind him, waves crash against a black horizon, lanterns flicker in the gloom, and a subtle moonlit glow casts an eerie pallor over the scene. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 37,
-    "segment_text": "Though following the sea as highwaymen the road, they but plunder other ships, other fragments of the land like themselves, without seeking to draw their living from the bottomless, deep itself.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Atlantic night: battered Nantucket schooners—cloaked in tattered sails and grim faces—prowling like highwaymen upon the sea. Their crew, including Captain Ahab’s stoic figure, menacingly looms over a trembling merchant vessel, hands gripping cutlasses as they plunder its cargo. The waves crash against the hulls, reflecting muted moonlight; distant silhouettes of whales curl beneath the turbulent foam, underscoring the perilous hunt for wealth from the deep."
+    "segment_text": "With the landless gull, that at sunset folds her wings and is rocked to sleep between billows.",
+    "image_prompt": "A lone gull, wings folded like a weary pilgrim, rests upon trembling waves at twilight; the horizon bleeds amber into deep indigo, shadows lengthening over salt‑sprayed foam. The distant silhouette of Nantucket looms faintly, its stone shore barely visible through mist. In the foreground, a solitary figure in tattered sea coat watches, eyes reflecting stormy clouds and the fading sun—dark, moody 19th-century oil painting."
   },
   {
     "segment_index": 38,
-    "segment_text": "In Antarctica, he alone resides, and riots on the sea he alone, in Bible language, goes down to it in ships.",
-    "image_prompt": "A solitary, gaunt Captain Ahab stands amid a frosted, wind‑blasted Antarctic horizon, his weathered face illuminated by the pale glow of aurora‑lit icebergs. He grips an ancient, tattered map, eyes fixed upon a distant, ghostly ship prowling the stormy sea. The scene is suffused with biblical dread: swirling clouds like judgmental heavens, waves towering as Leviathan’s breath, and a lone mast silhouetted against a bleak, moonless sky—capturing a dark, moody 19th‑century oil painting atmosphere."
-  },
-  {
-    "segment_index": 39,
-    "segment_text": "To, and Fro, ploughing it as his own special plantation.",
-    "image_prompt": "A dark, moody, 19th‑century oil painting of a rugged Nantucket shoreline at twilight. A lone, weathered fisherman in tattered sea‑cloth stands on the wind‑blasted beach, his hand gripping an old hoe, as he furiously tills the barren sand, turning it into a strange “planted” field. Behind him, a battered whaling ship’s hull rests against the rocks, its sails torn. The sky is bruised purple and ash‑gray, with distant gulls silhouetted against a stormy horizon. 19th‑century oil painting."
-  },
-  {
-    "segment_index": 40,
-    "segment_text": "There is his home.",
-    "image_prompt": "A solitary, weather‑worn sailor stands upon a craggy Nantucket cliff, his silhouette framed by a brooding, twilight sky streaked with dark clouds and distant gulls. In the foreground, rough waves crash against jagged rocks, while a lone lantern on a nearby pier casts wavering light over the sea’s edge. The image evokes the lonely home of a mariner: an isolated island horizon, the endless ocean beyond, rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 41,
-    "segment_text": "There lies his business, which a Noah's flood would not interrupt, though it overwhelmed all the millions in China.",
-    "image_prompt": "A lone, weather‑worn merchant ship cuts through a stormy Atlantic at dusk, its sails billowing like ghostly wings. Dark clouds loom overhead, foretelling a looming deluge that has already washed away distant Chinese coastlines in mythic waves. The vessel’s deck is sparsely crewed by roughened sailors, their faces etched with grim determination. In the foreground, a weather‑battered ledger lies open, its pages whispering of relentless trade and hidden fortunes—an indomitable business untouched by Noah’s flood. *Dark, moody 19th‑century oil painting*"
-  },
-  {
-    "segment_index": 42,
-    "segment_text": "He lives on the sea, as prairie cocks in the prairie.",
-    "image_prompt": "A lone mariner stands on a storm‑laden deck, his weathered face turned toward the endless dark ocean, as if he were a prairie rooster crowing over a windblown plain. The sky is bruised violet, clouds rolling like black sails; waves crash in heavy, trembling motion beneath him. His tattered coat flutters, and his hand grips a worn sextant, symbolizing his relentless claim to the sea. The scene is rendered as a dark, moody 19th‑century oil painting, with muted earth tones and deep shadows that echo the solitary, feral spirit of the narrator."
-  },
-  {
-    "segment_index": 43,
-    "segment_text": "He hides among the waves, he climbs them, as shammy hunters climb the Alps.",
-    "image_prompt": "A lone figure cloaked in tattered sea‑cloth hides amid towering, frothy waves, his silhouette barely discernible against a stormy Atlantic horizon. He ascends a colossal crest of water as if scaling the Alps, each swell a jagged cliff, with determined eyes fixed on an unseen horizon. The scene is rendered in a dark, moody 19th‑century oil painting style, heavy shadows and muted blues emphasizing the perilous solitude of a solitary hunter on the sea."
-  },
-  {
-    "segment_index": 44,
-    "segment_text": "For years he knows not the land, so that when he comes to it at last, it smells like another world, more strangely than the moon would to an earthsman.",
-    "image_prompt": "A lone, weather‑worn sailor stands on a jagged Nantucket shore, eyes fixed on distant horizon where land breaks through mist like a ghostly mirage. His beard ruffles in salt spray; his coat hangs heavy with sea‑salt. Behind him, the ocean roils under stormy clouds, a dark, moody 19th‑century oil painting atmosphere. The scent of brine mingles with distant pine and damp earth, evoking an alien world more mysterious than the moon itself, captured in chiaroscuro detail."
-  },
-  {
-    "segment_index": 45,
-    "segment_text": "With a landless gall that at sunset folds her wings and is rocked to sleep between billows, so at nightfall the Nanta Keter, out of sight of land, furls his sails and lays him to his rest, while under his very pillow rush herds of walruses and whales.",
-    "image_prompt": "A lone Nantucket schooner, its tattered canvas folding like a weary gull’s wings at sunset, rocks gently between towering billows under a bruised twilight sky. The vessel drifts unseen from shore, its sails unfurled yet slack, as the sea cradles it to sleep. Below, massive herds of walruses and whales surge beneath the waves, their silhouettes etched against moonlit water. Render this moody 19th‑century oil scene with deep shadows, muted earth tones, and a brooding, atmospheric horizon."
+    "segment_text": "So at nightfall the Nantucketer, out of sight of land, furls his sails and lays him to his rest, while under his very pillow rush herds of walruses and whales.",
+    "image_prompt": "A lone Nantucketer in a weather‑worn schooner, the moon casting silvery gloom over the black sea, furls his tattered sails at nightfall. The deck is quiet as he leans against the rail, eyes closed. Beneath his sleeping berth, dark waves stir with silhouettes of herds of walruses and whales, swirling in a haunting, ominous tide—dark, moody 19th‑century oil painting."
   }
 ]

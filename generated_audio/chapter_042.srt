@@ -1,520 +1,508 @@
 1
-00:00:00,031 --> 00:00:06,363
-Chapter 41 Moby Dick I, Ishmael, was one of that crew.
+00:00:00,031 --> 00:00:11,468
+Chapter 42 - The Whiteness of the Whale. What the white whale was to Ahab has been hinted, what, at times, he was to me, as yet remains unsaid.
 
 2
-00:00:06,924 --> 00:00:08,367
-My shouts had gone up with the rest.
+00:00:11,488 --> 00:00:24,807
+Aside from those more obvious considerations touching Moby Dick, which could not but occasionally awaken in any man's soul some alarm, there was another thought, or rather vague nameless horror concerning him.
 
 3
-00:00:08,968 --> 00:00:10,450
-My oath had been welded with theirs.
+00:00:24,787 --> 00:00:35,753
+which at times by its intensity completely overpowered all the rest, and yet so mystical and well-nigh ineffable was it, that I almost despair of putting it in a comprehensible form.
 
 4
-00:00:11,332 --> 00:00:16,001
-And stronger I shouted, and more did I hammer and clinch my oath, because of the dread in my soul.
+00:00:36,454 --> 00:00:40,163
+It was the whiteness of the whale that above all things appalled me.
 
 5
-00:00:16,181 --> 00:00:19,828
-A wild, mystical, sympathetic feeling was in me.
+00:00:40,143 --> 00:00:56,802
+But how can I hope to explain myself here, and yet, in some dim, random way, explain myself, I must, else all these chapters might be naught.
 
 6
-00:00:19,808 --> 00:00:22,813
-Ahab's quenchless feud seemed mine.
+00:00:56,782 --> 00:01:19,127
+So spalverus dureca firsta, firsta the firstibus, firstam menti hbicot stathac, and cata the cat of the firsta stafirsta, firsta stela td dac, and the stela vebe stacat, firstela manavirsta, gatca first raeshtal, firsta rifirsta, spas firsta mensch, firthrus first laha first, first firthia first, firthla nes lek bar first, first la firth first first,
 
 7
-00:00:23,654 --> 00:00:32,489
-With greedy ears I learned the history of that murderous monster against whom I and all the others had taken our oaths of violence and revenge.
+00:01:19,107 --> 00:01:43,478
+This elusive quality it is, which causes the thought of whiteness, when divorced from more kindly associations and coupled with any object terrible in itself, to heighten that terror to the furthest bounds.
 
 8
-00:00:32,589 --> 00:00:44,348
-For some time past, though at intervals only, the unaccompanied, secluded white whale had haunted those uncivilized seas mostly frequented by the sperm-whale fishermen.
+00:01:43,458 --> 00:01:47,422
+Witness the white bear of the poles and the white shark of the tropics.
 
 9
-00:00:44,328 --> 00:01:08,412
-But not all of them knew of his existence, only a few of them, comparatively, had knowingly seen him, while the number who as yet had actually and knowingly given battle to him was small indeed, for, owing to the large number of whale-cruisers, the disorderly way they were sprinkled over the entire watery circumference, many of them adventurously pushing their quest along solitary latitudes,
+00:01:48,123 --> 00:01:52,867
+What but their smooth, flaky whiteness makes them the transcendent horrors they are?
 
 10
-00:01:08,392 --> 00:01:24,122
-So, as seldom or never, for a whole twelve months or more on a stretch, to encounter a single news-telling sail of any sorts, the daunting length of each separate voyage, soon it was hardly to be doubted that several vessels reported to have encountered
+00:01:53,548 --> 00:02:02,037
+That ghastly whiteness it is which imparts such an abhorrent mildness, even more loathsome than terrific, to the dumb gloating of their aspect.
 
 11
-00:01:24,102 --> 00:01:37,762
-at such or such a time, or on such but a meridian, a sperm-whale of uncommon magnitude and malignity, which whale, after doing great mischief to his assailants, had completely escaped them.
+00:02:02,717 --> 00:02:10,225
+So that not the fierce-fanged tiger in his heraldic coat can so stagger courage as the white-shrouded bear or shark.
 
 12
-00:01:38,503 --> 00:01:46,515
-So, minds, it was not an unfair presumption, I say, that the whale in question must have been no other than Moby Dick."
+00:02:10,205 --> 00:02:37,157
+w-th reference to the polar bear, it may possibly be urged by him who would feign go still deeper into this matter, that it is not the whiteness, separately regarded, which heightens the intolerable hideousness of that brute, for, analyzed, that heightened hideousness, it might be said, only rises from the circumstance that the irresponsible ferociousness of the creature stands invested in the fleece of celestial innocence and love,
 
 13
-00:01:47,525 --> 00:01:56,994
-Yet as of late the sperm-whale fishery had been marked by various and not unfrequent instances of great ferocity, cunning, and malice in the monster-attacked.
+00:02:37,137 --> 00:02:45,485
+And hence, by bringing together two such opposite emotions in our minds, the polar bear frightens us with so unnatural a contrast.
 
 14
-00:01:57,614 --> 00:02:16,772
-Therefore it was, that those who by accident ignorantly gave battle to Moby-Dick, such hunters, perhaps, for the most part, were content to ascribe the peculiar terror he bred, more, as it were, to the perils of the sperm-whale fishery at large, than to the individual cause.
+00:02:46,066 --> 00:02:53,012
+But even assuming all this to be true, yet were it not for the whiteness, you would not have that intensified terror.
 
 15
-00:02:16,752 --> 00:02:25,343
-In that way, mostly, the disastrous encounter between Ahab and the whale had hitherto been popularly regarded.
+00:02:54,174 --> 00:03:04,984
+As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the polar quadruped.
 
 16
-00:02:25,543 --> 00:02:41,983
-And as for those who, previously hearing of the white whale, by chance caught sight of him in the beginning of the thing they had every one of them, almost as boldly and fearlessly lowered for him, as for any other whale of that species,
+00:03:05,926 --> 00:03:11,115
+This peculiarity is most vividly hit by the French in the name they bestow upon that fish.
 
 17
-00:02:41,963 --> 00:03:01,940
-But at length such calamities did ensue in these assaults not restricted to sprained wrists and ankles, broken limbs, or devouring amputations, but fatal to the last degree of fatality—those repeated disastrous repulses, all accumulating and piling their terrors upon Moby Dick.
+00:03:11,876 --> 00:03:22,014
+The Romish mass for the dead begins with Requiem Aeternum, Eternal Rest, whence Ari Quiu I am, denominating the mass itself and any other funeral music.
 
 18
-00:03:02,641 --> 00:03:11,008
-Toes, things had gone far to shake the fortitude of many brave hunters, to whom the story of the white whale had eventually come.
+00:03:22,735 --> 00:03:31,090
+Now, in allusion to the white, silent stillness of death in this shark and the mild deadliness of his habits, the French call him Ari Quiu.
 
 19
-00:03:10,988 --> 00:03:19,404
-Nor did wild rumors of all sorts fail to exaggerate, and still the more horrify the true histories of these deadly encounters.
+00:03:32,538 --> 00:03:41,037
+Bethink thee of the albatross, whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations.
 
 20
-00:03:20,145 --> 00:03:32,608
-For not only do fabulous rumors naturally grow out of the very body of all surprising, terrible events, as the smitten tree gives birth to its fungi, but, in maritime life,
+00:03:41,638 --> 00:03:46,709
+Not Coleridge first drew that spell, but God's great unflattering laureate, Nature.
 
 21
-00:03:32,588 --> 00:03:40,722
-Far more than in that of terra firma, wild rumors abound, wherever there is any adequate reality for them to cling to.
+00:03:48,393 --> 00:03:48,894
+Chivai.
 
 22
-00:03:40,863 --> 00:03:48,977
-And as the sea surpasses the land in this matter, so the whale fishery surpasses every other sort of maritime life.
+00:03:49,595 --> 00:03:52,622
+I remember the first albatross I ever saw.
 
 23
-00:03:48,957 --> 00:03:54,593
-in the wonderfulness and fearfulness of the rumors which sometimes circulate there.
+00:03:52,687 --> 00:03:57,015
+It was during a prolonged gale, in waters hard upon the Antarctic seas.
 
 24
-00:03:54,874 --> 00:04:04,300
-For not only are whalemen as a body unexempt from that ignorance and superstitiousness, hereditary to all sailors, but of all sailors.
+00:03:57,917 --> 00:04:11,083
+From my forenoon watch below, I ascended to the overclouded deck, and there, dashed upon the main hatches, I saw a regal feathery thing of unspotted whiteness, and with a hooked Roman bill sublime.
 
 25
-00:04:04,280 --> 00:04:11,279
-They are by all odds the most directly brought into contact with whatever is appallingly astonishing in the sea.
+00:04:11,063 --> 00:04:17,031
+At intervals, it arched forth its vast archangel wings, as if to embrace some holy ark.
 
 26
-00:04:12,161 --> 00:04:19,842
-Face to face they not only eye its greatest marvels, but, hand to jaw, give battle to them, alone,
+00:04:17,532 --> 00:04:19,775
+Wondrous flutterings and throbbing shook it.
 
 27
-00:04:19,822 --> 00:04:33,785
-In such remotest waters, that though you sailed a thousand miles, and passed a thousand shores, you would not come to any chiseled hearthstone, or ought hospitable beneath that part of the sun.
+00:04:20,375 --> 00:04:26,123
+Though bodily unharmed, it uttered cries, as some king's ghost in supernatural distress.
 
 28
-00:04:33,845 --> 00:04:45,103
-In such latitudes and longitudes, pursuing to such a calling as he does, the whale-man is wrapped by influences, all tending to make his fancy pregnant.
+00:04:26,804 --> 00:04:32,852
+Through its inexpressible, strange eyes, methought I peeped to secrets which took hold of God.
 
 29
-00:04:45,337 --> 00:04:46,559
-with many a mighty berth.
+00:04:32,950 --> 00:04:36,274
+As Abraham before the angels, I bowed myself.
 
 30
-00:04:46,699 --> 00:05:06,332
-No wonder, then, that, ever gathering volume from the mere transit over the widest watery spaces, the outblown rumours of the white whale did in the end incorporate with themselves all manner of morbid hints and half-formed foetal suggestions of supernatural agencies.
+00:04:37,034 --> 00:04:46,785
+The white thing was so white, its wings so wide, and in those forever exiled waters I had lost the miserable warping memories of traditions and of towns.
 
 31
-00:05:06,312 --> 00:05:12,461
-which eventually invested Moby Dick with new terrors unborrowed from anything that visibly appears.
+00:04:47,786 --> 00:04:50,129
+Long I gazed at that prodigy of plumage.
 
 32
-00:05:12,701 --> 00:05:26,380
-So that in many cases such a panic did he finally strike, that few who, by those rumors at least, had heard of the white whale, few of those hunters were willing to encounter the perils of his jaw.
+00:04:50,790 --> 00:04:54,854
+I cannot tell, can only hint, the things that darted through me then.
 
 33
-00:05:27,355 --> 00:05:31,803
-but there were still other and more vital practical influences at work.
+00:04:55,835 --> 00:05:00,240
+But at last I awoke, and turning, asked a sailor what bird was this.
 
 34
-00:05:32,003 --> 00:05:45,668
-Not even at the present day has the original prestige of the sperm whale, as fearfully distinguished from all other species of the leviathan, died out of the minds of the whalemen as a body.
+00:05:00,963 --> 00:05:02,425
+"'Aghani,' he replied.
 
 35
-00:05:45,648 --> 00:06:02,053
-There are those this day among them who, though intelligent and courageous enough in offering battle to the greenland or right whale, would perhaps, either from professional inexperience or incompetency or timidity, decline a contest with the sperm-whale, while at any rate
+00:05:02,445 --> 00:05:03,187
+"'Ghani!'
 
 36
-00:06:02,033 --> 00:06:15,588
-There are plenty of whalemen, especially among those whaling nations not sailing under the American flag, who have never hostilely encountered the sperm-whale, but whose sole knowledge of the Leviathan is restricted to the ignoble monster primitively pursued in the north.
+00:05:04,028 --> 00:05:05,531
+Never had heard that name before.
 
 37
-00:06:15,608 --> 00:06:29,323
-Nor is the preeminent tremendousness of the great sperm-whale anywhere more feelingly comprehended than on board of those prows which stem him, and as if the now-tested reality of his might
+00:05:06,252 --> 00:05:10,479
+Is it conceivable that this glorious thing is utterly unknown to men ashore?
 
 38
-00:06:29,303 --> 00:06:33,189
-had in former legendary times thrown its shadow before it.
+00:05:10,519 --> 00:05:11,400
+Never.
 
 39
-00:06:33,750 --> 00:06:50,097
-We find some book-naturalists, Oleson and Pavelson, declaring the sperm-whale not only to be a consternation to every other creature in the sea, but also to be so incredibly ferocious as continually to be a thirst for human blood.
+00:05:12,242 --> 00:05:26,245
+But some time after I learned that Ghani was some seaman's name for Albatross, so that by no possibility could Coleridge's wild rhyme have had aught to do with those mystical impressions which were mine when I saw that bird upon our deck.
 
 40
-00:06:50,077 --> 00:06:56,888
-Nor even down to so later time as Cuvieres were these, or almost similar, impressions effaced.
+00:05:26,478 --> 00:05:30,872
+For neither had I then read the rhyme, Nor knew the bird to be an albatross.
 
 41
-00:06:57,008 --> 00:07:17,620
-For in his Natural History, the Baron himself affirms, that at sight of the sperm-whale, all fish, sharks included, are struck with the most lively terrors, and often in the precipitancy of their flight, dash themselves against the rocks, with such violence as to cause instantaneous death.
+00:05:31,454 --> 00:05:39,019
+Yet, in saying this, I do but indirectly burnish a little brighter The noble merit of the poem and the poet.
 
 42
-00:07:17,600 --> 00:07:36,739
-And, however, the general experiences in the fishery may amend such reports as these, yet, in their full terribleness, even to the bloodthirsty item of Povolzon, the superstitious belief in them is, in some vicissitudes of their vocation, revived in the minds of the hunters.
+00:05:39,185 --> 00:05:58,286
+I assert, then, that in the wondrous bodily whiteness of the bird chiefly lurks the secret of the spell, a truth the more evinced in this, that by a solacism of terms there are birds called grey albatrosses, and these I have frequently seen, but never with such emotions as when I beheld the Antarctic fowl.
 
 43
-00:07:36,719 --> 00:08:06,574
-So that overawed by the rumors and portents concerning him, not a few of the fishermen recalled, in reference to Moby-Dick, the earlier days of the sperm-whale fishery, when it was oftentimes hard to induce long-practiced right whalemen to embark in the perils of this new and daring warfare, such men protesting that although other leviathans might be hopefully pursued, yet to chase and point Lance at such an apparition as the sperm-whale was not for mortal man.
+00:05:58,906 --> 00:06:00,769
+But how had the mystic thing been caught?
 
 44
-00:08:06,554 --> 00:08:11,746
-that to attempt it would be inevitably to be torn into a quick eternity.
+00:06:01,649 --> 00:06:07,656
+Whisper it not, and I will tell with a treacherous hook and line, as the fowl floated on the sea.
 
 45
-00:08:12,547 --> 00:08:17,138
-On this head there are some remarkable documents that may be consulted."
+00:06:08,378 --> 00:06:17,195
+At last the captain made a postman of it, tying a lettered leathern tally round its neck with the ship's time and place, and then letting it escape.
 
 46
-00:08:17,158 --> 00:08:24,073
-Nevertheless, some there were, who, even in the face of these things, were ready to give chase to Moby Dick.
+00:06:17,937 --> 00:06:29,560
+But I doubt not that leathern tally meant for man was taken off in heaven when the white fowl flew to join the wing-folding, the invoking, and adoring cherubim.
 
 47
-00:08:24,053 --> 00:08:41,370
-and a still greater number who, chancing only to hear of him distantly and vaguely, without the specific details of any certain calamity, and without superstitious accompaniments, were sufficiently hardy not to flee from the battle, if offered.
+00:06:29,540 --> 00:06:46,203
+Most famous in our Western annals and Indian traditions is that of the White Steed of the Prairies, a magnificent milk-white charger, large-eyed, small-headed, bluff-chested, and with the dignity of a thousand monarchs in his lofty, over-scorning carriage, E.B.K.I.F.
 
 48
-00:08:41,350 --> 00:08:56,524
-One of the wild suggestions referred to, as at last coming to be linked with the white whale in the minds of the superstitiously inclined, was the unearthly conceit that Moby Dick was ubiquitous.
+00:06:46,864 --> 00:06:55,817
+He was the elected Xerxes of vast herds of wild horses, whose pastures in those days were only fenced by the Rocky Mountains and the Alleghenies.
 
 49
-00:08:56,504 --> 00:09:11,003
-that he had actually been encountered in opposite latitudes at one and the same instant of time, nor, credulous as such minds must have been, was this conceit altogether without some faint show of superstitious probability.
+00:06:55,932 --> 00:07:01,958
+At their flaming head he westward trooped it like that chosen star which every evening leads on the hosts of light.
 
 50
-00:09:11,644 --> 00:09:17,913
-For us the secrets of the currents in the seas have never yet been divulged, even to the most erudite research.
+00:07:02,979 --> 00:07:11,828
+The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver beaters could have furnished him.
 
 51
-00:09:18,574 --> 00:09:25,583
-So the hidden ways of the sperm-whale, when beneath the surface remain, in great part unaccountable to his pursuers.
+00:07:12,509 --> 00:07:25,062
+A most imperial and archangelical apparition of that unfallen western world, which to the eyes of the old trappers and hunters revived the glories of those primeval times when Adam walked majestic as a god.
 
 52
-00:09:25,563 --> 00:09:41,412
-and from time to time have originated the most curious and contradictory speculations regarding them, especially concerning the mystic modes whereby, after sounding to a great depth, he transports himself with such a vast swiftness to the most widely distant point.
+00:07:25,295 --> 00:07:27,938
+bluff-browed and fearless as this mighty steed.
 
 53
-00:09:41,392 --> 00:10:01,990
-It is a thing well known to both American and English whale-ships, and as well a thing placed upon authoritative record years ago by Scoresby, that some whales have been captured far north in the Pacific, in whose bodies have been found the barbs of harpoons darted in the Greenland seas.
+00:07:28,379 --> 00:07:46,040
+Whether marching amid his aides and marshals in the van of countless cohorts that endlessly streamed it over the plains, like in Ohio, or whether with his circumambient subjects browsing all around at the horizon, the white steed gallopingly reviewed them with warm nostrils reddening through his cool milkiness.
 
 54
-00:10:02,210 --> 00:10:11,078
-Nor is it to be gainsayed that in some of these instances it has been declared that the interval of time between the two assaults
+00:07:46,561 --> 00:07:54,070
+In whatever aspect he presented himself, always to the bravest Indians, he was the object of trembling reverence and awe.
 
 55
-00:10:11,058 --> 00:10:13,643
-could not have exceeded very many days.
+00:07:54,050 --> 00:08:11,282
+Nor can it be questioned from what stands on legendary record of this noble horse, that it was his spiritual whiteness chiefly which so clothed him with divineness, and that this divineness had that in it which, though commanding worship, at the same time enforced a certain nameless terror.
 
 56
-00:10:14,124 --> 00:10:27,953
-Hence, by inference, it has been believed by some whalemen that the Norwest Passage, so long a problem to man, was never a problem to the whale, so that here, in the real living experience of living men,
+00:08:12,224 --> 00:08:19,736
+But there are other instances where this whiteness loses all that accessory and strange glory which invests it in the white steed and albatross.
 
 57
-00:10:27,933 --> 00:10:49,941
-The prodigies related in old times of the inland Strelo Mountain in Portugal, whose start there was said to be a lake in which the wrecks of ships floated up to the surface, and that still more wonderful story of the Arethusa Fountain near Syracuse, whose waters were believed to have come from the Holy Land by an underwrung passage, a dash-dash,
+00:08:20,457 --> 00:08:29,051
+What is it that in the albino man so peculiarly repels and often shocks the eye, as that sometimes he is loathed by his own kith and kin?
 
 58
-00:10:50,427 --> 00:10:54,692
-The fabulous narrations are almost fully equalled by the realities of the vampires.
+00:08:30,173 --> 00:08:34,620
+It is that whiteness which invests him, a thing expressed by the name he bears.
 
 59
-00:10:54,712 --> 00:11:14,317
-Forced into familiarity, then, with such prodigies as these, and knowing that after repeated intrepid assaults the white whale had escaped alive, it cannot be much matter of surprise that some whalemen should go still further in their superstitions, declaring Moby-Dick not only ubiquitous but immortal, for for immortality is but ubiquity in time.
+00:08:35,292 --> 00:08:46,951
+The albino is as well-made as other men, has no substantive deformity, and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion.
 
 60
-00:11:14,738 --> 00:11:18,342
-A fement of hentisthal, of spears, should be planted in his flanks.
+00:08:47,632 --> 00:08:48,734
+Why should this be so?
 
 61
-00:11:18,322 --> 00:11:37,393
-he would still swim away unharmed under the dark salive indeed he should ever be made to spout thick blog such a sight would but even stripped of these supernatural surmisings there was enough in the earthly make an incontestable character of the monster to strike the imagination with unwanted power
+00:08:49,595 --> 00:09:00,152
+Nor, in quite other aspects, does nature in her least palpable but not the less malicious agencies fail to enlist among her forces this crowning attribute of the terrible.
 
 62
-00:11:37,373 --> 00:11:51,992
-For it was not so much his uncommon bulk that so much distinguished him from other sperm whales, but, as was elsewhere, thrown out a peculiar snow-white wrinkled forehead and a high, pyramidical white hump.
+00:09:00,132 --> 00:09:05,644
+From its snowy aspect, the gauntleted ghost of the southern seas has been denominated the White Squall.
 
 63
-00:11:52,012 --> 00:12:03,347
-These were his prominent features, the tokens whereby, even in the limitless uncharted seas, he revealed his identity at a long distance to those who knew him.
+00:09:06,426 --> 00:09:11,857
+Nor, in some historic instances, has the art of human malice omitted so potent an auxiliary.
 
 64
-00:12:03,327 --> 00:12:13,779
-The rest of his body was so streaked and spotted and marbled with the same shrouded hue that, in the end, he had gained his distinctive appellation of the White Whale.
+00:09:12,519 --> 00:09:18,732
+How wildly it heightens the effect of that passage in Froysart, when, masked in the snowy symbol of their faction,
 
 65
-00:12:14,941 --> 00:12:19,466
-Ah, a name, indeed, literally justified by his vivid aspect!
+00:09:18,712 --> 00:09:30,209
+the desperate white hoods of Ghent murder their bailiff in the marketplace, nor in some things does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue.
 
 66
-00:12:20,007 --> 00:12:29,318
-When seen gliding, at high noon, through a dark blue sea, leaving a Milky Way wake of creamy foam, all spangled with golden gleamings,
+00:09:31,070 --> 00:09:40,264
+It cannot well be doubted that the one visible quality in the aspect of the dead which most appalls the gazer is the marble pallor lingering there.
 
 67
-00:12:29,467 --> 00:12:49,127
-Nor was it his unwanted magnitude, nor his remarkable hue, nor yet his deformed lower jaw, that so much invested the whale with natural terror, as that unexampled intelligent malignity which, according to specific accounts, he had over and over again evinced in his assaults.
+00:09:40,244 --> 00:09:46,557
+As if indeed that pallor were as much like the badge of consternation in the other world as of mortal trepidation here.
 
 68
-00:12:49,388 --> 00:12:55,474
-More than all, his treacherous retreats struck more of dismay than perhaps aught else.
+00:09:47,359 --> 00:09:52,870
+And from that pallor of the dead we borrow the expressive hue of the shroud in which we wrap them.
 
 69
-00:12:55,572 --> 00:13:13,716
-For, when swimming before his exulting pursuers with every apparent symptom of alarm, he had several times been known to turn round suddenly and, bearing down upon them, either stave their boats to splinters or drive them back in consternation to their ship.
+00:09:53,086 --> 00:10:01,425
+Nor even in our superstitions do we fail to throw the same snowy mantle round our phantoms, all ghosts rising in a milk-white fog.
 
 70
-00:13:13,747 --> 00:13:17,273
-Already several fatalities had attended his chase.
+00:10:02,047 --> 00:10:10,707
+Yea, while these terrors seize us, let us add, that even the king of terrors, when personified by the evangelist, rides on his pallid horse.
 
 71
-00:13:17,453 --> 00:13:23,643
-But those similar disasters, however little brooded ashore, were by no means unusual in the fishery.
+00:10:10,957 --> 00:10:23,606
+therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul.
 
 72
-00:13:24,064 --> 00:13:39,248
-Yet, in most instances, such seemed the white whale's infernal aforethought of ferocity, that every dismembering, or death that he caused, was not wholly regarded as having been inflicted by an unintelligent agent.
+00:10:24,448 --> 00:10:29,539
+But though without dissent this point be fixed, how is mortal man to account for it?
 
 73
-00:13:39,228 --> 00:14:02,822
-Judged then to what pitches of inflamed, distracted fury the minds of his more desperate hunters were impelled, when amid the chips of chewed boats and the sinking limbs of torn comrades they swam out of the white curds of the whale's direful wrath into the serene, exasperating sunlight that smiled on as if at a birth or a bridal.
+00:10:29,519 --> 00:10:31,723
+To analyze it would seem impossible.
 
 74
-00:14:02,802 --> 00:14:24,591
-His three boats stove around him, and Orison men, both hurling in the eddies one captain, seizing the line-knife from his broken prow, had dashed at the whale, as an Arkansas duelist at his foe, blindly seeking, with a six-inch blade, to reach the fathom-deep life of the whale, that captain was Ahab.
+00:10:32,223 --> 00:10:50,093
+Can we then, by the citation of some of those instances wherein this thing of whiteness, though for the time either wholly or in great part, stripped of all direct associations calculated to impart to it, ought fearful, but nevertheless is found to exert over us the same sorcery however modified,
 
 75
-00:14:24,571 --> 00:14:35,907
-And then it was that, suddenly sweeping his sickle-shaped lower jaw beneath him, Moby Dick had reaped away Ahab's leg as a mower, a blade of grass in the field.
+00:10:50,174 --> 00:10:54,919
+Can we thus hope to light upon some chance clue to conduct us to the hidden cause we seek?
 
 76
-00:14:36,728 --> 00:14:42,816
-No turbaned Turk, no hired Venetian or Molay, could have smote him with more seeming malice.
+00:10:55,540 --> 00:10:56,201
+Let us try.
 
 77
-00:14:42,796 --> 00:15:05,547
-Small reason was there to doubt, then, that ever since that almost fatal encounter Ahab had cherished a wild vindictiveness against the whale, all the more fell for that in his frantic morbidness he at last came to identify with him, not only all his bodily woes, but all his intellectual and spiritual exasperations.
+00:10:56,241 --> 00:11:04,230
+But in a matter like this, subtlety appeals to subtlety, and without imagination no man can follow another into these halls.
 
 78
-00:15:05,527 --> 00:15:35,500
-The white whale swam before him as the monomaniac incarnation of all those malicious agencies which some deep men feel eating in them, till they are left living on with half a heart and half a lung, that intangible malignity which has been from the beginning, to whose dominion even the modern Christians ascribe one half of the worlds, which the ancient Ophiots of the East, reverence in their statue Devil Ahab, did not fall down.
+00:11:05,111 --> 00:11:18,747
+And though, doubtless, some at least of the imaginative impressions about to be presented may have been shared by most men, yet few perhaps were entirely conscious of them at the time, and therefore may not be able to recall them now.
 
 79
-00:15:35,480 --> 00:15:45,425
-and worship it like them, but deliriously transferring its idea to the abhorred white whale, he pitted himself, all mutilated, against it.
+00:11:19,537 --> 00:11:36,873
+Why to the man of untutored ideality, who happens to be but loosely acquainted with the peculiar character of the day, does the bare mention of Whitsuntide Marshall in the fancy such long, dreary, speechless processions of slow-pacing pilgrims, downcast and hooded with new-fallen snow?
 
 80
-00:15:46,588 --> 00:15:50,839
-All that most maddens and torments, all that stirs up the lees of things,
+00:11:36,914 --> 00:11:45,882
+Or to the unread, unsophisticated Protestant of the Middle American states, why does the passing mention of a white friar or a white nun
 
 81
-00:15:50,819 --> 00:16:06,153
-all truth with malice in it, all that cracks the sinews and cakes the brain, all the subtle demonisms of life and thought, all evil, to crazy Ahab were visibly personified and made practically assailable in Moby Dick.
+00:11:45,862 --> 00:11:48,250
+evoke such an eyeless statue in the soul?
 
 82
-00:16:06,753 --> 00:16:14,340
-He piled upon the whale's white hump the sum of all the general rage and hate felt by his whole race from Adam down.
+00:11:49,032 --> 00:11:55,433
+Or what is there apart from the traditions of dungeoned warriors and kings which will not wholly account for it?
 
 83
-00:16:15,141 --> 00:16:20,826
-And then, as if his chest had been a mortar, he burst his hot heart's shell upon it.
+00:11:55,565 --> 00:12:10,687
+that makes the White Tower of London tell so much more strongly on the imagination of an untraveled American than those other storied structures, its neighbors, the Byward Tower, or even the Bloody, and those sublimer towers, the White Mountains of New Hampshire.
 
 84
-00:16:20,806 --> 00:16:28,892
-It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment.
+00:12:11,187 --> 00:12:23,445
+Whence, in peculiar moods, comes that gigantic ghostliness over the soul at the bare mention of that name, while the thought of Virginia's Blue Ridge is full of a soft, dewy, distant dreaminess.
 
 85
-00:16:29,260 --> 00:16:45,942
-Then, in darting at the monster, knife in hand, he had but given loose to a sudden, passionate, corporal animosity, and when he received the stroke that tore him, he probably but felt the agonizing bodily laceration, but nothing more.
+00:12:23,425 --> 00:12:41,316
+Or why, irrespective of all latitudes and longitudes, does the name of the White Sea exert such a spectralness over the fancy, while that of the Yellow Sea lulls us with mortal thoughts of long lacquered mild afternoons on the waves, followed by the gaudiest and yet sleepiest of sunsets?
 
 86
-00:16:46,142 --> 00:16:55,555
-Yet, when by this collision forced to turn towards home, and for long months of days and weeks, Ahab and Anguish lay stretched together in one hammock,
+00:12:41,296 --> 00:13:00,874
+Or, to choose a wholly unsubstantial instance, purely addressed to the fancy, why, in reading the old fairy tales of Central Europe, does the tall pale man of the heart's forests, whose changeless pallor unrustlingly glides through the green of the groves, why is this phantom more terrible than all the whooping imps of the Blocksburg?
 
 87
-00:16:55,535 --> 00:16:59,883
-rounding in midwinter that dreary-howling Patagonian cape.
+00:13:00,972 --> 00:13:24,837
+nor is it altogether the remembrance of her cathedral-toppling earthquakes, nor the stampedos of her frantic seas, nor the tearlessness of arid skies that never rain, nor the sight of her wide field of leaning spires, wrenched copestones, and crosses all adroop, like canted yards of anchored fleets, and her suburban avenues of house-walls lying over upon each other,
 
 88
-00:17:00,484 --> 00:17:08,718
-Then it was that his torn body and gashed soul bled into one another, and, canned so interfusing, made him mad.
+00:13:24,817 --> 00:13:32,305
+as a tossed pack of cards, it is not these things alone which make tearless Lima the strangest, saddest city thou canst see.
 
 89
-00:17:09,239 --> 00:17:13,206
-That it was only then, on the homeward voyage, after the encounter,
+00:13:32,345 --> 00:13:38,371
+For Lima has taken the white veil, and there is a higher horror in this whiteness of her woe.
 
 90
-00:17:13,186 --> 00:17:29,271
-that the final monomania seized him, seems all but certain from the fact that, at intervals during the passage, he was a raving lunatic, and, though unlimbed of a leg, he had such vital strength yet lurked in his Egyptian chest,
+00:13:38,432 --> 00:13:52,967
+Old as Pizarro, this whiteness keeps her ruins forever new, admits not the cheerful greenness of complete decay, spreads over her broken ramparts the rigid pallor of an apoplexy that fixes its own distortions.
 
 91
-00:17:29,251 --> 00:17:38,929
-and was moreover intensified by his delirium, that his mates were forced to lace him fasts, even there, as he sailed, raving in his hammock.
+00:13:52,947 --> 00:14:02,518
+I know that, to the common apprehension, this phenomenon of whiteness is not confessed to be the prime agent in exaggerating the terror of objects otherwise terrible.
 
 92
-00:17:39,229 --> 00:17:43,497
-In a straight jacket he swung to the mad rockings of the gales.
+00:14:03,079 --> 00:14:16,555
+Nor to the unimaginative mind is there ought of terror in those appearances whose awfulness to another mind almost solely consists in this one phenomenon, especially when exhibited under any form at all approaching to muteness or universality.
 
 93
-00:17:43,527 --> 00:18:12,690
-And when running into more sufferable latitudes, the ship, with mild stun-sail spread, floated across the tranquil tropics, and, to all appearances, the old man's delirium seemed left behind him with the caper and swells, and he came forth from his dark den into the blessed light and air, and even then, when he bore that firm, collected front, however pale, and issued his calm orders once again, and his mates thanked God the direful madness was now gone, even Ahab in his hidden self raved on.
+00:14:17,115 --> 00:14:22,802
+What I mean by these two statements may perhaps be respectively elucidated by the following examples.
 
 94
-00:18:12,670 --> 00:18:17,920
-Many a human madness is oftentimes a cunning and most feline thing.
+00:14:22,782 --> 00:14:43,183
+First, the mariner, when drawing nigh the coasts of foreign lands, if by night he hear the roar of breakers, starts to vigilance, and feels just enough of trepidation to sharpen all his faculties, but under precisely similar circumstances let him be called from his hammock to view his ship sailing through a midnight sea of milky whiteness.
 
 95
-00:18:18,601 --> 00:18:24,031
-When you think it fled, it may have but become transfigured into some still subtler form.
+00:14:43,984 --> 00:14:52,333
+As if from encircling headlands shoals of combed white bears were swimming round him, then he feels a silent superstitious dread.
 
 96
-00:18:24,191 --> 00:18:30,443
-Ahab's full lunacy subsided not, but deepeningly contracted, like the unabated Hudson.
+00:14:52,313 --> 00:14:56,279
+The shrouded phantom of the widened waters is horrible to him as a real ghost.
 
 97
-00:18:30,423 --> 00:18:35,913
-when that noble Northman flows narrowly, but unfathomably, through the Highland gorge.
+00:14:56,860 --> 00:14:59,524
+In vain the lead assures him he is still off soundings.
 
 98
-00:18:36,494 --> 00:18:50,440
-But, as in his narrow-flowing monomania, not one jot of Ahab's broad madness had been left behind, so in that broad madness not one jot of his great natural intellect had perished.
+00:15:00,286 --> 00:15:01,968
+Heart and helm they both go down.
 
 99
-00:18:50,420 --> 00:18:53,925
-that before living agent now became the living instrument.
+00:15:02,389 --> 00:15:05,394
+Yet where is the mariner who will tell thee, sir?
 
 100
-00:18:54,066 --> 00:19:18,503
-If such a furious trope may stand, his special lunacy stormed his general sanity, and carried it, and turned all its consented canon upon its own mad marks, so that, far from having lost his strength, Ahab, to that one end, did now possess a thousandfold more potency than ever he had sanely brought to bear upon any one reasonable object,
+00:15:06,375 --> 00:15:13,326
+It was not so much the fear of striking hidden rocks as the fear of that hideous whiteness that so stirred me.
 
 101
-00:19:18,483 --> 00:19:35,496
-This is much yet Ahab's larger, darker, deeper part remains unhinted, but vain to popularize profundities, and all truth is profound, winding far down from within the very heart of the spiked Hotel de Cluny, where we here stand, however grand and wonderful,
+00:15:13,306 --> 00:15:33,475
+Second, to the native Indian of Peru, the continual sight of the snow-howled Dahed Andes conveys nought of dread, except, perhaps, in the mere fancying of the eternal frosted desolateness reigning at such vast altitudes, and the natural conceit of what a fearfulness it would be to lose oneself in such inhuman solitudes.
 
 102
-00:19:35,476 --> 00:19:56,623
-Now quit it, and take your way, ye nobler, sadder souls, To those vast Roman halls of Thermes, Where far beneath the fantastic towers Of man's upper earth, his root of grandeur, His whole awful essence sits in bearded state, And Gan antique beneath antiquities, Enthroned on torsos.
+00:15:33,455 --> 00:15:45,855
+Much the same is it with the back woodsmen of the West, who with comparative indifference views an unbounded prairie sheeted with driven snow, no shadow of tree or twig to break the fixed trance of whiteness.
 
 103
-00:19:56,603 --> 00:20:06,785
-So, with a broken throne, the great gods mock the captive king so like a caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages.
+00:15:46,697 --> 00:15:50,603
+Not so the sailor, beholding the scenery of the Antarctic seas.
 
 104
-00:20:07,947 --> 00:20:14,741
-Wind he down there ye prouder, sadder souls, question that proud, sad king, a family likeness.
+00:15:50,583 --> 00:16:07,793
+where at times, by some infernal trick of leisure domain in the powers of frost and air, he, shivering and half shipwrecked, instead of rainbows speaking hope and solace to his misery, views what seems a boundless churchyard grinning upon him with its lean ice monuments and splintered crosses.
 
 105
-00:20:15,282 --> 00:20:16,485
-Ay, he did begetty.
+00:16:08,354 --> 00:16:15,426
+But thou sayest, methinks that white-led chapter about whiteness is but a white flag hung out from a craven soul.
 
 106
-00:20:16,685 --> 00:20:22,151
-He young exiled royalties, And from your grim sire only Will the old state's secret come."
+00:16:15,406 --> 00:16:17,868
+Thou surrenderest to a hypo, Ishmael.
 
 107
-00:20:22,852 --> 00:20:25,394
-Now in his heart Ahad had some glimpse of this.
+00:16:18,729 --> 00:16:26,616
+Tell me, why this strong young colt Fold in some peaceful valley of Vermont Far removed from all beasts of prey?
 
 108
-00:20:25,875 --> 00:20:30,600
-Namely, Caiap, all my means are sane, My motive and my object mad.
+00:16:27,317 --> 00:16:36,785
+Why is it that upon the sunniest day If you but shake a fresh buffalo robe behind him So that he cannot even see it But only smells its wild animal muskiness?
 
 109
-00:20:30,760 --> 00:20:40,971
-Yet without pow'r to kill, or change, Or shun the fact, he likewise knew That to mankind he did long dissemble, In some sort did still.
+00:16:37,586 --> 00:16:43,371
+Why will he start, snort, and with bursting eyes Paw the ground in frenzies of affright?
 
 110
-00:20:40,951 --> 00:20:47,263
-But that thing of his dissembling was only subject to his perceptibility, not to his will determinate.
+00:16:43,351 --> 00:16:54,655
+There is no remembrance in him of any gorings of wild creatures in his green northern home, so that the strange muskiness he smells cannot recall to him anything associated with the experience of former perils.
 
 111
-00:20:47,504 --> 00:21:00,208
-Nevertheless, so well did he succeed in that dissembling, that when with ivory leg he stepped ashore at last, no Nantucketer thought him otherwise than but naturally grieved.
+00:16:55,156 --> 00:17:00,668
+For what knows he, this New England colt, of the black bisons of distant Oregon?
 
 112
-00:21:00,188 --> 00:21:22,483
-And that to the quake, with the terrible casualty which had overtaken him, the report of his undeniable delirium at sea was likewise popularly ascribed to a kindred cause, and so too all the added moodiness which always afterwards, to the very day of sailing in the Pequod on the present voyage, sat brooding on his brow.
+00:17:00,648 --> 00:17:06,896
+No, but here thou beholdest, even in a dumb brute, the instinct of the knowledge of the demonism in the world.
 
 113
-00:21:22,463 --> 00:21:48,049
-Nor is it so very unlikely, that far from distrusting his fitness for another whaling voyage, on account of such dark symptoms, the calculating people of that prudent isle were inclined to harbour the conceit, that for those very reasons he was all the better qualified and set on edge for a pursuit so full of rage and wildness as the bloody hunt of whales.
+00:17:07,677 --> 00:17:21,074
+Though thousands of miles from Oregon, still when he smells that savage musk, the rending, goring bison herds are as present as to the deserted wild foal of the prairies, which this instant they may be trampling into dust.
 
 114
-00:21:48,029 --> 00:22:09,700
-Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea such in one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes, or, if for any reason thought to be corporarily incapacitated for that,
+00:17:21,094 --> 00:17:28,343
+Thus then, the muffled rollings of a milky sea, the bleak rustlings of the festooned frosts of mountains,
 
 115
-00:22:09,882 --> 00:22:16,795
-Yet such an one would seem superlatively competent to cheer and howl on his underlings to the attack.
+00:17:28,323 --> 00:17:36,949
+The desolate shiftings of the wind-rowed snows of prairies, all these to Ishmael, are as the shaking of that buffalo robe to the frightened colt.
 
 116
-00:22:16,815 --> 00:22:28,937
-But be all this as it may, certain it is, that with the mad secret of his unabated rage bolted up and keyed in him, Ahab had purposely sailed upon the present voyage
+00:17:37,655 --> 00:17:47,384
+Though neither knows where lie the nameless things of which the mystic sign gives forth such hints, yet with me, as with the cult, somewhere those things must exist.
 
 117
-00:22:28,917 --> 00:22:33,883
-with the one only and all-engrossing object of hunting, the white whale.
+00:17:48,165 --> 00:17:54,791
+Though in many of its aspects this visible world seems formed in love, the invisible spheres were formed in fright.
 
 118
-00:22:33,983 --> 00:22:47,400
-Had any one of his old acquaintances on shore but half dreamed of what was lurking in him then, how soon would their aghast and righteous souls have wrenched the ship from such a fiendish man.
+00:17:55,372 --> 00:18:06,042
+But not yet have we solved the incantation of this whiteness, and learned why it appeals with such power to the soul, and more strange, and far more portentous.
 
 119
-00:22:47,600 --> 00:22:53,608
-They were bent on profitable cruises, the profit to be counted down in dollars from lament.
+00:18:06,022 --> 00:18:21,010
+Why, as we have seen, it is at once the most meaning symbol of spiritual things, nay, the very veil of the Christian's deity, and yet should be as it is, the intensifying agent in things, the most appalling to mankind.
 
 120
-00:22:53,588 --> 00:22:58,874
-He was intent on an audacious, immitigable, and supernatural revenge.
+00:18:21,175 --> 00:18:33,412
+Is it that by its indefiniteness it shadows forth the heartless voids and immensities of the universe, and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the Milky Way?
 
 121
-00:22:59,054 --> 00:23:06,822
-Here, then, was this grey-headed, ungodly old man, chasing, with curses, a job's whale round the world.
+00:18:33,452 --> 00:18:43,926
+Or is it that as in essence, whiteness is not so much a color as the visible absence of color, and at the same time the concrete of all colors?
 
 122
-00:23:07,543 --> 00:23:20,777
-At the head of a crew, too, chiefly made up of mongrel renegades, and castaways, and cannibals morally enfeebled also, by the incompetence of mere unaided virtue or right-mindedness in Starbuck,
+00:18:44,125 --> 00:18:50,516
+Is it for these reasons that there is such a dumb blankness, full of meaning, in a wide landscape of snows?
 
 123
-00:23:20,757 --> 00:23:27,489
-the invulnerable jolity of indifference and recklessness and stub, and the pervading mediocrity and flask.
+00:18:50,576 --> 00:18:54,383
+A colorless, all-color of atheism from which we shrink?
 
 124
-00:23:27,509 --> 00:23:36,285
-Such a crew, so officer'd, seemed especially picked and packed by some infernal fatality to help him to his monomaniac revenge.
+00:18:55,064 --> 00:19:02,978
+And when we consider that other theory of the natural philosophers, that all other earthly hues, every stately or lovely emblazoning,
 
 125
-00:23:36,451 --> 00:23:49,350
-How it was that they so aboundingly responded to the old man's ire by what evil magic their souls were possessed, that at times his hate seemed almost theirs, the white whale as much their insufferable foe as his!
+00:19:02,958 --> 00:19:15,700
+The sweet tinges of sunset skies and woods, yea, and the gilded velvets of butterflies, and the butterfly cheeks of young girls, all these are but subtile deceits, not actually inherent in substances, but only laid on from without.
 
 126
-00:23:50,091 --> 00:24:06,255
-How all this came to be what the white whale was to them, or how to their unconscious understandings, also, in some dim, unsuspected way, he might have seen the gliding great demon of the seas of life, all this to explain, would be to dive deeper than Ishmael can
+00:19:16,241 --> 00:19:22,772
+So that all deified nature absolutely paints like the harlot, whose allurements cover nothing but the charnel-house within.
 
 127
-00:24:06,235 --> 00:24:14,975
-a subterranean miner that works in us all, how can one tell whither leads his shaft by the ever-shifting, muffled sound of his pick?
-
-128
-00:24:15,717 --> 00:24:18,824
-Who does not feel the irresistible arm-drag?
-
-129
-00:24:19,265 --> 00:24:22,593
-What skiff in tow of a seventy-four can stand still?
-
-130
-00:24:23,074 --> 00:24:35,382
-For one, I gave myself up to the abandonment of the time and the place, but while yet all a rush to encounter the whale could see naught in that brute but the deadliest ill.
+00:19:22,752 --> 00:19:40,795
+And when we proceed further, and consider that the mystical cosmetic which produces every one of her hues, the great principle of light, forever remains white or colorless in itself, and if operating without medium upon matter, and of all these things the albino whale was the symbol, wonder ye then at the fiery hunt.
 

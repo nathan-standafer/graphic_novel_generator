@@ -1,148 +1,132 @@
 1
-00:00:00,031 --> 00:00:20,377
-Chapter 49 THE HYENA There are certain queer times and occasions, in this strange mixed affair we call life, when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimly discerns, and more than suspects that the joke is at nobody's expense but his own.
+00:00:00,217 --> 00:00:06,085
+Chapter 50 - Ahab's Boat and Crew. Fidela. Who would have thought it, Flask?
 
 2
-00:00:20,557 --> 00:00:24,602
-However, nothing dispirits, and nothing seems worthwhile disputing.
+00:00:06,286 --> 00:00:06,887
+cried Stubb.
 
 3
-00:00:25,223 --> 00:00:29,869
-He bolts down all events, all creeds and beliefs, and persuasions,
+00:00:07,347 --> 00:00:12,915
+If I had but one leg, you would not catch me in a boat, unless maybe to stop the plughole with my timber toe.
 
 4
-00:00:29,849 --> 00:00:49,680
-all hard things visible and invisible, never mind how knobby, as an ostrich of potent digestion gobbles down bullets and gun flints, and as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb, all these, and death itself,
+00:00:13,476 --> 00:00:15,058
+Oh, he's a wonderful old man.
 
 5
-00:00:49,660 --> 00:00:57,511
-seemed to him only sly, good-natured hits and jolly punches in the side bestowed by the unseen and unaccountable old joker.
+00:00:15,098 --> 00:00:19,565
+I don't think it's so strange, after all, on that account, said Flask.
 
 6
-00:00:57,751 --> 00:01:04,480
-That odd sort of wayward mood I am speaking of comes over a man only in some time of extreme tribulation.
+00:00:19,585 --> 00:00:22,589
+If his leg were off at the hip, now, it would be a different thing.
 
 7
-00:01:05,161 --> 00:01:16,056
-Heat comes in the very midst of his earnestness, so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke.
+00:00:22,629 --> 00:00:28,097
+That would disable him, but he has one knee, and good part of the other left, you know.
 
 8
-00:01:16,036 --> 00:01:43,815
-There's nothing like the perils of whaling to breed this free and easy sort of genial Desperado philosophy and with it I now regarded this whole voyage of the Pequod and the great white whale its object 31 quick quake said I when they had dragged me the last man to the deck and I was still shaking myself in my jacket to fling off the water quick quake my fine friend I
+00:00:28,786 --> 00:00:30,309
+I don't know that, my little man.
 
 9
-00:01:44,116 --> 00:01:45,939
-Does this sort of thing often happen?"
+00:00:30,329 --> 00:00:32,272
+I never yet saw him kneel.
 
 10
-00:01:46,139 --> 00:01:54,073
-Without much emotion, though soaked through just like me, he gave me to understand that such things did often happen.
+00:00:32,312 --> 00:00:45,614
+Among whale-wise people it has often been argued whether, considering the paramount importance of his life to the success of the voyage, it is right for a whaling captain to jeopardize that life in the active perils of the chase.
 
 11
-00:01:54,093 --> 00:01:54,814
-"'Mr.
+00:00:46,496 --> 00:00:55,030
+So Tamerlane's soldiers often argued with tears in their eyes whether that invaluable life of his ought to be carried into the thickest of the fight.
 
 12
-00:01:54,894 --> 00:02:03,188
-Stulb,' said I, turning to that worthy, who, buttoned up in his oil-jacket, was now calmly smoking his pipe in the rain.
+00:00:55,010 --> 00:00:58,054
+But with Ahab, the question assumed a modified aspect.
 
 13
-00:02:03,168 --> 00:02:13,230
-Mr. Stubb, I think I have heard you say that of all whalemen you ever met, our chief mate Mr. Starbuck is by far the most careful and prudent.
+00:00:58,675 --> 00:01:18,540
+Considering that with two legs, man is but a hobbling white in all times of danger, considering that the pursuit of whales is always under great and extraordinary difficulties, that every individual moment, indeed, then comprises a peril, under these circumstances, is it wise for any maimed man to enter a whale boat in the hunt?
 
 14
-00:02:13,430 --> 00:02:23,472
-I suppose, then, that going plump on a flying whale with your sail set in a foggy squall is the height of a whaleman's discretion?"
+00:01:19,421 --> 00:01:24,207
+As a general thing, the joint owners of the Pequod must have plainly thought not.
 
 15
-00:02:23,452 --> 00:02:24,013
-Certain.
+00:01:24,423 --> 00:01:36,728
+Ahab well knew that although his friends at home would think little of his entering a boat in certain comparatively harmless vicissitudes of the chase, for the sake of being near the scene of action and giving his orders in person,
 
 16
-00:02:24,593 --> 00:02:28,338
-I've lowered for whales from a leaking ship in a gale off Cape Horn."
+00:01:37,113 --> 00:01:53,753
+Yet for Captain Ahab to have a boat actually apportioned to him as a regular headsman in the hunt, above all for Captain Ahab to be supplied with five extra men as that same boat's crew, he well knew that such generous conceits never entered the heads of the owners of the Pequod.
 
 17
-00:02:28,358 --> 00:02:28,758
-"'Mr.
+00:01:54,354 --> 00:02:00,621
+Therefore, he had not solicited a boat's crew from them, nor had he in any way hinted his desires on that head.
 
 18
-00:02:28,798 --> 00:02:37,188
-Flask,' said I, turning to little King Post, who was standing close by, "'You are experienced in these things, and I am not.
+00:02:01,382 --> 00:02:05,567
+Nevertheless, he had taken private measures of his own touching all that matter.
 
 19
-00:02:37,368 --> 00:02:48,701
-Will you tell me whether it is an unalterable law in this fishery, Mr. Flask, for an oarsman to break his own back, pulling himself back foremost into death's jaws?'
+00:02:05,547 --> 00:02:33,377
+The sailors had little foreseen it, though to foreseen it, though, while pins had concluded the customary business of fitting the whale boats for service, when sometime after this Ahab was now and then found bestirring himself in the matter of making thull pins with his own hands for what was thought to be one of the spare boats, and even solicitously cutting the small wooden skewers which when the line is running out are pinned over the groove in the bow, when all this was observed in him, and particularly his solicitude in having an extra coat of sheathing in the bottom of the boat,
 
 20
-00:02:49,722 --> 00:02:51,203
-"'Can't you twist that smaller?'
+00:02:33,357 --> 00:02:45,414
+as if to make it better withstand the pointed pressure of his ivory limb, and also the anxiety he evinced in exactly shaping the thighboard, or clumsy cleat, as it is sometimes called, the horizontal piece in the boat's bow for bracing.
 
 21
-00:02:51,404 --> 00:02:52,665
-said Flask.
+00:02:45,674 --> 00:02:59,213
+But almost everybody supposed that this particular preparative heedfulness in Ahab must only be with a view to the ultimate chase of Moby Dick, for he had already revealed his intention to hunt that mortal monster in person.
 
 22
-00:02:52,645 --> 00:02:54,050
-Yes, that's the law.
+00:02:59,193 --> 00:03:06,003
+But such a supposition did by no means involve the remotest suspicion as to any boat's crew being assigned to that boat.
 
 23
-00:02:54,211 --> 00:02:58,708
-I should like to see a boat's crew backing water up to a whale face foremost.
+00:03:06,985 --> 00:03:13,995
+Now, with the subordinate phantoms, what wonder remained soon waned away, for in a whaler wonders soon wane.
 
 24
-00:02:59,591 --> 00:03:00,293
-Ha ha!
+00:03:14,656 --> 00:03:25,352
+Besides, now and then such unaccountable odds and ends of strange nations come up from the unknown nooks and ashholes of the earth to man these floating outlaws of whalers,
 
 25
-00:03:00,956 --> 00:03:03,305
-The whale would give them squint per squint.
+00:03:25,332 --> 00:03:43,324
+And the ships themselves often pick up such queer castaway creatures found tossing about the open sea on planks, bits of wreck, oars, whale boats, canoes, blown-off Japanese junks, and whatnot, that Beelzebub himself might climb up the side and step down into the cabin to chat with the captain.
 
 26
-00:03:03,325 --> 00:03:04,208
-Mind that!
+00:03:43,709 --> 00:03:47,195
+and it would not create any unsubduable excitement in the forecastle.
 
 27
-00:03:05,268 --> 00:03:25,555
-Here, then, from three impartial witnesses, I had a deliberate statement of the entire case, considering, therefore, that squalls and capsizings in the water, and consequent bivouacs on the deep, were matters of common occurrence in this kind of life, considering that, at the superlatively critical instant of going on to the whale, I must resign my life
+00:03:47,816 --> 00:04:01,920
+But be all this as it may, certain it is that while the subordinate phantoms soon found their place among the crew, though still as it were somehow distinct from them, yet that hair-turbined fadalla remained a muffled mystery to the last.
 
 28
-00:03:25,535 --> 00:03:35,612
-into the hands of him who steered the boat oftentimes, a fellow who in that very moment is in his impetuousness upon the point of scuttling the craft with his own frantic stampings.
+00:04:01,900 --> 00:04:16,602
+Whence he came in a mannerly world like this, by what sort of unaccountable tie he soon evinced himself to be linked with Ahab's peculiar fortunes, nay, so far as to have some sort of a half-hinted influence, heaven knows,
 
 29
-00:03:36,213 --> 00:03:43,304
-With considering that the particular disaster to our own particular boat was chiefly to be imputed to start—' "'Queequeg,' said I, "'come along.
+00:04:16,649 --> 00:04:18,673
+it might have been even authority over him.
 
 30
-00:03:43,585 --> 00:03:46,750
-You shall be my lawyer, executor, and legatee.
+00:04:19,594 --> 00:04:20,696
+All this none knew.
 
 31
-00:03:48,080 --> 00:03:58,258
-It may seem strange that of all men sailors should be tinkering at their last wills and testaments, but there are no people in the world more fond of that diversion.
+00:04:20,756 --> 00:04:25,545
+But one cannot sustain an indifferent air concerning Fidala.
 
 32
-00:03:58,518 --> 00:04:04,148
-This was the fourth time in my nautical life that I had done the same thing.
+00:04:26,346 --> 00:04:37,847
+He was such a creature as civilized, domestic people in the tempered zone only see in their dreams, and that but dimly, but the like of whom now and then glide among the unchanging Asiatic communities,
 
 33
-00:04:04,128 --> 00:04:12,176
-After the ceremony was concluded upon the present occasion, I felt all the easier, as a stone was rolled away from my heart.
-
-34
-00:04:12,717 --> 00:04:24,309
-Besides, all the days I should now live would be as good as the days that Lazarus lived after his resurrection, a supplementary clean gain of so many months or weeks as the case might be.
-
-35
-00:04:24,349 --> 00:04:30,135
-I survived myself, my death and burial were locked up in my chest,
-
-36
-00:04:30,115 --> 00:04:39,737
-I looked round me tranquilly and contentedly, like a quiet ghost with a clean conscience, sitting inside the bars of a snug family vault.
-
-37
-00:04:40,238 --> 00:04:51,904
-Now then, thought I, unconsciously rolling up the sleeves of my frock, here goes for a cool, collected dive at death and destruction, and the devil fetched the hindmost.
+00:04:37,827 --> 00:05:06,079
+especially the Oriental Isles to the east of the continent, those insulated, immemorial, unalterable countries, which even in these modern days still preserve much of the ghostly aboriginalness of Earth's primal generations, when the memory of the first man was a distinct recollection, and all men his descendants, unknowing whence he came, eyed each other as real phantoms, and asked of the sun and the moon why they were created, and to what end, when though, according to Genesis, the angels
 

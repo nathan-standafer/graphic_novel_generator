@@ -1,672 +1,187 @@
 [
   {
     "segment_index": 0,
-    "segment_text": "CHAPTER XLII.",
-    "image_prompt": "A haunting 19th‑century oil painting in a dark, moody palette: the storm‑laden deck of the Pequod under a bruised twilight sky, waves lashing against the hull. In the foreground, Captain Ahab stands rigid, eyes fixed on an unseen, blinding white shape above—a spectral whale looming beyond the horizon. Ishmael, beside him, leans over a weather‑scarred chart, his expression grave, as distant gulls cry overhead. The composition evokes dread and obsession, rendered with heavy impasto brushwork and muted chiaroscuro."
+    "segment_text": "Chapter 43 Hark!",
+    "image_prompt": "Moonlit quarterdeck at sea, deep navy shadows and charcoal mist; a cordoned line of silent seamen in rough wool coats pass weathered buckets from freshwater butts to the scuttlebutt under the tafrail. A hushed hush broken only by distant sail flaps and the keel’s steady hum. In the dim glow, Archie whispers “Hark!” toward Acholo near the after‑hatches, eyes bright with wary anticipation. Romantic realism, 19th‑century maritime illustration."
   },
   {
     "segment_index": 1,
-    "segment_text": "THE WHITENESS OF THE WHALE.",
-    "image_prompt": "A moonlit deck of the Pequod, slick with rain, where Captain Ahab stands in a storm‑gloomed haze, his silhouette stark against a vast, pallid sea that seems to stretch into endless white. The leviathan’s colossal shadow looms just beyond the horizon, its skin a ghostly alabaster, casting an eerie, cold glow on the crew below. The scene is rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Hissed!",
+    "image_prompt": "A moonlit quarterdeck of a 19th‑century whaling ship, navy and charcoal tones dominate. Silent seamen in tight cordon pass buckets under the after‑hatches, their silhouettes sharp against deep shadows. One sailor whispers “Hissed” to his companion, tension crackling like distant knitting needles. The atmosphere is moody, high‑contrast Romantic realism with fine linework, subtle paper grain, and chiaroscuro lighting capturing the quiet dread of unseen dangers."
   },
   {
     "segment_index": 2,
-    "segment_text": "What the white whale was to Ahab has been hinted what, at times, he was to me, as yet remains unsaid.",
-    "image_prompt": "A somber, moonlit deck of the Pequod draped in a chilling fog, Captain Ahab standing alone, eyes fixed on an unseen leviathan; his silhouette framed by the ship’s lanterns and the ghostly white surf that curls like spectral waves. Ishmael looks on from a distance, clutching his notebook, haunted by the unsaid terror of Moby‑Dick. The oil painting evokes 19th‑century gloom, with muted palette, heavy brushstrokes, and an oppressive sense of foreboding."
+    "segment_text": "Did you hear that noise, Cabico?",
+    "image_prompt": "Moonlit quarterdeck of a 19th‑century whaling ship, deep navy and charcoal tones, sharp chiaroscuro lighting. Seamen in muted dark coats stand in a silent cordon, passing water‑filled buckets from freshwater butts to the scuttlebutt. The air is hushed; only the subtle hum of the keel and occasional sail flap break the silence. In the gloom, Archie whispers, “Did you hear that noise, Cabico?”—a tense moment captured in Romantic realism with fine linework and semi‑realistic gradients."
   },
   {
     "segment_index": 3,
-    "segment_text": "Aside from those more obvious considerations touching Moby Dick, which could not but occasionally awaken in any man's soul some alarm, there was another thought, or rather vague, nameless horror concerning him, which at times, by its intensity, completely overpowered all the rest.",
-    "image_prompt": "A somber, moonlit deck of the Pequod in a dark, moody 19th‑century oil painting: Captain Ahab stands alone, his face gaunt and eyes hollow, staring at an immense, ghostly white whale looming just beyond the horizon. The sea churns with icy foam; fog curls around the mast. Ishmael watches from below, trembling as a vague, nameless horror washes over him, eclipsing all other thoughts of the monstrous creature. The atmosphere is heavy with dread and spectral whiteness."
+    "segment_text": "It was the middle watch, a fair moonlight.",
+    "image_prompt": "Mid‑watch on a calm night, a deep navy sea glistening under a clear moon. On the ship’s quarterdeck, sailors in muted gray coats stand in a quiet cordon, hands moving buckets of water from freshwater butts to scuttlebutt with precise, silent rhythm. The deck is bathed in sharp chiaroscuro, shadows lengthening over wooden planks, evoking 19th‑century whaling tension. Romantic realism style, high contrast, subtle paper grain."
   },
   {
     "segment_index": 4,
-    "segment_text": "And yet so mystical and well-nigh ineffable was it, that I almost despair of putting it in a comprehensible form.",
-    "image_prompt": "A hushed, moonlit deck of the Pequod, its wooden planks slick with sea spray, where Ishmael leans against the railing, eyes fixed on an unseen, vast white whale drifting beyond the horizon. His face is a study in awe and terror, pale under the cold light, hands trembling as he clasps a brass compass. The wind carries faint echoes of distant roars, while a ghostly mist curls around the mast, evoking an ineffable dread. Dark, moody 19th‑century oil painting."
+    "segment_text": "The seamen were standing in a cordon extending from one of the freshwater butts in the waist to the scuttlebutt near the tafrail.",
+    "image_prompt": "A moonlit quarterdeck at night, a tight cordon of weary seamen moving silent buckets from a freshwater butt in the ship’s waist to the scuttlebutt by the tafrail, their shadows elongated over slick deck. The air hums with distant sails; only the soft thud of water and faint creak of wood break the hush. Rendered in romantic realism, deep navy and charcoal tones, sharp chiaroscuro, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century whaling tension."
   },
   {
     "segment_index": 5,
-    "segment_text": "It was the whiteness of the whale that above all things appalled me.",
-    "image_prompt": "A storm‑swept deck at night; Ishmael leans against a rail, eyes fixed on the colossal white hump rising from the dark sea, its skin gleaming like fresh snow under moonlight. The whale’s massive silhouette looms over the Pequod, casting an eerie pallor that chills the air. Ahab watches in silence, his face shadowed, while Starbuck and Stubb stand nearby, their expressions a mix of awe and dread. Dark, moody 19th‑century oil painting."
+    "segment_text": "In this manner they passed the buckets to fill the scuttlebutt.",
+    "image_prompt": "Moonlit quarterdeck of a 19th‑century Nantucket whaler, deep navy and charcoal tones. A silent line of rugged sailors in dark coats passes a water‑laden bucket along a cordon from freshwater butt to scuttlebutt beneath the tafrail. Sharp chiaroscuro highlights their stoic faces, fine linework blending into semi‑realistic gradients; subtle paper grain adds texture, capturing tense, moody Romantic realism of the silent watch."
   },
   {
     "segment_index": 6,
-    "segment_text": "But how can I hope to explain myself here?",
-    "image_prompt": "A solitary figure stands amid a storm‑laden sea, the white whale’s vast silhouette looming behind him, its gleaming skin reflecting bleak moonlight. The narrator—Ishmael—clutching a notebook, gazes at the distant creature with a mix of awe and terror, his face illuminated by flickering lanterns on the deck. The ship’s timbers creak, waves crash, and a sense of impending doom hangs heavy, as he wrestles with words that fail to capture the whale’s chilling presence. 19th‑century oil painting style, dark and moody."
+    "segment_text": "Standing, for the most part, on the hallowed precincts of the quarterdeck, they were careful not to speak or rustle their feet.",
+    "image_prompt": "Silently marching across a moonlit quarterdeck, weary whalers in weather‑worn coats tread with hushed steps beside polished brass buckets; their faces shadowed by deep navy twilight, the ship’s hull glows faintly beneath charcoal waves. A dramatic chiaroscuro highlights the quiet tension, while fine linework and semi‑realistic gradients capture the creaking timbers and subtle paper grain—evoking a moody Romantic realism of 19th‑century whaling."
   },
   {
     "segment_index": 7,
-    "segment_text": "And yet, in some ding, random way, explain myself I must.",
-    "image_prompt": "Ishmael sits alone on the deck of the Pequod at twilight, his face illuminated by a single lantern, eyes reflecting a storm of doubt and determination. He leans against the rail, gripping a worn notebook, as waves crash in the distance. His mind wrestles with an unseen, chaotic truth—an urgent need to articulate it, despite the fear that such explanation might unravel the very fabric of his understanding. Dark, moody 19th‑century oil painting style."
+    "segment_text": "From hand to hand the buckets went in the deepest silence, only broken by the occasional flap of the sail and the steady hum of the unceasingly advancing keel.",
+    "image_prompt": "Silently passing water‑filled buckets along a moonlit quarterdeck, a line of weary seamen in dark navy coats moves with precise, almost reverent motion; only the occasional sail flap and the steady hum of an advancing keel disturb the hush. Romantic realism, 19th‑century whaling ship, deep charcoal tones, sharp chiaroscuro lighting, fine linework blended with subtle gradients, paper grain texture."
   },
   {
     "segment_index": 8,
-    "segment_text": "else all these chapters might be naught.",
-    "image_prompt": "A dim, storm‑shadowed deck of the Pequod at night, where a weary Ishmael sits hunched over crumpled charts and logbooks, his face illuminated by a single lantern flame. The sea roils in a swirling, milky white mist beyond the prow, echoing Moby Dick’s looming presence. Beside him, a battered quill lies abandoned; the air is thick with dread and the sense that without this grim contemplation all chapters would vanish. Dark, moody 19th‑century oil painting."
+    "segment_text": "It was in the midst of this repose that Archie, one of the cordon whose post was near the after-hatches, whispered to his neighbor, Acholo, the words above.",
+    "image_prompt": "A moonlit quarterdeck, deep navy and charcoal hues, a lone bucket line stretches from freshwater butt to scuttlebutt. Quiet seamen in crisp dark coats pass buckets under the faint glow of lanterns, their feet barely moving on the wooden deck. In the hush, Archie—tall, weather‑scarred, near the after-hatches—leans close to Acholo, whispering conspiratorial words. Romantic realism, high contrast chiaroscuro, subtle paper grain, 19th‑century whaling voyage style."
   },
   {
     "segment_index": 9,
-    "segment_text": "Though in many natural objects whiteness refiningly enhances beauty, as if imparting some special virtue of its own, as in marbles, japonicas, and pearls, and though various nations have in some way recognized a certain royal preeminence in this hue, even the barbaric grand old kings of Pegu placing the title Lord of the White Elephants, above all their other magniliquent ascriptions of dominions,",
-    "image_prompt": "A somber, moonlit harbor at dusk, a solitary ship’s deck draped in frost‑white sails glistening like polished marble. In the foreground, an elderly king in crimson robes—his regalia gilded with ivory—holds a carved white elephant on his lap, its translucent skin reflecting a faint celestial glow. The scene is rendered as a dark, moody 19th‑century oil painting, emphasizing stark contrasts of light and shadow to evoke regal grandeur amid chilling silence."
+    "segment_text": "Hissed.",
+    "image_prompt": "A tense night on a 19th‑century whaling ship’s quarterdeck, moonlit and dimly lit by sharp chiaroscuro. Seamen in silent cordon pass buckets between freshwater butts and scuttlebutt, their faces shadowed, hands steady. One sailor whispers “Hissed” to another, eyes darting toward the afterhold. The scene captures the moody, high‑contrast Romantic realism of a Nantucket vessel, deep navy and charcoal tones, fine linework with subtle paper grain."
   },
   {
     "segment_index": 10,
-    "segment_text": "and the modern kings of Siam unfurling the same snow-white quadruped in the royal standard, in the royal standard, and the Hanoverian flag bearing the—this elusive quality it is, which causes the thought of whiteness, when divorced from more kindly associations, and coupled with any object terrible in itself, to heighten that terror to the furthest bounds.",
-    "image_prompt": "A dim, candlelit throne room in a 19th‑century palace, where a solemn king of Siam stands beside his advisors, unfurling a crimson banner emblazoned with a snow‑white quadruped—an imperial horse—while a distant balcony reveals the Hanoverian flag, its white field stark against midnight. The air is heavy with incense and the low murmur of court; shadows cling to gilded walls, amplifying the eerie purity of the flags that evoke terror in their stark, unearthly whiteness. 19th‑century oil painting, dark and moody."
+    "segment_text": "Did you hear that noise, Kabako?",
+    "image_prompt": "Moonlit quarterdeck of the Pequod, deep navy and charcoal tones, sharp chiaroscuro lighting. Silent seamen in a cordon pass buckets along the scuttlebutt, their footsteps hushed beneath the keel’s steady hum. In the hush, Archie leans toward Acholo, whispering “Did you hear that noise, Kabako?” The scene captures tense, atmospheric tension of a 19th‑century whaling voyage in Romantic realism with fine linework and subtle paper grain."
   },
   {
     "segment_index": 11,
-    "segment_text": "Witness the white bear of the poles, And the white shark of the tropics.",
-    "image_prompt": "A moonlit Antarctic horizon bleeds into a storm‑choked sea; a colossal white polar bear—its fur slick and gleaming—rises from icy surf, eyes hollow yet fierce, while a sleek white shark glides beneath the waves, its translucent skin catching faint bioluminescence. The scene is framed by jagged cliffs and swirling gray clouds, evoking dread and awe. Rendered as a dark, moody 19th‑century oil painting, with muted earth tones and stark contrasts to emphasize the uncanny whiteness of both beasts."
+    "segment_text": "Take the bucket, will you, Arki?",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration of a 19th‑century whaling ship’s quarterdeck at moonlit night. Two rough‑handed seamen, Archie and Acholo, stand in a silent cordon near the after‑hatches, passing a water bucket with careful, hushed motions. The deck is bathed in deep navy and charcoal tones; sharp chiaroscuro lights the polished wood and rippling waves beyond the aft. Subtle paper grain adds texture to this tense, quiet moment on the ship."
   },
   {
     "segment_index": 12,
-    "segment_text": "What but their smooth, flaky whiteness Makes them the transcendent horrors they are, That ghastly whiteness it is which imparts Such an abhorrent mildness, even more loathsome Than terrific, to the dumb gloating of their aspect, So that not the fierce-fanged tiger in his heraldic coat Can so stagger courage as the white-shrouded bear or shark",
-    "image_prompt": "A dim, storm‑laden deck of the Pequod at twilight, Captain Ahab standing tall beside Ishmael, both staring out toward a vast, frosted sea where a massive white whale glows like a ghostly moon. The whale’s smooth, flaky skin reflects cold light, casting an eerie pallor over the waves. In stark contrast to a fierce tiger in a heraldic coat, the whale’s milky whiteness evokes a chilling, almost benevolent terror that chills the soul. Dark, moody 19th‑century oil painting."
+    "segment_text": "What noise'd I mean?",
+    "image_prompt": "A moonlit quarterdeck in 19th‑century Nantucket, navy shadows and charcoal tones, a tight cordon of silent seamen passing buckets along the scuttlebutt. A lone figure—Archie—whispers to Acholo, eyes narrowed under lantern glow, as waves hiss over the hull. Dramatic chiaroscuro highlights the bucket’s trembling motion, while distant sails flap faintly. Romantic realism, fine linework with semi‑realistic gradients, subtle paper grain, capturing tense, moody tension of a whaling voyage."
   },
   {
     "segment_index": 13,
-    "segment_text": "Keir referenced to the polar bear, it may possibly be urged by him who would fain go still deeper into this matter, that it is not the whiteness, separately regarded, which heightens the intolerable hideousness of that brute foreanalyzed, that heightened hideousness, it might be said, only rises from the circumstance that the irresponsible ferociousness of the creature stands invested in the fleece of celestial innocence and love,",
-    "image_prompt": "A storm‑laden midnight sea, a lone white whale’s massive, spectral form breaking through frothy waves, its skin gleaming like moonlit ice; the prow of the Pequod cuts a silver line in the darkness, crew frozen on deck, eyes fixed upon the beast whose ferocity is cloaked in celestial whiteness. A muted sky hangs heavy above, hinting at looming dread, all rendered in somber 19th‑century oil style, with deep shadows and subtle glints of pale light to accentuate the terror of the white leviathan."
+    "segment_text": "There it is again.",
+    "image_prompt": "A dim, moonlit quarterdeck of a 19th‑century whaling ship, navy and charcoal tones swirling in high contrast. Seamen stand in silent cordon, passing buckets beneath the aft hatches; their faces pale, eyes narrowed. In the hush, Archie whispers “There it is again,” to Acholo, while distant sails flap. Chiaroscuro highlights a lone bucket glinting, its motion barely audible, evoking tension and mystery in Romantic realism style."
   },
   {
     "segment_index": 14,
-    "segment_text": "and non-heed by bringing together two such opposite emotions in our minds, the polar bear.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Arctic seascape, where a colossal white whale looms against a bruised horizon. In the foreground, a lone polar bear stands on a slick ice floe, its fur shimmering like milk, eyes reflecting both terror and awe. The scene captures the uncanny fusion of innocence and ferocity—white innocence wrapped around raw, primal dread—embodying the poem’s chilling juxtaposition. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Under the hatches.",
+    "image_prompt": "A dim, moonlit quarterdeck of a wooden whaling ship at night, with a silent line of crew in navy coats passing buckets along a cordon from freshwater butts to the scuttlebutt; the deck is lit by sharp chiaroscuro lantern light, shadows deep on the hatches below. A lone sailor whispers under the hatches, his face illuminated in charcoal tones, the hush broken only by distant creaks and the steady hum of the advancing keel—Romantic realism, 19th‑century maritime illustration."
   },
   {
     "segment_index": 15,
-    "segment_text": "But even assuming all this to be true, yet, were it not for the whiteness, you would not have that intensified terror.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy sea at twilight, where a massive white whale breaks the black horizon, its blinding skin reflecting ghostly light. The Pequod’s deck is tense; Captain Ahab stands in front, eyes fixed on the leviathan, his face illuminated by a pale, otherworldly glow that highlights the terror in his expression. Behind, crew members clutch their lines, shivering as waves crash, all under an ominous sky of bruised purples and grays. The scene captures how the whale’s whiteness amplifies dread."
+    "segment_text": "Don't you hear it?",
+    "image_prompt": "A tense midnight quarterdeck scene on a Nantucket whaler, moonlit over calm sea, seamen in silent cordon passing buckets with flickering lantern light. A lone sailor whispers “Don’t you hear it?” to a companion, the air thick with muffled creaks and distant wind hum. Romantic realism, 19th‑century nautical setting, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 16,
-    "segment_text": "As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the polar quadruped.",
-    "image_prompt": "A lone white shark glides silently across a moonlit sea, its pallid skin catching only faint starlight; beside it, an enormous polar bear stands on a jagged ice floe, its fur shimmering like alabaster. The scene is drenched in deep blues and muted grays, with stark shadows hinting at unseen depths. Both creatures exude an eerie, ghostly calm, their white forms contrasting against the bleak, storm‑laden horizon—an unsettling tableau of nature’s cold terror, rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "A cough.",
+    "image_prompt": "A lone, ragged cough echoes across the moonlit quarterdeck as seamen in silent cordon pass buckets; the sound seems like distant sleepers turning over. The ship’s keel hums steadily beneath a dark navy sky. Rendered in moody Romantic realism of 19th‑century whaling era: sharp chiaroscuro, charcoal tones, fine linework with subtle paper grain, capturing tension and eerie silence on the deck."
   },
   {
     "segment_index": 17,
-    "segment_text": "This peculiarity is most vividly hit by the French in the name they bestow upon that fish.",
-    "image_prompt": "A vast, moonlit ocean in a stormy twilight; the white whale rises from deep blue waves, its colossal, translucent body glistening like alabaster. A lone French sailor, cloaked in tattered sea‑garments, points toward the leviathan, his hand trembling as he declares the creature “Rayquine.” The ship’s lanterns cast a pale glow on frothy spray; distant gulls cry against a bleak horizon. Dark, moody 19th‑century oil painting style."
+    "segment_text": "It sounded like a cough.",
+    "image_prompt": "A lone bucket on the moonlit quarterdeck of the Pequod shivers as if coughing; its wooden rim rattles against damp stone, echoing across silent, shadowed decks where seamen in dark coats stand still, eyes flickering to the horizon. The scene is rendered in Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain—evoking 19th‑century whaling tension."
   },
   {
     "segment_index": 18,
-    "segment_text": "The Romish Mass for the dead begins with Requiem, Aeternam minus Aeternal Rest, whence our Requiem denominating the Mass itself, and any other funeral music.",
-    "image_prompt": "A dimly lit Roman Catholic chapel in the 19th‑century, its vaulted ceiling pierced by stark stained‑glass windows casting fractured light on stone walls. A wooden altar bears a silver crucifix and an open hymnal whose first page reads “Requiem, Aeternam,” inked in solemn script. Two mourners—perhaps Ishmael and Queequeg—stand bowed, their faces pale against the dark velvet drapes, while a choir’s hushed voices echo the funeral hymn. The scene is rendered as a dark, moody oil painting of that era."
+    "segment_text": "Cough.",
+    "image_prompt": "A quiet quarterdeck under a deep navy moon, charcoal‑shaded sails creaking. Seamen in muted coats line a cordon, silent buckets moving hand to hand. One sailor, Archie, leans close to Acholo and whispers “Cough.” A single sharp cough echoes across the deck, faint but unmistakable, cutting through the hush. The illustration captures the tense stillness, chiaroscuro lighting on rough wooden planks, subtle paper grain—Romantic realism, 19th‑century whaling voyage."
   },
   {
     "segment_index": 19,
-    "segment_text": "Now, in allusion to the white, silent stillness of death in this shark, and the mild deadliness of his habits, the French call him Rayquine.",
-    "image_prompt": "A lone, ghost‑white great white shark glides silently beneath moonlit waves, its translucent skin gleaming like parchment. The sea around it shimmers with cold, silver light, evoking the stillness of death. A subtle, mournful mist curls at its fins, hinting at the French name “Rayquine.” In a dark, moody 19th‑century oil painting style, chiaroscuro highlights the creature’s eerie serenity against a stormy horizon, capturing the chilling calm of a silent predator."
+    "segment_text": "Be damned.",
+    "image_prompt": "A moonlit quarterdeck at sea, navy shadows and charcoal tones casting sharp chiaroscuro on silent, soot‑stained crew. Seamen, in tight cordon, hand buckets across the deck toward a scuttlebutt; their faces tense, eyes darting to the after-hatches. One sailor whispers “Be damned,” breaking the hush with a low, urgent tone. The scene feels like 19th‑century Romantic realism—fine linework blended with semi‑realistic gradients and subtle paper grain, capturing tense maritime suspense."
   },
   {
     "segment_index": 20,
-    "segment_text": "Bethink thee of the albatross!",
-    "image_prompt": "A lone albatross, wings spread wide, glides over a mist‑cloaked Antarctic horizon, its pure white plumage stark against storm‑swept clouds and frosted sea. The creature’s solemn grace evokes ancient dread, as if bearing the weight of unseen ghosts. In this moody 19th‑century oil painting, subtle chiaroscuro highlights the bird’s feathered contours, casting long shadows on the wavering waves below, while a distant ship’s lantern flickers like a lone hope in the gloom. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Pass along that return bucket.",
+    "image_prompt": "A moonlit quarterdeck of a 19th‑century whaler, navy and charcoal hues shrouding the hull’s silhouette. Silent seamen in dark, weathered uniforms form a cordon, hands passing a water‑laden bucket from one freshwater butt to the scuttlebutt beneath the tafrail. Sharp chiaroscuro casts long shadows across polished wood; fine linework meets semi‑realistic gradients on paper grain, capturing the tense hush of night and the whispered command: “Pass along that return bucket.” Romantic realism, 1800s."
   },
   {
     "segment_index": 21,
-    "segment_text": "Whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?",
-    "image_prompt": "A dark, moody 19th‑century oil painting: a vast, storm‑clouded ocean at dusk, with thick, swirling gray and white clouds forming an almost ethereal veil. In the center, a gigantic white whale glides silently, its pale flesh illuminated by faint moonlight, evoking both awe and terror. Around it, ghostly silhouettes of ships and distant horizon suggest silent dread. The scene captures Ishmael’s trembling awe as the “white phantom” sails in all imaginations. 19th‑century oil painting style."
+    "segment_text": "There again.",
+    "image_prompt": "A moonlit quarterdeck of a whaling ship, charcoal navy sky and deep shadows, seamen in silent cordon passing water‑filled buckets beneath a low scuttlebutt. Two rugged men—Archie and Acholo—whisper “There again” amid the hush, their faces illuminated by sharp chiaroscuro lantern light. Fine linework blends into semi‑realistic gradients, subtle paper grain accentuating tension of a 19th‑century maritime tableau in Romantic realism."
   },
   {
     "segment_index": 22,
-    "segment_text": "Not Coleridge first threw that spell, but God's great, unflattering laureate, Nature.",
-    "image_prompt": "A storm‑laden deck of the Pequod at twilight, waves churning white as bone against black iron rails; Ishmael stands alone, eyes fixed on a vast, ghostly albatross that rises from the frothy sea, wings spread like pale banners. The scene is heavy with foreboding: a dark, moody 19th‑century oil painting style, muted earth tones punctuated by stark white, capturing Nature’s sublime, unflattering spell over the sailors and their doomed voyage."
+    "segment_text": "There it is.",
+    "image_prompt": "A dimly lit quarterdeck under a deep navy moon, shadowy sailors in silent cordon passing buckets along the scuttlebutt with sharp chiaroscuro lighting. One man whispers “There it is” to his neighbor amid muffled creaks and distant sea hum, their faces illuminated by charcoal streaks of lantern flame. The scene captures tense 19th‑century whaling realism, moody high contrast, fine linework blended with semi‑realistic gradients, subtle paper grain. Romantic realism, 1800s nautical setting."
   },
   {
     "segment_index": 23,
-    "segment_text": "Cur, I remember the first albatross I ever saw.",
-    "image_prompt": "A shadowed deck in a stormy Atlantic night, an elderly mariner (Ishmael) clutches a weather‑worn albatross perched on the rail, its alabaster plumage glinting against bruised canvas and looming waves. The crew—Captain Ahab, Queequeg, Starbuck—watch from below, faces etched with dread. Dark, brooding clouds swirl above; muted oil strokes emphasize bleakness and the uncanny, almost spectral presence of the bird. 19th‑century oil painting style, moody and ominous."
+    "segment_text": "It sounds like two or three sleepers turning over.",
+    "image_prompt": "A dim quarterdeck at night, moonlight slicing the ship’s hull in sharp navy and charcoal. Seamen stand silent in a cordon, passing buckets under a heavy canvas sail. A lone figure whispers: “It sounds like two or three sleepers turning over.” The scene captures tension with chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—Romantic realism of a 19th‑century whaling voyage."
   },
   {
     "segment_index": 24,
-    "segment_text": "It was during a prolonged gale, in waters hard upon the Antarctic seas, from my Fornian watch below.",
-    "image_prompt": "A lone, weather‑torn schooner battles towering white waves under a stormy sky; a figure in a tattered cap stands on the foredeck, eyes fixed on the abyssal Antarctic sea. Dark clouds swirl above, their light reflecting off frothy surf that crashes against iron hulls. The scene is rendered as a 19th‑century oil painting, with heavy chiaroscuro and muted blues, evoking a bleak, moody maritime struggle in a relentless gale."
+    "segment_text": "Now.",
+    "image_prompt": "A tense quarterdeck at moonlit night, a line of silent seamen in dark navy coats passing water‑filled buckets along the deck’s edge, their faces shadowed by sharp chiaroscuro. In the foreground, Archie whispers to Acholo amid muted sail creaks and the steady hum of the keel, eyes wide with anticipation. The scene is rendered in Romantic realism, deep charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century whaling atmosphere."
   },
   {
     "segment_index": 25,
-    "segment_text": "I ascended to the overclouded deck, and there, dashed upon the main hatches, I saw a regal, feathery thing of unspotted whiteness, and with a hoped Roman bill sublime.",
-    "image_prompt": "A lone figure climbs an overcast, wind‑blasted deck in a 19th‑century whaling ship; the sky is bruised gray, waves crash below. In the foreground, an enormous albatross with pure, unspotted white plumage glides onto the main hatches, its long bill gleaming like a silver Roman sword. The scene is bathed in muted oil tones, heavy shadows, and the oppressive atmosphere of a stormy sea—dark, moody 19th‑century oil painting style."
+    "segment_text": "Caramba!",
+    "image_prompt": "A tense midnight scene on the ship’s quarterdeck, moonlit and shadowed in deep navy and charcoal. Silhouetted crew members in a silent cordon pass water‑filled buckets beneath the after‑hatches; their faces are gaunt, eyes wide with whispered “Caramba.” Sharp chiaroscuro highlights the gleam of rope and the faint glow of lanterns, capturing 19th‑century whaling realism in moody, high‑contrast illustration. Romantic realism, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 26,
-    "segment_text": "At intervals it arched forth its vast archangel wings, as if to embrace some holy ark.",
-    "image_prompt": "A massive, alabaster leviathan rises from a storm‑laden sea, its enormous, feathered wings unfurling in slow, majestic arcs that seem to cradle a celestial ark above the waves. The moonlit horizon bleeds into deep blues and grays, while distant breakers crash against unseen rocks. In a dark, moody 19th‑century oil painting style, the whale’s gleaming skin reflects faint starlight, evoking both awe and an unsettling dread of its divine yet terrifying presence."
+    "segment_text": "Have done, shipmate, will ye?",
+    "image_prompt": "A tense mid‑night scene on a 19th‑century Nantucket whaler’s quarterdeck: silent seamen in navy and charcoal uniform, hands passing a weathered bucket under moonlight, the deck creaking softly; a lone figure, Archie, whispers to a nearby sailor with sharp eyes. Moody, high‑contrast Romantic realism, deep navy and charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—capturing the quiet suspense of a whaling voyage."
   },
   {
     "segment_index": 27,
-    "segment_text": "Wondrous flutterings and throbbings shook it.",
-    "image_prompt": "A moonlit deck in a storm‑swept schooner, the great white albatross perched amid swirling dark clouds. Its enormous wings unfurl in thunderous, trembling arcs, sending ripples of wind across the weathered hull. The crew watches in hushed awe as the bird’s feathers flash like pale banners against the black sea, its heart beating with a mysterious, otherworldly rhythm that chills the air. Rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "It's the three soaked biscuits ye eat for supper turning over in sight of ye.",
+    "image_prompt": "A moonlit quarterdeck of the Pequod, a narrow cordon of hushed sailors in navy and charcoal hues, their silhouettes outlined by sharp chiaroscuro light from lanterns. In the center, a weathered wooden bucket passes silently between two men—Archie and Acholo—whose faces are tense, ears pricked to the faint rustle that mimics three soaked biscuits turning over. The scene evokes 19th‑century whaling tension in Romantic realism with subtle paper grain."
   },
   {
     "segment_index": 28,
-    "segment_text": "Though bodily unharmed, it uttered cries, as some king's ghost in supernatural distress, through its inexpressible strange eyes.",
-    "image_prompt": "A trembling white whale breaches a storm‑laden sea, its massive body shrouded in billowing gray clouds. Its gaping maw opens to emit mournful cries that echo like a king’s spectral lament, while the creature’s luminous, inscrutable eyes stare through the darkness, reflecting the moon’s pale light. Around it, swirling waves crash against jagged cliffs, and distant ships loom helplessly beneath a foreboding sky—an ominous 19th‑century oil painting in a dark, moody style."
+    "segment_text": "Nothing else.",
+    "image_prompt": "Quiet midnight on the quarterdeck of a 19th‑century whaler, moonlight silvering the hull. Seamen in hushed line pass water buckets in silent rhythm, their boots barely stirring the deck. A lone figure, Archie, leans close to his mate Acholo, whispering frantic words about a mysterious cough heard below the hatches. The scene is moody, high‑contrast Romantic realism with deep navy and charcoal tones, chiaroscuro lighting, fine linework, semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 29,
-    "segment_text": "Methought I peeped to secrets which took cold of God.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Ishmael stands on a storm‑tossed deck under brooding clouds, his face illuminated by the pale glow of a distant white whale glimmering in the icy sea. He gazes upward, eyes wide with awe, as if he sees divine secrets revealed by the creature’s cold, celestial whiteness. The ship creaks around him; waves crash like thunder, yet the whale’s radiant light casts an ethereal chill over the scene, evoking a godly revelation."
+    "segment_text": "Look to the bucket.",
+    "image_prompt": "Moonlit quarterdeck of a Nantucket whaler, navy and charcoal tones, high‑contrast chiaroscuro. Seamen in silent cordon pass a weathered bucket along the scuttlebutt, their silhouettes sharp against the dark hull. A lone figure—Archie—whispers to a neighbor, eyes fixed on the bucket, as distant sails flap. Fine linework meets semi‑realistic gradients, subtle paper grain. Romantic realism, 19th‑century maritime tension."
   },
   {
     "segment_index": 30,
-    "segment_text": "As Abraham before the angels, I bowed myself the white thing was so white, its wings so wide, and in those forever exiled waters, I had lost the miserable warping memories of traditions and of towns.",
-    "image_prompt": "A lone mariner kneels on a storm‑tossed deck beneath a vast, white sky; his bowed figure dwarfed by an enormous albatross whose wings unfurl like celestial banners. The gull’s alabaster plumage glows against the bruised sea, while distant waters blur into a milky abyss. In this dark, moody 19th‑century oil painting, the scene evokes Abraham’s reverence before angels, capturing the white creature’s overwhelming purity amid forgotten horizons."
+    "segment_text": "Say what ye will, shipmate.",
+    "image_prompt": "A hushed, moonlit quarterdeck of the Pequod, deep navy and charcoal tones dominate. Seamen in a silent cordon pass buckets between freshwater butts and scuttlebutt, their silhouettes sharp against chiaroscuro lighting. The focal point is Archie whispering to Acholo: “Say what ye will, shipmate.” Fine linework captures tense faces, semi‑realistic gradients reveal the gleam of bucket metal, subtle paper grain adds texture—Romantic realism, 19th‑century whaling voyage."
   },
   {
     "segment_index": 31,
-    "segment_text": "Long I gazed at that prodigy of plumage.",
-    "image_prompt": "A dim deck under stormy clouds, Captain Ahab and Ishmael lean over the ship’s railing, their faces illuminated by a lone albatross gliding above in stark white plumage. The bird’s wings spread wide like an ominous halo, its pale feathers shimmering against the dark sea. A somber wind stirs the mast; the crew’s silhouettes loom in shadowed gloom, all watching the ethereal prodigy that seems both angelic and foreboding. Dark, moody 19th‑century oil painting."
+    "segment_text": "I've sharp ears.",
+    "image_prompt": "A tense midnight scene on a 19th‑century whaling ship’s quarterdeck: moonlit, deep navy and charcoal tones bathe the deck, shafts of lantern light cutting shadows in stark chiaroscuro. Silent seamen in rough wool coats pass heavy water buckets along a cordon from freshwater butt to scuttlebutt, their feet muffled on stone. In the hush, a weary sailor—Archie—leans close to his neighbor, whispering “I’ve sharp ears,” his breath visible in the cool night air. Romantic realism, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 32,
-    "segment_text": "I cannot tell, can only hint, the things that datter through me then.",
-    "image_prompt": "A lone figure in a storm‑laden deck of the Pequod, his face gaunt and eyes wide with dread, leans over the railing as if listening to an unseen voice. The sea churns black beneath, illuminated by flickering lanterns; distant mist curls around the ship’s hull. In the background, a vast white silhouette looms on the horizon—Moby Dick, barely visible through swirling vapor. The mood is tense, oppressive, and the scene feels like a chiaroscuro oil painting from the 19th century, dark and moody."
+    "segment_text": "Ay, you are the chap, ain't ye, that heard the hum of the old Quakeress's knitting needles fifty miles at sea from Nantucket, you're the chap.",
+    "image_prompt": "A tense midnight scene on a 19th‑century whaling ship’s quarterdeck under a deep navy sky. Silent seamen in fine linework pass buckets along a cordon, their silhouettes sharply lit by moonlight and the dim glow of lanterns. One sailor whispers to another, eyes wide, as faint, ghostly knitting needles hum in the distance. Moody chiaroscuro, Romantic realism style with subtle paper grain and charcoal tones captures the eerie silence and anticipation."
   },
   {
     "segment_index": 33,
-    "segment_text": "But at last I awoke in turning, asked a sailor what bird was this.",
-    "image_prompt": "A dim deck of the Pequod under storm‑clouds, the weary narrator—Ishmael—facing a startled sailor as he lifts an enormous, unspotted albatross in its pristine white plumage, wings spread like ghostly banners. The gull‑scarred hull and cracked timbers set a bleak maritime tableau; muted oil tones capture salt spray and moonlit waves. Both figures stare into the bird’s pale eyes, tension thick in the air—dark, moody 19th‑century oil painting."
+    "segment_text": "Grin away, we'll see what turns up.",
+    "image_prompt": "A dim quarterdeck under a silver moon, crew in silent cordon passing buckets along the scuttlebutt. In the shadows near after‑hatches, Archie whispers to Acholo amid hushed rustles and distant keel hum. Their faces pale, eyes darting; a faint cough echoes like turning biscuits. The scene captures tension: deep navy, charcoal tones, sharp chiaroscuro, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century Romantic realism."
   },
   {
     "segment_index": 34,
-    "segment_text": "A gunny, he replied.",
-    "image_prompt": "A dimly lit deck at twilight, waves lapping against iron ribs; a rugged sailor, face weather‑scarred, points toward the horizon where a white albatross (the “gunny”) soars above a stormy sea. Ishmael, young and attentive, listens in hushed awe as the sailor explains its name. The ship’s lanterns cast long shadows, their amber glow reflecting off wet planks, while the cold wind carries the scent of brine and distant gulls—an ominous, 19th‑century oil painting style."
+    "segment_text": "Hark ye, Cavico, there is somebody down in the afterhold that has not yet been seen on deck, and I suspect our old mogul knows something of it too.",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration set aboard a 19th‑century whaling ship at night. In deep navy and charcoal tones, sharp chiaroscuro lighting reveals a dimly lit afterhold with creaking bulkheads, a lone figure whispering to another amid the shadowy hull. Fine linework blends into semi‑realistic gradients, subtle paper grain adds texture. The tension of secretive conversation is captured as the ship’s keel advances, echoing distant thunder."
   },
   {
     "segment_index": 35,
-    "segment_text": "Gunny!",
-    "image_prompt": "A storm‑swept deck of the Pequod, moonlight flickering off salt‑crusted hull, a lone white albatross (Gunny) perched atop a wooden hatch, wings spread in an ethereal arc. Below, Ishmael and Queequeg stare, eyes wide with awe; Captain Ahab watches from the helm, expression grave. Dark, brooding clouds loom overhead, shadows lengthening across weathered timbers. Rendered as a 19th‑century oil painting: muted grays, deep blues, stark contrasts, evoking a moody, foreboding maritime tableau."
+    "segment_text": "I heard Stubb tell Flask, one morning watch, that there was something of that sort in the wind.",
+    "image_prompt": "Night‑shrouded quarterdeck at dawn, two rough‑eyed whalers—Stubb in his weather‑worn coat and Flask with a knitted scarf—stand beneath a pale moonlit sky over the Atlantic. A faint gale rattles rigging; their hushed voices echo across the deck, hinting at unseen menace. Moody, high‑contrast Romantic realism: deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blending into semi‑realistic gradients, subtle paper grain, 19th‑century whaling atmosphere."
   },
   {
     "segment_index": 36,
-    "segment_text": "Never had heard that name before.",
-    "image_prompt": "A dim, storm‑laden deck in a 19th‑century whaling ship; Ishmael, eyes wide with awe, leans over the railing as a gull‑winged albatross lands beside him. Queequeg watches, his face pale and solemn. The sea roils like black oil beneath a bruised sky. A hushed voice—“Never had heard that name before”—echoes, capturing Ishmael’s stunned realization of the bird’s mysterious moniker, all rendered in dark, moody oil."
-  },
-  {
-    "segment_index": 37,
-    "segment_text": "Is it conceivable that this gory thing is utterly unknown to men ashore?",
-    "image_prompt": "A dim, storm‑laden deck at night, oil painting in 19th‑century style: Ishmael stands alone beneath flickering lanterns, eyes fixed on a vast, gory white whale’s translucent silhouette rising from the black Atlantic. The creature’s skeletal fin cuts through moonlit waves, its monstrous maw half‑open, emitting an eerie glow. In the background, Ahab’s silhouette looms over the mast, his face gaunt and determined, while Queequeg watches silently from a nearby bunk. The scene exudes dread, mystery, and the unknowable terror of the sea."
-  },
-  {
-    "segment_index": 38,
-    "segment_text": "Never.",
-    "image_prompt": "A shadowed deck at dusk, Captain Ahab in tattered greatcoat stands amid swirling white foam, his eyes blazing with relentless fury; Ishmael, a young sailor, kneels beside him, hand raised in defiance, whispering “Never.” The storm‑raked sky bleeds into the sea, each wave a ghostly sheet of milk‑white terror. A 19th‑century oil painting style, dark and moody, captures the oppressive dread and stubborn resolve of the doomed crew."
-  },
-  {
-    "segment_index": 39,
-    "segment_text": "But some time after I learned that Gunny was some seaman's name for Albatross.",
-    "image_prompt": "A lone deck of the Pequod at twilight, a weather‑worn mast silhouetted against a stormy sky. In the foreground, Ishmael kneels beside a battered wooden crate marked “Gunny,” the sea’s spray curling around his boots. Beside him, Queequeg, half‑clothed in tattered furs, peers at the crate with wary eyes. A distant albatross glides above, its white wings stark against the bruised clouds, evoking a sense of foreboding. Rendered as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 40,
-    "segment_text": "so that by no possibility could Coleridge's wild rhyme have had aught to do with those mystical impressions which were mine, when I saw that bird upon our deck.",
-    "image_prompt": "A moonlit deck of the Pequod, shrouded in cold mist; a lone albatross perched on a weather‑worn rail, its white plumage stark against the stormy sky. Captain Ahab watches from afar, his silhouette tense and brooding. Ishmael stands beside him, pen poised, eyes fixed on the bird, yet distant thoughts of Coleridge’s verse clouded by personal awe. The scene is rendered in dark, moody 19th‑century oil style, with muted grays and deep shadows."
-  },
-  {
-    "segment_index": 41,
-    "segment_text": "For neither had I then read the rhyme, nor knew the bird to be an albatross.",
-    "image_prompt": "A lone seaman stands on a rickety wooden deck, wind howling over the turbulent Atlantic. Dark clouds swirl around a towering mast, while a brilliant white albatross arcs across the sky, its wings unfurled like an angelic banner. The sailor’s eyes widen in astonishment, yet his face shows bewilderment—he has never read Coleridge’s rhyme nor recognised this majestic bird. A somber, 19th‑century oil painting style, rich shadows and muted tones capture the moment of awe and ignorance."
-  },
-  {
-    "segment_index": 42,
-    "segment_text": "Yet, in saying this, I do but indirectly burnish a little brighter the noble merit of the poem and the poet.",
-    "image_prompt": "A solitary figure stands on a storm‑laden deck, his back to the yawning sea, hands clasped over a weathered book whose pages flutter in a gale. The horizon is a bruised gray, waves like blackened lashes. He gazes upward toward a distant, misty sky where faint words of poetry seem to rise from the water—an ethereal glow illuminating his solemn face. Dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 43,
-    "segment_text": "I assert, then, that in the wondrous bodily whiteness of the bird chiefly lurks the secret of the spell, and truth the more evinced in this, that by a solacism of terms there are birds called grey albatrosses, and these I have frequently seen, but never with such emotions as when I beheld the Antarctic fowl.",
-    "image_prompt": "A lone albatross glides over a storm‑laden, moonlit sea, its immaculate white plumage stark against bruised sky and rolling waves; the bird’s eyes reflect a distant, almost supernatural light. In the background, jagged cliffs loom, shrouded in mist, while faint silhouettes of other grey birds drift on the horizon. The scene exudes an eerie, melancholic awe—an 19th‑century oil painting in dark, moody tones that captures the haunting allure of the Antarctic fowl."
-  },
-  {
-    "segment_index": 44,
-    "segment_text": "But how had the mystic thing been caught?",
-    "image_prompt": "A storm‑swept deck at twilight, a lone harpooneer in tattered canvas, lunging with a gleaming iron spear toward the massive, milky bulk of the white whale breaking the waves below. Lightning flashes illuminate the trembling sails and the white beast’s translucent flesh, its eyes wide with terror. Dark clouds swirl overhead, casting a brooding gloom over the scene, rendered as a 19th‑century oil painting in a dark, moody style."
-  },
-  {
-    "segment_index": 45,
-    "segment_text": "Whisper it not, and I will tell With a treacherous hook and line, As the fowl floated on the sea.",
-    "image_prompt": "A lone deckhand in ragged wool coat grips a long, twisted iron hook, the tip tipped with gleaming steel. Below him, an enormous white albatross lies limp on a battered rope, its vast wings flattened against the rough wood. The moonlit Atlantic stretches bleakly beyond, waves crashing like silvered drums. In the background, a storm‑laden sky bleeds dark clouds, while a ghostly ship silhouette hovers at sea’s edge—an ominous 19th‑century oil painting of dread and solitude."
-  },
-  {
-    "segment_index": 46,
-    "segment_text": "At last the captain made a postman Of it, tying a lettered leathern tally Round its neck, with the ship's time and place, And then letting it escape.",
-    "image_prompt": "A 19th‑century oil painting in a dark, moody style: Captain Ahab, gaunt and fierce, stands on the creaking deck of the Pequod, his eyes fixed upon a massive white whale as it breaks the stormy horizon. He grips a leather tally—etched with the ship’s date and coordinates—and releases it into the turbulent sea, where it drifts like a spectral banner against swirling gray clouds. The scene is charged with tension, foreboding, and the looming dread of the great white."
-  },
-  {
-    "segment_index": 47,
-    "segment_text": "But I doubt not That leathern tally meant for man Was taken off in heaven.",
-    "image_prompt": "A somber, moonlit deck of the Pequod, shadows cast by flickering lanterns; a weather‑battered crew gathers around a massive white whale’s carcass. In the foreground, a leather tally—once affixed to the beast’s flank—hangs limp in a sailor’s trembling hand, as if severed from earthly grasp and lifted toward an unseen celestial realm. The whale’s pale, ghostly body glows against a stormy horizon, while distant stars gleam like mournful eyes in a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 48,
-    "segment_text": "when the white fowl flew to join the wing-folding, the invoking, and adoring cherubim.",
-    "image_prompt": "A lone white albatross soars above a storm‑laden Atlantic deck, its vast wings unfurled like angelic banners. Below, the Pequod’s weathered hull creaks under a brooding sky, waves churning in deep blues and grays. The bird’s pallid plumage glows faintly against the darkness, evoking cherubim in motion—an ethereal summons of celestial grace amid the sea’s relentless menace. Render this scene as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 49,
-    "segment_text": "Most famous in our Western annuals and Indian traditions is that of the white steed of the prairies, a magnificent milk-white charger.",
-    "image_prompt": "A vast, wind‑blasted prairie at twilight, shrouded in a low, milky fog. In the center stands a magnificent milk‑white charger, its sleek coat glowing like moonlight on snow, muscles rippling beneath the pale hue. A lone rider—perhaps a stoic Indian hunter—climbs atop, eyes fixed ahead as if sensing an unseen threat. The sky is bruised with storm clouds, casting deep shadows across the grass, while distant silhouettes of trees loom like ghostly sentinels. 19th‑century oil painting style, dark and moody."
-  },
-  {
-    "segment_index": 50,
-    "segment_text": "large-eyed, small-headed, glove-chested, and with the dignity of a thousand monarchs in his lofty, overscorning carriage.",
-    "image_prompt": "A lone white horse stands on a mist‑shrouded plain, its large eyes glittering like polished opals, head small and dignified, chest wrapped in pristine gloves of snow. Its hooves gleam with a regal sheen, as if forged from silver. The creature exudes the aura of a thousand monarchs, bearing an oversized, ornate carriage that seems to float above the earth—an ethereal, 19th‑century oil painting, dark and moody, evoking sublime terror and awe."
-  },
-  {
-    "segment_index": 51,
-    "segment_text": "He was the elected Xerxes of vast herds of wild horses, whose pastures in those days were only fenced by the rocky mountains and the Alleghenies.",
-    "image_prompt": "A lone, milk‑white leviathan strides across a stark, moonlit plain, its massive form echoing a regal steed—Xerxes among wild horses—surrounded by jagged mountain ridges and distant Allegheny peaks. The sky is bruised with storm clouds, casting an ominous pall over the creature’s smooth alabaster hide, which glows like polished marble. In the foreground, faint hoof‑prints in snow hint at a herd that vanished into mist, all rendered in dark, moody 19th‑century oil style."
-  },
-  {
-    "segment_index": 52,
-    "segment_text": "At their flaming head he westward trooped it like that chosen star which every evening leads on the hosts of life.",
-    "image_prompt": "A lone white stallion, its mane blazing crimson against the dusk, strides across an endless prairie toward the horizon. The rider, Captain Ahab in tattered coat, gazes eastward as the sun sets, casting a golden halo around the horse’s head. In the background, ghostly silhouettes of ship‑rigged sails and distant gulls form a celestial host, each feathered figure echoing the starry path that guides them toward an unseen destiny. The scene is rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 53,
-    "segment_text": "The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver beaters could have furnished him.",
-    "image_prompt": "A lone white steed stands in the moonlit deck of the Pequod, its mane a glittering cascade that ripples like liquid silver, and its tail curls into a comet‑shaped plume. The creature is adorned with ornate gold‑and‑silver housings that gleam brighter than any earthly treasure. In the dark, moody 19th‑century oil style, the horse’s radiant white coat contrasts starkly against the stormy sea, evoking awe and foreboding."
-  },
-  {
-    "segment_index": 54,
-    "segment_text": "A most imperial and archangelical apparition of that unfallen western world, which to the eyes of the old trappers and hunters revived the glories of those primeval times when Adam walked majestic as a god,",
-    "image_prompt": "A lone white horse strides across a moonlit prairie, its coat gleaming like freshly fallen snow under a storm‑clouded sky. The scene is set in the late 19th century, with rugged, weathered trappers and hunters watching from a dimly lit campfire, their silhouettes etched against the twilight. The horse’s majestic presence evokes Adamic grandeur, stirring primal awe in the onlookers as thunder rolls over distant hills. Rendered in dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 55,
-    "segment_text": "bluff-browed and fearless as this mighty steed, whether marching amid his aides and marshals in the van of countless cohorts that endlessly streamed it over the plains, like in Ohio, whether with his circumambient subjects browsing all around at the horizon,",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a lone white warhorse, its mane glistening like milk, standing at the forefront of an advancing army on rolling plains. The steed’s brow is furrowed and fearless as it strides through ranks of soldiers and banners, their silhouettes blurred in dusk light. Behind, a misty horizon stretches over Ohio‑like fields, while distant troops trail in gray, echoing the lone horse’s imposing, noble terror. Style: 19th‑century oil, dramatic chiaroscuro."
-  },
-  {
-    "segment_index": 56,
-    "segment_text": "The white steed gallopingly reviewed them with warm nostrils reddening through his cool milkiness.",
-    "image_prompt": "A moonlit deck of the Pequod, where Captain Ahab’s obsidian eyes stare at a colossal white whale, its milky body rippling like a phantom steed across the turbulent Atlantic. The creature’s nostrils flare with warm crimson against its pallid flesh, casting an eerie glow on trembling Ishmael and Queequeg below. Dark, swirling clouds loom overhead, reflecting a 19th‑century oil painting style—heavy chiaroscuro, muted palette, and a palpable sense of looming dread."
-  },
-  {
-    "segment_index": 57,
-    "segment_text": "Sin, whatever aspect he presented himself, always to the bravest Indians he was the object of trembling reverence and awe.",
-    "image_prompt": "A dimly lit ship’s galley in the deep blue sea, where Captain Ahab, gaunt and fierce, stands before a looming white whale silhouette that casts an eerie pallor over the deck. Indians, their faces carved with fear, bow reverently as Ahab’s eyes blaze with obsession. The oil painting is heavy with chiaroscuro, 19th‑century style, shadows pooling across weathered wood, capturing a moment of trembling awe in a dark, moody atmosphere."
-  },
-  {
-    "segment_index": 58,
-    "segment_text": "Nor can it be questioned, from what stands on legendary record of this noble horse, that it was his spiritual whiteness chiefly which so clothed him with divineness, and that this divineness had that in it which, though commanding worship, at the same time enforced a certain nameless terror.",
-    "image_prompt": "A lone, milk‑white steed stands on a bleak, misty plain under a stormy sky, its coat shimmering with an almost celestial glow that casts an eerie pallor over the landscape. The horse’s muscular form is both majestic and unsettling, evoking divine reverence yet hinting at nameless terror; its eyes gleam like polished alabaster. A faint, ghostly aura surrounds it, as if a forgotten deity were riding upon its back, rendered in dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 59,
-    "segment_text": "There are other instances where this whiteness loses all that accessory and strange glory which invests it in the white steed and albatross.",
-    "image_prompt": "A storm‑swept deck at night, a lone whale’s massive, pallid head breaking through frothy surf, its skin stark white against the bleak horizon. The crew—captain Ahab in tattered coat, Ishmael with ink‑stained hands—watch, eyes wide, as the creature’s whiteness strips all mythic grandeur, revealing raw terror. In a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 60,
-    "segment_text": "What is it that in the albino man so peculiarly repels and often shocks the eye, as that sometimes he is loathed by his own kith and kin?",
-    "image_prompt": "A lone, pallid albino sailor stands on a storm‑laden deck, his skin an eerie white against dark sails, eyes wide with dread. Around him, crew in shadowed coats whisper uneasily; their faces show shock and disdain. A vast, frosty sea stretches beyond, its whiteness mirroring the man's unnatural hue. The scene feels like a 19th‑century oil painting: deep chiaroscuro, muted palette, dramatic brushwork capturing the unsettling mix of reverence and revulsion toward the white figure."
-  },
-  {
-    "segment_index": 61,
-    "segment_text": "It is that whiteness which invests him, a thing expressed by the name he bears.",
-    "image_prompt": "Aboard the Pequod at twilight, Captain Ahab stands on the deck, his silhouette stark against a moonlit sea of endless white foam. His face is gaunt and pale, eyes reflecting an icy terror as he whispers to Ishmael about the “whiteness” that defines him. The wind churns the waves into ghostly sheets; the ship creaks beneath the looming, translucent presence of Moby‑Dick’s blinding flesh drifting in the distance. Dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 62,
-    "segment_text": "The albino is as well made as other men has no substantive deformity, and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion.",
-    "image_prompt": "A lone albino figure stands on a fog‑laden deck, his pallid skin reflecting the harsh, moonlit sea. His face is serene yet unsettling, eyes wide with an uncanny emptiness that turns the viewer’s gaze toward dread. Around him, storm clouds swirl in deep charcoal, and the ship’s rigging casts long, sinister shadows. The scene evokes a 19th‑century oil painting: dark, moody, with muted earth tones contrasting sharply against the white man’s unnerving glow."
-  },
-  {
-    "segment_index": 63,
-    "segment_text": "Why should this be so?",
-    "image_prompt": "A lone figure—Ishmael—stands amid the dim lantern light of the Pequod’s cramped galley, his face illuminated by a flickering oil lamp. He gazes pensively toward the storm‑blasted deck where waves roll in endless sheets of white foam, their surface reflecting a ghostly moonlit glow. The sea’s boundless whiteness spreads like a muted cathedral, evoking both awe and dread, while the ship’s weathered timbers loom as silent witnesses to his haunting question.  \n**Style:** dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 64,
-    "segment_text": "Nor, in quite other aspects, does nature in her least palpable but not the less malicious agencies fail to enlist among her forces this crowning attribute of the terrible.",
-    "image_prompt": "A vast, moonlit ocean churns beneath a stormy sky; in the foreground, Captain Ahab stands rigid on the deck of the Pequod, his face shadowed and gaunt, eyes fixed upon a colossal, translucent white whale breaking the surface. The whale’s gleaming flesh glows like a spectral lantern, its immense body surrounded by swirling mist that seems to whisper ancient curses. Dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 65,
-    "segment_text": "From its snowy aspect the gauntleted ghost of the southern seas has been denominated the White Squall.",
-    "image_prompt": "A solitary, pale white squall rises from a storm‑laden sea, its frothy spray forming ghostly gauntleted fingers that claw at a battered wooden deck. The moon hangs low, casting an eerie silver glow over the jagged horizon where distant ships struggle against the wind. In the foreground, a lone figure—perhaps Ishmael—peers out with a haunted expression, his coat flapping in the gale. Dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 66,
-    "segment_text": "Nor, in some historic instances,",
-    "image_prompt": "A dimly lit, storm‑laden deck at night; the battered whaling ship “Pequod” creaks as waves crash around it. In the foreground a spectral, gigantic white leviathan rises from the frothy sea, its massive, translucent body illuminated by moonlight, casting an eerie pallor over the crew’s weary faces. Captain Ahab stands resolute on the railing, his eyes fixed upon the looming beast, while Ishmael and Queequeg look on in silent dread. The scene is rendered as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 67,
-    "segment_text": "Has the art of human malice omitted so potent an auxiliary?",
-    "image_prompt": "A stark, moonlit night on the Pequod’s deck, Captain Ahab stands tall, his eyes glinting with fierce resolve as he grips a polished harpoon. Behind him, Ishmael and Queequeg stare in grim awe, their faces illuminated by flickering lanterns. Starbuck watches from the rail, wary and tense. The ocean stretches endless, a dark canvas broken only by distant stars, while the crew’s silhouettes hint at looming danger. A nineteenth‑century oil painting style, moody and dramatic."
-  },
-  {
-    "segment_index": 68,
-    "segment_text": "How wildly it heightens the effect of that passage in Foissat, when, masked in the snowy symbol of their faction, the desperate white hoods of Ghent murder their bailiff in the marketplace.",
-    "image_prompt": "A dim, moonlit marketplace in Ghent at night, where a band of hooded rebels—white cloaks gleaming like snow—surrounds an unsuspecting bailiff in candlelight. Their faces are obscured by pale hoods; their hands clutch sharp knives that glint eerily. The cobblestones reflect the gloom, and distant church spires loom. A single lantern casts trembling shadows on a shattered wooden sign. The scene is rendered as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 69,
-    "segment_text": "Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue.",
-    "image_prompt": "A dimly lit ship’s deck at twilight, the black hull reflected in a moon‑lit sea of milky whiteness; Ishmael stands alone, eyes wide, his face illuminated by the pale glow of a distant white whale’s silhouette. Captain Ahab looms in shadowed background, stern gaze fixed on the horizon where the color seems to swallow the night. The scene is rendered as a dark, moody 19th‑century oil painting, emphasizing the supernatural chill of pure whiteness."
-  },
-  {
-    "segment_index": 70,
-    "segment_text": "It cannot well be doubted that the one visible quality in the aspect of the dead which most appalls the gazer is the marble pallor lingering there, as if, indeed, that pallor were as much like the badge of consternation in the other world as of mortal trepidation here.",
-    "image_prompt": "A dimly lit burial chamber on a storm‑bound ship, its stone floor slick with rain. A lone lantern flickers, casting long shadows over the skeletal remains of an unseen crew member. The corpse’s pallid, marble‑white skin glistens like frost under moonlight, its empty eyes reflecting cold dread. In the background, a ghostly white mist curls around the coffin, evoking otherworldly consternation. A dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 71,
-    "segment_text": "And from that pallor of the dead we borrow the expressive hue of the shroud in which we wrap them.",
-    "image_prompt": "A dim, storm‑laden harbor at dusk, a lone ship’s deck bathed in moonlit gloom. Ishmael stands beside a skeletal figure—an ancient whale’s flayed carcass—its pallid skin reflecting the pale light like a shroud. The air is heavy with mist; distant waves ripple silverly. Ahab watches from afar, his eyes narrowed, while Queequeg clutches a lantern, its flame trembling against the cold. In this 19th‑century oil style, shadows deepen the eerie silence of death’s white veil."
-  },
-  {
-    "segment_index": 72,
-    "segment_text": "Nor even in our superstitions do we fail to throw the same snowy mantle round our phantoms, all ghosts rising in a milk-white fogier.",
-    "image_prompt": "A hushed, moonlit deck of the Pequod, where Ishmael stands alone beneath a thick, milk‑white fog that swallows the horizon. Ghostly phantoms drift silently above the waves, their translucent forms draped in an ethereal snowy mantle, eyes glowing faintly like lanterns. The muted, oil‑slick sea reflects pale light; distant stars are obscured by the chilling mist. A dark, moody 19th‑century oil painting style captures the uncanny stillness and spectral dread of the moment."
-  },
-  {
-    "segment_index": 73,
-    "segment_text": "While these terrors seize us, let us add, that even the king of terrors, when personified by the evangelist, rides on his pallid horse.",
-    "image_prompt": "A somber, twilight sea shrouded in mist; a towering, gaunt figure—an evangelist cloaked in tattered black robes—rises from the storm‑choked horizon. He mounts a pallid, spectral steed whose hooves stir ghostly waves. Behind them, the darkened mast of the Pequod creaks, and distant shapes of dread whales loom like silhouettes against a bruised sky. The scene exhales foreboding, capturing the king of terrors riding his white horse into an abyssal, 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 74,
-    "segment_text": "Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness.",
-    "image_prompt": "Ahab stands alone on the storm‑laden deck of the Pequod, moonlight dripping silver over the waves. In one hand he grips the broken shackle of a captured leviathan; in the other he holds a jagged piece of white driftwood, its pale surface reflecting his tormented face. The distant silhouette of Moby‑Dick looms like a spectral god, its blinding white maw casting an ethereal glow that turns every shadow into trembling dread. A dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 75,
-    "segment_text": "No man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul.",
-    "image_prompt": "A lone sailor, Ishmael, stands on a storm‑laden deck under a bruised twilight sky, his eyes fixed upon the vast white expanse of the sea where Moby Dick’s phantom glides. The air shimmers with an ethereal pallor that distorts light into ghostly silhouettes; shadows twist like unseen figures. In the foreground, Captain Ahab’s gaunt silhouette looms, his gaze turned toward the horizon, as a faint, translucent apparition of a whale’s head rises from the water, evoking dread and awe in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 76,
-    "segment_text": "But though without dissent this point be fixed, how is mortal man to account for it?",
-    "image_prompt": "A hushed, storm‑laden deck of the Pequod at twilight, Captain Ahab standing in shadowed gloom beside Ishmael, both staring into a distant, endless white expanse that blurs horizon and sky. Queequeg’s black mask looms, Starbuck watches from afar. The scene is rendered as a dark, moody 19th‑century oil painting, with muted sea colors, heavy brushwork, and an oppressive sense of existential dread."
-  },
-  {
-    "segment_index": 77,
-    "segment_text": "To analyze it would seem impossible.",
-    "image_prompt": "A somber, dimly lit galley where Ishmael sits alone beside a flickering lantern, the white hull of the Pequod looming behind him. He stares at the endless gray sea, his face gaunt and pensive, the wind rattling canvas. In the distance a massive shadow looms—Moby Dick’s silhouette against moonlit waves. The scene is rendered as a dark, moody 19th‑century oil painting, with muted tones, deep shadows, and an oppressive sense of impending doom."
-  },
-  {
-    "segment_index": 78,
-    "segment_text": "Can we, then, by the citation of some of those instances wherein this thing of whiteness, though, for the time either wholly or in great part stripped of all direct associations, calculated to impart to it, ought fearful, but nevertheless is found to exert over us the same sorcery, however modified, consons?",
-    "image_prompt": "A dimly lit, storm‑laden ship’s deck in a brooding 19th‑century oil painting, the sea a rolling, milky expanse that blurs horizon and sky. In the foreground, Ishmael stands, hunched over a tattered ledger, his face illuminated by flickering lantern light, eyes wide with terror as he recalls the white whale’s spectral presence. Around him, ghostly silhouettes of snow‑white clouds loom, casting an uncanny pallor over the men below deck, evoking dread and awe in equal measure. The style is dark, moody, 19th‑century oil painting."
-  },
-  {
-    "segment_index": 79,
-    "segment_text": "thus hope to light upon some chance clue to conduct us to the hidden cause we seek.",
-    "image_prompt": "A solitary Ishmael stands on the creaking deck of the Pequod, his back to a storm‑choked horizon where pale, ghostly mists swirl over the endless sea. In the distance, the faint white silhouette of Moby Dick breaks the gloom, its vast body a chilling promise. The scene is rendered in somber oil tones—deep charcoal skies, muted deck wood—and the atmosphere exudes 19th‑century maritime dread, a dark, moody oil painting style."
-  },
-  {
-    "segment_index": 80,
-    "segment_text": "Let us try.",
-    "image_prompt": "Aboard the Pequod’s dimly lit galley, Captain Ahab and Ishmael stand over a weather‑worn map of the Southern Ocean, their faces illuminated by a single lantern. Queequeg, Starbuck, Stubb, and Flask lean in, listening intently as Ahab, with a determined grimace, declares, “Let us try.” The mood is tense, foreboding, and intensely focused, rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 81,
-    "segment_text": "But in a matter like this, subtlety appeals to subtlety, and without imagination no man can follow another into these halls.",
-    "image_prompt": "A lone, gaunt Ishmael stands in a dimly lit ship’s galley, his face illuminated by the flickering candle flame as he leans over an old ledger of maps and letters. The air is heavy with salt spray and the distant creak of hull timber; shadows cling to the walls like specters. He gazes into a blackened glass bottle, reflecting the ghostly glow of a storm‑torn horizon beyond the mast. In this moody 19th‑century oil, subtlety drips from every brushstroke, demanding imagination as the only lantern in these haunted halls."
-  },
-  {
-    "segment_index": 82,
-    "segment_text": "And though, doubtless, some at least of the imaginative impressions about to be presented may have been shared by most men, yet few, perhaps, were entirely conscious of them at the time.",
-    "image_prompt": "A lone sailor, Ishmael, stands on a dimly lit wooden deck under a brooding storm‑clouded sky, his face half‑shadowed by the mast’s lantern glow. In the background, muted silhouettes of Ahab and the crew drift like ghosts through fog‑laden waves. The scene exudes a heavy, contemplative mood: the sea’s restless white foam mirrors the narrator’s uneasy thoughts, captured in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 83,
-    "segment_text": "and therefore may not be able to recall them now.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a weary ship’s deck at twilight, with Captain Ahab hunched over the helm, his face pale as the white whale, eyes haunted by memories he can no longer summon. Ishmael stands beside him, clutching a tattered notebook, his brow furrowed in confusion. Queequeg leans against a mast, watching silently. The sea churns with ghostly white foam, hinting at forgotten horrors. Style: 19th‑century oil painting."
-  },
-  {
-    "segment_index": 84,
-    "segment_text": "Why, to the man of untutored ideality, who happens to be but loosely acquainted with the peculiar character of the day, does the bare mention of Whitsuntide Marshall in the fancy such long, dreary, speechless processions of slow-pacing pilgrims, downcast and hooded with new-fallen snow?",
-    "image_prompt": "A lone, austere scholar in a shadowed 19th‑century chapel hears the name “Whitsuntide Marshall” and is transported to an endless procession of hooded pilgrims trudging through freshly fallen snow; their robes billow like ghosts, eyes hollow, while cold light filters through stained glass. The scene is rendered as a dark, moody oil painting in 19th‑century style, evoking spectral dread and melancholy."
-  },
-  {
-    "segment_index": 85,
-    "segment_text": "or, to the unread, unsophisticated Protestants of the Middle American States, why does the passing mention of a white friar or a white nun evoke such an eyeless statue in the soul?",
-    "image_prompt": "A dim, storm‑clouded harbor at dusk, where a lone, weather‑scarred ship’s deck creaks under the weight of a trembling crew. In the foreground, a gaunt white friar—his robes sodden, face pallid and expressionless—stands beside an ancient stone altar, his eyes void of life, evoking an eerie, eyeless statue that chills the soul. The scene is rendered in dark, moody 19th‑century oil style, with muted tones, heavy chiaroscuro, and a sense of foreboding gloom."
-  },
-  {
-    "segment_index": 86,
-    "segment_text": "Or what is there, apart from the traditions of dungeoned warriors and kings,",
-    "image_prompt": "A solitary deck at twilight, a trembling ship prowling the endless Antarctic sea. Ishmael, eyes wide, watches a colossal white whale emerge from frothy depths—its gleaming flesh like a living moon. Ahab’s silhouette looms in the background, his obsession burning brighter than the stars. The wind howls, snow curls around the mast; the ocean roars with an eerie hush. Dark, moody 19th‑century oil painting style, saturated shadows and muted whites capturing dread and awe."
-  },
-  {
-    "segment_index": 87,
-    "segment_text": "will not wholly account for it that makes the White Tower of London tell so much more strongly on the imagination of an untravelled American than those other storied structures, its neighbours, the Byward Tower, or even the Bloody.",
-    "image_prompt": "A lone, untraveled American in a mist‑laden London twilight gazes up at the stark White Tower, its white stone gleaming against a stormy sky; distant Byward and Bloody towers loom muted behind it. The figure’s face is illuminated by a single lantern, casting long shadows across cobblestones slick with rain. Dark, brooding clouds swirl overhead, while faint silhouettes of London’s ancient walls echo the tower’s icy pallor—an unsettling, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 88,
-    "segment_text": "And those sublimer towers, the white mountains of New Hampshire, whence, in peculiar moods, comes that gigantic ghostliness over the soul at the bare mention of that name, while the thought of Virginia's Blue Ridge is full of a soft, dewy, distant dreaminess,",
-    "image_prompt": "A dim, storm‑laden sky looms over the snow‑clad peaks of New Hampshire’s white mountains, their jagged silhouettes cast in a pallid, spectral glow that seems to bleed into the horizon like an ethereal veil. In the foreground, the distant Blue Ridge of Virginia rises in soft, dewy mist, its gentle slopes rendered in muted blues and grays, evoking a wistful, dreamlike hush. The painting, dark and moody, evokes 19th‑century oil technique with heavy impasto and subtle chiaroscuro."
-  },
-  {
-    "segment_index": 89,
-    "segment_text": "Or why, irrespective of all latitudes and longitudes, does the name of the White Sea exert such a spectralness over the fancy, while that of the Yellow Sea lulls us with mortal thoughts of long, lacquered, mild afternoons on the waves, followed by the gaudiest and yet sleepiest of sunsets?",
-    "image_prompt": "A storm‑tossed ship drifts over a vast white sea, its horizon a pale, endless veil that stirs dread in the crew’s minds; below, a bright yellow coast glows with warm, comforting light and gentle sunsets. In the foreground, Ishmael stands on deck, his face illuminated by the ghostly white mist, while Starbuck peers out, eyes reflecting both terror and awe. The scene is rendered as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 90,
-    "segment_text": "Or, to choose a wholly unsubstantial instance, purely addressed to the fancy, why, in reading the old fairy tales of Central Europe, does the tall, pale man of the Harz forests, whose changeless pallor unrustingly glides through the green of the groves, why, is this phantom more terrible than all the whooping imps of the Broxburghs?",
-    "image_prompt": "A lone, gaunt figure drifts through mist‑laden Harz forest groves, his pallid skin a chilling contrast to the deep green foliage. The man’s elongated silhouette and hollow eyes evoke an ancient specter, more dreadfully still than any mischievous sprite. Dark shadows cling to twisted trunks; a faint moonlight glints off his white beard. The scene feels like a 19th‑century oil painting: muted tones, heavy brushwork, moody atmosphere, capturing the uncanny terror of a spectral wanderer."
-  },
-  {
-    "segment_index": 91,
-    "segment_text": "nor is it, altogether, the remembrance of her cathedral-toppling earthquakes, nor the stampedos of her frantic seas, nor the tearlessness of arid skies that never rain, nor the sight of her wide field of leaning spires, wrenched copestones, and crosses all adroop, like canted yards of anchored fleets low.",
-    "image_prompt": "A bleak, moonlit harbor where the once‑majestic cathedral lies in ruin—its spires shattered, broken stone spilling into a restless sea that churns with jagged waves. Above, an arid sky hangs heavy, clouds scarce and gray, casting long shadows over the scattered crosses and toppled pillars that litter the shoreline like wrecked ships. The scene feels mournful, as if nature itself has devoured the city’s grandeur, rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 92,
-    "segment_text": "and her suburban avenues of house-walls lying over upon each other, as a tossed pack of cards.",
-    "image_prompt": "A dim, moonlit street of a forgotten coastal town where rows of crumbling white clapboard houses overlap like a tossed stack of cards, their peeling paint and broken shutters casting long, trembling shadows across the cobblestones; in the foreground an exhausted Captain Ahab, his weather‑worn coat flapping, stands on a narrow curb staring into the labyrinthine alley, the distant silhouette of Moby Dick looming as a pale specter beyond the houses. Rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 93,
-    "segment_text": "It is not these things alone which make tearless Lima the strangest, saddest city, though, for Lima has taken the white veil, and there is a higher horror in this whiteness of her woe.",
-    "image_prompt": "A desolate, snow‑blanketed Lima street at twilight, its colonial stone walls slick with frost, the pale glow of gas lamps casting long, trembling shadows. A lone, gaunt figure—perhaps a grieving sailor—stands beneath an ancient archway, his face obscured by a wide white veil that drapes over his shoulders like funeral shrouds. In the distance, muted city lights flicker against a heavy, oppressive sky, evoking a chilling, melancholic horror of white‑veiled sorrow. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 94,
-    "segment_text": "Old as Pizarro, this whiteness keeps her ruins forever new, admits not the cheerful greenness of complete decay, spreads over her broken ramparts the rigid pallor of an apoplexy that fixes its own distortions.",
-    "image_prompt": "A ruined coastal city under a perpetual, milky twilight, its crumbling stone walls and shattered towers bathed in an oppressive, snow‑white pallor that smothers any hint of verdant rot. The broken ramparts gleam with a rigid, apoplexic whiteness, distorting shadows into stark silhouettes. A lone, weathered figure—perhaps Ishmael—stands amid the skeletal ruins, the air thick with desolation and an eerie, unchanging white chill, all rendered in dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 95,
-    "segment_text": "I know that, to the common apprehension, this phenomenon of whiteness is not confessed to be the prime agent in exaggerating the terror of objects otherwise terrible.",
-    "image_prompt": "A lone figure—Ishmael in a dimly lit galley—stares at the white glare of distant waves, his face shadowed by a heavy, storm‑black hood. The sea stretches into a milky abyss, its whiteness blinding yet not the source of terror; instead, subtle dread lingers in the creaking hull and the silent, unseen leviathan below. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 96,
-    "segment_text": "Nor, to the unimaginative mind, is there aught of terror in those appearances whose awfulness to another mind almost solely consists in this one phenomenon, especially when exhibited under any form at all approaching to muteness or universality.",
-    "image_prompt": "A lone, ghost‑white Moby Dick looms over a silent, mist‑shrouded Atlantic, its massive body reflected in the pale, still water; no crew or sails disturb the scene, only the muted horizon and bleak sky. In the foreground, Ishmael stands on the deck, his silhouette etched against the pallid glow, eyes wide with dawning dread that the creature’s whiteness alone evokes terror. The painting exudes a dark, moody 19th‑century oil style."
-  },
-  {
-    "segment_index": 97,
-    "segment_text": "What I mean by these two statements may, perhaps, be respectively elucidated by the following examples.",
-    "image_prompt": "Ishmael stands alone on a storm‑laden deck, the ship’s hull creaking beneath him as waves crash in a pale, milky swell. He lifts his gaze to the horizon where a ghostly white whale glides unseen, its skin reflecting moonlight like a sheet of bone. In his hand he holds a weathered journal, pages fluttering with inked examples—two stark illustrations of terror and wonder—while distant sails blur into an ominous, cloud‑kissed sea. The scene is rendered in dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 98,
-    "segment_text": "First whole, the mariner, when drawing nigh the coasts of foreign lands, if by night he hear the roar of breakers, starts to vigilance, and feels just enough of trepidation to sharpen all his faculties, but under precisely similar circumstances",
-    "image_prompt": "A weary mariner stands on a moonlit deck, silhouette against crashing white waves; his eyes widen as distant breakers roar in the night. The sea glows with milky pale light, a ghostly veil cloaking the horizon. He grips his oar tight, muscles tense, breathing shallow—an instinctive dread rising. In the background, a stormy sky darkens, yet the whiteness of the surf magnifies his terror, casting long shadows over the vessel in a 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 99,
-    "segment_text": "Let him be called from his hammock to view his ship sailing through a midnight sea of milky whiteness, as if from encircling headlands shoals of combed white bears were swimming round him.",
-    "image_prompt": "A shadow‑laden deck at night, the Pequod’s hull cutting through a midnight sea rendered in deep charcoal and muted blues. A lone figure, Ishmael, reclines on a weathered hammock, his eyes fixed upon the vessel as if it were a ghostly white whale gliding beneath frosted waves. In the distance, pale silhouettes of “white bears” drift around the ship’s prow, their fur catching moonlit silver. The scene evokes dread and awe in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 100,
-    "segment_text": "Then he feels a silent superstitious dread to view his ship sailing with horrible to him as a real guy, and he loved him to mine.",
-    "image_prompt": "A storm‑laden deck at twilight; Captain Ahab stands alone on the foremast, his face pale with dread, eyes fixed upon the prow where a colossal white whale glides beneath billowing waves. The ship’s hull creaks in the wind, lanterns flicker like dying stars. In the foreground, Ishmael watches, trembling, as the whale’s ghostly form seems to rise from the sea itself, turning the ocean into an abyssal churchyard. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 101,
-    "segment_text": "Yet where is the mariner who will tell thee?",
-    "image_prompt": "A solitary mariner stands on the deck of the Pequod, his weather‑worn face illuminated by moonlit waves that roll like endless sheets of white. He peers over the horizon where the black hull cuts through a pale, milky sea, his eyes reflecting dread and longing. The scene is rendered in a dark, moody 19th‑century oil painting style, with deep shadows, muted grays, and a subtle glow that heightens the eerie stillness of the night."
-  },
-  {
-    "segment_index": 102,
-    "segment_text": "Sir, it was not so much the fear of striking hidden rocks, as the fear of that hideous whiteness that so stirred me.",
-    "image_prompt": "A lone sailor stands on a crumbling deck at twilight, his face gaunt and eyes wide with terror. In the distance, an immense white whale breaks the horizon, its frothy spout swirling like a spectral veil. The sky is bruised purple, waves roiling in deep indigo. Ahab’s silhouette looms behind him, eyes fixed on the white horror. Dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 103,
-    "segment_text": "SECOND CULT.",
-    "image_prompt": "A storm‑cloaked deck of the Pequod at night, waves glittering like a milky sea; Ishmael stands alone in a dark, moody 19th‑century oil painting, his face illuminated by lantern light, eyes fixed on the horizon where white fog swirls. The ominous whiteness of distant icebergs and the ghostly pale expanse evoke dread. Ahab’s silhouette looms faintly in the background, hinting at the looming threat of the great white whale. Style: dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 104,
-    "segment_text": "To the native Indian of Peru, the continual sight of the snow-hoarded Andes conveys naught of dread, except, perhaps, in the mere fancying of the eternal frosted desolateness reigning at such vast altitudes,",
-    "image_prompt": "A lone indigenous Peruvian hunter stands atop a jagged Andean ridge, his silhouette against a vast, snow‑laden horizon that stretches to an icy zenith. The wind whips his dark cloak, yet he gazes calmly at the endless white peaks, untroubled by fear. Behind him, clouds drift over crystal glaciers, and a faint aurora glints in the sky, evoking the silent majesty of an untouched, frost‑bound wilderness. 19th‑century oil painting style, dark and moody."
-  },
-  {
-    "segment_index": 105,
-    "segment_text": "and the natural conceit of what a fearfulness it would be to lose oneself in such inhuman solitudes.",
-    "image_prompt": "A lone sailor stands on a bleak, wind‑blasted deck under a stormy sky, the ship’s hull barely visible amid endless white fog. The horizon stretches into an indifferent, icy abyss, evoking the terror of becoming lost in “inhuman solitudes.” Dark, moody brushstrokes capture the chill and isolation, while subtle glimmers of distant sea ice hint at the monstrous whale lurking beyond—an ominous 19th‑century oil painting."
-  },
-  {
-    "segment_index": 106,
-    "segment_text": "Much the same is it with the back woodsmen of the West, who, with comparative indifference, views an unbounded prairie sheeted with driven snow, no shadow of tree or twig to break the fixed trance of whiteness.",
-    "image_prompt": "A lone woodsman stands on a vast, wind‑blown prairie blanketed in relentless white snow, his silhouette stark against an endless sky. No tree or twig disturbs the monochrome expanse; only the faint tremor of distant blizzard winds. The scene is rendered as a dark, moody 19th‑century oil painting, with muted earth tones and deep shadows that heighten the eerie, oppressive silence of the frozen wilderness."
-  },
-  {
-    "segment_index": 107,
-    "segment_text": "Not so the sailor, beholding the scenery of the Antarctic seas, were at times, by some infernal trick,",
-    "image_prompt": "A lone sailor stands on a creaking wooden deck amid the bleak, wind‑churned Antarctic sea, his face lit by a cold, ghostly lantern. The horizon is a vast, milky expanse of frosted water, waves like white cliffs rising in silent terror. In the distance a phantom silhouette of a massive white whale glides above the surf, its pale body a spectral omen that stirs dread within the sailor’s soul. Rendered as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 108,
-    "segment_text": "Of legerdemain in the powers of frost and air.",
-    "image_prompt": "A storm‑laden deck of the Pequod under a brooding sky, white frosts swirling like spectral lace around the ship’s hull. Captain Ahab stands in the foreground, his eyes narrowed, hand gripping a harpoon, while Ishmael watches from the rigging, clutching a notebook. Queequeg peers over the rail, his tattooed arms glinting silver. Dark clouds press against the white sea, creating an eerie, misty tableau of frosty air and looming dread—an ominous 19th‑century oil painting."
-  },
-  {
-    "segment_index": 109,
-    "segment_text": "He, shivering and half shipwrecked, Instead of rainbows speaking hope and solace To his misery, views what seems a boundless churchyard Grinning upon him, with its lean ice monuments And splintered crosses.",
-    "image_prompt": "A lone sailor—shivering, half‑shipwrecked, eyes wide with despair—stands upon a storm‑blasted deck, gazing into an endless, bleak churchyard of glistening white ice. Towering, skeletal stone monoliths rise like grave markers; splintered crosses drift among them, their black silhouettes stark against the pale sky. The scene is rendered in dark, moody 19th‑century oil painting style, evoking a sense of desolation and spectral dread."
-  },
-  {
-    "segment_index": 110,
-    "segment_text": "But thou say'st, methinks that, white blood chapter about whiteness is but a white flag hung out from a craven soul.",
-    "image_prompt": "A dim, storm‑laden ship’s cabin, 19th‑century oil style, where Ishmael sits hunched over a parchment, his face illuminated by a single lantern flame; the wall behind him is painted in deep charcoal, hinting at the vast ocean beyond. In the gloom, the translucent, menacing outline of Moby Dick’s white body stretches across the canvas, its skin shimmering like a spectral flag. Ahab’s shadow looms from the doorway, his eyes fixed on Ishmael, embodying the debate over “white blood” as a craven flag."
-  },
-  {
-    "segment_index": 111,
-    "segment_text": "Thou surrender'st to a hypo, Ishmael.",
-    "image_prompt": "A lone figure stands on the creaking deck of the Pequod at twilight, the sea a bruised gray, waves lashing against iron ribs. Ishmael, his face pale and haunted, leans over the rail, clutching a weather‑worn journal as Captain Ahab’s shadow looms behind him, eyes narrowed with relentless obsession. The muted sky bleeds into storm clouds, while a distant white whale glides above, its colossal silhouette echoing the terror in Ishmael’s gaze. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 112,
-    "segment_text": "Tell me, why this strong young colt fold in some peaceful valley of Vermont?",
-    "image_prompt": "A lone white colt, its flank trembled, stands before an overcast Vermont valley draped in snow; the sky is heavy with brooding clouds and a faint Milky‑Way haze. The horse’s glossy coat glistens like a pale shroud against dark, jagged peaks. In the distance, shadowed silhouettes of trees loom, and a solitary figure—perhaps Ishmael—peers from a misty ridge, eyes reflecting both awe and dread. The scene is rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 113,
-    "segment_text": "Far removed from all beasts of prey, why is it, that upon the sunniest day, if you but shake a fresh buffalo-robe behind him, so that he cannot even see it, but only smells its wild animal, muskiness why, will he start, snort, and with bursting eyes paw the ground in frenzies of a fright?",
-    "image_prompt": "A lone white-coated buffalo stands on a sun‑lit prairie, its fur glistening like milk. A sudden gust carries the scent of wild musk from an unseen source, and the beast’s nostrils flare as it sniffs. Its eyes widen; it bolts forward, pawing the ground with frantic vigor, a raw instinct erupting in a burst of fear. The scene is rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 114,
-    "segment_text": "There is no remembrance in him of any gorings of wild creatures in his green northern home, so that the strange muskiness he smells cannot recall to him anything associated with the experience of former perils.",
-    "image_prompt": "A lone white‑haired colt stands amid a misty New England pine forest, its eyes wide and ears pricked as an unseen scent drifts through the air. The animal’s fur glistens like fresh snow under a dim moon, while dark shadows of ancient trees loom around it. In this 19th‑century oil painting, the colt’s startled posture conveys fear from a phantom musk that stirs memories of distant, unknown dangers—an eerie, unsettling moment in a moody, atmospheric scene."
-  },
-  {
-    "segment_index": 115,
-    "segment_text": "For what knows he, this New England colt, of the black bisons of distant Oregon?",
-    "image_prompt": "A lone white New England colt stands amid a bleak, wind‑blown prairie, its pale coat glistening in the gray light. In the distance, a massive black bison from Oregon's distant range strides across the horizon, its muscular frame shrouded in dusk mist. The colt’s wide eyes widen with sudden terror, nostrils flaring as it senses the wild musk of the unseen beast, capturing the raw instinctual fear of the untamed frontier. 19th‑century oil painting, dark and moody."
-  },
-  {
-    "segment_index": 116,
-    "segment_text": "No but here thou beholdest, even in a dumb brute,",
-    "image_prompt": "A dark, moody 19th‑century oil painting of the Pequod’s deck at night, mist swirling over black waves. In the foreground, a massive white whale looms, its pale skin illuminated by moonlight, casting an eerie pallor on the terrified crew below—Captain Ahab in tattered coat, Ishmael clutching a Bible, Queequeg with his harpoon, Starbuck and Stubb watching in stunned silence. The sea’s milky gloom amplifies the whale’s chilling whiteness, evoking dread against the ship’s creaking timbers. Style: 19th‑century oil painting."
-  },
-  {
-    "segment_index": 117,
-    "segment_text": "the instinct of the knowledge of the demonism in the world, though thousands of miles from Oregon.",
-    "image_prompt": "A lone whaleboat glides across a storm‑laden, milky Atlantic at twilight, its mast silhouetted against a bruised sky. On deck, Ishmael stands hunched, eyes fixed on the horizon where endless white waves roll like silent, unseen jaws of demonic terror. The sea’s pallor shrouds the world in an oppressive hush, evoking distant, unknowable horrors beyond Oregon—an ominous, 19th‑century oil painting with dark, moody tones and brooding atmosphere."
-  },
-  {
-    "segment_index": 118,
-    "segment_text": "Still, when he smells that savage musk, the rending gory bison herds are as present as to the deserted wild foal of the prairies, which this instant they may be trampling into dust.",
-    "image_prompt": "A lone, trembling colt stands in a bleak, snow‑laden prairie under a stormy sky, its nostrils flaring as a pungent musk swirls around it; spectral silhouettes of gory bison herds loom behind the distant horizon, their forms blurred by drifting white clouds. The scene is rendered in a dark, moody 19th‑century oil style, with muted earth tones and stark contrasts, evoking dread and desolation amid the vast, icy wilderness."
-  },
-  {
-    "segment_index": 119,
-    "segment_text": "Thus then, the muffle-rollings of a milky sea, the bleak rustlings of the festooned frosts of mountains,",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Ishmael stands on a wind‑tossed deck as the Pequod drifts through a milky sea whose waves roll like muted snow. Frosted mountain peaks loom in the distance, their bleak rustlings reflected in the glassy water. The sky is overcast and heavy with storm clouds, casting a pallid glow that blurs horizon and hull. The scene evokes dread and the uncanny whiteness of the ocean’s depths."
-  },
-  {
-    "segment_index": 120,
-    "segment_text": "The desolate shiftings of the wind-drowned snows of prairies—all these, to Ishmael, are as the shaking of that buffalo-robe to the frightened colt.",
-    "image_prompt": "A lone, wind‑blown prairie in late twilight, snow swirling around a trembling gray colt, its eyes wide with terror; distant dunes of white dust loom like spectral cliffs. In the foreground, Ishmael stands cloaked, his face pale and haunted, watching the animal’s frantic shudder as if it mirrored his own dread. The scene is rendered in stark chiaroscuro, with muted ochres and deep blues, evoking a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 121,
-    "segment_text": "Though neither knows where lie the nameless things of which the mystic sign gives forth such hints, yet with me, as with the colt, somewhere those things must insist.",
-    "image_prompt": "A lone, gaunt white horse stands in a bleak, snow‑blanketed plain under a bruised gray sky, its nostrils flaring as unseen forces stir the wind. In the distance, a spectral, translucent whale shape rises from the icy horizon, its pallid body barely visible, whispering unnameable dread. The scene is rendered in dark, moody 19th‑century oil style, with heavy brushwork and muted tones to evoke a chilling, uncanny tension between earth and abyss."
-  },
-  {
-    "segment_index": 122,
-    "segment_text": "Though, in many of its aspects, this visible world seems formed in love, the invisible spheres were formed in fright.",
-    "image_prompt": "A dimly lit, storm‑laden deck of the Pequod at night; Ishmael stands alone amid swirling white waves that churn like a sea of milky terror. Above, a faint celestial sphere glows with cold, indifferent light, contrasting the warm glow of lanterns on the ship’s rail. The scene evokes love in the visible world—soft, glowing sea and sky—yet an unseen, looming dread hangs in the air, hinting at unseen horrors beyond sight. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 123,
-    "segment_text": "But not yet have we solved the incantation of this whiteness, and learned why it appeals with such power to the soul, and more strange and far more portentous why, as we have seen.",
-    "image_prompt": "A shadowed deck at twilight, Captain Ahab stands alone, gaunt silhouette against a vast, milky sea. His eyes stare into an endless white abyss that swirls with ghostly fog, hinting the unseen Moby Dick lurking below. Ishmael, small and trembling, watches from the prow, clutching his notebook. Queequeg sits beside him, hands clasped in silent prayer. The scene is a dark, moody 19th‑century oil painting, capturing the eerie, unknowable power of whiteness over mortal souls."
-  },
-  {
-    "segment_index": 124,
-    "segment_text": "It is at once the most meaning symbol of spiritual things.",
-    "image_prompt": "A hushed, moonlit deck under a storm‑heavy sky; Captain Ahab in weathered coat stands beside Ishmael, both staring at the horizon where a vast, pale white shape—Moby Dick—glows like an omen. The sea churns with muted gray waves, while faint silhouettes of Queequeg and Starbuck loom in shadow. The scene is rendered as a dark, moody 19th‑century oil painting, emphasizing stark contrasts, swirling clouds, and the ethereal whiteness that looms above, symbolizing profound spiritual terror."
-  },
-  {
-    "segment_index": 125,
-    "segment_text": "Nay, the very veil of the Christian's deity,",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Ishmael standing on a stormy deck, eyes fixed toward an unseen horizon where the white whale’s ghostly veil glows like a celestial shroud. The ship creaks in gale wind; Ahab’s silhouette looms ominously behind. Pale, trembling light flickers over waves, casting long shadows. The scene conveys dread and reverence as Ishmael contemplates the “veil of the Christian deity,” with swirling mist and muted palette emphasizing terror. 19th‑century oil style."
-  },
-  {
-    "segment_index": 126,
-    "segment_text": "Dhyan, Nya should be as it is, the intensifying agent in things the most appalling to mankind.",
-    "image_prompt": "A solitary figure of Ishmael stands on a bleak deck at twilight, his face turned toward the horizon where a vast white whale breaches the storm‑laden sea. The moonlight glints off the whale’s slick skin, casting an eerie pallor that seems to swallow the ship’s lanterns. In the foreground, Ahab’s shadow looms, eyes fixed on the leviathan, while Queequeg and Starbuck watch in tense silence, all bathed in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 127,
-    "segment_text": "Is it that, by its indefiniteness, it shadows forth the heartless voids and immensities of the universe?",
-    "image_prompt": "A somber, moonlit deck of the Pequod, Ishmael gazing at a distant, endless white expanse that blurs horizon into void, his face illuminated by a flickering lantern. The sea ripples under a storm‑clouded sky, with muted waves reflecting pallid light. Captain Ahab stands in shadow beside him, eyes fixed on the inscrutable whiteness, symbolizing cosmic emptiness. Rendered as a dark, moody 19th‑century oil painting, heavy chiaroscuro and deep blues emphasize dread and isolation."
-  },
-  {
-    "segment_index": 128,
-    "segment_text": "and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the Milky Way?",
-    "image_prompt": "A lone sailor in a cramped galley, eyes wide, gazes out over a star‑filled night where the Milky Way stretches as an endless white river across a dark sky. The pale glow of distant stars casts an icy pall over the ship’s wooden hull, evoking a chilling sense of cosmic annihilation. In a 19th‑century oil painting style, mood is moody and somber, with chiaroscuro lighting that heightens the eerie whiteness of the heavens."
-  },
-  {
-    "segment_index": 129,
-    "segment_text": "Or is it that, as in essence, whiteness is not so much a color as the visible absence of color, and at the same time the concrete of all colors?",
-    "image_prompt": "A haunting 19th‑century oil painting of the Pequod’s deck under a bleak, overcast sky, where Captain Ahab stands with a foreboding stare, Ishmael and Queequeg beside him. The sea is a vast, milky white expanse, shimmering like a sheet of bone; clouds swirl in ghostly pallor, reflecting the notion that whiteness is absence yet substance. The mood is dark, moody, ominous, capturing the philosophical dread of pure, colorless light. Style: dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 130,
-    "segment_text": "Is it, for these reasons, that there is such a dumb blankness, full of meaning, in a wide landscape of snows, a colorless, all-color of atheism, from which we shrink?",
-    "image_prompt": "A lone figure—Ishmael—stands amid an endless white expanse of snow under a brooding sky, his silhouette stark against the pallid horizon. The air is thick with a cold, indifferent silence that seems to echo the void of faith. In the distance, the shadowy prow of the Pequod cuts a pale line across the icy sea, hinting at Ahab’s looming obsession. The scene radiates a 19th‑century oil painting’s dark, moody palette and dramatic chiaroscuro."
-  },
-  {
-    "segment_index": 131,
-    "segment_text": "And when we consider that other theory of the natural philosophers, that all other earthly hues, every stately or lovely emblazoning, the sweet tinges of sunset skies and woods of Yi, and the gilded velvets of butterflies, and the butterfly cheeks of young girls, all these are but subtile deceits, not actually inherent in substances, but only laid on from without.",
-    "image_prompt": "A shadowy, dimly lit study aboard the Pequod, where Ishmael ponders a crumbling theory of color; his face illuminated by a flickering oil lamp, surrounded by scattered sketchbooks and faded botanical prints. In the background, Captain Ahab stands in silhouette, his gaze fixed on a distant horizon, while Queequeg leans against a crate of spice, listening intently. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and subtle gloom."
-  },
-  {
-    "segment_index": 132,
-    "segment_text": "So that all daefied absolutely paints, like the harlot, whose illumens cover nothing but the charnel-house, within all these are but, and when we proceed further and consider that the mystical paints, in of all these things the albino whale was the symbol.",
-    "image_prompt": "A brooding 19th‑century oil scene: Ishmael stands on a storm‑tossed deck as white clouds swirl overhead, a spectral, albino whale looming behind the mast like a pale harlot cloaked in mist. Its gleaming skin reflects a ghostly light that distorts the ship’s iron rigging into skeletal silhouettes. Ahab’s silhouette is barely visible, his eyes fixed on the phantom, while Queequeg and Starbuck watch in silent dread. The atmosphere is dark, moody, and saturated with foreboding melancholy."
-  },
-  {
-    "segment_index": 133,
-    "segment_text": "Wonder ye, then, at the fiery hunt.",
-    "image_prompt": "A brooding, moonlit deck of the Pequod, its sails torn and blackened by relentless waves, where Captain Ahab stands alone, his eyes blazing with obsidian fury. Beside him, Ishmael gazes up at a swirling storm cloud shaped like a colossal white whale, its ghostly form looming over the ship. The scene is drenched in deep shadows, muted earth tones, and flickering lantern light—an ominous 19th‑century oil painting capturing the “fiery hunt” of Moby‑Dick."
+    "segment_text": "Tish, the bucket.",
+    "image_prompt": "Midnight on the quarterdeck, a thin moon silvering the deck’s worn wood; a line of stout sailors in dark navy coats pass a weathered freshwater bucket from hand to hand, their silhouettes sharp against the charcoal night. In the center, Tish—lean, broad‑shouldered, eyes bright—holds the bucket aloft, whispering to an unseen companion, the air thick with hushed tension and distant gull cries. Romantic realism, high contrast chiaroscuro, subtle paper grain, 19th‑century whaling voyage."
   }
 ]

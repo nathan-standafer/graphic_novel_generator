@@ -1,10 +1,13 @@
 
 import re
+import os
+import subprocess
 from datetime import datetime, timedelta
 
 chapter_number_str = input("enter chapter number (XXX): ")
 chapter_number = int(chapter_number_str)
-chapter_dir = f"chapter_{chapter_number:03d}"
+chapter_number_formatted = f"{chapter_number:03d}"
+chapter_dir = f"chapter_{chapter_number_formatted}"
 
 def parse_srt_time(s):
     return datetime.strptime(s, '%H:%M:%S,%f')
@@ -55,6 +58,16 @@ def generate_ffmpeg_input_file(srt_path, num_images, output_path):
 
 
 if __name__ == '__main__':
+    # --- Create Thumbnails ---
+    print("--- Creating thumbnails ---")
+    try:
+        subprocess.run(['python', 'create_thumbnails.py', chapter_number_formatted], check=True)
+        print("--- Thumbnails created successfully ---")
+    except subprocess.CalledProcessError as e:
+        print(f"Error creating thumbnails: {e}")
+    except FileNotFoundError:
+        print("Error: 'create_thumbnails.py' not found. Make sure it's in the same directory.")
+
     srt_file = f'generated_audio/{chapter_dir}.srt'
     num_images = 191
     ffmpeg_input_file = 'ffmpeg_input.txt'
@@ -78,12 +91,21 @@ if __name__ == '__main__':
     )
 
     with open('run_ffmpeg.sh', 'w') as f:
+        f.write("#!/bin/bash\n")
         f.write(ffmpeg_command)
+
+    os.chmod('run_ffmpeg.sh', 0o755)
+    subprocess.run(['./run_ffmpeg.sh'], check=True)
+
 
     handbrake_command = f"HandBrakeCLI -i {chapter_dir}.mp4 -o {chapter_dir}_with_subs.mp4 --srt-file generated_audio/{chapter_dir}.srt --srt-burn"
 
     with open('add_subtitles.sh', 'w') as f:
+        f.write("#!/bin/bash\n")
         f.write(handbrake_command)
 
-    print(f"FFmpeg command written to run_ffmpeg.sh")
-    print(f"add subtitles command written to add_subtitles.sh")
+    os.chmod('add_subtitles.sh', 0o755)
+    subprocess.run(['./add_subtitles.sh'], check=True)
+
+    print(f"FFmpeg command executed from run_ffmpeg.sh")
+    print(f"add subtitles command executed from add_subtitles.sh")

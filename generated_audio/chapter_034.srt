@@ -1,116 +1,364 @@
 1
-00:00:00,031 --> 00:00:00,692
-CHAPTER XXXIII.
+00:00:00,031 --> 00:00:25,296
+Chapter 34 - The Cabin Table. It is noon, and Doughboy, the steward, thrusting his pale loaf-of-bread face from the cabin scuttle, announces dinner to his lord and master, who, sitting in the lee quarter-boat, has just been taking an observation of the sun, and is now mutely reckoning the latitude on the smooth, medallion-shaped tablet reserved for that daily purpose on the upper part of his ivory leg.
 
 2
-00:00:00,752 --> 00:00:02,073
-THE SPITZENDEN.
+00:00:25,276 --> 00:00:30,804
+From his complete inattention to the tidings, you would think that Moody Ahab had not heard his menial.
 
 3
-00:00:02,514 --> 00:00:20,976
-Concerning the officers of the whale-craft, this seems as good a place as any to set down a little domestic peculiarity on shipboard arising from the existence of the Harpunia class of officers—a class unknown, of course, in any other marine than the whale-fleet.
+00:00:31,365 --> 00:00:41,380
+But presently, catching hold of the mizzen shrouds, he swings himself to the deck, and in an even, unexhilarated voice, saying, Dinner, Mr. Starbuck, disappears into the cabin.
 
 4
-00:00:20,956 --> 00:00:43,527
-The large importance attached to the Harpooneer's vocation is evinced by the fact that, originally in the old Dutch fishery, two centuries and more ago, the command of a whale-ship was not wholly lodged in the person now called the Captain, but was divided between him and an officer called the Specksender.
+00:00:41,440 --> 00:00:49,832
+When the last echo of his sultan's step has died away, and Starbuck, the first emir, has every reason to suppose that he is seated,
 
 5
-00:00:43,667 --> 00:00:50,777
-Literally, this word means fat-cutter usage, however in time made it equivalent to Chief Harpooneer.
+00:00:49,812 --> 00:01:03,091
+Then Starbuck rouses from his quietude, takes a few turns along the planks, and, after a grave peep into the binnacle, says, with some touch of pleasantness, Dinner, Mr. Stub, and descends the scuttle.
 
 6
-00:00:50,757 --> 00:01:06,298
-In those days the Captain's authority was restricted to the navigation and general management of the vessel, while over the whale-hunting department, and all its concerns, the Spexunder, or Chief Harpooner, reigned supreme.
+00:01:03,892 --> 00:01:08,819
+The second emir lounges about the ricking a while, and then slightly shaking the main brace.
 
 7
-00:01:06,518 --> 00:01:17,693
-In the British Greenland fishery, under the corrupted title of Spexenier, this old Dutch official is still retained, but his former dignity is sadly abridged.
+00:01:09,360 --> 00:01:19,414
+To see whether it will be all right with that important rope, he likewise takes up the old burden, and with a rapid, Dinner, Mr. Flask, follows after his predecessors.
 
 8
-00:01:17,673 --> 00:01:26,495
-At present he ranks simply as Senior Harponeer, and the folks other, and, as such, is but one of the Captain's more inferior subalterns.
+00:01:19,664 --> 00:01:26,673
+But the third emir, now seeing himself all alone on the quarterdeck, seems to feel relieved from some curious restraint.
 
 9
-00:01:26,656 --> 00:01:33,032
-Nevertheless, as upon the good conduct of the Harponeers, the success of a whaling voyage largely depends.
+00:01:27,134 --> 00:01:46,920
+For, tipping all sorts of knowing winks in all sorts of directions, and kicking off his shoes, he strikes into a sharp but noiseless squall of a hornpipe right over the Grand Turk's head, and then, by a dexterous slight, pitching his cap up into the mizzentop for a shelf, he goes down rollicking so far at least as he remains visible from the deck.
 
 10
-00:01:33,012 --> 00:01:56,404
-and since in the American fishery he is not only an important officer in the boat, but under certain circumstances night-watchers on a whaling ground, the command of the ship's deck is also his, the da, therefore the grand political maxim of the sea demands, that he should nominally live apart from the men before the mast, and be in some way distinguished as a professional superior superior, though always by them familiarly
+00:01:46,900 --> 00:01:50,588
+reversing all other processions by bringing up the rear with music.
 
 11
-00:01:56,384 --> 00:02:04,293
-Now, the grand distinction drawn between officer and man at sea, is this the first life's aft, the last forward.
+00:01:51,270 --> 00:02:05,162
+But ere stepping into the cabin doorway below, he pauses, ships a new face altogether, and, then, independent, hilarious little flask enters King Ahab's presence in the character of Objectus or the Slave.
 
 12
-00:02:04,393 --> 00:02:10,119
-Hence, in whale-ships and merchantmen alike, the mates have their quarters with the captain.
+00:02:05,142 --> 00:02:33,141
+It is not the least among the strange things bred by the intense artificialness of sea usages, that while in the open air of the deck some officers will, upon provocation, bear themselves boldly and defyingly enough towards their commander, yet, ten to one, let those very officers the next moment go down to their customary dinner in that same commander's cabin, and straightway their inoffensive, not to say deprecatory and humble air towards him as he sits at the head of the table.
 
 13
-00:02:10,820 --> 00:02:17,707
-And so, too, in most of the American whalers, the harpooneers are lodged in the after-part of the ship.
+00:02:33,121 --> 00:02:36,225
+This is marvelous, sometimes most comical.
 
 14
-00:02:18,108 --> 00:02:25,716
-That is to say, they take their meals in the captain's cabin, and sleep in a place indirectly communicating with it.
+00:02:36,946 --> 00:02:38,688
+Wherefore this difference?
 
 15
-00:02:26,118 --> 00:02:56,040
-Though the long period of a southern whaling voyage, by far the longest of all voyages now or ever made by a man, the peculiar perils of it, and the community of interests prevailing among the company, all of whom, high or low, depend for their profits, not upon fixed wages, but upon their common luck, together with their common vigilance, intrepidity, and hard work, though these things do in some cases tend to beget a less rigorous discipline than in merchantmen generally, yet never mind how much like in old Mesopotamian families
+00:02:38,708 --> 00:02:39,209
+A problem?
 
 16
-00:02:56,020 --> 00:03:14,738
-Indeed, many are the Nantucket ships in which you will see the skipper parading his quarter-deck with an elated grandeur not surpassed in any military navy, nay, extorting almost as much outward homage as if he wore the imperial purple and not the shabbiest of pilot-cloth.
+00:02:39,830 --> 00:02:40,510
+Perhaps not.
 
 17
-00:03:15,140 --> 00:03:36,743
-And though of all men the moody captain of the Pequod was the least given to that sort of shallowest assumption, and though the only homage he ever exacted was implicit, instantaneous obedience, though he required no man to remove the shoes from his feet ere stepping upon the quarter-deck, and though there were times when, owing to peculiar circumstances connected with events hereafter to be detailed,
+00:02:41,352 --> 00:02:51,825
+To have been Belshazzar, king of Babylon, and to have been Belshazzar, not haughtily but courteously, therein certainly must have been some touch of mundane grandeur.
 
 18
-00:03:36,723 --> 00:03:55,997
-He addressed them in unusual terms, whether of condescension or enthrallum, or otherwise even Captain Ahab was by no means unobservant of confidence, nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself, incidentally making use of them,
+00:02:52,506 --> 00:02:59,635
+But he who in the rightly regal and intelligent spirit presides over his own private dinner-table of invited guests,
 
 19
-00:03:55,977 --> 00:04:01,466
-for other and more private ends than they were legitimately intended to subserve.
+00:02:59,615 --> 00:03:04,545
+that man's unchallenged power and dominion of individual influence for the time.
 
 20
-00:04:01,506 --> 00:04:12,906
-That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested, through those forms that same sultanism became incarnate,
+00:03:04,585 --> 00:03:08,393
+That man's royalty of state transcends Belshazzar's.
 
 21
-00:04:12,886 --> 00:04:28,212
-In an irresistible dictatorship, for be man's intellectual superiority what it will, it can never assume the practical, available supremacy over other men, without the aid of some sort of external arts and entrenchments.
+00:03:08,914 --> 00:03:15,948
+For Belshazzar was not the greatest, who has but once dined his friends, has tasted what it is to be Caesar.
 
 22
-00:04:28,192 --> 00:04:56,342
-always, in themselves, more or less paltry in base, this it is that forever keeps God's true princes of the empire from the world's hustings, and leaves the highest honors that this heir can give, to those men who become famous more through their infinite inferiority to the choice-hidden handful of the divine inert, than through their undoubted superiority over the dead level of the mass.
+00:03:16,670 --> 00:03:20,678
+It is a witchery of social czarship which there is no withstanding.
 
 23
-00:04:56,322 --> 00:05:08,882
-Such large virtue lurks in these small things when extreme political superstitions invest them, but in some royal instances, even to idiot imbecility, they have imparted potency.
+00:03:20,658 --> 00:03:31,275
+Now, if to this consideration you super-add the official supremacy of a shipmaster, then, by inference, you will derive the cause of that peculiarity of sea-life just mentioned.
 
 24
-00:05:08,982 --> 00:05:21,942
-But when, as in the case of Nicholas the Tsar, the ringed crown of geographical empire encircles, an imperial brain then, the plebeian herds crouch abased before the tremendous centralization.
+00:03:32,082 --> 00:03:41,874
+Over his ivory-inlaid table, Ahab presided like a mute, manned sea lion on the white coral beach, surrounded by his warlike but still deferential cubs.
 
 25
-00:05:21,922 --> 00:05:35,795
-Nor will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing ever forget a hint, incidentally so important in his art as the one now alluded to.
+00:03:42,555 --> 00:03:46,040
+In his own proper turn, each officer waited to be served.
 
 26
-00:05:35,875 --> 00:05:50,629
-But Ahab, my captain, still moves before me in all his Nantucket grimness and shagginess, and, in this episode touching emperors and kings, I must not conceal that I have only to do with a poor old whale-hunter like him.
+00:03:46,861 --> 00:03:53,890
+They were as little children before Ahab, and yet, in Ahab, there seemed not to lurk the smallest social arrogance.
 
 27
-00:05:50,609 --> 00:05:56,288
-And, therefore, all outward majestical trappings and housings are denied me.
+00:03:54,591 --> 00:04:01,920
+With one mind, their intent eyes all fastened upon the old man's knife as he carved the chief dish before him.
 
 28
-00:05:57,130 --> 00:06:00,180
-O Ahab, what shall be granted thee?
+00:04:01,900 --> 00:04:10,678
+I do not suppose that for the world they would have profaned that moment with the slightest observation, even upon so neutral a topic as the weather.
 
 29
-00:06:00,220 --> 00:06:07,183
-It must needs be plucked at from the skies, and dived for in the deep, and featured in the unbodied air.
+00:04:10,979 --> 00:04:11,360
+No!
+
+30
+00:04:11,420 --> 00:04:33,223
+And when reaching out his knife and fork, between which the slice of beef was locked, Ahab thereby motioned Starbuck's plate towards him, the mate received his meat as though receiving alms, and cut it tenderly, and a little started if, perchance, the knife grazed against the plate, and chewed it noiselessly, and swallowed it, not without circumspection.
+
+31
+00:04:33,203 --> 00:04:33,644
+4.
+
+32
+00:04:34,245 --> 00:04:50,350
+Like the coronation banquet at Frankfurt, where the German emperor profoundly dines with the seven imperial electors, so these cabin meals were somehow solemn meals, eaten in awful silence, and yet at table old Ahab forbade not conversation, only he himself was dumb.
+
+33
+00:04:51,171 --> 00:04:56,359
+What a relief it was to choking stub when a rat made a sudden racket in the hold below.
+
+34
+00:04:56,339 --> 00:05:01,868
+And poor little Flask, he was the youngest son and little boy of this weary family party.
+
+35
+00:05:02,569 --> 00:05:06,695
+His were the shinbones of the saline beef, his would have been the drumsticks.
+
+36
+00:05:07,597 --> 00:05:13,486
+For Flask to have presumed to help himself, this must have seemed to him tantamount to larceny in the first degree.
+
+37
+00:05:13,546 --> 00:05:20,256
+Had he helped himself at that table doubtless, never more would he have been able to hold his head up in this honest world.
+
+38
+00:05:20,837 --> 00:05:24,523
+Nevertheless, strange to say, Ahab never forbade him.
+
+39
+00:05:25,162 --> 00:05:29,827
+And had Flask helped himself, the chances were Ahab had never so much as noticed it.
+
+40
+00:05:30,628 --> 00:05:49,670
+Least of all, did Flask presume to help himself to butter, whether he thought the owners of the ship denied it to him on account of its clotting his clear, sunny complexion, or whether he deemed that, on so long a voyage in such marketless waters, butter was at a premium and therefore was not for him a subaltern.
+
+41
+00:05:50,431 --> 00:05:54,375
+However it was, Flask, alas, was a butterless man.
+
+42
+00:05:54,997 --> 00:06:00,385
+Another thing, Flask was the last person down at the dinner, and Flask is the first man up.
+
+43
+00:06:00,846 --> 00:06:05,633
+Consider, for hereby Flask's dinner was badly jammed in point of time.
+
+44
+00:06:06,514 --> 00:06:11,622
+Starbuck and Stubb both had the start of him, and yet they also had the privilege of lounging in the rear.
+
+45
+00:06:12,226 --> 00:06:22,240
+If Stubb even, who is but a peg higher than Flask, happens to have but a small appetite, and soon shows symptoms of concluding his repast, then Flask must bestir himself.
+
+46
+00:06:22,621 --> 00:06:28,870
+He will not get more than three mouthfuls that day, for it is against holy usage for Stubb to precede Flask to the deck.
+
+47
+00:06:29,631 --> 00:06:41,288
+Therefore it was that Flask once admitted in private that ever since he had arisen to the dignity of an officer, from that moment he had never known what it was to be otherwise than hungry, more or less.
+
+48
+00:06:42,162 --> 00:06:46,319
+For what he ate did not so much relieve his hunger as keep it immortal in him.
+
+49
+00:06:47,183 --> 00:06:52,324
+Peace and satisfaction, thought Flask, have forever departed from my stomach.
+
+50
+00:06:52,490 --> 00:06:59,882
+I am an officer, but how I wish I could fish a bit of old-fashioned beef in the forecastle as I used to when I was before the mast.
+
+51
+00:07:00,664 --> 00:07:05,612
+There's the fruits of promotion now, there's the vanity of glory, there's the insanity of life.
+
+52
+00:07:06,333 --> 00:07:13,806
+Besides, if it were so that any mere sailor of the Pequod had a grudge against Flask in Flask's official capacity,
+
+53
+00:07:13,786 --> 00:07:25,973
+All that Sailor had to do, in order to obtain ample vengeance, was to go after dinnertime and get a peep at Flask through the cabin skylight, sitting silly and dumbfounded before awful Ahab.
+
+54
+00:07:26,408 --> 00:07:31,674
+Now, Ahab and his three mates formed what may be called the first table in the Pequod's cabin.
+
+55
+00:07:31,714 --> 00:07:42,167
+After their departure, taking place in inverted order to their arrival, the canvas cloth was cleared, or rather was restored to some hurried order by the pallid steward.
+
+56
+00:07:42,647 --> 00:07:47,453
+And then the three harpooners were bidden to the feast, they being its residuary legatees.
+
+57
+00:07:48,034 --> 00:07:51,758
+They made a sort of temporary servants' hall of the high and mighty cabin.
+
+58
+00:07:52,177 --> 00:08:06,213
+In strange contrast to the hardly tolerable constraint and nameless invisible domineerings of the captain's table was the entire carefree license and ease, the almost frantic democracy of those inferior fellows, the harpooneers.
+
+59
+00:08:06,894 --> 00:08:16,665
+While their masters, the mates, seemed afraid of the sound of the hinges of their own jaws, the harpooneers chewed their food with such a relish that there was a report to it.
+
+60
+00:08:16,645 --> 00:08:17,948
+They dined like lords.
+
+61
+00:08:18,469 --> 00:08:22,337
+They filled their bellies like Indian ships all day loading with spices.
+
+62
+00:08:23,560 --> 00:08:37,810
+Such portentous appetites had Queequeg and Tashtego that to fill out the vacancies made by the previous repast, often the pale doughboy, was feigned to bring on a great baron of salt junk seemingly quarried out of the solid ox.
+
+63
+00:08:37,790 --> 00:08:48,802
+And if he were not lively about it, if he did not go with a nimble hop-skip-and-jump, then Tashtego had an ungentlemanly way of accelerating him by darting a fork at his back, harpoon-wise.
+
+64
+00:08:49,543 --> 00:09:03,679
+And once Dagu, seized with a sudden humor, assisted Doughboy's memory by snatching him up bodily and thrusting his head into a great empty wooden trencher, while Tashtego, knife in hand, began laying out the circle preliminary to scalping him.
+
+65
+00:09:03,727 --> 00:09:12,842
+He was naturally a very nervous, shuddering sort of little fellow, this bread-faced steward, the progeny of a bankrupt baker and a hospital nurse.
+
+66
+00:09:13,480 --> 00:09:24,692
+And what with the standing spectacle of the black terrific Ahab and the periodical tumultuous visitations of these three savages, Doboy's whole life was one continual lit quiver.
+
+67
+00:09:25,533 --> 00:09:37,986
+Commonly, after seeing the harpooners furnished with all things they demanded, he would escape from their clutches into his little pantry adjoining and fearfully peep out at them through the blinds of its door till all was over.
+
+68
+00:09:37,966 --> 00:09:45,738
+It was a sight to see Queequeg seated over against Tashtego, opposing his filed teeth to the Indians, crosswise to them.
+
+69
+00:09:46,659 --> 00:09:59,940
+Dagu seated on the floor, for a bench would have brought his hearse-plumed head to the low car lines, at every motion of his colossal limbs, making the low cabin framework to shake as when an African elephant goes passenger in a ship.
+
+70
+00:10:00,730 --> 00:10:05,517
+But for all this, the great Negro was wonderfully abstemious, not to say dainty.
+
+71
+00:10:06,238 --> 00:10:15,552
+It seemed hardly possible that by such comparatively small mouthfuls he could keep up the vitality diffused through so broad, baronial, and superb a person.
+
+72
+00:10:16,553 --> 00:10:27,109
+But, doubtless, this noble savage fed strong and drank deep of the abounding element of air, and through his dilated nostrils snuffed in the sublime life of the worlds.
+
+73
+00:10:27,663 --> 00:10:31,528
+Not by beef or by bread are giants made or nourished.
+
+74
+00:10:32,149 --> 00:10:44,545
+But Queequeg, he had a mortal, barbaric smack of the lip in eating, an ugly sound enough, so much so, that the trembling doe, boy almost looked to see whether any marks of teeth lurked in his own lean arms.
+
+75
+00:10:45,126 --> 00:10:54,818
+And when he would hear Tashtego singing out for him to produce himself, that his bones might be picked, the simple-witted steward all but shattered the crockery hanging round him in the pantry,
+
+76
+00:10:54,798 --> 00:11:11,541
+by his sudden fits of the palsy, nor did the whetstone which the harpooneers carried in their pockets for their lances and other weapons, and with which whetstones, at dinner, they would ostentatiously sharpen their knives, that grating sound did not at all tend to tranquilize poor Doughboy.
+
+77
+00:11:11,875 --> 00:11:19,409
+How could he forget that in his island days, Queequeg, for one, must certainly have been guilty of some murderous, convivial indiscretions.
+
+78
+00:11:20,271 --> 00:11:20,712
+Alas!
+
+79
+00:11:21,313 --> 00:11:24,860
+Doughboy hardfares the white waiter who waits upon cannibals.
+
+80
+00:11:25,581 --> 00:11:29,108
+Not a napkin should he carry on his arm, but a buckler.
+
+81
+00:11:29,510 --> 00:11:44,481
+In good time, though, to his great delight, The three salt-sea warriors would rise and depart To his credulous, fable-mongering ears, All their martial bones jingling in them at every step, Like Moorish scimitars and scabbards.
+
+82
+00:11:44,630 --> 00:12:00,573
+But, though these barbarians dined in the cabin and nominally lived there, still, being anything but sedentary in their habits, they were scarcely ever in it except at mealtimes, and just before sleeping time, when they passed through it to their own peculiar quarters.
+
+83
+00:12:01,434 --> 00:12:12,730
+In this one matter, Ahab seemed no exception to most American whale captains, who, as a set, rather inclined to the opinion that by rights the ship's cabin belongs to them,
+
+84
+00:12:13,047 --> 00:12:18,013
+and that it is by courtesy alone that anybody else's, at any time, permitted there.
+
+85
+00:12:18,874 --> 00:12:26,663
+So that, in real truth, the mates and harpooners of the Pequod might more properly be said to have lived out of the cabin than in it.
+
+86
+00:12:27,304 --> 00:12:39,038
+For when they did enter it, it was something as a street door enters a house, turning inwards for a moment, only to be turned out the next, and, as a permanent thing, residing in the open air.
+
+87
+00:12:39,018 --> 00:12:45,345
+Nor did they lose much hereby, in the cabin was no companionship, socially Ahab was inaccessible.
+
+88
+00:12:45,845 --> 00:12:50,110
+Though nominally included in the census of Christendom, he was still an alien to it.
+
+89
+00:12:50,571 --> 00:12:54,996
+He lived in the world, as the last of the grizzly bears lived in settled Missouri.
+
+90
+00:12:55,696 --> 00:13:05,447
+And as when spring and summer had departed, that wild Logan of the woods, burying himself in the hollow of a tree, lived out the winter there, sucking his own paws.
+
+91
+00:13:05,427 --> 00:13:14,357
+So, in his inclement, howling old age, Ahab's soul, shut up in the caved trunk of his body, there fed upon the sullen paws of its gloom.
 

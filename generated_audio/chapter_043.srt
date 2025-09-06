@@ -1,536 +1,148 @@
 1
-00:00:00,031 --> 00:00:00,732
-CHAPTER XLII.
+00:00:00,217 --> 00:00:01,840
+Chapter 43 - Hark!
 
 2
-00:00:00,792 --> 00:00:02,695
-THE WHITENESS OF THE WHALE.
+00:00:02,241 --> 00:00:02,621
+Hissed!
 
 3
-00:00:03,676 --> 00:00:10,144
-What the white whale was to Ahab has been hinted what, at times, he was to me, as yet remains unsaid.
+00:00:03,163 --> 00:00:04,846
+Did you hear that noise, Cabico?
 
 4
-00:00:10,305 --> 00:00:29,430
-Aside from those more obvious considerations touching Moby Dick, which could not but occasionally awaken in any man's soul some alarm, there was another thought, or rather vague, nameless horror concerning him, which at times, by its intensity, completely overpowered all the rest.
+00:00:05,647 --> 00:00:07,891
+It was the middle watch, a fair moonlight.
 
 5
-00:00:29,410 --> 00:00:37,680
-And yet so mystical and well-nigh ineffable was it, that I almost despair of putting it in a comprehensible form.
+00:00:08,492 --> 00:00:15,205
+The seamen were standing in a cordon extending from one of the freshwater butts in the waist to the scuttlebutt near the tafrail.
 
 6
-00:00:37,901 --> 00:00:41,025
-It was the whiteness of the whale that above all things appalled me.
+00:00:15,826 --> 00:00:18,910
+In this manner they passed the buckets to fill the scuttlebutt.
 
 7
-00:00:41,806 --> 00:00:44,048
-But how can I hope to explain myself here?
+00:00:19,791 --> 00:00:25,759
+Standing, for the most part, on the hallowed precincts of the quarterdeck, they were careful not to speak or rustle their feet.
 
 8
-00:00:44,990 --> 00:00:50,136
-And yet, in some ding, random way, explain myself I must.
+00:00:26,400 --> 00:00:36,973
+From hand to hand the buckets went in the deepest silence, only broken by the occasional flap of the sail and the steady hum of the unceasingly advancing keel.
 
 9
-00:00:50,116 --> 00:00:52,419
-else all these chapters might be naught.
+00:00:36,953 --> 00:00:46,558
+It was in the midst of this repose that Archie, one of the cordon whose post was near the after-hatches, whispered to his neighbor, Acholo, the words above.
 
 10
-00:00:52,879 --> 00:01:15,145
-Though in many natural objects whiteness refiningly enhances beauty, as if imparting some special virtue of its own, as in marbles, japonicas, and pearls, and though various nations have in some way recognized a certain royal preeminence in this hue, even the barbaric grand old kings of Pegu placing the title Lord of the White Elephants, above all their other magniliquent ascriptions of dominions,
+00:00:47,483 --> 00:00:48,404
+Hissed.
 
 11
-00:01:15,125 --> 00:01:37,639
-and the modern kings of Siam unfurling the same snow-white quadruped in the royal standard, in the royal standard, and the Hanoverian flag bearing the—this elusive quality it is, which causes the thought of whiteness, when divorced from more kindly associations, and coupled with any object terrible in itself, to heighten that terror to the furthest bounds.
+00:00:48,424 --> 00:00:49,886
+Did you hear that noise, Kabako?
 
 12
-00:01:37,619 --> 00:01:41,563
-Witness the white bear of the poles, And the white shark of the tropics.
+00:00:50,526 --> 00:00:52,028
+Take the bucket, will you, Arki?
 
 13
-00:01:42,584 --> 00:02:07,508
-What but their smooth, flaky whiteness Makes them the transcendent horrors they are, That ghastly whiteness it is which imparts Such an abhorrent mildness, even more loathsome Than terrific, to the dumb gloating of their aspect, So that not the fierce-fanged tiger in his heraldic coat Can so stagger courage as the white-shrouded bear or shark
+00:00:52,549 --> 00:00:53,430
+What noise'd I mean?
 
 14
-00:02:07,488 --> 00:02:32,719
-Keir referenced to the polar bear, it may possibly be urged by him who would fain go still deeper into this matter, that it is not the whiteness, separately regarded, which heightens the intolerable hideousness of that brute foreanalyzed, that heightened hideousness, it might be said, only rises from the circumstance that the irresponsible ferociousness of the creature stands invested in the fleece of celestial innocence and love,
+00:00:53,490 --> 00:00:55,151
+There it is again.
 
 15
-00:02:32,699 --> 00:02:37,424
-and non-heed by bringing together two such opposite emotions in our minds, the polar bear.
+00:00:55,171 --> 00:00:56,433
+Under the hatches.
 
 16
-00:02:37,464 --> 00:02:45,853
-But even assuming all this to be true, yet, were it not for the whiteness, you would not have that intensified terror.
+00:00:56,713 --> 00:00:57,374
+Don't you hear it?
 
 17
-00:02:46,133 --> 00:02:57,846
-As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the polar quadruped.
+00:00:57,975 --> 00:00:58,455
+A cough.
 
 18
-00:02:59,227 --> 00:03:04,840
-This peculiarity is most vividly hit by the French in the name they bestow upon that fish.
+00:00:58,795 --> 00:00:59,837
+It sounded like a cough.
 
 19
-00:03:05,362 --> 00:03:15,987
-The Romish Mass for the dead begins with Requiem, Aeternam minus Aeternal Rest, whence our Requiem denominating the Mass itself, and any other funeral music.
+00:01:00,657 --> 00:01:00,978
+Cough.
 
 20
-00:03:15,967 --> 00:03:25,468
-Now, in allusion to the white, silent stillness of death in this shark, and the mild deadliness of his habits, the French call him Rayquine.
+00:01:01,278 --> 00:01:01,839
+Be damned.
 
 21
-00:03:25,689 --> 00:03:27,292
-Bethink thee of the albatross!
+00:01:02,339 --> 00:01:03,801
+Pass along that return bucket.
 
 22
-00:03:27,834 --> 00:03:35,190
-Whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?
+00:01:04,382 --> 00:01:04,902
+There again.
 
 23
-00:03:35,170 --> 00:03:42,040
-Not Coleridge first threw that spell, but God's great, unflattering laureate, Nature.
+00:01:04,942 --> 00:01:06,143
+There it is.
 
 24
-00:03:42,761 --> 00:03:46,427
-Cur, I remember the first albatross I ever saw.
+00:01:06,164 --> 00:01:08,927
+It sounds like two or three sleepers turning over.
 
 25
-00:03:46,467 --> 00:03:53,297
-It was during a prolonged gale, in waters hard upon the Antarctic seas, from my Fornian watch below.
+00:01:09,307 --> 00:01:10,268
+Now.
 
 26
-00:03:53,277 --> 00:04:05,157
-I ascended to the overclouded deck, and there, dashed upon the main hatches, I saw a regal, feathery thing of unspotted whiteness, and with a hoped Roman bill sublime.
+00:01:10,248 --> 00:01:10,909
+Caramba!
 
 27
-00:04:05,237 --> 00:04:12,028
-At intervals it arched forth its vast archangel wings, as if to embrace some holy ark.
+00:01:11,250 --> 00:01:12,612
+Have done, shipmate, will ye?
 
 28
-00:04:12,008 --> 00:04:14,290
-Wondrous flutterings and throbbings shook it.
+00:01:13,453 --> 00:01:17,079
+It's the three soaked biscuits ye eat for supper turning over in sight of ye.
 
 29
-00:04:15,191 --> 00:04:23,400
-Though bodily unharmed, it uttered cries, as some king's ghost in supernatural distress, through its inexpressible strange eyes.
+00:01:17,119 --> 00:01:18,321
+Nothing else.
 
 30
-00:04:24,081 --> 00:04:27,525
-Methought I peeped to secrets which took cold of God.
+00:01:18,842 --> 00:01:19,683
+Look to the bucket.
 
 31
-00:04:27,725 --> 00:04:41,560
-As Abraham before the angels, I bowed myself the white thing was so white, its wings so wide, and in those forever exiled waters, I had lost the miserable warping memories of traditions and of towns.
+00:01:20,364 --> 00:01:21,626
+Say what ye will, shipmate.
 
 32
-00:04:42,181 --> 00:04:44,744
-Long I gazed at that prodigy of plumage.
+00:01:21,967 --> 00:01:22,788
+I've sharp ears.
 
 33
-00:04:44,985 --> 00:04:49,170
-I cannot tell, can only hint, the things that datter through me then.
+00:01:23,629 --> 00:01:31,041
+Ay, you are the chap, ain't ye, that heard the hum of the old Quakeress's knitting needles fifty miles at sea from Nantucket, you're the chap.
 
 34
-00:04:50,192 --> 00:04:54,738
-But at last I awoke in turning, asked a sailor what bird was this.
+00:01:31,662 --> 00:01:33,608
+Grin away, we'll see what turns up.
 
 35
-00:04:55,719 --> 00:04:57,141
-A gunny, he replied.
+00:01:34,290 --> 00:01:42,133
+Hark ye, Cavico, there is somebody down in the afterhold that has not yet been seen on deck, and I suspect our old mogul knows something of it too.
 
 36
-00:04:57,942 --> 00:04:58,302
-Gunny!
+00:01:43,136 --> 00:01:47,729
+I heard Stubb tell Flask, one morning watch, that there was something of that sort in the wind.
 
 37
-00:04:58,783 --> 00:05:00,345
-Never had heard that name before.
-
-38
-00:05:00,806 --> 00:05:04,691
-Is it conceivable that this gory thing is utterly unknown to men ashore?
-
-39
-00:05:04,871 --> 00:05:05,212
-Never.
-
-40
-00:05:06,213 --> 00:05:11,580
-But some time after I learned that Gunny was some seaman's name for Albatross.
-
-41
-00:05:12,404 --> 00:05:22,426
-so that by no possibility could Coleridge's wild rhyme have had aught to do with those mystical impressions which were mine, when I saw that bird upon our deck.
-
-42
-00:05:22,446 --> 00:05:27,797
-For neither had I then read the rhyme, nor knew the bird to be an albatross.
-
-43
-00:05:27,777 --> 00:05:35,666
-Yet, in saying this, I do but indirectly burnish a little brighter the noble merit of the poem and the poet.
-
-44
-00:05:35,686 --> 00:05:56,890
-I assert, then, that in the wondrous bodily whiteness of the bird chiefly lurks the secret of the spell, and truth the more evinced in this, that by a solacism of terms there are birds called grey albatrosses, and these I have frequently seen, but never with such emotions as when I beheld the Antarctic fowl.
-
-45
-00:05:56,870 --> 00:05:59,635
-But how had the mystic thing been caught?
-
-46
-00:06:00,776 --> 00:06:06,947
-Whisper it not, and I will tell With a treacherous hook and line, As the fowl floated on the sea.
-
-47
-00:06:07,347 --> 00:06:18,005
-At last the captain made a postman Of it, tying a lettered leathern tally Round its neck, with the ship's time and place, And then letting it escape.
-
-48
-00:06:18,105 --> 00:06:23,434
-But I doubt not That leathern tally meant for man Was taken off in heaven.
-
-49
-00:06:23,414 --> 00:06:29,508
-when the white fowl flew to join the wing-folding, the invoking, and adoring cherubim.
-
-50
-00:06:29,689 --> 00:06:39,432
-Most famous in our Western annuals and Indian traditions is that of the white steed of the prairies, a magnificent milk-white charger.
-
-51
-00:06:39,412 --> 00:06:47,882
-large-eyed, small-headed, glove-chested, and with the dignity of a thousand monarchs in his lofty, overscorning carriage.
-
-52
-00:06:47,902 --> 00:06:57,332
-He was the elected Xerxes of vast herds of wild horses, whose pastures in those days were only fenced by the rocky mountains and the Alleghenies.
-
-53
-00:06:58,253 --> 00:07:06,162
-At their flaming head he westward trooped it like that chosen star which every evening leads on the hosts of life.
-
-54
-00:07:06,142 --> 00:07:17,433
-The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver beaters could have furnished him.
-
-55
-00:07:17,994 --> 00:07:32,368
-A most imperial and archangelical apparition of that unfallen western world, which to the eyes of the old trappers and hunters revived the glories of those primeval times when Adam walked majestic as a god,
-
-56
-00:07:32,348 --> 00:07:49,547
-bluff-browed and fearless as this mighty steed, whether marching amid his aides and marshals in the van of countless cohorts that endlessly streamed it over the plains, like in Ohio, whether with his circumambient subjects browsing all around at the horizon,
-
-57
-00:07:49,527 --> 00:07:55,961
-The white steed gallopingly reviewed them with warm nostrils reddening through his cool milkiness.
-
-58
-00:07:56,663 --> 00:08:05,663
-Sin, whatever aspect he presented himself, always to the bravest Indians he was the object of trembling reverence and awe.
-
-59
-00:08:05,643 --> 00:08:27,533
-Nor can it be questioned, from what stands on legendary record of this noble horse, that it was his spiritual whiteness chiefly which so clothed him with divineness, and that this divineness had that in it which, though commanding worship, at the same time enforced a certain nameless terror.
-
-60
-00:08:27,513 --> 00:08:36,683
-There are other instances where this whiteness loses all that accessory and strange glory which invests it in the white steed and albatross.
-
-61
-00:08:37,183 --> 00:08:46,734
-What is it that in the albino man so peculiarly repels and often shocks the eye, as that sometimes he is loathed by his own kith and kin?
-
-62
-00:08:47,755 --> 00:08:52,440
-It is that whiteness which invests him, a thing expressed by the name he bears.
-
-63
-00:08:52,657 --> 00:09:04,219
-The albino is as well made as other men has no substantive deformity, and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion.
-
-64
-00:09:05,954 --> 00:09:07,155
-Why should this be so?
-
-65
-00:09:07,356 --> 00:09:19,048
-Nor, in quite other aspects, does nature in her least palpable but not the less malicious agencies fail to enlist among her forces this crowning attribute of the terrible.
-
-66
-00:09:20,029 --> 00:09:26,617
-From its snowy aspect the gauntleted ghost of the southern seas has been denominated the White Squall.
-
-67
-00:09:27,297 --> 00:09:29,700
-Nor, in some historic instances,
-
-68
-00:09:29,680 --> 00:09:33,669
-Has the art of human malice omitted so potent an auxiliary?
-
-69
-00:09:33,790 --> 00:09:47,301
-How wildly it heightens the effect of that passage in Foissat, when, masked in the snowy symbol of their faction, the desperate white hoods of Ghent murder their bailiff in the marketplace.
-
-70
-00:09:47,281 --> 00:09:56,814
-Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue.
-
-71
-00:09:57,034 --> 00:10:15,820
-It cannot well be doubted that the one visible quality in the aspect of the dead which most appalls the gazer is the marble pallor lingering there, as if, indeed, that pallor were as much like the badge of consternation in the other world as of mortal trepidation here.
-
-72
-00:10:15,800 --> 00:10:22,730
-And from that pallor of the dead we borrow the expressive hue of the shroud in which we wrap them.
-
-73
-00:10:22,850 --> 00:10:31,682
-Nor even in our superstitions do we fail to throw the same snowy mantle round our phantoms, all ghosts rising in a milk-white fogier.
-
-74
-00:10:32,383 --> 00:10:41,976
-While these terrors seize us, let us add, that even the king of terrors, when personified by the evangelist, rides on his pallid horse.
-
-75
-00:10:41,956 --> 00:10:48,584
-Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness.
-
-76
-00:10:49,124 --> 00:10:56,793
-No man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul.
-
-77
-00:10:56,913 --> 00:11:02,460
-But though without dissent this point be fixed, how is mortal man to account for it?
-
-78
-00:11:03,080 --> 00:11:05,483
-To analyze it would seem impossible.
-
-79
-00:11:05,463 --> 00:11:27,960
-Can we, then, by the citation of some of those instances wherein this thing of whiteness, though, for the time either wholly or in great part stripped of all direct associations, calculated to impart to it, ought fearful, but nevertheless is found to exert over us the same sorcery, however modified, consons?
-
-80
-00:11:27,940 --> 00:11:33,025
-thus hope to light upon some chance clue to conduct us to the hidden cause we seek.
-
-81
-00:11:33,165 --> 00:11:33,866
-Let us try.
-
-82
-00:11:33,906 --> 00:11:42,514
-But in a matter like this, subtlety appeals to subtlety, and without imagination no man can follow another into these halls.
-
-83
-00:11:42,794 --> 00:11:56,867
-And though, doubtless, some at least of the imaginative impressions about to be presented may have been shared by most men, yet few, perhaps, were entirely conscious of them at the time.
-
-84
-00:11:56,847 --> 00:11:59,651
-and therefore may not be able to recall them now.
-
-85
-00:11:59,791 --> 00:12:19,598
-Why, to the man of untutored ideality, who happens to be but loosely acquainted with the peculiar character of the day, does the bare mention of Whitsuntide Marshall in the fancy such long, dreary, speechless processions of slow-pacing pilgrims, downcast and hooded with new-fallen snow?
-
-86
-00:12:19,662 --> 00:12:32,641
-or, to the unread, unsophisticated Protestants of the Middle American States, why does the passing mention of a white friar or a white nun evoke such an eyeless statue in the soul?
-
-87
-00:12:32,802 --> 00:12:37,789
-Or what is there, apart from the traditions of dungeoned warriors and kings,
-
-88
-00:12:37,769 --> 00:12:54,900
-will not wholly account for it that makes the White Tower of London tell so much more strongly on the imagination of an untravelled American than those other storied structures, its neighbours, the Byward Tower, or even the Bloody.
-
-89
-00:12:54,880 --> 00:13:13,733
-And those sublimer towers, the white mountains of New Hampshire, whence, in peculiar moods, comes that gigantic ghostliness over the soul at the bare mention of that name, while the thought of Virginia's Blue Ridge is full of a soft, dewy, distant dreaminess,
-
-90
-00:13:13,713 --> 00:13:34,118
-Or why, irrespective of all latitudes and longitudes, does the name of the White Sea exert such a spectralness over the fancy, while that of the Yellow Sea lulls us with mortal thoughts of long, lacquered, mild afternoons on the waves, followed by the gaudiest and yet sleepiest of sunsets?
-
-91
-00:13:34,486 --> 00:13:58,283
-Or, to choose a wholly unsubstantial instance, purely addressed to the fancy, why, in reading the old fairy tales of Central Europe, does the tall, pale man of the Harz forests, whose changeless pallor unrustingly glides through the green of the groves, why, is this phantom more terrible than all the whooping imps of the Broxburghs?
-
-92
-00:13:58,263 --> 00:14:16,710
-nor is it, altogether, the remembrance of her cathedral-toppling earthquakes, nor the stampedos of her frantic seas, nor the tearlessness of arid skies that never rain, nor the sight of her wide field of leaning spires, wrenched copestones, and crosses all adroop, like canted yards of anchored fleets low.
-
-93
-00:14:16,690 --> 00:14:22,463
-and her suburban avenues of house-walls lying over upon each other, as a tossed pack of cards.
-
-94
-00:14:23,004 --> 00:14:34,530
-It is not these things alone which make tearless Lima the strangest, saddest city, though, for Lima has taken the white veil, and there is a higher horror in this whiteness of her woe.
-
-95
-00:14:34,949 --> 00:14:49,406
-Old as Pizarro, this whiteness keeps her ruins forever new, admits not the cheerful greenness of complete decay, spreads over her broken ramparts the rigid pallor of an apoplexy that fixes its own distortions.
-
-96
-00:14:50,226 --> 00:15:01,159
-I know that, to the common apprehension, this phenomenon of whiteness is not confessed to be the prime agent in exaggerating the terror of objects otherwise terrible.
-
-97
-00:15:01,139 --> 00:15:18,085
-Nor, to the unimaginative mind, is there aught of terror in those appearances whose awfulness to another mind almost solely consists in this one phenomenon, especially when exhibited under any form at all approaching to muteness or universality.
-
-98
-00:15:18,672 --> 00:15:25,700
-What I mean by these two statements may, perhaps, be respectively elucidated by the following examples.
-
-99
-00:15:26,021 --> 00:15:39,617
-First whole, the mariner, when drawing nigh the coasts of foreign lands, if by night he hear the roar of breakers, starts to vigilance, and feels just enough of trepidation to sharpen all his faculties, but under precisely similar circumstances
-
-100
-00:15:39,597 --> 00:15:49,156
-Let him be called from his hammock to view his ship sailing through a midnight sea of milky whiteness, as if from encircling headlands shoals of combed white bears were swimming round him.
-
-101
-00:15:49,537 --> 00:15:55,789
-Then he feels a silent superstitious dread to view his ship sailing with horrible to him as a real guy, and he loved him to mine.
-
-102
-00:15:55,889 --> 00:15:58,855
-Yet where is the mariner who will tell thee?
-
-103
-00:15:58,835 --> 00:16:06,786
-Sir, it was not so much the fear of striking hidden rocks, as the fear of that hideous whiteness that so stirred me.
-
-104
-00:16:07,407 --> 00:16:08,309
-SECOND CULT.
-
-105
-00:16:08,950 --> 00:16:22,429
-To the native Indian of Peru, the continual sight of the snow-hoarded Andes conveys naught of dread, except, perhaps, in the mere fancying of the eternal frosted desolateness reigning at such vast altitudes,
-
-106
-00:16:22,409 --> 00:16:29,158
-and the natural conceit of what a fearfulness it would be to lose oneself in such inhuman solitudes.
-
-107
-00:16:29,338 --> 00:16:43,996
-Much the same is it with the back woodsmen of the West, who, with comparative indifference, views an unbounded prairie sheeted with driven snow, no shadow of tree or twig to break the fixed trance of whiteness.
-
-108
-00:16:44,297 --> 00:16:51,606
-Not so the sailor, beholding the scenery of the Antarctic seas, were at times, by some infernal trick,
-
-109
-00:16:51,586 --> 00:16:54,551
-Of legerdemain in the powers of frost and air.
-
-110
-00:16:55,112 --> 00:17:09,595
-He, shivering and half shipwrecked, Instead of rainbows speaking hope and solace To his misery, views what seems a boundless churchyard Grinning upon him, with its lean ice monuments And splintered crosses.
-
-111
-00:17:09,575 --> 00:17:17,587
-But thou say'st, methinks that, white blood chapter about whiteness is but a white flag hung out from a craven soul.
-
-112
-00:17:18,328 --> 00:17:20,852
-Thou surrender'st to a hypo, Ishmael.
-
-113
-00:17:20,932 --> 00:17:26,200
-Tell me, why this strong young colt fold in some peaceful valley of Vermont?
-
-114
-00:17:26,180 --> 00:17:46,922
-Far removed from all beasts of prey, why is it, that upon the sunniest day, if you but shake a fresh buffalo-robe behind him, so that he cannot even see it, but only smells its wild animal, muskiness why, will he start, snort, and with bursting eyes paw the ground in frenzies of a fright?
-
-115
-00:17:46,902 --> 00:18:00,945
-There is no remembrance in him of any gorings of wild creatures in his green northern home, so that the strange muskiness he smells cannot recall to him anything associated with the experience of former perils.
-
-116
-00:18:01,826 --> 00:18:07,516
-For what knows he, this New England colt, of the black bisons of distant Oregon?
-
-117
-00:18:08,237 --> 00:18:12,083
-No but here thou beholdest, even in a dumb brute,
-
-118
-00:18:12,063 --> 00:18:18,111
-the instinct of the knowledge of the demonism in the world, though thousands of miles from Oregon.
-
-119
-00:18:18,712 --> 00:18:31,469
-Still, when he smells that savage musk, the rending gory bison herds are as present as to the deserted wild foal of the prairies, which this instant they may be trampling into dust.
-
-120
-00:18:31,489 --> 00:18:38,458
-Thus then, the muffle-rollings of a milky sea, the bleak rustlings of the festooned frosts of mountains,
-
-121
-00:18:38,438 --> 00:18:48,819
-The desolate shiftings of the wind-drowned snows of prairies—all these, to Ishmael, are as the shaking of that buffalo-robe to the frightened colt.
-
-122
-00:18:49,099 --> 00:19:00,582
-Though neither knows where lie the nameless things of which the mystic sign gives forth such hints, yet with me, as with the colt, somewhere those things must insist.
-
-123
-00:19:00,562 --> 00:19:08,771
-Though, in many of its aspects, this visible world seems formed in love, the invisible spheres were formed in fright.
-
-124
-00:19:09,051 --> 00:19:20,744
-But not yet have we solved the incantation of this whiteness, and learned why it appeals with such power to the soul, and more strange and far more portentous why, as we have seen.
-
-125
-00:19:20,764 --> 00:19:24,728
-It is at once the most meaning symbol of spiritual things.
-
-126
-00:19:25,549 --> 00:19:28,392
-Nay, the very veil of the Christian's deity,
-
-127
-00:19:28,372 --> 00:19:35,351
-Dhyan, Nya should be as it is, the intensifying agent in things the most appalling to mankind.
-
-128
-00:19:35,953 --> 00:19:43,393
-Is it that, by its indefiniteness, it shadows forth the heartless voids and immensities of the universe?
-
-129
-00:19:43,373 --> 00:19:51,201
-and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the Milky Way?
-
-130
-00:19:51,441 --> 00:20:00,470
-Or is it that, as in essence, whiteness is not so much a color as the visible absence of color, and at the same time the concrete of all colors?
-
-131
-00:20:01,170 --> 00:20:12,942
-Is it, for these reasons, that there is such a dumb blankness, full of meaning, in a wide landscape of snows, a colorless, all-color of atheism, from which we shrink?
-
-132
-00:20:12,922 --> 00:20:33,327
-And when we consider that other theory of the natural philosophers, that all other earthly hues, every stately or lovely emblazoning, the sweet tinges of sunset skies and woods of Yi, and the gilded velvets of butterflies, and the butterfly cheeks of young girls, all these are but subtile deceits, not actually inherent in substances, but only laid on from without.
-
-133
-00:20:33,307 --> 00:20:46,313
-So that all daefied absolutely paints, like the harlot, whose illumens cover nothing but the charnel-house, within all these are but, and when we proceed further and consider that the mystical paints, in of all these things the albino whale was the symbol.
-
-134
-00:20:47,096 --> 00:20:49,324
-Wonder ye, then, at the fiery hunt.
+00:01:48,451 --> 00:01:49,755
+Tish, the bucket.
 

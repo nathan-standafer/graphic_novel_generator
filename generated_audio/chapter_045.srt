@@ -1,280 +1,604 @@
 1
-00:00:00,031 --> 00:00:24,250
-Chapter 44 Had you followed Captain Ahab down into his cabin after the squall that took place on the night succeeding that wild ratification of his purpose with his crew, you would have seen him go to a locker in the transom, and, bringing out a large wrinkled roll of yellowish sea-charts, spread them before him on his screwed-down table.
+00:00:00,031 --> 00:00:00,912
+Chapter 45 - The Affidavit.
 
 2
-00:00:24,230 --> 00:00:40,023
-Then, seating himself before it, you would have seen him intently study the various lines and shadings which there met his eye, and with slow but steady pencil trace additional courses over spaces that before were blank.
+00:00:01,113 --> 00:00:02,434
+Chapter 45 - The Affidavit.
 
 3
-00:00:40,083 --> 00:00:44,753
-At intervals he would refer to piles of old log-books beside him.
+00:00:03,055 --> 00:00:20,520
+So far as what there may be of a narrative in this book, and, indeed, as indirectly touching one or two very interesting and curious particulars in the Habits of Sperm Whales, the foregoing chapter, in its earlier part, is as important a one as will be found in this volume.
 
 4
-00:00:44,733 --> 00:00:54,428
-wherein were set down the seasons, and places in which, on various former voyages of various ships, sperm-whales had been captured or seen.
+00:00:20,500 --> 00:00:38,288
+But the leading matter of it requires to be still further and more familiarly enlarged upon, in order to be adequately understood, and moreover to take away any incredulity which a profound ignorance of the entire subject may induce in some minds, as to the natural verity of the main points of this affair.
 
 5
-00:00:54,448 --> 00:01:02,640
-While thus employed, the heavy pewter lamp suspended in chains over his head, continually rocked with the motion of the ship,
+00:00:38,949 --> 00:00:41,833
+I care not to perform this part of my task methodically.
 
 6
-00:01:02,620 --> 00:01:23,295
-and forever threw shifting gleams and shadows of lines upon his wrinkled brow, till it almost seemed that while he himself was marking out lines and courses on the wrinkled charts, some invisible pencil was also tracing lines and courses upon the deeply marked chart of his forehead.
+00:00:42,168 --> 00:00:56,464
+but shall be content to produce the desired impression by separate citations of items, practically or reliably known to me as a whaleman, and from these citations, I take it, the conclusion aimed at will naturally follow of itself.
 
 7
-00:01:23,950 --> 00:01:31,441
-But it was not this night, in particular, that, in the solitude of his cabin, Ahab thus pondered over his charts.
+00:00:56,680 --> 00:01:16,204
+First, I have personally known three instances where a whale, after receiving a harpoon, has effected a complete escape and, after an interval in one instance of three years, has been again struck by the same hand and slain when the two irons, both marked by the same private cipher, have been taken from the body.
 
 8
-00:01:32,342 --> 00:01:40,194
-Almost every night they were brought out, almost every night some pencil marks were effaced, and others were substituted.
+00:01:16,224 --> 00:01:23,953
+In the instance where three years intervened between the flinging of the two harpoons, and I think it may have been something more than that,
 
 9
-00:01:40,374 --> 00:01:53,333
-For with the charts of all four oceans before him, Ahab was threading a maze of currents and eddies, with a view to the more certain accomplishment of that monomaniac thought of his soul.
+00:01:24,423 --> 00:01:47,781
+The man who darted them happening, in the interval, to go in a trading ship on a voyage to Africa, went ashore there, joined a discovery party, and penetrated far into the interior where he travelled for a period of nearly two years, often endangered by serpents, savages, tigers, poisonous miasmas, with all the other common perils incident to wandering in the heart of unknown regions.
 
 10
-00:01:53,313 --> 00:02:06,391
-Now, to any one not fully acquainted with the ways of the Leviathans, it might seem an absurdly hopeless task thus to seek out one solitary creature in the unhooped oceans of this planet.
+00:01:47,761 --> 00:01:51,468
+Meanwhile, the whale he had struck must also have been on its travels.
 
 11
-00:02:06,691 --> 00:02:15,743
-But not so did it seem to Ahab, who knew the sets of all tides and currents, and thereby calculating the driftings of the sperm-whale's food,
+00:01:51,928 --> 00:01:58,600
+No doubt it had thrice circumnavigated the globe, brushing with its flanks all the coasts of Africa, but to no purpose.
 
 12
-00:02:15,723 --> 00:02:34,525
-and, also, calling to mind the regular, ascertain seasons for hunting him in particular latitudes, called, arrive at reasonable surmises, almost approaching to certainties, concerning the timeliest day to be upon this or that ground, in search of his prey.
+00:01:59,402 --> 00:02:03,629
+This man and this whale again came together, and the one vanquished the other.
 
 13
-00:02:34,505 --> 00:02:48,238
-So assured, indeed, is the fact concerning the periodicalness of the sperm-whales resorting to given waters, that many hunters believe that, could he be closely observed and studied throughout the world.
+00:02:04,371 --> 00:02:11,203
+I say I, myself, have known three instances similar to this, that is, in two of them.
 
 14
-00:02:49,239 --> 00:03:03,972
-Were the logs for one voyage of the entire whale-fleet carefully collated, then the migrations of the sperm-whale would be found to correspond in invariability to those of the herring-shoals or the flights of swallows.
+00:02:11,386 --> 00:02:20,991
+I saw the whale struck, and, upon the second attack, saw the two irons with the respective marks cut in them, afterwards taken from the dead fish.
 
 15
-00:03:03,952 --> 00:03:09,359
-On this hint, attempts have been made to construct elaborate migratory charts of the sperm whale.
+00:02:21,292 --> 00:02:34,596
+In the three-year instance, it so fell out that I was in the boat both times, first and last, and the last time distinctly recognized a peculiar sort of huge mole under the whale's eye, which I had observed there three years previous.
 
 16
-00:03:10,100 --> 00:03:10,400
-Je.
+00:02:35,357 --> 00:02:38,563
+I say three years, but I am pretty sure it was more than that.
 
 17
-00:03:11,141 --> 00:03:23,277
-Since the above was written, the statement is happily borne out by an official circular issued by Lieutenant Morey of the National Observatory, Washington, April 16, 1851.
+00:02:39,244 --> 00:02:44,093
+Here are three instances, then, which I personally know the truth of.
 
 18
-00:03:23,847 --> 00:03:33,483
-By that circular, it appears that precisely such a chart is in course of completion, and portions of it are presented in the circular.
+00:02:44,073 --> 00:02:50,620
+but I have heard of many other instances from persons whose veracity in the matter there is no good ground to impeach.
 
 19
-00:03:33,604 --> 00:03:39,814
-This chart divides the ocean into districts of five degrees of latitude by five degrees of longitude.
+00:02:51,822 --> 00:03:06,638
+Secondly, it is well known in the sperm whale fishery, however ignorant the world ashore may be of it, that there have been several memorable historical instances where a particular whale in the ocean has been at distant times in places popularly cognizable.
 
 20
-00:03:39,794 --> 00:03:56,453
-perpendicularly through each of which districts are twelve columns, for the twelve months in and horizontally through each of which districts are three lines, S, one to show the number of days that have been spent in each month in every district,
+00:03:07,057 --> 00:03:15,007
+Why such a whale became thus marked was not altogether and originally owing to his bodily peculiarities as distinguished from other whales.
 
 21
-00:03:56,433 --> 00:04:02,603
-and the two others to show the number of days in which whales, sperm or right, have been seen.
+00:03:15,628 --> 00:03:26,803
+For however peculiar in that respect any chance whale may be, they soon put an end to his peculiarities by killing him and boiling him down into a peculiarly valuable oil.
 
 22
-00:04:03,525 --> 00:04:21,394
-Besides, when making a passage from one feeding-ground to another, the sperm-whales, guided by some infallible instinct, say, rather, secret intelligence from the Deity mostly sweep in veins, as they are called, continuing their way along a given ocean-line,
+00:03:26,843 --> 00:03:30,027
+No, the reason was this.
 
 23
-00:04:21,374 --> 00:04:30,889
-with such undeviating exactitude, that no ship ever sailed her course, by any chart, with one tithe of such marvellous precision.
+00:03:30,007 --> 00:03:48,270
+that from the fatal experiences of the fishery there hung a terrible prestige of perilousness about such a whale as there did about Rinaldo Rinaldini, insomuch that most fishermen were content to recognize him by merely touching their tarpaulins when he would be discovered lounging by them on the sea, without seeking to cultivate a more intimate acquaintance.
 
 24
-00:04:31,550 --> 00:04:46,875
-Though in these cases the direction taken by any one whale be straight as a surveyor's paramount, the sum is, that at particular seasons within that breath, and along that path, migrating whales may with great confidence be looked for.
+00:03:48,830 --> 00:03:59,203
+Like some poor devils ashore that happen to know an irascible great man, they make distant unobtrusive salutations to him in the street, lest if they pursued the acquaintance further
 
 25
-00:04:46,990 --> 00:05:09,066
-and hence not only at substantiated times, upon well-known separate feeding-grounds, could Ahab hope to encounter his prey, but in crossing the widest expanses of water between those grounds he could, by his art, so place and time himself on his way, as even then not to be wholly without prospect of a meeting.
+00:03:59,183 --> 00:04:01,945
+they might receive a summary thump for their presumption.
 
 26
-00:05:09,046 --> 00:05:15,714
-There was a circumstance which at first sight seemed to entangle his delirious but still methodical scheme.
+00:04:02,606 --> 00:04:24,925
+But not only did each of these famous whales enjoy great individual celebrity, nay, you may call it an ocean-wide renown, not only was he famous in life and now is immortal in forecastle stories after death, but he was admitted into all the rights, privileges, and distinctions of a name, had as much a name indeed as Cambyses or Caesar.
 
 27
-00:05:16,775 --> 00:05:19,438
-But not so in the reality, perhaps.
+00:04:25,606 --> 00:04:28,228
+Was it not so, O Timor-Tam?
 
 28
-00:05:19,578 --> 00:05:33,855
-Though the gregarious sperm-whales have their regular seasons for particular grounds, yet in general you cannot conclude that the herds which halted such and such a latitude or longitude, this year, say,
+00:04:28,208 --> 00:04:37,763
+Thou famed Leviathan, scarred like an iceberg, who so long didst lurk in the oriental straits of that name, whose spout was off-seen from the palmy beach of Ombe.
 
 29
-00:05:33,835 --> 00:05:47,099
-will turn out to be identically the same with those that were found there the preceding season, though there are peculiar and unquestionable instances where the contrary of this has proved true.
+00:04:38,584 --> 00:04:41,369
+Was it not so, O New Zealand Jack?
 
 30
-00:05:47,660 --> 00:05:57,177
-In general, the same remark, only within a less wide limit, applies to the solitaries and hermits among the matured, aged sperm-whales.
+00:04:41,389 --> 00:04:45,415
+Thou terror of all cruisers that crossed their wakes in the vicinity of the Tattoo Land.
 
 31
-00:05:57,157 --> 00:06:20,042
-so that though Moby Dick had in a former year been seen, for example, on what is called the Seychelles Ground in the Indian Ocean, or Volcano Bay on the Japanese coast, yet it did not follow, that were the Pequod to visit either of those spots at any subsequent corresponding season, she would infallibly encounter him there.
+00:04:46,116 --> 00:04:47,719
+Was it not so, O Morquan?
 
 32
-00:06:20,022 --> 00:06:26,050
-So, too, with some other feeding-grounds, where he had at times revealed himself.
+00:04:48,560 --> 00:04:55,431
+King of Japan, whose lofty jet they say at times assumed the semblance of a snow-white cross against the sky.
 
 33
-00:06:26,070 --> 00:06:33,880
-But all these seemed only his casual stopping-places in ocean ends, so to speak, not his places of prolonged abode.
+00:04:55,411 --> 00:05:03,548
+Was it not so, O Don Miguel, thou Chilean whale, Mark'd like an old tortoise with mystic hieroglyphics upon the back?
 
 34
-00:06:34,441 --> 00:06:45,355
-And where Ahab's chances of accomplishing his object have hitherto been spoken of, allusion has only been made to whatever wayside antecedent extra-prospects were his
+00:05:04,034 --> 00:05:12,004
+In plain prose, here are four whales as well known to the students of cetacean history as Marius or Scylla to the classic scholar.
 
 35
-00:06:45,335 --> 00:06:59,074
-ere a particular set time or place were attained, when all possibilities would become probabilities, and, as Ahab fondly thought, every possibility the next thing to a certainty.
+00:05:12,504 --> 00:05:13,726
+But this is not all.
 
 36
-00:06:59,555 --> 00:07:06,664
-That particular set time and place were conjoined in the one technical phrase, the season on the line.
+00:05:14,206 --> 00:05:14,887
+New Zealand.
 
 37
-00:07:06,825 --> 00:07:13,654
-For there and then, for several consecutive years, Moby Dick had been periodically described
+00:05:15,568 --> 00:05:32,488
+Tom and Don Miguel, after at various times creating great havoc among the boats of different vessels, were finally gone in quest of, systematically hunted out, chased and killed by valiant whaling captains, who heaved up their anchors with that express object as much in view
 
 38
-00:07:13,634 --> 00:07:23,026
-lingering in those waters for a while, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac.
+00:05:32,468 --> 00:05:43,782
+As in setting out through the Narragansett woods, Captain Butler of old had it in his mind to capture that notorious, murderous, savage Onewan, the headmost warrior of the Indian King Philip.
 
 39
-00:07:23,046 --> 00:07:28,553
-There it was, too, that most of the deadly encounters with the white whale had taken place.
+00:05:44,322 --> 00:06:01,243
+I do not know where I can find a better place than just here, to make mention of one or two other things, which to me seem important, as in printed form, establishing in all respects the reasonableness of the whole story of the White Whale, more especially the catastrophe.
 
 40
-00:07:29,334 --> 00:07:31,957
-There the waves were storied with his deeds.
+00:06:01,578 --> 00:06:06,987
+For this is one of those disheartening instances where truth requires full as much bolstering as error.
 
 41
-00:07:32,938 --> 00:07:39,827
-There also was that tragic spot where the monomaniac old man had found the awful motive to his vengeance.
+00:06:07,929 --> 00:06:25,560
+So ignorant are most landsmen of some of the plainest and most palpable wonders of the world, that without some hints touching the plain facts, historical and otherwise, of the fishery, they might scout at Moby Dick as a monstrous fable, or still worse and more detestable, a hideous and intolerable allegory.
 
 42
-00:07:39,807 --> 00:08:07,097
-But in the cautious comprehensiveness and unloitering vigilance with which Ahab threw his brooding soul into this unfaltering hunt, he would not permit himself to rest all his hopes upon the one crowning fact above mentioned, however flattering it might be to those hopes, nor, in the sleeplessness of his vow, could he so tranquilize his unquiet heart as to postpone all intervening quests.
+00:06:25,540 --> 00:06:36,516
+First, though most men have some vague, flitting ideas of the general perils of the grand fishery, yet they have nothing like a fixed, vivid conception of those perils, and the frequency with which they recur.
 
 43
-00:08:07,077 --> 00:08:12,146
-Now the Pequot had sailed from Nantucket at the very beginning of the season on the line.
+00:06:37,277 --> 00:06:48,393
+One reason, perhaps, is that not one in fifty of the actual disasters and deaths by casualties in the fishery ever finds a public record at home, however transient, and immediately forgotten that record.
 
 44
-00:08:13,708 --> 00:08:27,912
-No possible endeavor then could enable her commander to make the great passage southwards double Cape Horn and then running down sixty degrees of latitude arrived in the equatorial Pacific in time to cruise there.
+00:06:48,954 --> 00:06:55,243
+Do you suppose that that poor fellow there, who this moment perhaps caught by the whale line off the coast of New Guinea,
 
 45
-00:08:28,453 --> 00:08:32,460
-Therefore he must wait for the next ensuing season.
+00:06:55,223 --> 00:06:59,210
+is being carried down to the bottom of the sea by the sounding Leviathan?
 
 46
-00:08:33,014 --> 00:08:58,397
-Yet the premature hour of the Pequod's sailing had, perhaps, been correctly selected by Ahab with a view to this very complexion of things, because an interval of three hundred and sixty-five days and nights was before him, an interval which, instead of impatiently enduring ashore, he would spend in a miscellaneous hunt, if, by chance, the white whale
+00:07:00,152 --> 00:07:07,305
+Do you suppose that that poor fellow's name will appear in the newspaper obituary you will read to, morrow at your breakfast?
 
 47
-00:08:58,377 --> 00:09:12,690
-Spending his vacation in seas far remote from his periodical feeding-grounds should turn up his wrinkled brow off the Persian Gulf, or in the Bengal Bay, or China Seas, or in any other waters haunted by his race.
+00:07:07,325 --> 00:07:11,453
+No, because the mails are very irregular between here and New Guinea.
 
 48
-00:09:13,042 --> 00:09:26,657
-so that monsoons, pampas, norwesters, harmatins, trades, any wind but the Nevanta and Simoon might blow Moby Dick into the devious zigzag world-circle of the Pequod's circumnavigating wake.
+00:07:12,314 --> 00:07:18,666
+In fact, did you ever hear what might be called regular news direct or indirect from New Guinea?
 
 49
-00:09:27,137 --> 00:09:37,328
-But granting all this, yet, regarded discreetly and coolly, seems it not but a mad idea, this, that in the broad boundless ocean,
+00:07:18,781 --> 00:07:32,865
+Yet I tell you that upon one particular voyage which I made to the Pacific, among many others, we spoke thirty different ships, every one of which had had a death by a whale, some of them more than one, and three that had each lost a boat's crew.
 
 50
-00:09:37,308 --> 00:09:49,056
-One solitary whale, even if encountered, should be thought capable of individual recognition from his hunter, even as a white-bearded mufti in the thronged thoroughfares of Constantinople.
+00:07:32,926 --> 00:07:37,073
+For God's sake, be economical with your lamps and candles.
 
 51
-00:09:49,576 --> 00:09:57,023
-Yes, for the peculiar snow-white brow of Moby Dick and his snow-white hump could not but be unmistakable.
+00:07:37,754 --> 00:07:42,983
+Not a gallon you burn, but at least one drop of man's blood was spilled for it.
 
 52
-00:09:57,364 --> 00:10:09,976
-And have I not tallied the whale, Ahab would mutter to himself, as, after poring over his charts till long after midnight he would throw himself back in reveries tallied him, and shall he escape?
+00:07:42,963 --> 00:07:50,244
+Secondly, people ashore have indeed some indefinite idea that a whale is an enormous creature of enormous power.
 
 53
-00:10:10,877 --> 00:10:16,022
-His broad fins are bored and scalloped out like a lost sheep's ear.
+00:07:51,006 --> 00:07:57,124
+But I have ever found that when narrating to them some specific example of this twofold enormousness,
 
 54
-00:10:16,002 --> 00:10:28,172
-And here his mad mind would run on in a breathless race, till a weariness and faintness of pondering came over him, and in the open air of the deck he would seek to recover his strength.
+00:07:57,222 --> 00:08:00,408
+They have significantly complimented me upon my facetiousness.
 
 55
-00:10:29,198 --> 00:10:37,350
-Ah, God, what trances of torments does that man endure who is consumed with one unachieved revengeful desire?
+00:08:01,009 --> 00:08:08,602
+When, I declare upon my soul, I had no more idea of being facetious than Moses when he wrote the history of the plagues of Egypt.
 
 56
-00:10:38,131 --> 00:10:53,434
-He sleeps with clenched hands, and wakes with his own bloody nails in his palm, often when forced from his hammock by exhausting and intolerably vivid dreams of the night, which, resuming his own intense thoughts through the day, carried them on amid a clashing of frenzies,
+00:08:09,324 --> 00:08:16,176
+But fortunately the special point I here seek can be established upon testimony entirely independent of my own.
 
 57
-00:10:53,414 --> 00:11:01,081
-and whirled them round and round and round in his blazing brain, till the very throbbing of his life-spot became insufferable anguish.
+00:08:16,662 --> 00:08:17,745
+That point is this.
 
 58
-00:11:02,182 --> 00:11:20,299
-And when, as was sometimes the case, these spiritual foes in him heaved his being up from its base, and a chasm seemed opening in him, from which forked flames and lightnings shot up, and accursed fiends beckoned, yet these, perhaps, instead of being the unsuppressible symptoms of some latent weakness,
+00:08:18,386 --> 00:08:29,375
+The sperm whale is in some cases sufficiently powerful, knowing, and judiciously malicious, as with direct aforethought to stave in, utterly destroy, and sink a large ship.
 
 59
-00:11:20,279 --> 00:11:24,985
-or fright at his own resolve, were but the plainest tokens of its intensity.
+00:08:29,576 --> 00:08:32,443
+And what is more, the sperm whale has done it.
 
 60
-00:11:25,225 --> 00:11:39,703
-For, at such times, crazy Ahab the scheming, unappeasedly steadfast hunter of the white whale, this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again.
+00:08:32,423 --> 00:08:39,014
+First, in the year 1820, the ship Essex, Captain Pollard of Nantucket, was cruising in the Pacific Ocean.
 
 61
-00:11:40,063 --> 00:11:49,695
-The latter was the eternal living principle or soul in him and in sleep, being for the time dissociated from the characterizing mind
+00:08:39,054 --> 00:08:44,644
+One day she saw spouts, lowered her boats, and gave chase to a shoal of sperm whales.
 
 62
-00:11:49,675 --> 00:11:53,631
-which at other times employed it for its outer vehicle or agent.
+00:08:45,245 --> 00:08:54,381
+Ere long, several of the whales were wounded, when, suddenly, a very large whale escaping from the boats issued from the shoal and bore directly down upon the ship.
 
 63
-00:11:54,414 --> 00:11:59,736
-It spontaneously sought escape from the scorching contiguity of the frantic thing.
+00:08:54,361 --> 00:09:00,590
+Dashing his forehead against her hull, he so stove her in that in less than ten minutes she settled down and fell over.
 
 64
-00:12:00,172 --> 00:12:03,615
-of which, for the time, it was no longer an integral.
+00:09:00,931 --> 00:09:03,314
+Not a surviving plank of her has been seen since.
 
 65
-00:12:03,675 --> 00:12:26,655
-But, as the mind does not exist unless leagued with the soul, therefore it must have been that, in Ahab's case, yielding up all his thoughts and fancies to his one supreme purpose, that purpose, by its own sheer inveteracy of will, forced itself against gods and devils, into a kind of self-assumed, independent being of its own.
+00:09:03,915 --> 00:09:08,402
+After the severest exposure, part of the crew reached the land in their boats.
 
 66
-00:12:26,895 --> 00:12:29,537
-Nay, could grimly live and burn,
+00:09:09,343 --> 00:09:15,492
+Being returned home at last, Captain Pollard once more sailed for the Pacific in command of another ship.
 
 67
-00:12:29,517 --> 00:12:36,786
-while the common vitality to which it was conjoined fled horror-stricken from the unbidden and unfathered birth.
+00:09:15,472 --> 00:09:19,278
+But the gods shipwrecked him again upon unknown rocks and breakers.
 
 68
-00:12:37,286 --> 00:12:57,771
-Therefore the tormented spirit that glared out of bodily eyes, when what seemed Ahab rushed from his room, was for the time but a vacated thing, a formless somnambulistic being, a ray of living light, to be sure, but without an object to color, and therefore a blankness in itself.
+00:09:19,779 --> 00:09:24,586
+For the second time his ship was utterly lost, and forthwith forswearing the sea.
 
 69
-00:12:57,931 --> 00:12:59,473
-God help the old man!
+00:09:25,027 --> 00:09:26,509
+He has never tempted it since.
 
 70
-00:12:59,453 --> 00:13:12,636
-Thy thoughts have created a creature in thee, and he whose intense thinking thus makes him a Prometheus, a Volture feeds upon that heart for ever, that Volture the very creature he creates.
+00:09:27,450 --> 00:09:30,395
+At this day Captain Pollard is a resident of Nantucket.
+
+71
+00:09:30,876 --> 00:09:35,603
+I have seen Owen Chase, who was chief mate of the Essex at the time of the tragedy.
+
+72
+00:09:36,003 --> 00:09:38,207
+I have read his plain and faithful narrative.
+
+73
+00:09:38,728 --> 00:09:44,196
+I have conversed with his son, and all this within a few miles of the scene of the catastrophe.
+
+74
+00:09:44,176 --> 00:09:46,780
+The following are extracts from Chase's narrative.
+
+75
+00:09:47,201 --> 00:09:52,409
+Every fact seemed to warrant me in concluding that it was anything but chance which directed his operations.
+
+76
+00:09:52,990 --> 00:10:10,639
+He made two several attacks upon the ship, at a short interval between them, both of which, according to their direction, were calculated to do us the most injury, by being made ahead, and thereby combining the speed of the two objects for the shock, to effect which, the exact maneuvers which he made were necessary.
+
+77
+00:10:10,619 --> 00:10:15,172
+His aspect was most horrible, and such as indicated resentment and fury.
+
+78
+00:10:15,192 --> 00:10:23,937
+He came directly from the shoal which we had just before entered, and in which we had struck three of his companions, as if fired with revenge for their sufferings.
+
+79
+00:10:24,355 --> 00:10:43,950
+Again, at all events the whole circumstance is taken together, all happening before my own eyes, and producing, at the time, impressions in my mind of decided, calculating mischief, on the part of the whale, many of which impressions I cannot now recall, induce me to be satisfied that I am correct in my opinion.
+
+80
+00:10:43,930 --> 00:10:52,624
+Here are his reflections some time after quitting the ship, during a black night, an open boat, when almost despairing of reaching any hospitable shore.
+
+81
+00:10:53,185 --> 00:10:55,749
+The dark ocean and swelling waters were nothing.
+
+82
+00:10:56,269 --> 00:11:08,689
+The fears of being swallowed up by some dreadful tempest, or dashed upon hidden rocks, with all the other ordinary subjects of fearful contemplation, seemed scarcely entitled to a moment's thought.
+
+83
+00:11:08,669 --> 00:11:17,244
+the dismal-looking wreck and the horrid aspect, and revenge of the whore, wholly engrossed my reflections until day again made its appearance.
+
+84
+00:11:18,186 --> 00:11:19,989
+In another place, p.
+
+85
+00:11:20,009 --> 00:11:25,378
+45, he speaks of the misuse and mortal attack of the animal.
+
+86
+00:11:25,358 --> 00:11:33,896
+Secondly, the ship union, also of Nantucket, was in the year 1807 totally lost off the Azores by a similar onset.
+
+87
+00:11:34,297 --> 00:11:43,215
+But the authentic particulars of this catastrophe I have never chanced to encounter, though from the whale hunters I have now and then heard casual allusions to it.
+
+88
+00:11:43,195 --> 00:11:58,183
+Thirdly, some 18 or 20 years ago Commodore Jay, then commanding an American sloop of war of the first class, happened to be dining with a party of whaling captains on board a Nantucket ship in the harbor of Oahu, Sandwich Islands.
+
+89
+00:11:58,535 --> 00:12:06,549
+Conversation turning upon whales, the Commodore was pleased to be skeptical touching the amazing strength ascribed to them by the professional gentleman present.
+
+90
+00:12:07,270 --> 00:12:15,565
+He peremptorily denied, for example, that any whale could so smite his stout sloop of war as to cause her to leak so much as a thimbleful.
+
+91
+00:12:15,545 --> 00:12:17,709
+Very good, but there is more coming."
+
+92
+00:12:18,610 --> 00:12:22,878
+Some weeks after, the Commodore set sail in this impregnable craft for Valparaiso.
+
+93
+00:12:23,519 --> 00:12:28,848
+But he was stopped on the way by a portly sperm whale that begged a few moments' confidential business with him.
+
+94
+00:12:28,868 --> 00:12:38,565
+That business consisted in fetching the Commodore's craft such a thlack that with all his pumps going he made straight for the nearest port to heave down and repair.
+
+95
+00:12:38,545 --> 00:12:43,370
+I am not superstitious, but I consider the Commodore's interview with that whale as providential.
+
+96
+00:12:43,930 --> 00:12:47,634
+Was not Saul of Tarsus converted from unbelief by a similar fright?
+
+97
+00:12:48,214 --> 00:12:51,177
+I tell you, the sperm whale will stand no nonsense.
+
+98
+00:12:51,778 --> 00:12:58,844
+I will now refer you to Langsdorff's voyages for a little circumstance in point, peculiarly interesting to the writer hereof.
+
+99
+00:12:59,725 --> 00:13:08,113
+Langsdorff, you must know by the way, was attached to the Russian Admiral Krusenstern's famous discovery expedition in the beginning of the present century.
+
+100
+00:13:08,093 --> 00:13:11,018
+Captain Langsdorff thus begins his 17th chapter.
+
+101
+00:13:11,739 --> 00:13:18,170
+By the 13th of May our ship was ready to sail and the next day we were out in the open sea on our way to Ochochish.
+
+102
+00:13:18,952 --> 00:13:25,984
+The weather was very clear and fine, but so intolerably cold that we were obliged to keep on our fur clothing.
+
+103
+00:13:26,352 --> 00:13:28,215
+For some days we had very little wind.
+
+104
+00:13:28,695 --> 00:13:32,461
+It was not till the nineteenth that a brisk gale from the northwest sprang up.
+
+105
+00:13:33,042 --> 00:13:47,263
+An uncommon large whale, the body of which was larger than the ship itself, lay almost at the surface of the water, but was not perceived by anyone on board till the moment when the ship, which was in full sail, was almost upon him.
+
+106
+00:13:47,243 --> 00:13:50,286
+so that it was impossible to prevent its striking against him.
+
+107
+00:13:50,707 --> 00:13:59,817
+We were thus placed in the most imminent danger, as this gigantic creature, setting up its back, raised the ship three feet at least out of the water.
+
+108
+00:14:00,758 --> 00:14:09,968
+The masts reeled and the sails fell all together, while we who were below all sprang instantly upon the deck, concluding that we had struck upon some rock.
+
+109
+00:14:10,788 --> 00:14:15,934
+Instead of this, we saw the monster sailing off with the utmost gravity and solemnity.
+
+110
+00:14:16,083 --> 00:14:25,977
+Captain DeWolf applied immediately to the pumps to examine whether or not the vessel had received any damage from the shock, but we found that, very happily, it had escaped entirely uninjured.
+
+111
+00:14:26,878 --> 00:14:39,175
+Now, the Captain DeWolf here alluded to as, commanding the ship in question, is a New Englander who, after a long life of unusual adventures as a sea captain, this day resides in the village of Dorchester near Boston.
+
+112
+00:14:39,215 --> 00:14:42,259
+I have the honor of being a nephew of his.
+
+113
+00:14:42,931 --> 00:14:46,716
+I have particularly questioned him concerning this passage in Langsdorf.
+
+114
+00:14:47,577 --> 00:14:49,159
+He substantiates every word.
+
+115
+00:14:49,920 --> 00:14:59,754
+The ship, however, was by no means a large one, a Russian craft built on the Siberian coast and purchased by my uncle after bartering away the vessel in which he sailed from home.
+
+116
+00:15:00,415 --> 00:15:11,790
+In that up-and-down manly book of old-fashioned adventure, so full, too, of honest wonders, the voyage of Lionel Wafer, one of ancient Dampier's old chums,
+
+117
+00:15:11,905 --> 00:15:20,659
+I found a little matter set down so like the just quoted from Langsdorff that I cannot forbear inserting it here for a corroborative example, if such be needed.
+
+118
+00:15:21,480 --> 00:15:26,508
+Lionel, it seems, was on his way to John Ferdinando, as he calls the modern Juan Fernandez.
+
+119
+00:15:27,049 --> 00:15:29,172
+In our way thither, he says.
+
+120
+00:15:29,152 --> 00:15:42,446
+About four o'clock in the morning, when we were about 150 leagues from the main of America, our ship felt a terrible shock, which put our men in such consternation that they could hardly tell where they were or what to think.
+
+121
+00:15:43,086 --> 00:15:45,248
+But everyone began to prepare for death.
+
+122
+00:15:46,289 --> 00:15:52,736
+And, indeed, the shock was so sudden and violent that we took it for granted the ship had struck against a rock.
+
+123
+00:15:53,197 --> 00:15:58,602
+But when the amazement was a little over, we cast the lead and sounded, but found no ground.
+
+124
+00:15:59,273 --> 00:16:05,013
+The suddenness of the shock made the guns leap in their carriages, and several of the men were shaken out of their hammocks.
+
+125
+00:16:05,595 --> 00:16:09,469
+Captain Davis, who lay with his head on a gun, was thrown out of his cabin.
+
+126
+00:16:09,753 --> 00:16:21,190
+Lionel then goes on to impute the shock to an earthquake and seems to substantiate the imputation by stating that a great earthquake, somewhere about that time, did actually do great mischief along the Spanish land.
+
+127
+00:16:21,871 --> 00:16:31,264
+But I should not much wonder if, in the darkness of that early hour of the morning, the shock was after all caused by an unseen whale vertically bumping the hull from beneath.
+
+128
+00:16:32,066 --> 00:16:35,811
+I might proceed with several more examples, one way or another known to me,
+
+129
+00:16:35,791 --> 00:16:38,674
+of the great power and malice at times of the sperm whale.
+
+130
+00:16:39,235 --> 00:16:50,547
+In more than one instance, he has been known, not only to chase the assailing boats back to their ships, but to pursue the ship itself, and long withstand all the lances hurled at him from its decks.
+
+131
+00:16:51,308 --> 00:17:01,900
+The English ship Pousey Hall can tell a story on that head, and, as for his strength, let me say, that there have been examples where the lines attached to a running sperm whale have,
+
+132
+00:17:01,880 --> 00:17:11,130
+in a calm, been transferred to the ship and secured there, the whale towing her great hull through the water as a horse walks off for the cart.
+
+133
+00:17:11,228 --> 00:17:18,738
+Again, it is very often observed that, if the sperm whale, once struck, is allowed time to rally, he then acts.
+
+134
+00:17:19,339 --> 00:17:25,047
+Not so often with blind rage, as with willful, deliberate designs of destruction to his pursuers.
+
+135
+00:17:25,527 --> 00:17:36,983
+Nor is it without conveying some eloquent indication of his character, that upon being attacked he will frequently open his mouth and retain it in that dread expansion for several consecutive minutes.
+
+136
+00:17:36,963 --> 00:18:00,997
+But I must be content with only one more and a concluding illustration, a remarkable and most significant one, by which you will not fail to see, that not only is the most marvelous event in this book corroborated by plain facts of the present day, but that these marvels, like all marvels, are mere repetitions of the ages, so that for the millionth time we say, Amen with Solomon.
+
+137
+00:18:01,878 --> 00:18:04,742
+Verily there is nothing new under the sun,
+
+138
+00:18:04,722 --> 00:18:13,967
+In the 6th Christian century lived Procopius, a Christian magistrate of Constantinople, in the days when Justinian was emperor and Belisarius general.
+
+139
+00:18:14,710 --> 00:18:20,706
+As many know, he wrote the history of his own times, a work every way of uncommon value.
+
+140
+00:18:20,838 --> 00:18:31,968
+By the best authorities, he has always been considered a most trustworthy and unexaggerating historian, except in some one or two particulars, not at all affecting the matter presently to be mentioned.
+
+141
+00:18:32,609 --> 00:18:48,803
+Now, in this history of his, Procopius mentions that, during the term of his prefecture at Constantinople, a great sea monster was captured in the neighboring Propontis, or Sea of Marmora, after having destroyed vessels at intervals in those waters for a period of more than fifty years.
+
+142
+00:18:48,783 --> 00:18:58,918
+A fact thus set down in substantial history cannot easily be gainsaid, nor is there any reason it should be, of what precise species this sea monster was is not mentioned.
+
+143
+00:18:59,379 --> 00:19:09,795
+But as he destroyed ships, as well as for other reasons, he must have been a whale, and I am strongly inclined to think a sperm whale, and I will tell you why.
+
+144
+00:19:10,180 --> 00:19:17,407
+For a long time I fancied that the sperm whale had been always unknown in the Mediterranean and the deep waters connecting with it.
+
+145
+00:19:17,988 --> 00:19:28,378
+Even now I am certain that those seas are not, and perhaps never can be, in the present constitution of things, a place for his habitual gregarious resort.
+
+146
+00:19:29,199 --> 00:19:38,668
+But further investigations have recently proved to me that in modern times there have been isolated instances of the presence of the sperm whale in the Mediterranean.
+
+147
+00:19:38,783 --> 00:19:46,311
+I am told, on good authority, that on the Barbary coast, a Commodore Davis of the British Navy found the skeleton of a sperm whale.
+
+148
+00:19:46,852 --> 00:19:55,381
+Now, as a vessel of war readily passes through the Dardanelles, hence a sperm whale could, by the same route, pass out of the Mediterranean into the Perpontis.
+
+149
+00:19:56,182 --> 00:20:03,930
+In the Perpontis, as far as I can learn, none of that peculiar substance called brit is to be found, the element of the right whale.
+
+150
+00:20:03,910 --> 00:20:16,244
+But I have every reason to believe that the food of the sperm whale, squid, or cuttlefish lurks at the bottom of that sea, because large creatures, but by no means the largest of that sort, have been found at its surface."
+
+151
+00:20:16,945 --> 00:20:33,124
+If, then, you properly put these statements together and reason upon them a bit, you will clearly perceive that, according to all human reasoning, Procopius's sea monster, that for half a century stove the ships of a Roman emperor, must in all probability have been a sperm whale.
 

@@ -22,12 +22,13 @@ def generate_prompt_for_scene(scene_text, character_list, chapter_context=None, 
 
     system_prompt = (
         "You are an expert in creating concise, descriptive prompts for an image generation model. "
-        "Your task is to generate vivid, detailed image prompts based on specific scenes from a novel chapter. "
+        "Your task is to generate vivid, detailed image prompts based on specific scenes from a chapter of the novel, Moby Dick. "
         "Use the provided chapter context and character list to understand the narrative style, setting, and characters involved. "
         "You will be given a sentence from the chapter (Sentence to Illustrate). Your prompts should vividly summarize the action, characters, and setting taking place when the specified sentence is read. "
-        "The desired art style is 'a dark, moody, 19th-century oil painting'. "
+        #"The desired art style is 'a dark, moody, 19th-century oil painting'. "
+        "The desired art style is a moody, high‑contrast image in Romantic realism with deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, and subtle paper grain—capturing the tension of a 19th‑century whaling voyage."
         "Do not respond with anything other than the prompt itself. "
-        "Limit the prompt to 60 words. The prompt must always specify the desired art style and time period."
+        "Limit the prompt to 70 words. The prompt must always specify the desired art style and time period."
     )
 
     # Sanitize and truncate scene_text

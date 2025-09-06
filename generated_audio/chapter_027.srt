@@ -1,268 +1,276 @@
 1
-00:00:00,031 --> 00:00:01,093
-CHAPTER XXVII.
+00:00:00,031 --> 00:00:05,666
+Chapter 27 - Knights and Squires. Stub was the second mate.
 
 2
-00:00:01,553 --> 00:00:05,238
-KNIGHTS AND SQUIRES Stub was the second mate.
+00:00:06,107 --> 00:00:11,863
+He was a native of Cape Cod and hence, according to local usage, was called a Cape Cod man.
 
 3
-00:00:05,258 --> 00:00:10,806
-He was a native of Cape Cod, and, hence, according to local usage, was called a Cape Codman.
+00:00:12,130 --> 00:00:26,392
+The happy-go-lucky, neither craven nor valiant, taking perils as they came with an indifferent air, and while engaged in the most imminent crisis of the chase, toiling away, calm and collected as a journeyman-joiner engaged for the year.
 
 4
-00:00:11,007 --> 00:00:27,490
-A happy-go-lucky, neither craven nor valiant, taking perils as they came with an indifferent air, and while engaged in the most imminent crisis of the chase, toiling away, calm and collected as a journeyman-joiner engaged for the year.
+00:00:27,032 --> 00:00:36,687
+Good-humored, easy, and careless, he presided over his whale-boat as if the most deadly encounter were but a dinner, and his crew all invited guests.
 
 5
-00:00:27,470 --> 00:00:37,889
-Good-humored, easy, and careless, he presided over his whale-boat, as if the most deadly encounter were but a dinner, and his crew all invited guests.
+00:00:36,667 --> 00:00:43,795
+He was as particular about the comfortable arrangement of his part of the boat as an old stage driver is about the snugness of his box.
 
 6
-00:00:38,089 --> 00:00:47,807
-He was as particular about the comfortable arrangement of his part of the boat, as an old stage-driver is about the snugness of his box.
+00:00:44,496 --> 00:00:52,786
+When close to the whale, in the very deathlock of the fight, he handled his unpitying lance coolly and offhandedly as a whistling tinker his hammer.
 
 7
-00:00:47,787 --> 00:00:58,018
-When close to the whale, in the very death-lock of the fight, he handled his unpitying lance coolly and off-handedly, as a whistling tinker his hammer.
+00:00:53,346 --> 00:00:59,013
+He would hum over his old rigadig tunes while flank and flank with the most exasperated monster.
 
 8
-00:00:58,940 --> 00:01:04,966
-He would hum over his old, rigidic tunes, while flink and flank with the most exasperated monster.
+00:00:59,633 --> 00:01:05,340
+Long usage had, for this stub, converted the jaws of death into an easy chair.
 
 9
-00:01:05,287 --> 00:01:10,773
-Long usage had, for this thub, converted the jaws of death into an easy chair.
-
-10
-00:01:11,494 --> 00:01:14,537
+00:01:05,320 --> 00:01:08,124
 What he thought of death itself, there is no telling.
 
+10
+00:01:08,665 --> 00:01:11,128
+Whether he ever thought of it at all might be a question.
+
 11
-00:01:14,517 --> 00:01:39,040
-Whether he ever thought of it at all might be a question, but if he ever did chance to cast his mind that way after a comfortable dinner, no doubt like a good sailor, he took it to be a sort of call of the watch to tumble aloft and bestir themselves there about something which he would find out when he obeyed the order, and not sooner.
+00:01:11,569 --> 00:01:28,172
+But, if he ever did chance to cast his mind that way after a comfortable dinner, no doubt, like a good sailor, he took it to be a sort of call of the watch to tumble aloft and bestir themselves there about something which he would find out when he obeyed the order and not sooner.
 
 12
-00:01:39,172 --> 00:02:00,252
-What, perhaps, with other things, made Stubb such an easy-going, unfearing man, so cheerily trudging off with the burden of life in a world full of grave peddlers, all bound to the ground with their packs, what help to bring about that almost impious good-humour of his, hot thing, must have been his pipe?
+00:01:28,152 --> 00:01:40,969
+What, perhaps, with other things, made Stubb such an easy-going, unfearing man, so cheerily trudging off with the burden of life in a world full of grave peddlers, all bowed to the ground with their packs?
 
 13
-00:02:00,232 --> 00:02:06,899
-For, like his nose, his short, black little pipe was one of the regular features of his face.
+00:01:41,490 --> 00:01:47,578
+What helped to bring about that almost impious good humor of his, that thing must have been his pipe.
 
 14
-00:02:07,820 --> 00:02:14,808
-You would almost as soon have expected him to turn out of his bunk without his nose as without his pipe.
+00:01:48,200 --> 00:01:53,648
+For, like his nose, his short, black little pipe was one of the regular features of his face.
 
 15
-00:02:14,908 --> 00:02:26,560
-He kept a whole row of pipes there, ready loaded, stuck in a rack, within easy reach of his hand, and, whenever he turned in, he smoked them all out in succession.
+00:01:54,249 --> 00:01:59,778
+You would almost as soon have expected him to turn out of his bunk without his nose, as without his pipe.
 
 16
-00:02:26,540 --> 00:02:33,580
-lighting one from the other to the end of the chapter, then loading them again to be in readiness anew.
+00:02:00,599 --> 00:02:06,067
+He kept a whole row of pipes there ready-loaded, stuck in a rack, within easy reach of his hand.
 
 17
-00:02:33,660 --> 00:02:41,562
-For when Stub dressed, instead of first putting his legs into his trousers, he put his pipe into his mouth.
+00:02:06,728 --> 00:02:16,283
+And, whenever he turned in, he smoked them all out in succession, lighting one from the other to the end of the chapter, then loading them again to be in readiness anew.
 
 18
-00:02:41,542 --> 00:02:56,901
-this continual smoking must have been one cause at least of his peculiar disposition, for every one knows that this earthly air, whether ashore or afloat, is terribly infected with the nameless miseries of the numberless mortals whom have died exhaling it.
+00:02:16,263 --> 00:02:22,654
+For, when Stub dressed, instead of first putting his legs into his trousers, he put his pipe into his mouth.
 
 19
-00:02:57,522 --> 00:03:02,909
-And, as in time of the cholera, some people go about with a camphorated handkerchief to their mouths.
+00:02:23,455 --> 00:02:29,465
+I say this continual smoking must have been one cause, at least, of his peculiar disposition.
 
 20
-00:03:03,349 --> 00:03:11,219
-S. Likewise, against all mortal tribulations, Stubbs's tobacco smoke might have operated as a sort of disinfecting agent.
+00:02:29,886 --> 00:02:40,043
+For everyone knows that this earthly air, whether ashore or afloat, is terribly infected with the nameless miseries of the numberless mortals who have died exhaling it.
 
 21
-00:03:11,279 --> 00:03:15,945
-The third mate was Flask, a native of Tisbury, in Martha's vineyard.
+00:02:40,023 --> 00:02:45,531
+And as in time of the cholera, some people go about with a camphorated handkerchief to their mouths.
 
 22
-00:03:16,285 --> 00:03:17,607
-A short, stout,
+00:02:45,992 --> 00:02:53,924
+So, likewise, against all mortal tribulations, Stubbs' tobacco smoke might have operated as a sort of disinfecting agent.
 
 23
-00:03:17,587 --> 00:03:28,048
-ruddy young fellow, very pagnacious concerning Wales, who somehow seemed to think that the great Leviathans had personally and hereditarily affronted him.
+00:02:54,565 --> 00:02:59,112
+The third mate was Flask, a native of Tisbury in Martha's Vineyard.
 
 24
-00:03:29,271 --> 00:03:34,802
-And, therefore, it was a sort of point of honour with him to destroy them whenever encountered.
+00:02:59,092 --> 00:03:14,950
+A short, stout, ruddy young fellow, very pugnacious concerning whales, who somehow seemed to think that the great leviathans had personally and hereditarily affronted him, and therefore it was a sort of point of honor with him to destroy them whenever encountered.
 
 25
-00:03:34,816 --> 00:04:04,182
-So utterly lost was he to all sense of reverence for the many marvels of their majestic bulk and mystic ways, and so dead to anything like an apprehension of any possible danger from encountering them, that, in his poor opinion, the wondrous whale was but a species of magnified mouse or, at least, water-rat, requiring only a little circumvention and some small application of time and trouble in order to kill and boil.
+00:03:15,871 --> 00:03:28,525
+So utterly lost was he to all sense of reverence for the many marvels of their majestic bulk and mystic ways, and so dead to anything like an apprehension of any possible danger from encountering them.
 
 26
-00:04:04,162 --> 00:04:10,694
-This ignorant, unconscious fearlessness of his made him a little waggish in the matter of whales.
+00:03:28,758 --> 00:03:42,473
+that in his poor opinion, the wondrous whale was but a species of magnified mouse, or at least water rat, requiring only a little circumvention and some small application of time and trouble in order to kill and boil.
 
 27
-00:04:11,475 --> 00:04:20,933
-He followed these fish for the fun of it, and a three years' voyage round Cape Horn was only a jolly joke that lasted that length of time.
+00:03:42,533 --> 00:03:48,440
+This ignorant, unconscious fearlessness of his made him a little waggish in the matter of whales.
 
 28
-00:04:21,113 --> 00:04:28,026
-As a carpenter's nails are divided into roth nails and cut nails, so mankind may be similarly divided.
+00:03:49,181 --> 00:03:56,689
+He followed these fish for the fun of it, and a three years voyage round Cape Horn was only a jolly joke that lasted that length of time.
 
 29
-00:04:29,204 --> 00:04:31,427
-The Keflask was one of the wrought ones.
+00:03:57,445 --> 00:04:03,794
+As a carpenter's nails are divided into wrought nails and cut nails, so mankind may be similarly divided.
 
 30
-00:04:32,228 --> 00:04:55,515
-Made to clinch tight and last long, they called him King Post on board of the Pequod, because, in form, he could be well likened to the short square timber known by that name in Arctic whalers, and which, by the means of many radiating side timbers inserted into it, serves to brace the ship against the icy concussions of those battering seas.
+00:04:04,755 --> 00:04:09,001
+Little Flask was one of the wrought ones, made to clinch tight and last long.
 
 31
-00:04:55,495 --> 00:05:00,363
-Now these three mates, Starbuck, Stub, and Flask, were momentous men.
+00:04:09,622 --> 00:04:27,267
+They called him King Post on board of the Pequod, because, in form, he could be well likened to the short, square timber known by that name in Arctic whalers, and which by the means of many radiating side timbers inserted into it, serves to brace the ship against the icy concussions of those battering seas.
 
 32
-00:05:01,244 --> 00:05:06,833
-They it was who, by universal prescription, commanded three of the Pequod's boats as headsmen.
+00:04:27,736 --> 00:04:32,203
+Now these three mates, Starbuck, Stubb, and Flask, were momentous men.
 
 33
-00:05:07,154 --> 00:05:18,432
-In that grand order of battle in which Captain Ahab would probably marshal his forces to descend on the whales, these three headsmen were as captains of companies.
+00:04:33,064 --> 00:04:38,452
+They it was who, by universal prescription, commanded three of the Pequod's boats as headsmen.
 
 34
-00:05:18,412 --> 00:05:28,586
-or, being armed with their long, keen, wailing spears, they were as a picked trio of lancers, even as the harponeers were flingers of javelins.
+00:04:38,893 --> 00:04:47,365
+In that grand order of battle in which Captain Ahab would probably marshal his forces to descend on the whales, these three headsmen were as captains of companies.
 
 35
-00:05:29,007 --> 00:05:40,302
-And since in this famous fishery each mate or headsman, like the Gothic knight of old, is always accompanied by his boat-steerer or harponeer, who in certain conjunctures provides him with a fresh lance,
+00:04:48,006 --> 00:04:56,038
+Or, being armed with their long, keen whaling spears, they were as a picked trio of lancers, even as the harpooneers were flingers of javelins.
 
 36
-00:05:40,282 --> 00:05:57,379
-When the former one has been badly twisted or elbowed in the assault again, moreover, as there generally subsists between the two a close intimacy and friendliness, it's therefore but meet that in this place we set down who the Pequod's harpeniers were, and to what headsmen each of them belonged.
+00:04:56,018 --> 00:05:18,313
+And since in this famous fishery each mate or headsman, like a Gothic knight of old, is always accompanied by his boat-steerer or harpooner, who in certain conjunctures provides him with a fresh lance when the former one has been badly twisted or elbowed in the assault, and moreover, as there generally subsists between the two, a close intimacy and friendliness,
 
 37
-00:05:58,186 --> 00:06:03,831
-First of all was Queequeg, whom Starbuck, the chief mate, had selected for his squire.
+00:05:18,293 --> 00:05:25,865
+It is therefore but meet that in this place we set down who the Pequod's harpooneers were and to what headsmen each of them belonged.
 
 38
-00:06:04,732 --> 00:06:06,694
-But Queequeg is already known.
+00:05:26,526 --> 00:05:31,694
+First of all was Queequeg, whom Starbuck, the chief mate, had selected for his squire.
 
 39
-00:06:07,255 --> 00:06:26,573
-Next was Tashtego, an unmixed Indian from Gay Head, the most westerly promontory of Martha's Vineyard, where there still exists the last remnant of a village of red men, which has long supplied the neighboury island of Nantucket with many of her most daring harpooneers.
+00:05:32,395 --> 00:05:34,378
+But Queequeg is already known.
 
 40
-00:06:26,553 --> 00:06:31,082
-In the fishery, they usually go by the generic name of gay-headers.
+00:05:34,510 --> 00:05:50,798
+Next was Tashtego, an unmixed Indian from Gay Head, the most westerly promontory of Martha's Vineyard, where there still exists the last remnant of a village of red men, which has long supplied the neighboring island of Nantucket with many of her most daring harpooners.
 
 41
-00:06:31,382 --> 00:06:42,283
-Teshtego's long, lean, sable hair, his high cheekbones and black, rounding eyes for an Indian, Oriental in their largeness, but Antarctic
+00:05:50,778 --> 00:06:05,399
+In the fishery, they usually go by the generic name of gay headers—Tashtego's long, lean, sable hair, his high cheekbones, and black, rounding eyes—for an Indian, Oriental in their largeness, but Antarctic in their glittering expression.
 
 42
-00:06:42,263 --> 00:06:58,753
-In their glittering expression all this sufficiently proclaimed him an inheritor of the unvitiated blood of those proud warrior-hunters who, in quest of the great New England moose, had scoured bow-in-hand the aboriginal forests of the Maine.
+00:06:06,040 --> 00:06:18,118
+All this sufficiently proclaimed him an inheritor of the unvitiated blood of those proud warrior hunters who, in quest of the great New England moose, had scoured bow-in-hand the aboriginal forests of the Maine.
 
 43
-00:06:58,733 --> 00:07:07,321
-But, no longer snuffing in the trail of the wild beasts of the woodland, Tashtego now hunted in the wake of the great whales of the sea.
+00:06:18,098 --> 00:06:30,509
+But no longer snuffing in the trail of the wild beasts of the woodland, Tashtego now hunted in the wake of the great whales of the sea, the unerring harpoon of the sun fitly replacing the infallible arrow of the sires.
 
 44
-00:07:08,061 --> 00:07:28,740
-The unerring harpoon of the sun, fitly replacing the infallible arrow of the sire's, to look at the tawny brawn of his lie's sneaky limbs, you would almost have credited the superstitions of some of the earlier Puritans, and half believed this wild Indian to be a son of the prince of the powers of the air.
+00:06:31,270 --> 00:06:43,681
+To look at the tawny brawn of his lithe, snaky limbs, you would almost have credited the superstitions of some of the earlier Puritans, and half believed this wild Indian to be a son of the prince of the powers of the air.
 
 45
-00:07:28,720 --> 00:07:32,224
+00:06:44,822 --> 00:06:48,105
 Tashtego was stubbed the second mate's squire.
 
 46
-00:07:32,765 --> 00:07:41,495
-Third among the harpooners was Dagu, a gigantic coal-black negro savage, with a lion-like tread and ahasuerus to behold.
+00:06:48,085 --> 00:06:56,536
+Third among the harpooneers was Dagu, a gigantic coal-black negro savage with a lion-like tread and a hasuarus to behold.
 
 47
-00:07:42,376 --> 00:07:52,208
-Suspended from his ears were two golden hoops, so large that the sailors called them ring-bolts, and would talk of securing the top-sail halyards to them.
+00:06:57,357 --> 00:07:05,868
+Suspended from his ears were two golden hoops, so large that the sailors called them ring bolts and would talk of securing the top sail halyards to them.
 
 48
-00:07:52,368 --> 00:07:56,753
-In his youth Dagu had voluntarily shipped on board of a whaler.
+00:07:06,329 --> 00:07:12,557
+In his youth, Dagu had voluntarily shipped on board of a whaler lying in a lonely bay on his native coast.
 
 49
-00:07:56,733 --> 00:08:21,357
-lying in a lonely bay on his native coast, and never having been anywhere in the world but in Africa, Nantucket, and the pagan harbors most frequented by whalemen, and having now led for many years the bold life of the fishery in the ships of owners, uncommonly heedful of what manner of men they shipped, Dago retained all his barbaric virtues.
+00:07:12,537 --> 00:07:29,404
+and never having been anywhere in the world but in Africa, Nantucket, and the pagan harbors most frequented by whalemen, and having now led for many years the bold life of the fishery and the ships of owners uncommonly heedful of what manner of men they shipped.
 
 50
-00:08:21,337 --> 00:08:27,848
-and erect as a giraffe, moved about the decks in all the pomp of six feet five in his socks.
+00:07:29,424 --> 00:07:38,578
+Dagu retained all his barbaric virtues, and erect as a giraffe, moved about the decks in all the pomp of six feet five in his socks.
 
 51
-00:08:27,968 --> 00:08:36,904
-There was a corporeal humility in looking up at him, and a white man standing before him, seeing the white flag, come to beg truth of a portrait.
+00:07:38,558 --> 00:07:46,577
+There was a corporeal humility in looking up at him, and a white man standing before him seemed a white flag come to beg truce of a fortress.
 
 52
-00:08:37,525 --> 00:08:46,821
-Kieran Sattel, this imperial negro, Ahasuerus Dagu, was the squire of Little Flask, who looked like a chessman beside him.
+00:07:47,399 --> 00:07:55,538
+Curious to tell, this imperial negro, Ahasuerus Dagu, was the squire of Little Flask, who looked like a chessman beside him.
 
 53
-00:08:47,020 --> 00:09:04,050
-As for the residue of the Pequod's company, be it said, that at the present day not one in two of the many thousand men before the mast employed in the American whale-fishery are Americans born, though pretty nearly all the officers are,
+00:07:55,518 --> 00:08:09,495
+As for the residue of the Pequod's company, be it said, that at the present day not one in two of the many thousand men before the mast employed in the American whale fishery are Americans born, though pretty nearly all the officers are.
 
 54
-00:09:04,030 --> 00:09:18,684
-Herein it is the same with the American whale fishery, as with the American army, and military and merchant navies, and the engineering forces employed in the construction of the American canals and railroads.
+00:08:10,176 --> 00:08:22,251
+Herein it is the same with the American whale fishery as with the American army and military and merchant navies and the engineering forces employed in the construction of the American canals and railroads.
 
 55
-00:09:18,885 --> 00:09:29,515
+00:08:22,231 --> 00:08:30,823
 The same, I say, because in all these cases the Native American liberally provides the brains, the rest of the world is generously supplying the muscles.
 
 56
-00:09:29,495 --> 00:09:42,431
-No small number of these whaling seamen belonged to the Azores, where the outward-bound Nantucket whalers frequently touched to augment their crews from the hardy peasants of those rocky shores.
+00:08:31,684 --> 00:08:41,559
+No small number of these whaling seamen belong to the Azores, where the outward-bound Nantucket whalers frequently touch to augment their crews from the hardy peasants of those rocky shores.
 
 57
-00:09:42,912 --> 00:09:52,724
-In like manner the Greenland whalers sailing out of Hull or London put in at the Shetland Islands to receive the full complement of their crew.
+00:08:42,480 --> 00:08:50,972
+In like manner, the Greenland whalers sailing out of Hull or London put in at the Shetland Islands to receive the full complement of their crew.
 
 58
-00:09:53,605 --> 00:09:57,190
-Upon the passage homewards they dropped them there again.
+00:08:51,155 --> 00:08:54,319
+Upon the passage homewards, they drop them there again.
 
 59
-00:09:57,170 --> 00:10:02,778
-How it is, there is no telling, but Islanders seem to make the best whale-men.
+00:08:54,380 --> 00:08:59,467
+How it is there is no telling, but islanders seem to make the best whalemen.
 
 60
-00:10:02,938 --> 00:10:05,722
-They were nearly all Islanders in the Pequod.
+00:09:00,228 --> 00:09:10,342
+They were nearly all islanders in the Pequod, Isolatos too I call such, not acknowledging the common continent of men, but each Isolato living on a separate continent of his own.
 
 61
-00:10:06,042 --> 00:10:15,095
-Isolatos, too, I call such, not acknowledging the common continent of men, but each Isolato living on a separate continent of his own.
+00:09:11,364 --> 00:09:15,930
+Yet now, federated along one keel, what a set these Isolatos were.
 
 62
-00:10:15,876 --> 00:10:20,823
-Yet now, federated along one keel, what a set these Isolatos were!
+00:09:15,995 --> 00:09:29,143
+and Anarcharsus Clut's deputation from all the isles of the sea and all the ends of the earth, accompanying old Ahab in the Pequod, to lay the world's grievances before that bar from which not very many of them ever come back.
 
 63
-00:10:20,983 --> 00:10:27,092
-An Anacarsis clutes deputation from all the isles of the sea, and all the ends of the earth.
+00:09:29,208 --> 00:09:30,090
+Black little Pip?
 
 64
-00:10:27,072 --> 00:10:35,106
-accompanying old Ahab in the Pequod to lay the world's grievances before that bar from which not very many of them ever come back.
+00:09:30,531 --> 00:09:31,112
+He never did.
 
 65
-00:10:36,429 --> 00:10:40,997
-Black little Pippi never did oh no, he went before.
+00:09:31,132 --> 00:09:32,334
+Oh, no!
 
 66
-00:10:41,129 --> 00:10:46,566
-Poor Alabama boy, on the grim Pequod's forecastle, Ye shall e'er long see him.
+00:09:32,675 --> 00:09:33,437
+He went before.
 
 67
-00:10:47,269 --> 00:11:01,855
-Beating his tambourine, prelusive Of the eternal time, when sent for, To the great quarter-deck on high, He was bid striking with angels, And beat his tambourine in glory, Called a coward here, hailed a hero there.
+00:09:34,198 --> 00:09:35,320
+Poor Alabama boy!
+
+68
+00:09:35,340 --> 00:09:41,152
+On the grim Pequod's forecastle ye shall e'er long see him, beating his tambourine.
+
+69
+00:09:41,593 --> 00:09:53,798
+Prelusive of the eternal time, when sent for to the great quarter-deck on high, he was bid strike in with angels, and beat his tambourine in glory, called a coward here, hailed a hero there.
 

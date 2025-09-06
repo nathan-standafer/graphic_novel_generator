@@ -1,464 +1,476 @@
 1
-00:00:00,031 --> 00:00:04,523
-Chapter 1 Loomings Call me Ishmael.
+00:00:00,031 --> 00:00:02,544
+Chapter 1 - Loomings 
 
 2
-00:00:04,891 --> 00:00:17,023
-Some years ago, never mind how long, precisely having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.
+00:00:03,026 --> 00:00:15,917
+Call Me Ishmael. Some years ago, never mind how long precisely, having little or no money in my purse and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.
 
 3
-00:00:17,724 --> 00:00:22,829
+00:00:16,517 --> 00:00:20,301
 It is a way I have of driving off the spleen and regulating the circulation.
 
 4
-00:00:23,029 --> 00:00:34,240
-Whenever I find myself growing grim about the mouth, whenever it is a damp, drizzly November in my soul, whenever I find myself involuntarily pausing before coffin warehouses,
+00:00:20,341 --> 00:00:34,915
+Whenever I find myself growing grim about the mouth, whenever it is a damp, drizzly November in my soul, whenever I find myself involuntarily pausing before coffin warehouses and bringing up the rear of every funeral I meet,
 
 5
-00:00:34,220 --> 00:00:47,614
-and bringing up the rear of every funeral I meet, and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street.
+00:00:34,895 --> 00:00:45,925
+And especially whenever my hypos get such an upper hand of me that it requires a strong moral principle to prevent me from deliberately stepping into the street and methodically knocking people's hats off.
 
 6
-00:00:47,634 --> 00:00:55,422
-And methodically knocking people's hats off, then, I account at high time to get to see as to— This is my substitute for pistol and ball.
+00:00:46,526 --> 00:00:49,909
+Then, I account it high time to get to sea as soon as I can.
 
 7
-00:00:55,982 --> 00:01:00,066
-With a philosophical flourish, Cato throws himself upon his sword.
+00:00:49,969 --> 00:00:53,192
+This is my substitute for pistol and ball.
 
 8
-00:01:00,707 --> 00:01:02,809
-I quietly take to the ship.
+00:00:53,912 --> 00:00:57,496
+With a philosophical flourish, Kato throws himself upon his sword.
 
 9
-00:01:02,789 --> 00:01:04,932
-There is nothing surprising in this.
+00:00:58,056 --> 00:00:59,418
+I quietly take to the ship.
 
 10
-00:01:05,273 --> 00:01:14,125
-If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
+00:01:00,098 --> 00:01:02,100
+There is nothing surprising in this.
 
 11
-00:01:15,067 --> 00:01:24,320
-There, now, is your insular city of the Manhattos, belted round by wharves as Indian Isles by coral-reefs commerce surrounds it with her surf.
+00:01:02,317 --> 00:01:09,304
+If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
 
 12
-00:01:24,781 --> 00:01:27,885
-Right and left, the streets take you waterward.
+00:01:09,905 --> 00:01:16,452
+There now is your insular city of the Manhattos, belted round by wharves as Indian Isles by coral reefs.
 
 13
-00:01:27,865 --> 00:01:38,784
-Its extreme downtown is the Battery, where that noble mole is washed by waves and cooled by breezes which a few hours previous were out of sight of land.
+00:01:16,932 --> 00:01:18,854
+Commerce surrounds it with her surf.
 
 14
-00:01:40,126 --> 00:01:42,310
-Look at the crowds of water-gazers there.
+00:01:19,595 --> 00:01:22,038
+Right and left, the streets take you waterward.
 
 15
-00:01:42,450 --> 00:01:45,435
-Circumambulate the city of a dreamy Sabbath afternoon.
+00:01:22,819 --> 00:01:31,868
+Its extreme downtown is the Battery, where that noble mole is washed by waves and cooled by breezes, which a few hours previous were out of sight of land.
 
 16
-00:01:46,056 --> 00:01:52,287
-Go from Courier's Hook to Cointy Slip, and from thence by White Hall northward.
+00:01:32,236 --> 00:01:33,979
+Look at the crowds of water-gazers there.
 
 17
-00:01:52,267 --> 00:02:14,477
-What you see, posted like silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries, some leaning against the spiles, some seated upon the pier-heads, some looking over the bulwarks of ships from China, some high aloft in the rigging, as if striving to get a still better seaward peak.
+00:01:34,480 --> 00:01:37,264
+Circumambulate the city of a dreamy Sabbath afternoon.
 
 18
-00:02:15,689 --> 00:02:16,270
-Stop!
+00:01:37,825 --> 00:01:43,013
+Go from Corlears Hook to Coenties Slip, and from thence by Whitehall northward.
 
 19
-00:02:16,290 --> 00:02:23,436
-But these are all landsmen of weekdays, pent up in lath and plaster tied to counters, nailed to benches, clinched to desks.
+00:01:43,654 --> 00:01:44,435
+What do you see?
 
 20
-00:02:24,477 --> 00:02:25,238
-How then is this?
+00:01:44,475 --> 00:01:52,388
+Posted like silent sentinels all around the town stand thousands upon thousands of mortal men fixed in ocean reveries.
 
 21
-00:02:25,978 --> 00:02:27,159
-Are the green fields gone?
+00:01:52,368 --> 00:02:03,770
+Some leaning against the spiles, some seated upon the pier heads, some looking over the bulwarks of ships from China, some high aloft in the rigging, as if striving to get a still better seaward peep.
 
 22
-00:02:28,160 --> 00:02:28,921
-What are they here?
+00:02:04,311 --> 00:02:12,587
+But these are all landsmen, of weekdays pent up in lathe and plaster, tied to counters, nailed to benches, clinched to desks.
 
 23
-00:02:29,942 --> 00:02:35,647
-But look, here come more crowds, pacing straight for the water, and seemingly bound for a dive.
+00:02:12,972 --> 00:02:13,793
+How then is this?
 
 24
-00:02:36,548 --> 00:02:37,028
-Strange!
+00:02:13,833 --> 00:02:15,716
+Are the green fields gone?
 
 25
-00:02:37,669 --> 00:02:41,112
-Nothing will content them but the extremist limit of the land.
+00:02:16,076 --> 00:02:16,777
+What do they hear?
 
 26
-00:02:41,412 --> 00:02:45,696
-Loitering under the shady lee of yonder warehouses will not suffice.
+00:02:16,837 --> 00:02:18,019
+But look!
 
 27
-00:02:45,676 --> 00:02:51,266
-No, they must get just as nigh the water as they possibly can, without falling in.
+00:02:18,420 --> 00:02:22,606
+Here come more crowds pacing straight for the water and seemingly bound for a dive.
 
 28
-00:02:52,589 --> 00:02:54,773
-In there they stand miles of them leagues.
+00:02:23,467 --> 00:02:23,967
+Strange!
 
 29
-00:02:55,875 --> 00:02:56,737
-Inlanders all!
+00:02:24,528 --> 00:02:27,432
+Nothing will content them but the extremist limit of the land.
 
 30
-00:02:56,757 --> 00:03:02,087
-They come from lanes and alleys, streets and avenues, north, east, south, and west.
+00:02:27,733 --> 00:02:31,538
+Loitering under the shady lee of yonder warehouses will not suffice.
 
 31
-00:03:03,089 --> 00:03:04,311
-Yet here they all unite.
+00:02:31,585 --> 00:02:36,452
+No, they must get just as nigh the water as they possibly can without falling in.
 
 32
-00:03:04,812 --> 00:03:05,473
-Tell me,
+00:02:36,512 --> 00:02:40,097
+And there they stand, miles of them, leagues.
 
 33
-00:03:05,453 --> 00:03:10,622
-Does the magnetic virtue of the needles of the compasses of all those ships attract them thither?
+00:02:40,717 --> 00:02:46,505
+Inlanders all, they come from lanes and alleys, streets and avenues, north, east, south, and west.
 
 34
-00:03:11,824 --> 00:03:16,793
-Once more, say you are in the country, in some high land of lakes.
+00:02:47,146 --> 00:02:48,428
+Yet here they all unite.
 
 35
-00:03:16,974 --> 00:03:25,088
-Take almost any path you please, and ten to one it carries you down in a dale, and leaves you there by a pool in the stream.
+00:02:49,009 --> 00:02:54,336
+Tell me, does the magnetic virtue of the needles of the compasses of all those ships attract them thither?
 
 36
-00:03:26,010 --> 00:03:27,192
-There is magic in it.
+00:02:54,316 --> 00:02:58,441
+Once more, say you are in the country, in some high land of lakes.
 
 37
-00:03:27,172 --> 00:03:40,770
-Let the most absent-minded of men be plunged in his deepest reverie, stand that man on his legs, set his feet a-going, and he will infallibly lead you to water, if water there be in all that region.
+00:02:59,042 --> 00:03:05,990
+Take almost any path you please, and ten to one it carries you down in a dale and leaves you there by a pool in the stream.
 
 38
-00:03:41,331 --> 00:03:50,884
-Should you ever be athirst in the great American desert, try this experiment, if your caravan happen to be supplied with a metaphysical professor.
+00:03:07,052 --> 00:03:08,073
+There is magic in it.
 
 39
-00:03:51,742 --> 00:03:55,993
-Yes, as everyone knows, meditation and water are wedded forever.
+00:03:08,774 --> 00:03:12,559
+Let the most absent-minded of men be plunged in his deepest reveries.
 
 40
-00:03:56,775 --> 00:03:58,359
-But here is an artist.
+00:03:13,119 --> 00:03:21,049
+Stand that man on his legs, set his feet a-going, and he will infallibly lead you to water, if water there be in all that region.
 
 41
-00:03:58,420 --> 00:04:07,303
-He desires to paint you the dreamiest, shadiest, quietest, most enchanting bit of romantic landscape in all the valley of the Sokol.
+00:03:21,367 --> 00:03:29,740
+Should you ever be a thirst in the great American desert, try this experiment if your caravan happened to be supplied with a metaphysical professor.
 
 42
-00:04:08,330 --> 00:04:10,413
-What is the chief element he employs?
+00:03:30,226 --> 00:03:33,830
+Yes, as everyone knows, meditation and water are wedded forever.
 
 43
-00:04:10,593 --> 00:04:16,240
-There stand his trees, each with a hollow trunk, As if a hermit and a crucifix were within.
+00:03:34,591 --> 00:03:35,692
+But here is an artist.
 
 44
-00:04:16,300 --> 00:04:24,150
-And here sleeps his meadow, and there sleep his cattle, And up from yonder cottage goes a sleepy smoke.
+00:03:36,193 --> 00:03:43,982
+He desires to paint you the dreamiest, shadiest, quietest, most enchanting bit of romantic landscape in all the valley of the Sako.
 
 45
-00:04:24,170 --> 00:04:32,401
-Deep into distant woodlands winds a lazy way, Reaching to overlapping spurs of mountains, Bathed in their hillside blue.
+00:03:44,683 --> 00:03:46,485
+What is the chief element he employs?
 
 46
-00:04:32,741 --> 00:04:35,485
-But though the picture lies thus tranced,
+00:03:46,525 --> 00:03:52,532
+There stand his trees, each with a hollow trunk, as if a hermit and a crucifix were within.
 
 47
-00:04:35,465 --> 00:04:48,020
-And though this pine-tree shakes down its size Like leaves upon this shepherd's head, Yet all were vain, unless the shepherd's eye Were fixed upon the magic stream before him.
+00:03:52,572 --> 00:03:59,440
+And here sleeps his meadow, and there sleep his cattle, and up from yonder cottage goes a sleepy smoke.
 
 48
-00:04:48,340 --> 00:04:50,082
-Go visit the prairies in June.
+00:03:59,420 --> 00:04:06,528
+Deep into distant woodlands winds a mazy way, reaching to overlapping spurs of mountains bathed in their hillside blue.
 
 49
-00:04:50,523 --> 00:04:54,367
-Win for scores On scores of miles you wade knee-deep.
+00:04:07,129 --> 00:04:18,503
+But though the picture lies thus tranced, and though this pine tree shakes down its size like leaves upon this shepherd's head, yet all were vain, unless the shepherd's eye were fixed upon the magic stream before him.
 
 50
-00:04:54,888 --> 00:04:58,452
-Among tiger-lilies what is the one charm wanting?
+00:04:20,325 --> 00:04:26,272
+Go visit the prairies in June, when for scores on scores of miles you weighed knee-deep among tiger lilies.
 
 51
-00:04:58,432 --> 00:05:01,317
-Water there is not a drop of water there.
+00:04:26,993 --> 00:04:28,735
+What is the one charm wanting?
 
 52
-00:05:01,337 --> 00:05:07,127
-Were New Yagua but a cataract of sand, would you travel your thousand miles to see it?"
+00:04:29,288 --> 00:04:29,669
+Water!
 
 53
-00:05:07,408 --> 00:05:21,553
-Why did the poor poet of Tennessee, upon suddenly receiving two handfuls of silver, deliberate whether to buy him a coat, which he sadly needed, or invest his money in a pedestrian trip to Rockaway Beach?
+00:04:29,730 --> 00:04:31,696
+There is not a drop of water there!
 
 54
-00:05:21,753 --> 00:05:26,579
-Why is almost every robust, healthy boy with a robust, healthy soul in him?
+00:04:32,379 --> 00:04:37,898
+Were Niagara but a cataract of sand, would you travel your thousand miles to see it?
 
 55
-00:05:27,199 --> 00:05:29,682
-Why did the old Persians hold the sea holy?
+00:04:38,198 --> 00:04:50,722
+Why did the poor poet of Tennessee, upon suddenly receiving two handfuls of silver, deliberate whether to buy him a coat, which he sadly needed, or invest his money in a pedestrian trip to Rockaway Beach?
 
 56
-00:05:30,624 --> 00:05:34,548
-Why did the Greeks give it a separate deity, an own brother of Chove?
+00:04:51,824 --> 00:04:59,599
+Why is almost every robust, healthy boy with a robust, healthy soul in him at some time or other crazy to go to sea?
 
 57
-00:05:35,810 --> 00:05:49,566
-Surely all this is not without meaning, and still deeper the meaning of that story of Narcissus, who, because he could not grasp the tormenting, mild image he saw in the fountain, plunged into it and was drowned.
+00:04:59,680 --> 00:05:09,299
+Why upon your first voyage as a passenger did you yourself feel such a mystical vibration when first told that you and your ship were now out of sight of land?
 
 58
-00:05:50,963 --> 00:05:54,971
-but that same image we ourselves see in all rivers and oceans.
+00:05:09,960 --> 00:05:12,345
+Why did the old Persians hold the sea holy?
 
 59
-00:05:55,192 --> 00:06:01,103
-It is the image of the ungraspable phantom of life, and this is the key to it all.
+00:05:12,385 --> 00:05:16,333
+Why did the Greeks give it a separate deity and own brother of Jove?
 
 60
-00:06:01,184 --> 00:06:11,284
-Now, when I say that I am in the habit of going to sea, whenever I begin to grow hazy about the eyes, and begin to be over-conscious of my lungs,
+00:05:17,074 --> 00:05:19,579
+Surely all this is not without meaning.
 
 61
-00:06:11,264 --> 00:06:23,683
-I do not mean to have it inferred that I ever go to sea as a passenger, for to go as a passenger you must needs have a purse, and a purse is but a rag unless you have something in it.
+00:05:19,559 --> 00:05:29,055
+And still deeper the meaning of that story of Narcissus, who because he could not grasp the tormenting mild image he saw in the fountain, plunged into it and was drowned.
 
 62
-00:06:24,123 --> 00:06:30,493
-Besides, passengers get seasick, grow quarrelsome, don't sleep of nights, do not enjoy themselves much.
+00:05:29,737 --> 00:05:33,583
+But that same image, we ourselves see in all rivers and oceans.
 
 63
-00:06:31,194 --> 00:06:40,107
-As a general thing, no, I never go as a passenger, nor, though I am something of a salt, do I ever go to sea as a commodore.
+00:05:34,224 --> 00:05:38,932
+It is the image of the ungraspable phantom of life, and this is the key to it all.
 
 64
-00:06:40,087 --> 00:06:41,829
-or a captain, or a cook.
+00:05:39,614 --> 00:05:45,043
+Now, when I say that I am in the habit of going to sea whenever I begin to grow hazy about the eyes,
 
 65
-00:06:42,410 --> 00:06:46,435
-I abandon the glory and distinction of such offices to those who like them.
+00:05:45,023 --> 00:05:47,578
+and begin to be over-conscious of my lungs.
 
 66
-00:06:47,136 --> 00:06:54,725
-For my part, I abominate all honorable respectable toils, trials, and tribulations of every kind whatsoever.
+00:05:48,080 --> 00:05:52,063
+I do not mean to have it inferred that I ever go to sea as a passenger.
 
 67
-00:06:55,446 --> 00:07:04,457
-It is quite as much as I can do to take care of myself without taking care of ships, barquets, brigs, schooners, and what not.
+00:05:52,111 --> 00:05:57,961
+For to go as a passenger you must needs have a purse, and a purse is but a rag unless you have something in it.
 
 68
-00:07:04,437 --> 00:07:06,641
-and as for going is cook.
+00:05:58,562 --> 00:06:06,234
+Besides, passengers get seasick, grow quarrelsome, don't sleep of nights, do not enjoy themselves much, as a general thing.
 
 69
-00:07:07,603 --> 00:07:22,390
-Though I confess there is considerable glory in that, a cook being a sort of officer on shipboard yet, somehow I never fancied broiling fowls though once broiled, judiciously buttered, and judgematically salted and peppered.
+00:06:06,635 --> 00:06:14,167
+No, I never go as a passenger, nor, though I am something of a salt, do I ever go to sea as a commodore, or a captain, or a cook.
 
 70
-00:07:23,091 --> 00:07:25,956
-There is no one who will speak more respectfully
+00:06:14,728 --> 00:06:18,895
+I abandon the glory and distinction of such offices to those who like them.
 
 71
-00:07:25,936 --> 00:07:29,743
-not to say reverentially, of a broiled fowl than I will.
+00:06:18,875 --> 00:06:25,204
+For my part, I abominate all honorable respectable toils, trials, and tribulations of every kind whatsoever.
 
 72
-00:07:30,384 --> 00:07:43,067
-It is out of the idolatrous dotings of the old Egyptians upon broiled ibis and roasted river-horse that you see the mummies of those creatures in their huge bake-houses, the pyramids,
+00:06:25,785 --> 00:06:33,415
+It is quite as much as I can do to take care of myself, without taking care of ships, barques, brigs, schooners, and whatnot.
 
 73
-00:07:43,047 --> 00:07:49,837
-No, when I go to sea, I go as a simple sailor, right before the mast, plumbed down into the fore.
+00:06:33,435 --> 00:06:44,511
+And as for going as cook, though I confess there is considerable glory in that, a cook being a sort of officer on shipboard, yet, somehow, I never fancied broiling fowls.
 
 74
-00:07:49,857 --> 00:07:52,380
-And at first this sort of thing is unpleasant enough.
+00:06:44,491 --> 00:06:55,188
+Though once broiled, judiciously buttered, and judgmatically salted and peppered, there is no one who will speak more respectfully, not to say reverentially, of a broiled fowl than I will.
 
 75
-00:07:52,881 --> 00:08:04,458
-It touches one's sense of honour, particularly if you come of an old established family in the land, the Van Rensselaers, or Randolphs, or Hardy Canutes.
+00:06:56,049 --> 00:07:07,427
+It is out of the idolatrous dotings of the old Egyptians upon broiled ibis and roasted river horse that you see the mummies of those creatures in their huge bakehouses, the pyramids
 
 76
-00:08:04,658 --> 00:08:12,970
-And more than all, if just previous to putting your hand into the tar pot, you have been lording it as a country schoolmaster.
+00:07:07,407 --> 00:07:16,217
+No, when I go to sea, I go as a simple sailor, right before the mast, plumbed down into the forecastle, aloft there to the royal masthead.
 
 77
-00:08:12,950 --> 00:08:16,398
-making the tallest boy stand in awe of you.
+00:07:16,958 --> 00:07:22,824
+True, they rather order me about some, and make me jump from spar to spar, like a grasshopper in a May meadow.
 
 78
-00:08:16,518 --> 00:08:28,206
-The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it.
+00:07:23,485 --> 00:07:25,848
+And at first, this sort of thing is unpleasant enough.
 
 79
-00:08:28,707 --> 00:08:30,992
-But even this wears off in time.
+00:07:26,508 --> 00:07:35,018
+It touches one's sense of honor, particularly if you come of an old established family in the land, the Van Rensselaers, or Randolphs, or Hardecanoots.
 
 80
-00:08:30,972 --> 00:08:31,633
-What of it?
+00:07:34,998 --> 00:07:43,690
+And more than all, if just previous to putting your hand into the tar pot, you have been lording it as a country schoolmaster, making the tallest boys stand in awe of you.
 
 81
-00:08:32,214 --> 00:08:44,369
-If some old hunks of a sea-captain orders me to get a broom and sweep down the decks, what does that indignity amount to, weighed, I mean, in the scales of the New Testament?
+00:07:43,710 --> 00:07:52,884
+The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it.
 
 82
-00:08:44,429 --> 00:08:53,520
-Do you think the Archangel Gabriel thinks anything the less of me, because I promptly and respectfully obey that old hunks in that particular instance?"
+00:07:53,705 --> 00:07:55,127
+But even this wears off in time.
 
 83
-00:08:54,901 --> 00:08:56,023
-a slave.
+00:07:55,748 --> 00:08:00,955
+What of it if some old hunks of a sea captain orders me to get a broom and sweep down the decks?
 
 84
-00:08:56,865 --> 00:08:57,606
-Tell me that."
+00:08:01,154 --> 00:08:05,665
+What does that indignity amount to, Wade, I mean in the scales of the New Testament?
 
 85
-00:08:57,867 --> 00:09:16,403
-Well, then, however the old sea-captains may order me about, however they may thump and punch me about, I have the satisfaction of knowing that it is all right, that everybody else is one way or other served in much the same way either in a physical or metaphysical point of view.
+00:08:06,627 --> 00:08:15,589
+Do you think the Archangel Gabriel thinks anything the less of me, because I promptly and respectfully obey that old hunks in that particular instance, who ain't a slave?
 
 86
-00:09:16,383 --> 00:09:26,136
-That is, that in awn, so the universal thump is passed round, and all hands should rut each other's shoulder-blades, and to be content.
+00:08:16,291 --> 00:08:17,273
+Tell me that.
 
 87
-00:09:26,156 --> 00:09:35,168
-Again, I always go to sea as a sailor, because they make a point of paying me for my trouble, whereas they never pay passengers a single penny that I ever heard of.
+00:08:17,573 --> 00:08:38,012
+Well then, however the old sea captains may order me about, however they may thump and punch me about, I have the satisfaction of knowing that it is all right, that everybody else is one way or other served in much the same way, either in a physical or metaphysical point of view, that is, and so the universal thump is passed round,
 
 88
-00:09:37,561 --> 00:09:45,572
-On the contrary, passengers themselves must pay, and there is all the difference in the world between paying and being paid.
+00:08:37,992 --> 00:08:41,657
+and all hands should rub each other's shoulder blades and be content.
 
 89
-00:09:46,113 --> 00:09:53,103
-The act of paying is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us.
+00:08:42,559 --> 00:08:51,692
+Again, I always go to sea as a sailor, because they make a point of paying me for my trouble, whereas they never pay passengers a single penny that I ever heard of.
 
 90
-00:09:53,964 --> 00:09:57,088
-But being paid, what will compare with it?
+00:08:52,573 --> 00:09:00,945
+On the contrary, passengers themselves must pay, and there is all the difference in the world between paying and being paid.
 
 91
-00:09:57,254 --> 00:10:11,297
-The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a moneyed man enter heaven.
+00:09:01,043 --> 00:09:06,710
+The act of paying is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us.
 
 92
-00:10:12,880 --> 00:10:16,165
-Ah, how cheerfully we consign ourselves to perdition!
+00:09:07,571 --> 00:09:12,617
+But b-e-a-i-n-g, paid, what will compare with it?
 
 93
-00:10:16,305 --> 00:10:23,415
-Finally, I always go to sea as a sailor, because of the wholesome exercise and pure air of the forecastle deck.
+00:09:13,278 --> 00:09:25,252
+The urbane activity with which a man receives money is really marvelous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven.
 
 94
-00:10:24,176 --> 00:10:33,750
-For, as in this world, headwinds are far more prevalent than winds, from astern, that is, if you never violate the Pythagorean maxim.
+00:09:26,313 --> 00:09:29,717
+Ah, how cheerfully we consign ourselves to perdition!
 
 95
-00:10:34,451 --> 00:10:41,942
-So, for the most part, the commodore on the quarterdeck gets his atmosphere at second hand from the sailors on the forecastle.
+00:09:30,170 --> 00:09:36,216
+Finally, I always go to sea as a sailor, because of the wholesome exercise and pure air of the four-castle deck.
 
 96
-00:10:42,310 --> 00:10:45,996
-He thinks he breathes it first, but not so.
+00:09:36,777 --> 00:09:44,245
+For as in this world, headwinds are far more prevalent than winds from astern, that is, if you never violate the Pythagorean maxim.
 
 97
-00:10:46,937 --> 00:10:54,970
-In much the same way do the commonalty lead their leaders in many other things, at the same time that the leaders little suspect it.
+00:09:44,805 --> 00:09:50,491
+So, for the most part, the commodore on the quarterdeck gets his atmosphere at second hand from the sailors on the fourcastle.
 
 98
-00:10:55,070 --> 00:11:04,605
-But wherefore it was that after having repeatedly smelt the sea as a merchant-sailor, I should now take it into my head to go on a whaling voyage.
+00:09:51,252 --> 00:09:54,135
+He thinks he breathes it first, but not so.
 
 99
-00:11:04,585 --> 00:11:19,219
-This the invisible police officer of the fates, who has the constant surveillance of me, and secretly dogs me, and influences me in some unaccountable way, he can better answer than any one else.
+00:09:54,385 --> 00:10:01,313
+In much the same way do the commonalty lead their leaders in many other things, at the same time that the leaders little suspect it.
 
 100
-00:11:19,560 --> 00:11:23,168
-And, doubtless, my going on this wailing voyage
+00:10:02,013 --> 00:10:09,742
+But wherefore it was that after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage.
 
 101
-00:11:23,148 --> 00:11:28,016
-formed part of the grand program of Providence that was drawn up a long time ago.
+00:10:10,142 --> 00:10:21,675
+This the invisible police officer of the fates, who has the constant surveillance of me, and secretly dogs me, and influences me in some unaccountable way, he can better answer than anyone else.
 
 102
-00:11:28,036 --> 00:11:34,727
-It came in as a sort of brief interlude and solo between more extensive performances.
+00:10:21,655 --> 00:10:30,305
+And, doubtless, my going on this wailing voyage formed part of the grand program of Providence that was drawn up a long time ago.
 
 103
-00:11:35,007 --> 00:11:44,683
-I take it that this part of the bill must have run something like this kind, contested election, for the Presidency of the United States.
+00:10:30,325 --> 00:10:36,451
+It came in as a sort of brief interlude and solo between more extensive performances.
 
 104
-00:11:44,663 --> 00:11:46,628
-Wailing Voyage by one Ishmael.
+00:10:37,533 --> 00:10:40,816
+I take it that this part of the bill must have run something like this.
 
 105
-00:11:47,329 --> 00:11:49,013
-Bloody battle in Afghanistan.
+00:10:41,517 --> 00:10:45,702
+Grand contested election for the presidency of the United States.
 
 106
-00:11:49,254 --> 00:12:03,027
-Though I cannot tell why it was exactly that those stage-managers, the fates, put me down for this shabby part of a wailing voyage, when others were set down for magnificent parts in high tragedies, and short and easy parts in genteel comedies,
+00:10:46,623 --> 00:10:48,465
+Walling voyage by one Ishmael.
 
 107
-00:12:03,007 --> 00:12:07,194
-and jolly parts in farces, though I cannot tell why this was exactly our heat.
+00:10:49,046 --> 00:10:51,308
+Bloody battle in Afghanistan.
 
 108
-00:12:07,875 --> 00:12:19,215
-Now that I recall all the circumstances, I think I can see a little into the springs and motives which, being cunningly presented to me under various disguises, induced me to set about performing the part I did, besides cajoling."
+00:10:51,575 --> 00:11:08,065
+Though I cannot tell why it was exactly that those stage-managers, the fates, put me down for this shabby part of a whaling voyage, when others were set down for magnificent parts in high tragedies, and short and easy parts in genteel comedies, and jolly parts in farces.
 
 109
-00:12:19,235 --> 00:12:23,783
-Chief among these motives was the overwhelming idea of the great whale himself.
+00:11:08,483 --> 00:11:30,504
+Though I cannot tell why this was exactly, yet, now that I recall all the circumstances, I think I can see a little into the springs and motives which, being cunningly presented to me under various disguises, induced me to set about performing the part I did, besides cajoling me into the delusion that it was a choice resulting from my own unbiased free will and discriminating judgment.
 
 110
-00:12:25,366 --> 00:12:29,371
-Such a portentous and mysterious monster roused all my curiosity.
+00:11:31,365 --> 00:11:36,330
+Chief among these motives was the overwhelming idea of the great whale himself.
 
 111
-00:12:29,451 --> 00:12:45,110
-Then the wild and distant seas where he rolled his island bulk, the undeliverable, nameless perils of the whale, these, with all the attending marvels of a thousand Patagonian sights and sounds, helped to sway me to my wish.
+00:11:36,715 --> 00:11:40,840
+Such a portentous and mysterious monster roused all my curiosity.
 
 112
-00:12:45,331 --> 00:12:48,915
-With other men, perhaps, such things would not have been inducements.
+00:11:41,621 --> 00:11:48,389
+Then the wild and distant seas were he rolled his island bulk, the undeliverable, nameless perils of the whale.
 
 113
-00:12:49,476 --> 00:12:54,462
-But as for me, I am tormented with an everlasting itch for things remote.
+00:11:48,429 --> 00:11:55,858
+These, with all the attending marvels of a thousand Patagonian sights and sounds, helped to sway me to my wish.
 
 114
-00:12:54,442 --> 00:13:01,333
-I love to sail forbidden seas, and land on barbarous coasts, not ignoring what is good.
+00:11:56,519 --> 00:12:05,710
+With other men, perhaps, such things would not have been inducements, but as for me, I am tormented with an everlasting itch for things remote.
 
 115
-00:13:01,974 --> 00:13:14,593
-I am quick to perceive a horror, and could still be social with it, would they let me since it is, but well to be, on friendly terms, with all the inmates of the place one lodges in.
+00:12:05,690 --> 00:12:09,879
+I love to sail forbidden seas and land on barbarous coasts.
 
 116
-00:13:14,573 --> 00:13:38,640
-By reason of these things, then, the whaling voyage was welcome, the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, to and to there floated into my inmost soul endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow-hill in the air.
+00:12:10,581 --> 00:12:15,532
+Not ignoring what is good, I am quick to perceive a horror and could still be social with it.
+
+117
+00:12:16,073 --> 00:12:16,735
+Would they let me?
+
+118
+00:12:17,497 --> 00:12:22,568
+Since it is but well to be on friendly terms with all the inmates of the place one lodges in.
+
+119
+00:12:22,548 --> 00:12:43,324
+By reason of these things, then, the whaling voyage was welcome, the great floodgates of the wonder world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, midmost of them all, one grand hooded phantom, like a snow hill in the air.
 

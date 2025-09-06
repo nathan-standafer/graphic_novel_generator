@@ -1,200 +1,168 @@
 1
-00:00:00,031 --> 00:00:00,712
-CHAPTER VIII.
+00:00:00,031 --> 00:00:08,044
+Chapter 8 - The Pulpit. I had not been seated very long ere a man of a certain venerable robustness entered.
 
 2
-00:00:01,073 --> 00:00:01,573
-THE POLKET.
+00:00:08,505 --> 00:00:19,322
+Immediately, as the storm-pelted door flew back upon admitting him, a quick, regardful eyeing of him by all the congregation sufficiently attested that this fine old man was the chaplain.
 
 3
-00:00:01,693 --> 00:00:11,868
-I had not been seated very long ere a man of a certain venerable robustness entered, immediately as the storm-pelted door flew back upon admitting him.
+00:00:19,707 --> 00:00:25,798
+Yes, it was the famous Father Mapple, so-called by the whalemen, among whom he was a very great favorite.
 
 4
-00:00:12,630 --> 00:00:20,701
-A quick, regardful eyeing of him by all the congregation sufficiently attested that this fine old man was the chaplain.
+00:00:26,419 --> 00:00:32,509
+He had been a sailor and a harpooner in his youth, but for many years past had dedicated his life to the ministry.
 
 5
-00:00:20,882 --> 00:00:27,912
-Yes, it was the famous Father Mupple, so called by the wellmen, among whom he was a very great favorite.
+00:00:33,191 --> 00:00:42,627
+At the time I now write of, Father Mapple was in the hardy winter of a healthy old age, that sort of old age which seems merging into a second flowering youth.
 
 6
-00:00:27,892 --> 00:00:36,646
-He had been a sailor and a haupenier in his youth, but for many years past had dedicated his life to the ministry.
+00:00:42,607 --> 00:00:52,159
+For among all the fissures of his wrinkles there shone certain mild gleams of a newly developing bloom, the spring verdure peeping forth even beneath February snow.
 
 7
-00:00:36,946 --> 00:00:50,187
-At the time I now write of, Father Mapple was in the hardy winter of a healthy old age, that sort of old age which seems merging into a second flowering youth, for among all the fissures of his wrinkles
+00:00:52,199 --> 00:01:06,977
+No one, having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him, imputable to that adventurous maritime life he had led.
 
 8
-00:00:50,167 --> 00:00:58,761
-there shone certain mild gleams of a newly developing bloom, the spring verdure peeping forth even beneath February's snow.
-
-9
-00:00:58,781 --> 00:01:12,985
-No one, having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him.
-
-10
-00:01:12,965 --> 00:01:17,031
-imputable to that adventurous maritime life he had led.
-
-11
-00:01:17,152 --> 00:01:36,542
+00:01:07,075 --> 00:01:20,848
 When he entered, I observed that he carried no umbrella, and certainly had not come in his carriage, for his tarpaulin hat ran down with melting sleet, and his great pilot-cloth jacket seemed almost to drag him to the floor with the weight of the water it had absorbed.
 
+9
+00:01:21,267 --> 00:01:28,258
+However, hat and coat and overshoes were one by one removed and hung up in a little space in an adjacent corner.
+
+10
+00:01:28,539 --> 00:01:32,184
+When, arrayed in a decent suit, he quietly approached the pulpit.
+
+11
+00:01:32,765 --> 00:01:45,165
+Like most old-fashioned pulpits, it was a very lofty one, and since a regular stairs to such a height would, by its long angle with the floor, seriously contract the already small area of the chapel,
+
 12
-00:01:36,522 --> 00:01:43,996
-However, hat and coat and overshoes were one by one removed, and hung up in a little space in an adjacent corner.
+00:01:45,145 --> 00:01:56,255
+The architect, it seemed, had acted upon the hint of Father Mapple and finished the pulpit without a stairs, substituting a perpendicular side ladder like those used in mounting a ship from a boat at sea.
 
 13
-00:01:44,557 --> 00:01:58,564
-When, arrayed in a decent suit, he quietly approached the pulpit, like most old-fashioned pulpits it was a very lofty one, and since a regular stairs to such a height would, by its long angle with the floor,
+00:01:56,875 --> 00:02:13,650
+The wife of a whaling captain had provided the chapel with a handsome pair of red-worsted manropes for this ladder, which, being itself nicely headed and stained with a mahogany color, the whole contrivance, considering what manner of chapel it was, seemed by no means in bad taste.
 
 14
-00:01:58,544 --> 00:02:02,414
-Seriously contract the already small area of the chapel.
+00:02:13,630 --> 00:02:31,470
+Halting for an instant at the foot of the ladder, and with both hands grasping the ornamental knobs of the manropes, Father Mapple cast a look upwards, and then with a truly sailor-like but still reverential dexterity, hand over hand, mounted the steps as if ascending the main top of his vessel.
 
 15
-00:02:03,136 --> 00:02:13,684
-The architect, it seemed, had acted upon the hint of Father Mapple, and finished the pulpit without a stairs, substituting a perpendicular side ladder.
-
-16
-00:02:13,664 --> 00:02:17,191
-like those used in mounting a ship from a boat at sea.
-
-17
-00:02:18,072 --> 00:02:31,437
-The wife of a whaling captain had provided the chapel with a handsome pair of red worsted man-ropes for this ladder, which being itself nicely headed and stained with a mahogany colour,
-
-18
-00:02:31,417 --> 00:02:38,485
-The whole contrivance, considering what manner of chapel it was, seemed by no means in bad taste.
-
-19
-00:02:38,686 --> 00:02:54,184
-Halting for an instant at the foot of the ladder, and with both hands grasping the ornamental knobs of the man-ropes, Father Mopple cast a look upwards, and then, with a truly sailor-like but still reverential dexterity,
-
-20
-00:02:54,164 --> 00:03:00,254
-hand over hand, mounted the steps as if ascending the main top of his vessel.
-
-21
-00:03:00,334 --> 00:03:07,926
+00:02:31,450 --> 00:02:37,422
 The perpendicular parts of this side ladder, as is usually the case with swinging ones, were of cloth-covered rope.
 
-22
-00:03:08,807 --> 00:03:13,394
+16
+00:02:38,043 --> 00:02:41,310
 Only the rounds were of wood, so that at every step there was a joint.
 
-23
-00:03:13,655 --> 00:03:20,205
-At my first glimpse of the pulpit it had not escaped me that however convenient for a ship
+17
+00:02:42,072 --> 00:02:50,168
+At my first glimpse of the pulpit, it did not escape me that, however convenient for a ship, these joints in the present instance seemed unnecessary.
 
-24
-00:03:20,185 --> 00:03:42,319
-These joints, in the present instance, seemed unnecessary, for I was not prepared to see Father Mothel, after gaining the height, slowly turn round and stooping over the pulpit, deliberately drag up the ladder step by step till the hole was deposited within, leaving him impregnable in his little Quebec.
+18
+00:02:50,148 --> 00:03:04,402
+for I was not prepared to see Father Mapple, after gaining the height, slowly turn round and, stooping over the pulpit, deliberately drag up the ladder step by step till the hole was deposited within, leaving him impregnable in his little Quebec.
 
-25
-00:03:42,339 --> 00:03:46,125
+19
+00:03:04,942 --> 00:03:08,325
 I pondered some time without fully comprehending the reason for this.
 
-26
-00:03:47,422 --> 00:03:58,152
+20
+00:03:08,786 --> 00:03:18,315
 Father Mapple enjoyed such a wide reputation for sincerity and sanctity that I could not suspect him of courting notoriety by any mere tricks of the stage.
 
+21
+00:03:18,295 --> 00:03:22,099
+No, thought I. There must be some sober reason for this thing.
+
+22
+00:03:22,460 --> 00:03:25,063
+Furthermore, it must symbolize something unseen.
+
+23
+00:03:25,864 --> 00:03:34,914
+Can it be, then, that by that act of physical isolation he signifies his spiritual withdrawal for the time, from all outward worldly ties and connections?
+
+24
+00:03:35,615 --> 00:03:43,965
+Yes, for replenished with the meat and wine of the Word, to the faithful man of God, this pulpit, I see, is a self-containing stronghold.
+
+25
+00:03:44,435 --> 00:03:48,402
+a lofty Ehrenbreitstein with a perennial well of water within the walls.
+
+26
+00:03:49,323 --> 00:03:54,753
+But the side ladder was not the only strange feature of the place, borrowed from the chaplain's former seafarings.
+
 27
-00:03:58,412 --> 00:04:03,397
-No, thought I, there must be some sober reason for this thing, furthermore.
-
-28
-00:04:04,358 --> 00:04:06,120
-It must symbolize something unseen.
-
-29
-00:04:07,060 --> 00:04:14,087
-Can it be, then, that by that act of physical isolation he signifies his spiritual withdrawal for the time?
-
-30
-00:04:14,422 --> 00:04:29,106
-Yes, for replenished with the meat and wine of the word, to the faithful man of God, this pulpit I see, is a self-containing stronghold alofty Ehrenbreitstein, with a perennial well of water within the walls.
-
-31
-00:04:29,386 --> 00:04:33,713
-But the side ladder was not the only strange feature of the place.
-
-32
-00:04:33,693 --> 00:04:37,298
-Borrowed from the chaplains' former seafarings.
-
-33
-00:04:37,439 --> 00:04:54,284
+00:03:55,234 --> 00:04:08,637
 Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers.
 
+28
+00:04:08,718 --> 00:04:17,210
+But high above the flying scud and dark rolling clouds, there floated a little isle of sunlight, from which beamed forth an angel's face.
+
+29
+00:04:17,671 --> 00:04:27,064
+And this bright face shed a distinct spot of radiance upon the ship's tossed deck, something like that silver plate now inserted into the victory's plank where Nelson fell.
+
+30
+00:04:27,922 --> 00:04:29,124
+Ah, noble ship!
+
+31
+00:04:29,585 --> 00:04:30,626
+the angel seemed to say.
+
+32
+00:04:31,087 --> 00:04:35,555
+Beat on, beat on, thou noble ship, and bear a hearty helm, for lo!
+
+33
+00:04:35,615 --> 00:04:41,364
+the sun is breaking through, the clouds are rolling off, serenest azure is at hand.
+
 34
-00:04:54,444 --> 00:05:00,713
-But high above the flying scud and dark rolling clouds, there floated a little isle of sunlight
+00:04:42,005 --> 00:04:47,314
+Nor was the pulpit itself without a trace of the same sea taste that had achieved the latter in the picture.
 
 35
-00:05:00,693 --> 00:05:15,613
-from which beamed forth an angel's face, and this bright face shed a distinct spot of radiance upon the ship's tossed deck, something like that silver plate now inserted into the victory's plank where Nelson fell.
+00:04:47,294 --> 00:04:55,673
+Its paneled front was in the likeness of a ship's bluff bows, and the Holy Bible rested on a projecting piece of scrollwork fashioned after a ship's fiddle-headed beak.
 
 36
-00:05:16,775 --> 00:05:18,378
-Noble ship!"
-
-37
-00:05:18,398 --> 00:05:19,380
-angels seemed to say.
-
-38
-00:05:19,961 --> 00:05:20,503
-Beton!
-
-39
-00:05:20,903 --> 00:05:21,444
-Beton!
-
-40
-00:05:21,885 --> 00:05:24,711
-Thou noble ship, and bear a hearty helm for lo!
-
-41
-00:05:25,112 --> 00:05:30,002
-The sun is breaking through, the clouds are rolling off serenest azures at hand.
-
-42
-00:05:30,022 --> 00:05:37,517
-Nor was the pulpit itself without a trace of the same sea-taste that had achieved the latter and the picture.
-
-43
-00:05:37,497 --> 00:05:49,734
-Its panelled front was in the likeness of a ship's bluff bows, and the Holy Bible rested on a projecting piece of scroll-work, fashioned after a ship's fiddle-headed beak.
-
-44
-00:05:49,914 --> 00:05:51,497
+00:04:56,214 --> 00:04:57,898
 What could be more full of meaning?
 
-45
-00:05:52,178 --> 00:05:55,482
-For the pulpit is ever, this earth's foremost part.
+37
+00:04:58,299 --> 00:05:00,844
+For the pulpit is ever this earth's foremost part.
 
-46
-00:05:56,063 --> 00:05:57,505
+38
+00:05:01,346 --> 00:05:02,889
 All the rest comes in its rear.
 
-47
-00:05:58,126 --> 00:06:00,349
+39
+00:05:03,250 --> 00:05:05,134
 The pulpit leads the world.
 
-48
-00:06:00,329 --> 00:06:07,585
-From thence it is the storm of God's quick wrath is first described, And the bow must bear the earliest brunt.
+40
+00:05:05,114 --> 00:05:11,790
+From thence it is the storm, of God's quick wrath is first described, and the bow must bear the earliest brunt.
 
-49
-00:06:08,206 --> 00:06:13,959
-From thence it is the god of breezes fair or foul Is first invoked for favourable winds.
+41
+00:05:12,291 --> 00:05:17,543
+From thence it is the God of breezes, fair or foul, is first invoked for favorable winds.
 
-50
-00:06:14,881 --> 00:06:21,595
-Yes, the world's a ship on its passage out, And not a voyage complete, and the pulpit is its prow.
+42
+00:05:18,104 --> 00:05:24,760
+Yes, the world's a ship on its passage out, and not a voyage complete, and the pulpit is its prow.
 

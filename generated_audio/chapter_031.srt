@@ -1,312 +1,372 @@
 1
-00:00:00,031 --> 00:00:06,182
-CHAPTER XXXI QUEEN MAB Next morning Stub accosted Flask.
+00:00:00,031 --> 00:00:05,696
+Chapter 31 - Queen Mab. Next morning Stub accosted Flask.
 
 2
-00:00:06,202 --> 00:00:08,586
+00:00:06,617 --> 00:00:08,959
 Such a queer dream, King Post, I never had.
 
 3
-00:00:09,027 --> 00:00:10,610
+00:00:09,680 --> 00:00:11,301
 You know the old man's ivory leg.
 
 4
-00:00:10,770 --> 00:00:17,683
+00:00:11,562 --> 00:00:19,169
 Well, I dreamed he kicked me with it, and when I tried to kick back upon my soul, my little man, I kicked my leg right off.
 
 5
-00:00:18,204 --> 00:00:19,346
-Then, presto!
+00:00:19,189 --> 00:00:20,490
+And then, presto!
 
 6
-00:00:19,686 --> 00:00:24,435
+00:00:21,171 --> 00:00:25,394
 Ahab seemed a pyramid, and I, like a blazing fool, kept kicking at it.
 
 7
-00:00:24,415 --> 00:00:39,319
-But what was still more curious—Flask, you know how curious all dreams are through all this rage that I was in—I somehow seemed to be thinking to myself that after all it was not much of an insult, that kick from Ahab.
+00:00:26,075 --> 00:00:27,797
+But what was still more curious?
 
 8
-00:00:40,885 --> 00:00:42,748
-thinks I. What's the row?
+00:00:28,297 --> 00:00:29,278
+Flask!
 
 9
-00:00:43,128 --> 00:00:46,153
-It's not a real leg, only a false leg.
+00:00:29,714 --> 00:00:31,517
+You know how curious all dreams are.
 
 10
-00:00:47,175 --> 00:00:50,760
-And there's a mighty difference between a living thump and a dead thump.
+00:00:32,338 --> 00:00:41,050
+Through all this rage that I was in, I somehow seemed to be thinking to myself that after all it was not much of an insult, that kick from Ahab.
 
 11
-00:00:51,341 --> 00:00:58,392
-That's what makes a blow from the hand, Flask, fifty times more savage to bear than a blow from a cane.
+00:00:41,791 --> 00:00:43,613
+Why, thinks I, what's the row?
 
 12
-00:00:59,233 --> 00:01:03,079
-The living member that makes the living insult, my little man."
+00:00:43,673 --> 00:00:46,578
+It's not a real leg, only a false leg.
 
 13
-00:01:03,059 --> 00:01:13,578
-and thinks I to myself all the while, mind, while I was stubbing my silly toes against that cursed pyramid so confoundedly contradictory, was it all?
+00:00:47,359 --> 00:00:50,843
+And there's a mighty difference between a living thump and a dead thump.
 
 14
-00:01:14,159 --> 00:01:21,032
-All the while, I say, I was thinking to myself, what's his like now but a cane a whalebone cane?
+00:00:51,304 --> 00:00:57,713
+That's what makes a blow from the hand, Flask, 50 times more savage to bear than a blow from a cane.
 
 15
-00:01:21,212 --> 00:01:25,540
-Yes, thinks I, it was only a playful cuddling in fact.
+00:00:57,693 --> 00:00:58,654
+The living member.
 
 16
-00:01:25,520 --> 00:01:29,106
-Only a whale-boning that he gave me not a base kick.
+00:00:58,694 --> 00:01:01,759
+That makes the living insult, my little man.
 
 17
-00:01:29,126 --> 00:01:41,507
-Besides," thinks I, look at it once why, the end of it the foot part what a small sort of end it is, whereas, if a broad-footed farmer kicked me, there's a devilish broad insult.
+00:01:01,819 --> 00:01:08,609
+And thinks I to myself all the while, mind, while I was stubbing my silly toes against that cursed pyramid.
 
 18
-00:01:42,389 --> 00:01:45,334
-But this insult is whittled down to a point only.
+00:01:09,390 --> 00:01:11,573
+So confoundedly contradictory was it all.
 
 19
-00:01:45,314 --> 00:01:48,699
-But now comes the greatest joke of the dream flask.
+00:01:12,234 --> 00:01:17,162
+All the while, I say, I was thinking to myself, what's his leg now but a cane?
 
 20
-00:01:49,199 --> 00:01:58,592
-While I was battering away at the pyramid, a sort of badger-haired old Merman, with a hump on his back, takes me by the shoulders and slews me round.
+00:01:17,742 --> 00:01:19,465
+A whalebone cane.
 
 21
-00:01:58,612 --> 00:02:00,554
-"'What are you bout?'
+00:01:19,445 --> 00:01:22,789
+Yes, thinks I. It was only a playful cuddling.
 
 22
-00:02:00,755 --> 00:02:01,235
-says he.
+00:01:23,330 --> 00:01:27,194
+In fact, only a whale-boning that he gave me, not a base kick.
 
 23
-00:02:01,996 --> 00:02:04,119
-Slid, man, but I was frightened.
+00:01:27,975 --> 00:01:40,710
+Besides, thinks I, look at it once, why, the end of it, the foot part, what a small sort of end it is, whereas, if a broad-footed farmer kicked me, there's a devilish broad insult.
 
 24
-00:02:04,580 --> 00:02:05,401
-Such a fizz!
+00:01:40,690 --> 00:01:43,454
+But this insult is whittled down to a point only.
 
 25
-00:02:05,942 --> 00:02:09,246
-But, somehow, next moment I was over the fright.
+00:01:44,336 --> 00:01:47,200
+But now comes the greatest joke of the dream, Flask.
 
 26
-00:02:09,226 --> 00:02:11,309
-"'What am I about?'
+00:01:47,761 --> 00:01:55,774
+While I was battering away at the pyramid, a sort of badger-haired old merman with a hump on his back takes me by the shoulders and slews me round.
 
 27
-00:02:11,329 --> 00:02:12,331
-says I, at last.
+00:01:56,475 --> 00:01:57,637
+What are you about, says he.
 
 28
-00:02:12,351 --> 00:02:16,397
-"'And what business is that of yours, I should like to know, Mr. Humpback?
+00:01:57,697 --> 00:02:00,462
+Slid, man, but I was frightened.
 
 29
-00:02:17,399 --> 00:02:18,400
-Do you want a kick?'
+00:02:01,143 --> 00:02:01,904
+Such a fizz.
 
 30
-00:02:18,420 --> 00:02:28,455
-"'By the Lord, Flask, I had no sooner said that than he turned round his stern to me, bent over, and dragging up a lot of seaweed he had for a clout.
+00:02:02,485 --> 00:02:05,550
+But somehow, next moment I was over the fright.
 
 31
-00:02:28,916 --> 00:02:30,298
-What do you think I saw?
+00:02:05,530 --> 00:02:06,411
+What am I about?"
 
 32
-00:02:30,859 --> 00:02:32,542
-Why, thunder-alive man!
+00:02:06,731 --> 00:02:07,532
+says I at last.
 
 33
-00:02:32,942 --> 00:02:37,950
-His stern was stuck full of marlin spikes, with the points out,' says I.
+00:02:08,153 --> 00:02:11,096
+And what business is that of yours, I should like to know, Mr. Humback?
 
 34
-00:02:37,930 --> 00:02:41,255
-On second thoughts, I guess I will kick you, old fellow."
+00:02:11,657 --> 00:02:12,537
+Do you want a kick?
 
 35
-00:02:41,275 --> 00:02:43,658
-"'Wise stub,' said he.
+00:02:13,358 --> 00:02:21,627
+By the Lord Flask, I had no sooner said that than he turned round his stern to me, bent over, and dragging up a lot of seaweed he had for a clout.
 
 36
-00:02:43,678 --> 00:02:46,362
-"'Wise stub,' mince!"
+00:02:22,328 --> 00:02:23,409
+What do you think I saw?
 
 37
-00:02:46,382 --> 00:02:51,049
-kept muttering it all the time, a sort of eating of his own gums like a chimney-hag.
+00:02:23,469 --> 00:02:25,651
+Why, thunder alive, man!
 
 38
-00:02:51,170 --> 00:03:00,083
-Seeing he wasn't going to stop saying over his "'Wise stub, wise stub,' I thought I might as well fall to kicking the pyramid again.
+00:02:25,972 --> 00:02:29,495
+His stern was stuck full of marlin spikes, with the points out.
 
 39
-00:03:00,764 --> 00:03:06,452
-But I had only just lifted my foot for it when he roared out, "'Stop that kicking!'
+00:02:30,276 --> 00:02:34,761
+Says I, on second thoughts, I guess I won't kick you, old fellow.
 
 40
-00:03:07,529 --> 00:03:10,916
-"'Halloa,' says I. What's the matter now, old fellow?'
+00:02:34,977 --> 00:02:42,910
+Wise stub, said he, wise stub, and kept muttering it all the time, a sort of eating of his own gums like a chimney hag.
 
 41
-00:03:10,996 --> 00:03:12,780
-"'Look ye here,' says he.
+00:02:43,651 --> 00:02:51,323
+Seeing he wasn't going to stop saying over his wise stub, wise stub, I thought I might as well fall to kicking the pyramid again.
 
 42
-00:03:13,141 --> 00:03:14,423
-Let's argue the insult.
+00:02:51,383 --> 00:02:56,732
+But I had only just lifted my foot for it when he roared out, stop that kicking.
 
 43
-00:03:14,764 --> 00:03:16,748
-Captain Ahab kicked ye, didn't he?'
+00:02:57,269 --> 00:02:58,412
+"'Halloa,' says I.
 
 44
-00:03:16,768 --> 00:03:20,316
-"'Yes, he did,' says I. Right here it was.'
+00:02:58,432 --> 00:03:00,097
+"'What's the matter now, old fellow?'
 
 45
-00:03:20,336 --> 00:03:22,801
-"'Very good,' says he.
+00:03:00,839 --> 00:03:02,163
+"'Looky here,' says he.
 
 46
-00:03:22,861 --> 00:03:24,926
-Used his ivory leg, didn't he?
+00:03:02,183 --> 00:03:03,728
+"'Let's argue the insult.
 
 47
-00:03:25,066 --> 00:03:27,090
-Yes, he'd,' says I."
+00:03:03,748 --> 00:03:05,854
+"'Captain Ahab kicked ye, didn't he?'
 
 48
-00:03:27,070 --> 00:03:30,880
-Well, then, says he, why, Stubb, what have you to complain of?
+00:03:05,874 --> 00:03:07,920
+"'Yes, he did,' says I.
 
 49
-00:03:31,000 --> 00:03:32,604
-Didn't he kick with right good-will?
+00:03:07,940 --> 00:03:08,602
+"'Right.
 
 50
-00:03:33,165 --> 00:03:36,253
-It wasn't a common pitch-pine leg he kicked with, was it?
+00:03:08,943 --> 00:03:10,367
+Exire it was.'"
 
 51
-00:03:37,015 --> 00:03:41,226
-No, you were kicked by a great man, and with a beautiful ivory leg.
+00:03:10,634 --> 00:03:11,896
+"'Very good,' says he.
 
 52
-00:03:41,607 --> 00:03:43,712
-Stubb, it's an honour."
+00:03:11,916 --> 00:03:14,361
+"'He used his ivory leg, didn't he?'
 
 53
-00:03:43,692 --> 00:03:45,295
-I consider it an honour.
+00:03:14,381 --> 00:03:16,384
+"'Yes, he did,' says I.
 
 54
-00:03:45,917 --> 00:03:58,984
-Listen, wise Stubb, in old England the greatest lords think it great glory to be slapped by a queen, and made Garter-knights of Butte be your boast, Stubb, that ye were kicked by old Ahab.
+00:03:16,405 --> 00:03:17,707
+"'Well then,' says he.
 
 55
-00:03:58,964 --> 00:04:00,526
-and made a wise man of.
+00:03:17,727 --> 00:03:19,991
+"'Why, Stubb, what have you to complain of?
 
 56
-00:04:00,666 --> 00:04:10,856
-Remember what I say, be kicked by him, account his kicks honors, and on no account kick back, for you can't help yourself, wise stub.
+00:03:20,011 --> 00:03:22,215
+"'Didn't he kick with right good will?
 
 57
-00:04:11,317 --> 00:04:12,758
-Don't you see that pyramid?"
+00:03:22,235 --> 00:03:25,461
+"'It wasn't a common pitch-pine leg he kicked with, was it?'
 
 58
-00:04:13,279 --> 00:04:19,145
-With that, he all of a sudden seemed somehow, in some queer fashion, to swim off into the air.
+00:03:25,481 --> 00:03:31,512
+"'No, you were kicked by a great man, "'and with a beautiful ivory leg, Stubb.'"
 
 59
-00:04:19,405 --> 00:04:22,208
-I snored rolled over, and there I was in my hammock.
+00:03:31,492 --> 00:03:33,476
+It's an honor, I consider it an honor.
 
 60
-00:04:22,629 --> 00:04:25,872
-Now, what do you think of that dream, Flask?
+00:03:33,857 --> 00:03:35,180
+Listen, wise stub.
 
 61
-00:04:25,892 --> 00:04:28,735
-I don't know, seems a sort of foolish to me, though.
+00:03:35,741 --> 00:03:48,066
+In old England, the greatest lords think it great glory to be slapped by a queen and made garden knights of, but be your boast, stub, that ye were kicked by old Ahab and made a wise man of.
 
 62
-00:04:29,862 --> 00:04:32,086
-Maybe, uh, maybe.
+00:03:48,046 --> 00:03:50,028
+Remember what I say, B.E.
 
 63
-00:04:32,106 --> 00:04:34,912
-But it's made a wise man of me, Flask.
+00:03:50,148 --> 00:03:50,829
+kicked by him.
 
 64
-00:04:35,573 --> 00:04:38,940
-I see Ahab standing there, sideways, looking over the stern.
+00:03:51,370 --> 00:03:56,956
+Account his kicks honors, and on no account kick back, for you can't help yourself, wise stub.
 
 65
-00:04:39,060 --> 00:04:45,473
-Well, the best thing you can do, Flask, is to let the old man alone never speak to him, whatever he says.
+00:03:57,437 --> 00:03:58,578
+Don't you see that pyramid?"
 
 66
-00:04:46,154 --> 00:04:46,835
-Halloa!
+00:03:59,379 --> 00:04:04,926
+With that, he all of a sudden seemed somehow, in some queer fashion, to swim off into the air.
 
 67
-00:04:47,216 --> 00:04:48,238
-What's that he shouts?
+00:04:05,727 --> 00:04:08,710
+I snored, rolled over, and there I was in my hammock.
 
 68
-00:04:48,338 --> 00:04:48,799
-Hark!
+00:04:09,371 --> 00:04:12,214
+Now, what do you think of that dream, Flask?
 
 69
-00:04:49,741 --> 00:04:52,425
-Mast head, there, look sharp, all of ye.
+00:04:12,413 --> 00:04:13,074
+I don't know.
 
 70
-00:04:52,466 --> 00:04:54,409
-There are whales hereabouts.
+00:04:13,114 --> 00:04:15,556
+It seems a sort of foolish to me, though.
 
 71
-00:04:55,070 --> 00:04:57,474
-If ye see a white one, split your lungs for him.
+00:04:16,457 --> 00:04:17,658
+Maybe, maybe.
 
 72
-00:04:57,875 --> 00:05:00,479
-What do you think of that now, Flask?
+00:04:17,718 --> 00:04:21,181
+But it's made a wise man of me, Flask.
 
 73
-00:05:00,499 --> 00:05:03,965
-Ate there a small drop of something queer about that, eh?
+00:04:21,201 --> 00:04:24,544
+D'I see Ahab standing there, sideways, looking over the stern?
 
 74
-00:05:04,526 --> 00:05:06,569
-A white whale, did you mark that, man?
+00:04:25,085 --> 00:04:30,670
+Well, the best thing you can do, Flask, is to let the old man alone, never speak to him, whatever he says.
 
 75
-00:05:07,150 --> 00:05:09,534
-Look ye, there's something special in the wind.
+00:04:31,331 --> 00:04:31,811
+Haloah!
 
 76
-00:05:09,935 --> 00:05:12,038
-Stand by for it, Flask.
+00:04:32,131 --> 00:04:32,592
+What's that?
 
 77
-00:05:12,058 --> 00:05:14,763
-Ahab has that that's bloody on his mind.
+00:04:32,652 --> 00:04:33,192
+He shouts.
 
 78
-00:05:15,163 --> 00:05:17,908
-But mum, mum's this way.
+00:04:33,553 --> 00:04:33,873
+Hark!
+
+79
+00:04:34,233 --> 00:04:34,534
+Mast!
+
+80
+00:04:34,574 --> 00:04:35,014
+Head there!
+
+81
+00:04:35,114 --> 00:04:36,175
+Look sharp, all of ye!
+
+82
+00:04:36,215 --> 00:04:37,777
+There are whales hereabouts.
+
+83
+00:04:38,397 --> 00:04:41,340
+If ye see a white one, split your lungs for him.
+
+84
+00:04:41,320 --> 00:04:43,026
+What do you think of that now, Flask?
+
+85
+00:04:43,527 --> 00:04:46,116
+Ain't there a small drop of something queer about that, eh?
+
+86
+00:04:46,718 --> 00:04:47,400
+A white whale.
+
+87
+00:04:47,762 --> 00:04:48,785
+Did ye mark that, man?
+
+88
+00:04:49,146 --> 00:04:49,548
+Look ye.
+
+89
+00:04:49,889 --> 00:04:51,374
+There's something special in the wind.
+
+90
+00:04:51,735 --> 00:04:53,581
+Stand by for it, Flask.
+
+91
+00:04:53,601 --> 00:04:54,424
+Ahab has that.
+
+92
+00:04:54,665 --> 00:04:55,909
+That's bloody on his mind.
+
+93
+00:04:56,391 --> 00:04:58,317
+But mum, he comes this way.
 

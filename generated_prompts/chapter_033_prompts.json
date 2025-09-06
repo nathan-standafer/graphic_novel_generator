@@ -1,292 +1,182 @@
 [
   {
     "segment_index": 0,
-    "segment_text": "CHAPTER I. HUTSA PORPOISE.DWILD PORPOISE.",
-    "image_prompt": "A somber, mist‑laden seascape in a 19th‑century oil style: waves crash against a weathered wooden ship’s hull as a lone Hutzah porpoise glides beneath the surface, its sleek black body barely visible through the churned foam. In the foreground, Captain Ahab stands on deck, his silhouette stark against stormy clouds, eyes fixed upon the distant splash. The muted palette of grays and deep blues evokes a moody, dramatic maritime scene. Dark, moody, 19th‑century oil painting."
+    "segment_text": "Chapter 33 The Specsender Concerning the officers of the Whalecraft, this seems as good a place as any to set down a little domestic peculiarity on shipboard, arising from the existence of the Harpooner class of officers, a class unknown, of course, in any other marine than the Whalefleet.",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration set aboard an early‑19th‑century whaling ship at dusk. The deck is bathed in deep navy and charcoal tones with sharp chiaroscuro lighting. Captain Ahab stands on the quarterdeck, stern yet dignified, while a seasoned Harpooner—clad in rugged gear—prepares his harpoon near the mast. Sailors bustle below, their silhouettes hinting at shipboard hierarchy and the tense, intimate domesticity of whaling life. Style: 19th‑century maritime realism with subtle paper grain."
   },
   {
     "segment_index": 1,
-    "segment_text": "This is the common porpoise found almost all over the globe.",
-    "image_prompt": "A solitary, sleek common porpoise glides beneath a storm‑laden Atlantic horizon, its polished gray body cutting through moonlit waves in a dramatic chiaroscuro. The sea churns with muted blues and deep blacks, while distant ships’ silhouettes loom against a brooding sky. In the foreground, subtle oil brushstrokes capture the porpoise’s gentle fin and glinting eyes, evoking 19th‑century maritime mystery. The scene is rendered in a dark, moody oil painting style, reflecting a time of exploration and nautical legend."
+    "segment_text": "The large importance attached to the Harpooner's vocation is evinced by the fact",
+    "image_prompt": "Harpoons gleaming on a moonlit deck of the Pequod, Captain Ahab in his weathered captain’s coat standing beside the Senior Harpooner clutching a polished harpoon, both men silhouetted against stark navy waves; the crew of Ishmael, Queequeg, Starbuck, Stubb, and Flask loom in charcoal shadows, their faces tense with anticipation. Romantic realism, 19th‑century maritime style, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 2,
-    "segment_text": "The name is of my own bestowal, for there are more than one sort of porpoises, and something must be done to distinguish them.",
-    "image_prompt": "A solitary mariner in a dimly lit galley, parchment and ink-stained quill in hand, gazes out at a storm‑tossed horizon where various porpoises glide beneath a bruised sky. He raises a flag of his own crest, declaring a new name amid swirling foam and distant gulls. The scene is rendered as a dark, moody 19th‑century oil painting, with heavy shadows, muted blues, and the subtle glow of lantern light highlighting the man's resolute expression."
+    "segment_text": "that originally in the old Dutch fishery, two centuries and more ago, the command of a whale ship was not wholly lodged in the person now called the captain, but was divided between him and an officer called the speksinder.",
+    "image_prompt": "A dim, storm‑laden deck at night, a Dutch‑era whaling vessel in muted navy and charcoal, its weathered timbers bathed in sharp chiaroscuro light from lanterns. A stern Captain stands beside a seasoned Speksinder, both cloaked in deep gray coats, their faces etched with resolve as they weigh command over the ship’s helm. Fine linework blends into semi‑realistic gradients, paper grain adding texture, evoking 19th‑century maritime tension. Romantic realism style, 1800s nautical setting."
   },
   {
     "segment_index": 3,
-    "segment_text": "I call him thus because he always swims in hilarious shoals, which upon the broad sea keep tossing themselves to heaven like caps in a Fourth of July crowd.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Atlantic horizon where a vast shoal of plump porpoises churns in a swirling vortex, their bodies arcing upward as if throwing caps into a jubilant Fourth‑of‑July crowd; waves crest in dramatic foam, gulls wheel above, and the muted sky casts long shadows over the sea. The scene captures the wild, almost theatrical energy of the creatures against a brooding, maritime backdrop."
+    "segment_text": "Literally, this word means fat cutter.",
+    "image_prompt": "Aboard the Pequod’s deck, a seasoned senior harpooner—tall, broad‑shouldered, clad in worn leather—holds a gleaming iron blade poised over a freshly felled whale’s thick belly. He intones “fat cutter” as he prepares to slice the blubber, his face illuminated by stark chiaroscuro light from the setting sun, while the restless sea swells below; romantic realism, deep navy and charcoal tones, 19th‑century maritime illustration."
   },
   {
     "segment_index": 4,
-    "segment_text": "Their appearance is generally hailed with the delight by the mariner.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy sea horizon, where a small fleet of wooden whaleboats bob in the waves. In the foreground, a group of jubilant mariners—Captain Ahab’s crew—raise their weathered hands and shout with wide smiles as a pod of gleaming porpoises breaches nearby, their sleek bodies reflecting muted moonlight. The scene captures the awe and delight of sailors witnessing these lively creatures, rendered in deep shadow, rich oil textures, and somber maritime hues."
+    "segment_text": "Usage, however, in time made it equivalent to chief harpooner.",
+    "image_prompt": "Chief Harpooner standing tall on the deck of a 19th‑century Nantucket whaler, his broad shoulders framed by deep navy sails and charcoal rigging. He holds a gleaming harpoon, eyes fixed ahead, while crew in muted sea‑green coats watch. The scene is rendered in Romantic realism: sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain, capturing the tense, high‑contrast mood of a whaling voyage."
   },
   {
     "segment_index": 5,
-    "segment_text": "Full of fine spirits, they invariably come from the breezy billows to windward.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy sea under bruised twilight sky, where a shoal of plump, gleaming porpoises glides purposefully toward the windward horizon, their sleek bodies cutting through frothy billows like silver arrows. Their faces glow with fine spirits, eyes bright beneath storm clouds, as they surge forward in perfect harmony, leaving a trail of white foam that curls against the blackened waves, evoking an eerie, yet majestic nautical tableau."
+    "segment_text": "In those days, the captain's authority was restricted to the navigation and general management of the vessel.",
+    "image_prompt": "A somber 19th‑century whaling deck at dusk, Captain Ahab in a weathered coat standing beside a brass compass, his gaze fixed on the horizon. The crew—Ishmael, Queequeg, Starbuck, Stubb, Flask—work in muted navy and charcoal tones, their silhouettes framed by sharp chiaroscuro lighting. Romantic realism with fine linework, semi‑realistic gradients, subtle paper grain captures the tense division of authority: navigation alone under Ahab’s command. <|constrain|>style: moody high‑contrast illustration, Romantic realism, 19th‑century whaling voyage."
   },
   {
     "segment_index": 6,
-    "segment_text": "They are the lads that always lived before the wind.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: in twilight mist the horizon is just beyond a tranquil, silver‑blue sea; a small shoal of plump, gleaming porpoises glides beneath a pale sky, their sleek bodies reflecting faint moonlight. The water is eerily still, as if holding its breath before a coming gale. Their eyes are bright and alert, each one poised like sailors waiting for the wind—“the lads that always lived before the wind.” The composition evokes quiet anticipation and ancient maritime lore."
+    "segment_text": "While over the whale hunting department and all its concerns, the spexender, or chief harpooner, reigned supreme.",
+    "image_prompt": "Chief harpooner standing on the ship’s broadside, hands gripping a polished harpoon rod, eyes fixed on distant waters; he commands the whaling crew with authoritative posture while the captain watches from the quarterdeck. Storm‑clouded sky, deep navy hull, charcoal waves in high contrast chiaroscuro, fine linework blending into semi‑realistic gradients—romantic realism of 19th‑century whaling, dramatic tension, subtle paper grain."
   },
   {
     "segment_index": 7,
-    "segment_text": "They are accounted a lucky omen.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Atlantic horizon at dusk. In the foreground, a group of shimmering porpoises—white‑eyed, sleek bodies with subtle black and white markings—glide in tight shoals above gentle waves, their tiny spouts barely visible. A small wooden schooner’s deck is lined with astonished sailors: Captain Ahab, Ishmael, Queequeg, Starbuck, Stubb, and Flask, all gazing upward, faces illuminated by lantern light, as the porpoises seem to herald a fortunate omen for their perilous voyage."
+    "segment_text": "In the British Greenland fishery, under the corrupted title of spexenier, this old Dutch official is still retained, but his former dignity is sadly abridged.",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration of a 19th‑century whaling ship in the icy Greenland seas: an aged Dutch spexenier—tall, weathered, wearing tattered but dignified harpooner’s coat—stands on a deck with soot‑blackened rigging and frosted sails. He is flanked by stern crewmen in rough wool coats, eyes fixed on him as he commands the helm, his posture regal yet humbled, set against a deep navy sky and charcoal waves, paper grain subtle. Style: Romantic realism, 19th century."
   },
   {
     "segment_index": 8,
-    "segment_text": "If you yourself can withstand three cheers at beholding these vivacious fish, then heaven help ye.",
-    "image_prompt": "A dimly lit harbor at dusk, a lone wooden schooner’s deck crowded with rugged sailors in tattered coats and weather‑worn hats, all faces illuminated by the wavering glow of lanterns. In the stormy blue horizon, a group of lively porpoises breach in tight shoals, their sleek bodies slicing through spray that glints like silver. The crew erupts into jubilant cheers—raised arms, shouted “Hurrah!”—while waves crash against the hull, all rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "At present, he ranks simply as Senior Harpooner, and as such, is but one of the captain's more inferior subalterns.",
+    "image_prompt": "A moody, high‑contrast illustration of a 19th‑century whaling ship’s aft deck at dusk: a rugged Senior Harpooner in worn pilot‑cloth stands beside the captain’s polished quarterdeck, his posture modest yet alert, while crewmen in tattered breeches observe. Deep navy and charcoal tones dominate; sharp chiaroscuro highlights the harpooner's weathered face and the gleaming brass of his harpoons, capturing the tense hierarchy aboard a whalefleet vessel. Romantic realism style."
   },
   {
     "segment_index": 9,
-    "segment_text": "The spirit of godly gamesomeness is not in ye.",
-    "image_prompt": "A dim, storm‑laden sea deck at dusk; a rugged old mariner in tattered coat stands beside a battered wooden helm, pointing sternly toward a younger sailor clutching a lantern. The older man's face is lined with soot and resolve, his eyes glinting with warning as he declares “The spirit of godly gamesomeness is not in ye.” In the background, waves crash against iron railings, and a distant gull cries overhead. The scene is rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Nevertheless, as upon the good conduct of the Harpooners, the success of a whaling voyage largely depends.",
+    "image_prompt": "A dark navy‑shadowed deck at dusk, Captain Ahab in his weathered coat stands beside a stern Senior Harpooner, both eyes fixed on a looming, roiling ocean. The harpooner holds a gleaming harpoon, its tip catching the last sliver of sun. Rough wooden planks ripple under their boots; distant waves churn with promise and peril. Romantic realism, 19th‑century maritime, high contrast chiaroscuro, fine linework, subtle paper grain."
   },
   {
     "segment_index": 10,
-    "segment_text": "A well-fed plump Huzzah porpoise will yield you one good gallon of good oil, but the fine and delicate fluid extracted from his jaws is exceedingly valuable.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: aboard a weathered wooden brig at dusk, a well‑fed plump Huzzah porpoise lies on the gangplank, its glossy black belly gleaming under lantern light. Sailors in tattered coats strain a heavy copper pot over an open fire to extract one gallon of rich, amber oil, while another crew member delicately squeezes precious fluid from the porpoise’s jaws, eyes glinting with greed and reverence. The stormy sea roils beyond, clouds swirling ominously. Style: 19th‑century oil painting."
+    "segment_text": "And since in the American fishery, he is not only an important officer in the boat, but under certain circumstances, night watches on a whaling ground,",
+    "image_prompt": "Night watch on a dimly lit whaling deck: a rugged harpooner stands alert beside a lantern‑lit canvas, his broad shoulders framed by deep navy waves; the moon casts sharp chiaroscuro across his weathered face, while subtle charcoal gradients hint at stormy horizons. Romantic realism of 19th‑century Nantucket, moody high contrast, fine linework with paper grain, capturing tension and solitude."
   },
   {
     "segment_index": 11,
-    "segment_text": "It is in request among jewelers and watchmakers.",
-    "image_prompt": "A dim, candlelit workshop of the 1840s, with a rugged wooden table cluttered in polished brass and glass jars. A stern jeweler in a dark frock coat holds a gleaming vial of amber porpoise oil, while an astute watchmaker in a soot‑stained apron examines it through magnifying lenses, both eyes intent on its value. The room is shrouded in deep shadows, with faint glows from oil lamps and the subtle reflection of the sea’s mist outside, evoking a dark, moody 19th-century oil painting."
+    "segment_text": "The command of the ship's deck is also his.",
+    "image_prompt": "A dimly lit quarterdeck at night on a 19th‑century whaling ship, Captain Ahab stands in full regalia, a harpoon slung over his shoulder, asserting command of the deck. Storm clouds swirl above, casting sharp chiaroscuro shadows; waves crash against the hull below. The scene captures the tension of maritime hierarchy, with Ahab’s stern gaze fixed on the horizon, surrounded by disciplined crew, all rendered in moody Romantic realism with navy and charcoal tones."
   },
   {
     "segment_index": 12,
-    "segment_text": "Sailors put it on their hones.",
-    "image_prompt": "Dark, moody 19th‑century oil painting: a cramped ship’s galley at twilight, lanterns flickering amber. A ragged sailor in tattered coat leans over a wooden workbench, his weathered hand dipping a tarnished cutlass blade into a glass jar of shimmering porpoise oil, its golden hue reflecting off the polished metal. Around him, rough‑handed mates clutch their own hones, eyes fixed on the ritual; the sea’s muted roar lingers beyond the canvas, hinting at distant horizons."
+    "segment_text": "Therefore, the grand political maxim of the sea demands that he should nominally live apart from the men before the mast and be in some way distinguished as their professional superior, though always, by them, familiarly regarded as their social equal.",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration of a 19th‑century whaling ship’s afterdeck: the stern‑ward harpooner in crisp navy and charcoal tones stands alone beside a polished brass helm, his coat trimmed with subtle gold trim, while deckhands—captain Ahab, Ishmael, Queequeg, Starbuck, Stubb, Flask—work below, their silhouettes softened by chiaroscuro. Fine linework meets semi‑realistic gradients, paper grain adds texture, capturing the tense hierarchy and camaraderie of a whaling voyage."
   },
   {
     "segment_index": 13,
-    "segment_text": "Porpoise meat is good eating, you know.",
-    "image_prompt": "A dimly lit ship’s galley in the 1800s, lantern light flickering over a polished mahogany table where a freshly butchered porpoise lies half‑cut, its gleaming flesh glistening. Captain Ahab stands beside Ishmael, both gazing at the carcass with solemn reverence, while Queequeg holds a carved knife in one hand and a tattered map in the other. The backdrop is a stormy sea seen through a grimy porthole, evoking a dark, moody 19th‑century oil painting style."
+    "segment_text": "Now, the grand distinction drawn between officer and man at sea is this, the first lives aft, the last forward.",
+    "image_prompt": "A dramatic night‑deck of a 19th‑century whaling ship, chiaroscuro lighting from lanterns casting deep shadows over polished wood and rigging. Officers in crisp coats stand on the aft quarterdeck, their silhouettes backlit by the moon, while crew in roughened jackets bustle forward toward the prow, their faces lit by lantern glow. The scene emphasizes the strict maritime hierarchy: officers aft, men forward, in moody Romantic realism with deep navy and charcoal tones, fine linework, semi‑realistic gradients, subtle paper grain, 19th‑century style."
   },
   {
     "segment_index": 14,
-    "segment_text": "It may never have occurred to you that a porpoise spouts.",
-    "image_prompt": "A lone, weather‑battered schooner cuts through a moonlit Atlantic, its sails furled against the wind; in the foreground, a sleek porpoise rises from the misty surf, its minuscule spout barely visible as a ghostly spray glistens on the dark waves. The sky is bruised violet, clouds heavy with storm. In the distance, Captain Ahab’s silhouette stands on deck, eyes fixed upon the distant horizon, while Ishmael, Queequeg, and crew watch in hushed awe. 19th‑century oil painting, dark, moody atmosphere."
+    "segment_text": "Hence, in whale-ships and merchantmen alike, the mates have their quarters with the captain, and so too in most of the American whalers the harpooners are lodged in the afterpart of the ship.",
+    "image_prompt": "A moody, high‑contrast illustration of a 19th‑century whaler’s cramped aft quarters: Captain Ahab’s polished cabin with brass fixtures, adjacent to a rugged harpooner’s modest berth; mates clustered in the captain’s refined space. Deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—capturing the tension of a whaling voyage in Romantic realism style."
   },
   {
     "segment_index": 15,
-    "segment_text": "Indeed, his spout is so small that it is not very readily discernible.",
-    "image_prompt": "A solitary, sleek porpoise glides beneath a storm‑laden sky, its small, almost invisible spout barely breaking the frothy surface; the moonlight casts a silver sheen on rippling waves, while distant gulls cry overhead. In the background, a lone sailboat struggles against a gnarled wind, its canvas torn and tattered. The mood is somber, the color palette deep blues and grays, rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "That is to say, they take their meals in the captain's cabin and sleep in a place indirectly communicating with it.",
+    "image_prompt": "A dimly lit captain’s cabin on the Pequod, deep navy and charcoal tones swirling with sharp chiaroscuro light from a single lantern. Harpooners—tall, weather‑worn men—sit at a low table, sharing coarse meals of salted fish, their faces illuminated by the flicker. Nearby, a narrow sliver of lofted sleeping quarters, walls barely touching the cabin, hints at their close quarters. The scene captures tense camaraderie aboard a 19th‑century whaling ship in Romantic realism style."
   },
   {
     "segment_index": 16,
-    "segment_text": "But the next time you have a chance, watch him, and you will then see the great Sperm Whale himself in miniature.",
-    "image_prompt": "A lone sailor stands on a weather‑torn deck at dusk, eyes fixed upon a sleek porpoise leaping through moonlit waves; its tiny spout curls like a miniature sperm whale’s breath. The sea churns beneath an overcast sky, gulls cry faintly. Dark, moody 19th‑century oil painting style, with heavy brushstrokes and muted palette capturing the tension of anticipation and the grandeur hidden in small form."
+    "segment_text": "Though the long period of a southern whaling voyage, by far the longest of all voyages, now or ever made by man, the peculiar perils of it, and the community of interest prevailing among a company, all of whom, high or low, depend for their profits, not upon fixed wages, but upon their common luck, together with their common vigilance, intrepidity, and hard work.",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration of a cramped whaling ship’s aft deck at dusk: weathered crew—Captain Ahab in dark navy coat, Ishmael with ink‑stained handkerchief, Queequeg wielding a harpoon, Starbuck and Stubb in rough wool shirts—cluster around a battered wooden table. Storm clouds loom, charcoal shadows cast over their faces, reflecting peril and camaraderie; the deck’s worn planks glisten wetly under sharp chiaroscuro lighting, capturing 19th‑century whaling tension."
   },
   {
     "segment_index": 17,
-    "segment_text": "BOOK III.",
-    "image_prompt": "A crumbling, leather‑bound tome titled “BOOK III” lies open on a weathered wooden table, its pages yellowed and edges frayed. A solitary candle flickers, casting deep shadows across the vellum, while faint silhouettes of sea creatures—porpoises, whales—appear etched in sepia ink along the margins. The atmosphere is hushed, evoking 19th‑century maritime lore. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Though all these things do in some cases tend to beget a less rigorous discipline than in merchantmen generally, yet, never mind how much like an old Mesopotamian family these whalemen may, in some primitive instances, live together.",
+    "image_prompt": "A cramped, storm‑laden aft deck of the Pequod at dusk, crew clustered around a wooden table stained with oil and sweat; Captain Ahab stands in the shadows, his stern gaze fixed on a map. Ishmael, Queequeg, Starbuck, Stubb, and Flask sit in ragged quarters, their faces illuminated by a single lantern, reflecting weary camaraderie amid deep navy, charcoal tones, sharp chiaroscuro lighting, Romantic realism of 19th‑century whaling."
   },
   {
     "segment_index": 18,
-    "segment_text": "DUODICIMO CHAPTER II.",
-    "image_prompt": "A dim, storm‑laden Pacific horizon, waves cresting like blackened ribs; a lone, hulking pirate‑porpoise (the Olgerine) prowls beneath a bruised sky, its sleek, sable body marked by a stark bright waist of black and white. A battered wooden whaleboat with Captain Ahab’s weathered figure stands on the deck, his eyes fixed on the creature as sea spray curls around them. The scene is rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "For all that, the Pontilia—indeed, many are the Nantucket ships in which you will see the skipper parading his quarterdeck with an elated grandeur not surpassed in any military navy—nay,",
+    "image_prompt": "A storm‑lit 19th‑century whaling ship’s aft deck, moonlight slashing through dark clouds; Captain Ahab stands tall on the quarterdeck, a broad hat tipped, eyes fierce, his coat billowing like a naval flag. Around him, rugged crew—Ishmael, Queequeg, Starbuck—watch in hushed awe as the skipper’s posture exudes regal command, rivaling any navy flagship. Moody chiaroscuro, deep navy and charcoal tones, Romantic realism, 1800s maritime illustration."
   },
   {
     "segment_index": 19,
-    "segment_text": "OLGERINE PORPUS DOT.",
-    "image_prompt": "A grim, moonlit seascape in a 19th‑century oil style: a lone, towering “Olgerine Porpus Dot” – a massive, ferocious porpoise with sinewy black skin and razor‑sharp teeth—emerges from frothy Atlantic waves. The beast’s dorsal fin splits the stormy sky, its eyes glowing like lanterns of dread. Below, a battered pirate ship creaks; a crew of ragged sailors, their faces gaunt, stare in terror as the creature looms, ready to “buckle” into a shark‑like maw of fury. The painting is dark, moody, and foreboding."
+    "segment_text": "extorting almost as much outward homage as if he wore the imperial purple, and not the shabbiest of pilot-cloth.",
+    "image_prompt": "Ahab stands tall on the Pequod’s quarterdeck, his broad shoulders illuminated by sharp chiaroscuro light, wearing a rich navy coat that gleams like imperial purple rather than rough pilot‑cloth. He commands the crew with an austere presence, their faces tense beneath charcoal skies. The scene is moody Romantic realism, 19th‑century whaling ship, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 20,
-    "segment_text": "A pirate.",
-    "image_prompt": "A rugged, scar‑lined pirate stands on the weathered deck of a sun‑bleached schooner, his eyes burning with a ferocious glint. The sea roils beneath him, waves crashing against iron ribs, while a lone gull cries overhead. He grips a tattered cutlass, its blade gleaming dully in dim lantern light, and a stormy sky looms behind. Dark, moody 19th‑century oil painting style."
+    "segment_text": "And though of all men the moody captain of the Pequod was the least given to that sort of shallowest assumption, and though the only homage he ever exacted was implicit, instantaneous obedience, though he required no man to remove the shoes from his feet ere stepping upon the quarter-deck,",
+    "image_prompt": "A somber night on the Pequod’s stern: Captain Ahab stands alone on the quarter‑deck, his silhouette stark against a stormy sea, hands gripping the rail as if in command of both ship and fate. No crew beneath him; his presence exudes implicit authority, no need for shoes removed—his gaze fixed upon horizon, eyes reflecting deep navy and charcoal tones, chiaroscuro lighting accentuating his solitary, Romantic‑realist figure. 19th‑century whaling voyage style."
   },
   {
     "segment_index": 21,
-    "segment_text": "Very savage.",
-    "image_prompt": "A lone, gaunt pirate prowls a storm‑swept deck under bruised moonlight, his eyes blazing with ruthless intent; tattered sails billow as he brandishes a jagged cutlass, muscles coiled like seaweed. The ship’s hull groans beneath him, cannon barrels glinting ominously. Dark clouds swirl above, casting eerie shadows across the water’s churning surface, evoking an atmosphere of dread and brutality—an 19th‑century oil painting style, dark and moody."
+    "segment_text": "And though there were times when, owing to peculiar circumstances connected with events hereafter to be detailed, he addressed them in unusual terms, whether of condescension or i.n.",
+    "image_prompt": "Ahab stands on the quarterdeck in a storm‑laden night, his silhouette sharp against a darkened sky, the Pequod’s mast casting deep shadows. He raises one hand, eyes narrowed, speaking to a hushed crew of harpooners and deckhands—Ishmael, Starbuck, Stubb, Flask—who lean forward, faces illuminated by a single lantern. The scene captures Ahab’s condescending tone, his authoritative posture, the tense, muted navy‑charcoal palette, chiaroscuro lighting, Romantic realism detail, 19th‑century whaling atmosphere."
   },
   {
     "segment_index": 22,
-    "segment_text": "He is only found, I think, in the Pacific.",
-    "image_prompt": "A lone, sleek porpoise glides beneath a storm‑laden Pacific sky, its shadow stretching across the dark, roiling waves; distant ship silhouettes and jagged cliffs loom in the mist. The scene is rendered in a brooding 19th‑century oil style, with muted greens, grays, and deep blues, capturing the eerie solitude of this remote, unseen creature at sea. Dark, moody, 19th-century oil painting."
+    "segment_text": "terorum, or otherwise.",
+    "image_prompt": "Ahab stands on the Pequod’s weather‑torn quarterdeck, his broad silhouette framed by a stormy navy sky. He raises one hand, eyes blazing with authority, as he delivers a sharp, “terorum, or otherwise” command to the crew below. The crew—stern faces, ropes in hand—listen in tense silence. Romantic realism, 19th‑century whaling voyage style, deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 23,
-    "segment_text": "He is somewhat larger than the Husiporpus, but much of the same general make.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a colossal, menacing porpoise prowling beneath a bruised twilight sky, its sleek black back and pale belly marked by a stark bright waist. The beast looms larger than the familiar Husa, yet retains its rounded, jovial form, exuding both power and eerie grace amid swirling storm‑laden waves, all rendered in deep, somber tones of midnight blues and charcoal grays."
+    "segment_text": "Yet even Captain Ahab was by no means unobservant of the paramount forms and usages of the sea.",
+    "image_prompt": "Ahab stands on a storm‑laden quarterdeck, wind whipping his weathered coat, eyes fixed on the horizon. His silhouette framed by dark navy waves, chiaroscuro highlights the jagged mast and trembling sails. The scene captures Ahab’s vigilant gaze toward maritime customs—his posture exuding command yet respect for sea tradition. Romantic realism style, 19th‑century whaling ship, deep charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 24,
-    "segment_text": "Provoke him, and he will buckle to a shark.",
-    "image_prompt": "A moonlit, stormy Atlantic, 19th‑century oil style, dark and moody: a massive, menacing “pirate” porpoise with jagged, scarred skin, its jaws clenched around a fierce, gnarled shark in turbulent waves. The beast’s eyes gleam with fury as the shark struggles, water splashing in chiaroscuro detail. Rough seascape behind them, hinting at hidden depths and perilous adventure, all rendered in brooding, oil‑painted hues of midnight blue and stormy gray."
+    "segment_text": "Nor, perhaps, will it fail to be eventually perceived that behind those forms and usages, as it were, he sometimes masked himself, incidentally making use of them for other and more private ends than they were legitimately intended to subserve.",
+    "image_prompt": "Ahab stands alone on the dimly lit deck at night, his silhouette framed by sharp chiaroscuro against a deep navy sky, the Pequod’s hull in charcoal shadows. He wears a weathered captain’s coat, eyes glinting with hidden intent, as he subtly manipulates a rope of authority—his masked guise revealed only by a faint, almost imperceptible smile. Romantic realism, 19th‑century maritime style, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 25,
-    "segment_text": "I have lowered for him many times, but never yet saw him captured.",
-    "image_prompt": "A lone 19th‑century whaling cutter cuts through a misty, storm‑clouded Atlantic at dusk; Captain Ahab stands on the prow, his weather‑worn face set in grim determination as he lowers a heavy iron harpoon line into the dark, rolling waves. The sea churns ominously around unseen, elusive porpoises, hinting that despite many attempts, none has yet been seized—an aura of relentless pursuit and tragic futility. Dark, moody oil painting style."
+    "segment_text": "that certain sultanism of his brain, which had otherwise in a good degree remained unmanifested, through those forms that same sultanism became incarnate in an irresistible dictatorship.",
+    "image_prompt": "Dark, high‑contrast illustration in 19th‑century Romantic realism: Captain Ahab stands on the Pequod’s quarterdeck at dusk, his gaunt, weathered visage illuminated by a single lantern flame, eyes burning with unseen ambition. The deep navy sky and charcoal deck blur into shadow, while sharp chiaroscuro highlights the scarred lines of his jaw. Fine linework blends into semi‑realistic gradients, subtle paper grain accentuating the tension as Ahab’s sultanic will morphes into an irresistible dictatorship."
   },
   {
     "segment_index": 26,
-    "segment_text": "Book 3.",
-    "image_prompt": "A dimly lit study aboard the Pequod, with a heavy oak desk and cracked leather-bound volumes stacked beside it. The worn cover of “Book III” lies open, its pages fluttering as a cold wind sweeps across the deck outside. A lone lantern casts wavering shadows on the parchment, revealing faint inked illustrations of whales. In the background, the ship’s hull groans beneath stormy clouds, while a solitary figure—Captain Ahab—peers through a window, eyes fixed on the horizon. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "For be a man's intellectual superiority what it will, it can never assume the practical, available supremacy over other men.",
+    "image_prompt": "A moody, high‑contrast Romantic realism illustration of Captain Ahab standing on the Pequod’s quarterdeck at dusk, his stern gaze fixed upon a distant horizon. He is surrounded by storm‑clouded navy skies and deep charcoal waves, his silhouette sharply lit in chiaroscuro. The deck’s wooden planks gleam with subtle paper grain, hinting at the tension of command. Ahab’s presence dominates, yet he appears isolated, illustrating that intellectual superiority cannot secure practical supremacy over men. 19th‑century seafaring style."
   },
   {
     "segment_index": 27,
-    "segment_text": "Duodecimo.",
-    "image_prompt": "A dim, candlelit study of a rugged sea‑tavern, where an elderly Captain Ahab and Ishmael sit hunched over a cracked leather ledger. Queequeg leans in, eyes flickering like lantern flames, while Starbuck, Stubb, and Flask stand behind a battered oak table, murmuring. The words “Duodecimo” appear in bold, weathered script on an aged parchment spread before them, ink smudged by salt‑sprayed fingers. A dark, moody 19th‑century oil painting style."
+    "segment_text": "without the aid of some sort of external arts and entrenchments, always, in themselves, more or less paltry and base.",
+    "image_prompt": "A dim, storm‑shadowed deck of the Pequod at night, Captain Ahab stands in stern silhouette, his eyes fierce beneath a charcoal hood; Ishmael and Queequeg lean over a weathered harpoon amid scattered nets. Starbuck watches from the quarterdeck, his hands clenched around a rope. The ship’s rigging flickers against deep navy sky, chiaroscuro lighting casting stark contrasts on their rugged faces—Romantic realism, 19th‑century maritime tension."
   },
   {
     "segment_index": 28,
-    "segment_text": "Chapter 3.",
-    "image_prompt": "A dim, storm‑laden Pacific horizon shrouded in swirling fog, a lone Mealy Mouth porpoise glides beneath moonlit waves, its sleek sable back cut by a stark black‑white waist line; the creature’s hazel eyes gleam with wary curiosity as it breaches silently. In the background, an old whaling ship creaks on distant reefs, casting long shadows over the churning sea. The scene is rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "This it is, that forever keeps God's true princes of the empire from the world's hustings, and leaves the highest honors that this heir can give to those men who become famous more through their infinite inferiority to the choice-hidden handful of the divine inert,",
+    "image_prompt": "A lone, weather‑worn whaleboat cuts through moonlit Atlantic, its deck bathed in deep navy chiaroscuro. In the foreground, Captain Ahab stands stoic, eyes fixed on distant horizon,"
   },
   {
     "segment_index": 29,
-    "segment_text": "Mealy Mouth.",
-    "image_prompt": "A large, solitary mealy‑mouth porpoise glides beneath a stormy Pacific horizon, its sleek sable back marked by a stark bright waist line of black above and white below. The creature’s pale, mealy-white mouth dominates the frame, eyes hazel and contemplative. Rough waves crash around it, a lone gull cries overhead. In a dark, moody 19th‑century oil painting style, the scene evokes melancholy grandeur and eerie maritime mystery."
+    "segment_text": "than through their undoubted superiority over the dead level of the mass.",
+    "image_prompt": "Aboard a battered 19th‑century whaler at dusk, Captain Ahab stands on the quarterdeck, his silhouette stark against a stormy navy sky. Ishmael and Queequeg lean in from below deck, eyes fixed on the captain’s austere face. Starbuck, Stubb, Flask hover nearby, their expressions tense as they weigh their subordination to Ahab’s iron will. The scene evokes sharp chiaroscuro, deep charcoal tones, Romantic realism, with subtle paper grain and fine linework."
   },
   {
     "segment_index": 30,
-    "segment_text": "Porpoise.",
-    "image_prompt": "A lone, sleek porpoise glides beneath a storm‑laden horizon, its silvery body illuminated by weak moonlight filtering through swirling clouds. The creature’s streamlined form is framed by frothy waves, hinting at hidden depths and unseen leviathans. In the background, a distant wooden schooner struggles against a tempestuous sea, its sails torn. The overall atmosphere is brooding and melancholic, rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Such large virtue lurks in these small things when extreme political superstitions invest them, that in some royal instances even to idiot imbecility they have imparted potency.",
+    "image_prompt": "A solitary senior harpooner stands on the creaking deck of the Pequod at twilight, his weather‑worn hand gripping a polished harpoon that glints faintly in the dim navy light. Behind him, the dark sea rolls under a charcoal sky, while subtle shadows suggest distant sails and an unseen crown. The scene exudes Romantic realism: sharp chiaroscuro, fine linework, semi‑realistic gradients, paper grain, evoking the hidden virtue of small, ritualized acts on a 19th‑century whaling voyage."
   },
   {
     "segment_index": 31,
-    "segment_text": "The largest kind of porpoise, and only found in the Pacific, so far as it is known.",
-    "image_prompt": "A vast, moonlit Pacific horizon, a colossal mealy‑mouthed porpoise breaking the waves in a lone, dramatic arc. Its sleek sable back glistens under starlight, the bright waist line starkly dividing black above and white below. Around it, swirling storm clouds loom, reflecting a moody 19th‑century seafaring atmosphere. The scene captures the awe of sailors witnessing this rare, immense Pacific leviathan in a dark, oil‑painted style, evoking mystery and maritime grandeur."
+    "segment_text": "But when, as in the case of Nicholas the Tsar, the ringed crown of geographical empire encircles an imperial brain, then the plebeian herds crouch abased before the tremendous centralization.",
+    "image_prompt": "A moonlit aft‑deck of a 19th‑century whaler, Captain Ahab stands beneath a dramatic, gilded ringed crown hovering above his head, symbolizing imperial authority; the crew—Ishmael, Queequeg, Starbuck, Stubb, Flask—crouch in humbled reverence below. Moody navy and charcoal tones, sharp chiaroscuro lighting highlight the crown’s opulence against a stormy horizon, fine linework blended with semi‑realistic gradients, subtle paper grain capturing tense, Romantic realism of whaling life."
   },
   {
     "segment_index": 32,
-    "segment_text": "The only English name by which he has hitherto been designated is that of the fisher's right whale porpoise, from the circumstance that he is chiefly found in the vicinity of that folio.",
-    "image_prompt": "A dimly lit, storm‑laden harbor at dusk, where a lone 19th‑century fishing schooner drifts on misty waves. In the foreground, a massive porpoise—its sleek black back and bright white belly split by a stark waist—glides just above the water’s surface, its hazel eyes gleaming. A weary fisherman in tattered coat peers from the deck, clutching a weathered ledger titled “Fishermen’s Right Whale Porpoise.” The scene is rendered as a dark, moody oil painting of the era."
+    "segment_text": "Nor will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing ever forget a hint, incidentally so important in his art as the one now alluded to.",
+    "image_prompt": "A lone figure—perhaps Ishmael—stands amid the dimly lit galley of a whaling ship, his back to the prow, hands clasped behind his head, eyes fixed on a storm‑clouded horizon. The deck’s polished wood glistens with salt; sharp chiaroscuro casts long shadows across barrels and rope. A single lantern flickers, throwing deep navy and charcoal tones into the scene. Romantic realism style, 19th‑century maritime setting, fine linework blended with subtle paper grain."
   },
   {
     "segment_index": 33,
-    "segment_text": "In shape, he differs in some degree from the Husa porpoise, being of a less rotund and jolly girth, indeed.",
-    "image_prompt": "A lone sea‑captain stands on the weathered deck of a 19th‑century whaling ship, lantern in hand, pointing toward a distant, sleek Mealy‑Mouth porpoise gliding beneath stormy waves. The creature’s streamlined form contrasts sharply with a bulkier Husa porpoise seen in a distant gullwing silhouette. Dark, moody oil painting style, 19th‑century maritime atmosphere, muted grays and deep blues, emphasizing the subtle anatomical differences and the captain’s contemplative expression."
+    "segment_text": "But Ahab, my captain, still moves before me in all his Nantucket grimness and shagginess, and in this episode touching emperors and kings, I must not conceal that I have only to do with a poor old whale hunter like him, and, therefore, all outward majestical trappings and housings are denied me.",
+    "image_prompt": "Ahab stands tall in the dimly lit aft deck of the Pequod, his weather‑worn face etched with grim determination, surrounded by soot‑stained harpoons and ropes. The moonlight slashes across the hull, revealing stark shadows of ship’s crew. Ahab’s stern gaze fixes on Ishmael below, who watches from a cramped berth, eyes wide with awe yet humbled by the captain’s raw, unadorned authority—no regal trappings, only rugged maritime prowess. Romantic realism, 19th‑century naval illustration."
   },
   {
     "segment_index": 34,
-    "segment_text": "He is of quite a neat and gentlemanlike figure.",
-    "image_prompt": "A lone, sleek porpoise glides beneath storm‑clouded Atlantic waves, its streamlined body exuding an almost aristocratic grace. Dark, brooding skies loom over the churning sea, while muted light filters through turbulent clouds, casting long shadows on the frothy surf. The creature’s polished, almost humanlike posture stands in stark contrast to the wild, indifferent ocean around it, capturing a moment of quiet dignity amid 19th‑century maritime gloom. Dark, moody, 19th‑century oil painting."
+    "segment_text": "Oh, Ahab, what shall be grand in thee?",
+    "image_prompt": "Ahab standing on the deck of the Pequod at dusk, eyes fixed toward a looming horizon where storm clouds gather; his weathered face illuminated by a single shaft of moonlight, casting deep shadows across his scarred visage. Behind him, the ship’s sails billow in a turbulent wind, and distant waves crash against the hull. The scene conveys Ahab’s towering presence and relentless determination, rendered in moody Romantic realism with navy charcoal tones, sharp chiaroscuro lighting, fine linework, semi‑realistic gradients, subtle paper grain – 19th‑century whaling voyage."
   },
   {
     "segment_index": 35,
-    "segment_text": "He has no fins on his back, most other porpoises have.",
-    "image_prompt": "A lone, sleek porpoise glides beneath a storm‑laden sky, its smooth black and white back devoid of the usual dorsal fin that crowns its kin. Around it, other porpoises with gleaming fins ripple in the moonlit Atlantic, their silhouettes sharp against the bruised horizon. The scene is rendered in a dark, moody 19th‑century oil painting style, with muted grays and deep blues, capturing the eerie quiet of night and the subtle melancholy of this finless creature."
-  },
-  {
-    "segment_index": 36,
-    "segment_text": "He has a lovely tail, and sentimental Indian eyes of a hazel hue.",
-    "image_prompt": "A lone porpoise glides beneath a storm‑clouded horizon, its sleek body a shadow against the moonlit waves. The creature’s graceful tail unfurls like a dark feather, catching fleeting light; its expressive Indian eyes gleam hazel, reflecting a quiet sorrow and deep curiosity. A muted wind stirs the water, creating ripples that echo the distant cries of gulls, while the sky looms heavy with impending thunder—an atmospheric, 19th‑century oil painting in dark, moody tones."
-  },
-  {
-    "segment_index": 37,
-    "segment_text": "But his mealy mouth spoils all.",
-    "image_prompt": "A solitary, sleek porpoise glides beneath a storm‑laden horizon, its glossy black back contrasting starkly with a stark white, almost translucent maw that gapes wide, revealing a mealy, milky interior—an uncanny, unsettling detail that seems to spoil the creature’s otherwise noble form. Dark, moody 19th‑century oil painting style, heavy chiaroscuro and muted sea palette evoke an eerie, maritime melancholy."
-  },
-  {
-    "segment_index": 38,
-    "segment_text": "Though his entire back down to his side fins as of a deep sable, yet a boundary line, distinct as the mark in a ship's hull, called the bright waist, that line streaks him from stem to stern, with two separate colors, black above and white below.",
-    "image_prompt": "A solitary, somber 19th‑century oil painting of a lone mealy‑mouth porpoise gliding beneath stormy waves. Its deep sable back fades to sleek gray as it cuts through moonlit water, while a stark “bright waist” stripe—black above, white below—runs from bow to stern like a ship’s hull line. The muted palette and heavy brushwork evoke a moody maritime twilight, capturing the creature’s elegant yet austere silhouette against a brooding horizon. Dark, moody, 19th‑century oil painting."
-  },
-  {
-    "segment_index": 39,
-    "segment_text": "The white comprises part of his head and the whole of his mouth, which makes him look as if he had just escaped from a felonious visit to a meal-bag.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: a solitary, pale‑eyed porpoise glides beneath stormy Atlantic waves; its head is partly white and the entire mouth gleams white, giving it a gaunt, almost criminal visage as if freshly escaped from a meal‑bag. The muted seascape reflects a brooding sky, with distant gulls and jagged cliffs, evoking dread and mystery in a grim nautical tableau."
-  },
-  {
-    "segment_index": 40,
-    "segment_text": "A most mean and mealy aspect.",
-    "image_prompt": "A dusky, storm‑laden sea churns beneath a brooding sky as the hulking, mean‑looking Mealy Mouth porpoise surfaces; its sleek sable back streaked by a stark black‑white waist, white mouth exposed like a guilty grin. The creature’s hazel eyes stare mournfully at a lone whaling ship in the distance, while spray curls around its spout. In the foreground, a grim Captain Ahab watches, his silhouette framed by lantern light, hinting at impending conflict. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 41,
-    "segment_text": "His oil is much like that of the common porpoise.",
-    "image_prompt": "A solitary, hulking porpoise glides beneath storm‑clouded waves, its sleek black back gleaming in the dim moonlight. A seasoned whaleman in tattered canvas coat stands on a weathered wooden dock, his weathered hands holding a silver flask of amber oil that mirrors the common porpoise’s luster. The sea churns with mist, and distant gulls cry against a brooding sky, all rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 42,
-    "segment_text": "Beyond the duodecimo this system does not proceed inasmuch as the porpoise is the smallest of the whales.",
-    "image_prompt": "A dimly lit 19th‑century study, candlelight flickering on vellum charts and a battered leather desk. In the foreground, a tiny, delicate porpoise—black above, white below, with a mealy mouth—rests in a shallow, moonlit pool, its size dwarfed by towering stacks of whale classification volumes. A weather‑worn scholar (evocative of Captain Ahab) peers over a magnifying glass, his face illuminated by the candle’s glow, as he notes that beyond the duodecimo no larger species exist. Dark, moody oil painting style, 19th century."
-  },
-  {
-    "segment_index": 43,
-    "segment_text": "Above you have all the leviathans of note.",
-    "image_prompt": "A moonlit, storm‑laden sea stretches to the horizon, where silhouettes of colossal leviathans loom beneath swirling clouds; their immense bodies cut against a bruised sky, evoking dread and awe. In the foreground, a lone, weather‑worn ship’s mast pierces the gloom, its crew barely discernible in shadow. The painting captures the eerie grandeur of nature’s giants, rendered in dark, moody 19th‑century oil style, with deep blues, muted grays, and subtle highlights on whale fins."
-  },
-  {
-    "segment_index": 44,
-    "segment_text": "But there are a rabble of uncertain, fugitive, half-fabulous whales, which, as an American whaleman, I know by reputation, but not personally, I shall enumerate them by their forecastle appellations, for possibly such a list may be valuable to future investigators.",
-    "image_prompt": "A lone whaler stands on a weather‑torn deck at dusk, ink‑black waves lashing the hull. He grips a parchment of “forecastle appellations,” eyes darting to phantom silhouettes of half‑fabulous whales beneath storm clouds. The scene is rendered in dark, moody 19th‑century oil style, with deep shadows and muted greens, capturing the tension of uncertainty and the timeless quest for knowledge on the high seas."
-  },
-  {
-    "segment_index": 45,
-    "segment_text": "who may complete what I have here but begun.",
-    "image_prompt": "A solitary, ink‑stained desk by candlelight, a trembling hand holding a tattered manuscript titled “Whale Lore,” while a stormy sea roils beyond a cracked window; the dim glow casts long shadows over scattered sketches of porpoises and whales, evoking 19th‑century oil painting darkness and melancholy. Art style: dark, moody, 19th‑century oil painting."
-  },
-  {
-    "segment_index": 46,
-    "segment_text": "If any of the following whales shall hereafter be caught and marked, then he can readily be incorporated into this system, according to his folio, octavo, or du decimo, magnitude curg.",
-    "image_prompt": "A dimly lit study in an old whaling ship, walls lined with tattered maps and faded sea charts. In the center, a large wooden desk cluttered with parchment ledgers marked “Folio,” “Octavo,” and “Du Decimo.” A quill hovers over ink, poised to record new whale species. Shadowy silhouettes of exotic whales—Bottlenose, Junk, Pudding‑headed—loom in sketches beside the ledger. The atmosphere is heavy with soot and salt, a 19th‑century oil painting style, dark and moody."
-  },
-  {
-    "segment_index": 47,
-    "segment_text": "The Bottlenose Whale.",
-    "image_prompt": "A vast, storm‑laden Atlantic horizon in a dim, sepia twilight; a lone bottlenose whale breaches from the churning black waves, its sleek gray body illuminated by faint moonlight, eyes wide with ancient sorrow. Rough sails of a 19th‑century whaling ship loom below, creaking wood and tar. In the distance, ghostly gulls circle, their cries echoing through a heavy, misty air—an ominous, moody oil painting in 1800s maritime realism."
-  },
-  {
-    "segment_index": 48,
-    "segment_text": "The Junk Whale.",
-    "image_prompt": "A vast, storm‑laden Atlantic horizon bleeds into a midnight blue sea, where the colossal Junk Whale rises from the mist like a ghostly leviathan. Its mottled skin—black above, white below—glows faintly under a flickering lantern held by a solitary sailor in tattered navy coat. Dark clouds swirl overhead, casting an ominous pallor over the creature’s massive tail and flukes. The scene captures the eerie majesty of the Junk Whale in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 49,
-    "segment_text": "The pudding-headed whale, The cape whale, The leading whale, The cannon whale, The scrag whale, Scrag while, The coppered whale, To elephant, The sugrock, Pewdie-quag-glill, Whale, the anthrust,",
-    "image_prompt": "A tempestuous ocean roils beneath a bruised sky, as an array of fantastical leviathans breach: a pudding‑headed whale with a round belly, a cape‑shrouded beast in shadow, the proud leading whale glinting silver; a cannon‑whale rattling like gunfire, a scraggy creature flapping its ragged fins, a copper‑tinted giant glimmering in moonlight. Nearby, an elephantine whale thunders, a sugrock sprouting spines, and a Pewdie‑quag‑glill spirals into the mist—an eerie, mythic choir of sea monsters. The scene is rendered as a dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 50,
-    "segment_text": "From Icelandic, Dutch, and Old English authorities there might be quoted other lists of uncertain whales, blessed with all manner of uncouth names, but I admit them as altogether obsolete, and can hardly help suspecting them for mere sounds, full of leviathanism, with signifying nothing.",
-    "image_prompt": "A dimly lit, candle‑lit study in a 19th‑century ship’s galley, where an aged whaleman scrolls through tattered Icelandic and Dutch manuscripts. He leans over a cracked oak desk, his face illuminated by flickering oil lamps, eyes narrowed as he dismisses obscure whale names like “lewiathanism” with a weary sigh. The background shows maps of the North Atlantic, ghostly sea charts, and a weathered globe, all rendered in moody, shadowy 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 51,
-    "segment_text": "Finally, he quote, it was stated at the outset that this system would not be here and at once perfected.",
-    "image_prompt": "A dimly lit study of an elderly sea‑whale scholar, hunched over a cracked wooden desk littered with tattered scrolls and half‑finished charts of whales. He holds a quill poised above a page, his face shadowed by the flickering candle flame, eyes weary yet resolute. In the background a towering, unfinished stone cathedral looms, its spire broken mid‑rise, symbolizing the incomplete taxonomy. The scene is rendered in a dark, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 52,
-    "segment_text": "You cannot but plainly see that I have kept my word.",
-    "image_prompt": "A solitary, ink‑darkened study on a stormy sea‑night, where an elderly whaleman hunched over a battered wooden desk scrolls through tattered whale charts and inked notes; his weathered face illuminated by the flickering glow of a single oil lamp, eyes fixed on a massive, half‑eclipsed portrait of a colossal sperm whale hanging above. The room is steeped in soot and salt, with cracked plaster walls and a faint smell of brine. A sense of solemn oath hangs heavy in the air—dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 53,
-    "segment_text": "But I now leave my pseudological system, standing thus unfinished, even as the great cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower.",
-    "image_prompt": "A lone scholar hunched over a battered desk strewn with yellowed maps and half‑finished charts, his quill paused mid‑stroke as he turns from the page. Outside the cracked window, the dark silhouette of Cologne’s unfinished cathedral looms, its towering spire broken by a rusted crane still perched at the top. Candlelight flickers across the scene, casting long shadows that mingle with the looming stone structure, all rendered in a grim, 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 54,
-    "segment_text": "For small erections may be finished by their first architects' grand ones, true ones, ever lead the copestone to posterity.",
-    "image_prompt": "A dimly lit 19th‑century shipyard at dusk, oil paint with deep shadows and muted earth tones. In the foreground a small wooden pier is being completed: an apprentice hands the final stone to a seasoned master builder—his silhouette framed by lantern light. The master’s hand rests on the cornerstone, symbolizing legacy, while faint outlines of grander structures loom in the mist beyond, hinting at future monuments. Dark, moody atmosphere emphasizes perseverance and timeless craftsmanship. Art style: dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 55,
-    "segment_text": "God keep me from ever completing anything.",
-    "image_prompt": "A lone sea‑scribe sits hunched over a battered desk, ink‑stained quill trembling. He gazes at a tattered atlas of whales, its pages scattered with faded sketches of Husa and Mealy Mouth porpoises. A flickering oil lamp casts deep shadows across the cramped study, walls lined with brass sextants and weathered logbooks. The air is heavy with salt‑mold and regret; the narrator’s voice echoes: “God keep me from ever completing anything,” as if the unfinished parchment were a cursed relic. Dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 56,
-    "segment_text": "This whole book is but a draft, nay, but the draft of a draft.",
-    "image_prompt": "A dim, storm‑laden study in a 19th‑century oil painting style: an old oak desk piled with rough parchment and half‑finished drafts, a single flickering candle casting wavering shadows; ink stains and feather quill lie beside a cracked sea‑tide map. Through a grimy window, a bleak ocean roils under thunderclouds, hinting at the unfinished voyage. The scene feels mournful, echoing “this whole book is but a draft, nay, but the draft of a draft.”"
-  },
-  {
-    "segment_index": 57,
-    "segment_text": "All time, strength, cash and patience.",
-    "image_prompt": "A dim harbor at twilight, a weathered whaling ship’s deck littered with oil barrels and rusting gear, Captain Ahab stands in the foreground, his face etched with exhaustion yet resolute, clutching a ledger of \"time, strength, cash, patience.\" Around him, crew members—Ishmael, Queequeg, Starbuck—look on with weary determination. The sea churns beneath, waves reflecting a muted moon. The scene is rendered in a dark, moody 19th‑century oil painting style, emphasizing shadow and textured brushwork."
+    "segment_text": "It must needs be plucked at from the skies, and dived for in the deep, and featured in the unbodied air.",
+    "image_prompt": "A haunting image of Captain Ahab standing on the Pequod’s quarterdeck, eyes fixed on a storm‑laden horizon where navy clouds clash with charcoal waves. The sky is a tumultuous swirl, the sea a dark abyss, both rendered in sharp chiaroscuro lighting that casts long shadows over the deck. Fine linework traces Ahab’s weathered face and the subtle paper grain of the canvas, evoking Romantic realism and 19th‑century maritime tension."
   }
 ]

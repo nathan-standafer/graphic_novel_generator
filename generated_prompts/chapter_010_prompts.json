@@ -1,407 +1,377 @@
 [
   {
     "segment_index": 0,
-    "segment_text": "Chapter 10 A Bosom Friend",
-    "image_prompt": "A dim inn room after dusk, a single roaring hearth in the center. In front of it, Queequeg sits on a wooden bench, his feet on a stone stove hearth, face illuminated by flickering flames. He holds a small black idol close to his lips, whittling its nose with a jagged jack‑knife while humming an ancient chant. Beside him, a large leather‑bound book lies open on his lap; he counts pages in solemn rhythm, eyes vacant yet intense. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Chapter 10 A Bosom Friend Returning to the Spouter Inn from the chapel I found Queequeg there quite alone, he having left the chapel before the benediction sometime.",
+    "image_prompt": "A lone, weather‑scarred Queequeg stands by a crackling hearth in the dim Spouter Inn, his face illuminated by flickering firelight. He holds a small black idol close to his chest, eyes narrowed in concentration as he whittles its nose with a jackknife. The room is shrouded in smoke and shadows, a storm rattling outside—dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 1,
-    "segment_text": "Returning to the spouder-in from the chapel, I found Queequeg there, quite alone, having left the chapel before the benediction some time.",
-    "image_prompt": "A dim, smoky inn room in a 19th‑century oil painting: Ishmael, with weary eyes and a leather coat, enters after leaving a chapel, finding Queequeg alone at the fire—his hair shaved, face scarred, deep black eyes burning with quiet intensity. The lone figure sits on an old wooden bench, feet on a stone hearth, clutching a small negro idol against his chest while whittling its nose with a jack‑knife. A low flame casts flickering shadows across their rugged faces, evoking a dark, moody atmosphere of isolated companionship. (19th‑century oil painting)"
+    "segment_text": "He was sitting on a bench before the fire, with his feet on the stove hearth, and in one hand was holding close up to his face that little negro idol of his, peering hard into its face, and with a jackknife gently whittling away at its nose, meanwhile humming to himself in his heathenish way.",
+    "image_prompt": "A lone Queequeg sits on a rough‑hewn bench by the hearth of a dim inn, one foot propped on a stone stove. In his gloved hand he cradles a small black idol, eyes fixed, whittling its nose with a jackknife while humming a low, heathen chant. The fire casts deep shadows, a moody 19th‑century oil painting style."
   },
   {
     "segment_index": 2,
-    "segment_text": "He was sitting on a bench before the fire, with his feet on the stove hearth, and in one hand was holding close up to his face that little negro idol of his peering hard into its face, and with a jack-knife gently whittling away at its nose, meanwhile humming to himself in his heathenish way.",
-    "image_prompt": "A dim inn room illuminated by flickering hearth fire, a rugged Queequeg seated on an old wooden bench. His bare feet rest upon the warm stove hearth as he leans close to a small black idol in his hand, peering intently while a jack-knife carves its nose with deliberate strokes. He hums a low, heathenish tune, eyes fixed on the idol’s face, surrounded by muted shadows of distant storm clouds outside. The scene evokes a dark, moody 19th‑century oil painting atmosphere."
+    "segment_text": "But being now interrupted, he put up the image, and pretty soon, going to the table, took up a large book there, and placing it on his lap, began counting the pages with deliberate regularity, at every fiftieth page, as I fancied, stopping a moment, looking vacantly around him, and giving utterance to a long-drawn, gurgling whistle of astonishment.",
+    "image_prompt": "A dimly lit inn room in the 19th century, fire crackling, ash‑laden hearth. Queequeg, a towering, tattooed man with shaved head and fierce black eyes, sits at an old wooden table, large leather‑bound book on his lap. He lifts a small carved idol from his hands, then methodically counts pages every fiftieth, pauses, gazes vacantly around, and emits a long, gurgling whistle of astonishment—dark, moody oil painting style."
   },
   {
     "segment_index": 3,
-    "segment_text": "But, being now interrupted, he put up the image, and pretty soon, going to the table, took up a large book there, and, placing it on his lap, began counting the pages with deliberate regularity.",
-    "image_prompt": "A dim inn room bathed in flickering firelight, smoke curling like sea mist. Queequeg, hair shaved, tattooed face glowing in the gloom, lifts a small black idol from his lap and places it reverently on a wooden table. He then pulls an old, worn book onto his knees, its pages turning with deliberate rhythm as he counts them, eyes fixed, head tilted slightly. The scene is rendered in dark, moody 19th‑century oil painting style, evoking hushed tension and quiet ritual."
+    "segment_text": "He would then begin again at the next fifty, seeming to commence at number one each time, as though he could not count more than fifty, and it was only by such a large number of fifties being found together that his astonishment at the multitude of pages was excited.",
+    "image_prompt": "A dimly lit Spouter Inn hearth casts flickering shadows on a rugged Queequeg seated beside an old wooden table. He holds a large leather‑bound book, eyes narrowed, as he counts pages in solemn rhythm: every fiftieth page paused with a drawn breath and a low whistle of awe. The atmosphere is heavy, candlelight trembling, evoking a 19th‑century oil painting’s dark, moody tone."
   },
   {
     "segment_index": 4,
-    "segment_text": "At every fiftieth page's eye fancied stopping a moment, looking vacantly around him, and giving utterance to a long-drawn, gurgling whistle of astonishment.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: in the dim inn’s hearthlit room, Queequeg sits on a worn bench, his shaved head catching flickering firelight. He cradles an ancient book, eyes fixed as he counts pages; at each fiftieth page he pauses, gazes vacantly into the gloom, and releases a long‑drawn, gurgling whistle of astonishment that echoes off stone walls. The scene captures his rhythmic ritual, the low blaze, and the eerie quietude of the night."
+    "segment_text": "With much interest I sat watching him, savage though he was, and hideously marred about the face, at least to my taste.",
+    "image_prompt": "A dimly lit inn room in a 19th‑century oil style: Ishmael seated on a rough wooden bench, eyes fixed on Queequeg—a savage marooned sailor with hideously marred, tattooed face and shaved head—who sits across the fire, counting pages. The scene is heavy with shadow, crackling hearth, and an air of tense fascination, rendered in dark, moody tones."
   },
   {
     "segment_index": 5,
-    "segment_text": "He would then begin again at the next fifty, seeming to commence at number one each time, as though he could not count more than fifty.",
-    "image_prompt": "A dim inn room illuminated by a low fire, the heavy wooden bench creaking under Queequeg’s broad shoulders. He sits with a large leather-bound book open on his lap, eyes fixed intently as he counts, pausing every fifty pages to stare vacantly around him and let out a long, gurgling whistle of astonishment. His hand gestures rhythmically, fingers tracing the page numbers, his face a mask of focused simplicity amid the smoky, candlelit gloom—dark, moody 19th‑century oil painting."
+    "segment_text": "His countenance yet had a something in it which was by no means disagreeable.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a dim inn room at night. Queequeg sits beside a crackling hearth, one hand gripping a small black idol close to his face, the other holding a jackknife. He intently counts pages of an ancient book, eyes fierce yet oddly gentle, with a faint, unearthly glow in his gaze that hints at hidden kindness. The firelight flickers across his scarred, tattooed skin, illuminating his weather‑worn but dignified expression."
   },
   {
     "segment_index": 6,
-    "segment_text": "And it was only by such a large number of fifties being found together that his astonishment at the multitude of pages was excited.",
-    "image_prompt": "A dim inn room with a crackling hearth, its fire low and amber glow casting long shadows across a worn wooden table. Queequeg sits hunched on a rough‑spun bench, his broad shoulders hunched over a large leather‑bound book whose pages flutter in the chill air. He holds the tome to his lap, counting with deliberate regularity; at each fiftieth page he pauses, gazes vacantly into the gloom, and exhales a long, gurgling whistle of astonishment, eyes wide beneath a shaven brow. The atmosphere is heavy, moody, 19th‑century oil painting style."
+    "segment_text": "You cannot hide the soul.",
+    "image_prompt": "Ishmael, seated beside a crackling hearth in the Spouter Inn’s dim lounge, gazes intently at Queequeg—his scarred face illuminated by flickering flames, eyes fierce and honest. The rugged sailor’s tattooed skin and shaved head contrast starkly with the warm, subdued oil tones of a 19th‑century moody painting, capturing the moment Ishmael declares, “You cannot hide the soul.”"
   },
   {
     "segment_index": 7,
-    "segment_text": "With much interest I sat watching him.",
-    "image_prompt": "A dim inn room lit only by a low hearth, smoke curling from a lone pipe; the rugged Queequeg sits on an old wooden bench, his black eyes fixed intently on a large leather‑bound book as he counts pages in rhythmic breaths. Ishmael, cloaked in quiet reverence, watches him from across the table, his face illuminated by flickering firelight, capturing the tense, contemplative silence between savage and sailor in a dark, moody 19th‑century oil painting."
+    "segment_text": "Through all his unearthly tattooings, I thought I saw the traces of a simple honest heart, and in his large deep eyes, fiery black and bold, there seemed tokens of a spirit that would dare a thousand devils.",
+    "image_prompt": "A lone, rugged Queequeg sits in the dim glow of the Spouter Inn’s hearth, his body etched with unearthly tattoos that glint faintly. His deep, fiery black eyes stare straight ahead, radiating a fierce honesty and daring spirit. The oil painting captures the raw, primal beauty of his face, set against a dark, moody 19th‑century tavern backdrop."
   },
   {
     "segment_index": 8,
-    "segment_text": "Savage though he was, and hideously marred about the face at least to my taste's countenance, yet had a something in it which was by no means disagreeable.",
-    "image_prompt": "A solitary, dimly lit inn room where the cracked hearth casts a wavering glow. In the foreground sits Queequeg, his face scarred and marred by battle, yet illuminated by a subtle, almost benevolent light that reveals a fierce yet oddly warm expression. His deep black eyes burn with untamed spirit, but a faint, unguarded tenderness glimmers beneath the harsh lines of his tattooed skin. The scene feels tense yet strangely inviting—an uneasy harmony between savage and soul. 19th‑century oil painting style, dark and moody."
+    "segment_text": "And besides all this, there was a certain lofty bearing about the pagan, which even his uncouthness could not altogether maim.",
+    "image_prompt": "A dimly lit inn room, smoke curling from an embered hearth, where Queequeg sits stoically on a wooden bench. His weather‑worn face, marked by savage tattoos yet noble eyes, exudes a lofty dignity that transcends his uncouthness. The scene is rendered in dark, moody 19th‑century oil painting style, with muted tones and deep shadows emphasizing the contrast between barbarity and grace."
   },
   {
     "segment_index": 9,
-    "segment_text": "You cannot hide the soul.",
-    "image_prompt": "A dim, candlelit inn room in a stormy harbor, an old wooden bench by a crackling hearth. In the center, Queequeg sits stooped, his shaved head glowing, holding a small black idol close to his face while a jagged jack-knife rests against it; he intently counts pages of a large book, pausing at each fifty with a startled whistle. Ishmael, in a faded wool coat, leans against the doorframe, eyes fixed on Queequeg, whispering “You cannot hide the soul.” The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "He looked like a man who had never cringed and never had had a creditor.",
+    "image_prompt": "A lone, unshaken Queequeg stands in the dim glow of the Spouter Inn’s hearth, shoulders squared, eyes fierce and unfettered. His scarred face bears a calm confidence, as if he has never feared or owed anyone. The room is shrouded in soot‑dark shadows, fire crackling softly—an ominous 19th‑century oil painting, dark and moody."
   },
   {
     "segment_index": 10,
-    "segment_text": "Through all his unearthly tattooings I thought I saw the traces of a simple honest heart, and in his large deep eyes, fiery, black, and bold, there seemed tokens of a spirit that would dare a thousand devils.",
-    "image_prompt": "A dimly lit inn room, smoke curling from a low hearth, where Queequeg sits on an old wooden bench. His scarred face is illuminated by flickering firelight; deep black eyes burn with fierce intensity. Fine, intricate tattoos cover his arms and torso, yet his gaze reveals a simple, honest heart. The scene captures the paradox of savage beauty and noble spirit, rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Whether it was, too, that his head being shaved, his forehead was drawn out in freer and brighter relief, and looked more expansive than it otherwise would, this I will not venture to decide, but certain it was, his head was phrenologically an excellent one.",
+    "image_prompt": "A lone figure in a dim inn hall, Queequeg sits with his head shaved, a stark, sun‑lit forehead rendered in sharp relief against the soot‑dark firelight. The oil painting captures the austere 19th‑century mood: muted browns and deep shadows, the man's face illuminated to reveal an exaggerated, phrenologically “excellent” skull, as viewed by a curious observer. Style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 11,
-    "segment_text": "And besides all this, there was a certain lofty bearing about the pagan, which even his uncouthness could not altogether maim.",
-    "image_prompt": "A lone, unshaven Queequeg sits by a low hearth in a dimly lit inn room, the fire casting flickering shadows on his weather‑worn face. His broad shoulders and upright posture exude an almost regal dignity, despite his savage attire and fierce tattoos. He holds a small black idol close to his chest, eyes fixed on it with serene concentration. The scene feels like a 19th‑century oil painting—dark, moody, heavy chiaroscuro, capturing the paradox of wildness tempered by noble bearing."
+    "segment_text": "It may seem ridiculous, but it reminded me of General Washington's head, as seen in the popular busts of him.",
+    "image_prompt": "A dimly lit Spouter Inn interior, a single flickering hearth casting long shadows; Ishmael leans close to Queequeg, whose smooth, shaved forehead glows in the firelight. The young sailor’s face is carved with fierce tattoos, yet his eyes mirror the dignified gaze of George Washington's marble bust. A dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 12,
-    "segment_text": "He looked like a man who had never cringed, and never had had a creditor.",
-    "image_prompt": "A lone, weather‑scarred Queequeg sits in the dim inn’s hearth room, his shaved head gleaming against soot‑blackened walls. He gazes straight ahead with fierce, unwavering eyes, a subtle smile hinting at unshaken pride. No sign of fear or debt lingers; his posture is resolute, shoulders squared, hands resting on an open book. The fire casts long shadows, underscoring his stoic dignity. Dark, moody 19th‑century oil painting style."
+    "segment_text": "It had the same long, regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg’s imposing skull: a long, gently sloping forehead above sharp, projecting brows that rise like two rugged promontories, each densely furrowed and textured as if wooded. The face is austere yet noble, with deep black eyes gleaming beneath the slope, set against a low‑lit, smoky tavern interior. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 13,
-    "segment_text": "Whether it was, too, that his head being shaved, his forehead was drawn out in freer and brighter relief, and looked more expansive than it otherwise would,",
-    "image_prompt": "A solitary figure of Queequeg sits by a low hearth, his head freshly shaved to reveal a wide, sunlit forehead that glows with stark relief against the dim candlelight. The dark, moody 19th‑century oil painting captures the contrast between the harsh, almost metallic gleam of his scalp and the deep shadows of the room, evoking a sense of austere dignity amid the smoky gloom. Art style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Queequeg was George Washington cannibalistically developed.",
+    "image_prompt": "A lone, weather‑torn Queequeg sits by a crackling hearth in the Spouter Inn, his shaved head and pronounced brow mirroring George Washington’s dignified profile. The scene is drenched in deep shadows, with muted ochres and bruised blues, capturing a 19th‑century oil painting’s brooding, gothic atmosphere—an austere, almost reverent portrait of savage nobility amid stormy night."
   },
   {
     "segment_index": 14,
-    "segment_text": "This I will not venture to decide, but certain it was his head was phrenologically an excellent one.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg seated beside a low hearth, his shaved scalp illuminated by flickering firelight. The close‑up emphasizes the pronounced ridges and prominent brow bones that an old phrenologist would deem “excellent.” His deep black eyes stare calmly into the viewer, while a small wooden idol rests against his chest, hinting at his savage yet dignified nature. Rich, somber tones capture the quiet intensity of this introspective moment in a secluded inn room."
+    "segment_text": "Whilst I was thus closely scanning him, half pretending meanwhile to be looking out at the storm from the casement, he never heeded my presence, never troubled himself with so much as a single glance, but appeared wholly occupied with counting the pages of the marvellous book.",
+    "image_prompt": "A dim, storm‑lit Spouter Inn hall, rain rattling the casement, where Ishmael peers from a shadowed window. Beside him, Queequeg sits on a soot‑blackened bench, eyes fixed on an open book, counting pages in solemn rhythm; his gaze remains unmoved by Ishmael’s presence. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 15,
-    "segment_text": "It may seem ridiculous, but it reminded me of General Washington's head, as seen in the popular busts of him.",
-    "image_prompt": "A dimly lit inn room in a 19th‑century oil style, smoke curling from a low hearth. In the foreground sits Queequeg, his shaved scalp gleaming like marble, eyes deep and black. A faint reflection of a bronze Washington bust hangs on the wall beside him, its stoic visage mirroring his own austere profile. The scene is moody, candlelit, with muted earth tones and subtle chiaroscuro, capturing a moment of uncanny comparison between savage and statesman."
+    "segment_text": "Considering how sociably we had been sleeping together the night previous, and especially considering the affectionate arm I had found thrown over me upon waking in the morning, I thought this indifference of his very strange.",
+    "image_prompt": "A dim, smoky Spouter Inn interior, a lone fire crackling; Ishmael lies on a rough‑topped bed, the morning light filtering through soot‑stained windows. Queequeg’s broad arm draped over him, his savage face illuminated by flickering flames, eyes distant yet attentive, as he watches Ishmael stir, embodying strange indifference amid intimate closeness—dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 16,
-    "segment_text": "It had the same long, regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top.",
-    "image_prompt": "A dim, candlelit study in a colonial inn, the fire low and embered. In the foreground sits Queequeg, his shaved scalp exposed to a harsh light that accentuates the long, gently sloping ridge above his brows. The brow ridges rise sharply like two wooded promontories, projecting into the gloom. He stares absently at a page in a large book, a small idol tucked under one arm, while the surrounding room is shrouded in muted sepia tones. Dark, moody 19th‑century oil painting."
+    "segment_text": "But savages are strange beings.",
+    "image_prompt": "A lone figure in a dim, soot‑stained inn hall, the fire crackling low, gazes contemplatively toward a shadowed doorway where distant storm roars. The man's weathered face reflects a mix of awe and uncertainty as he muses on the enigmatic nature of savages, their wildness framed by flickering candlelight—dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 17,
-    "segment_text": "Queequeg was George Washington cannibalistically developed, whilst I was thus closely scanning him, half pretending, meanwhile, to be looking out at the storm from the casement.",
-    "image_prompt": "A dim inn room bathed in flickering hearth light, a lone window framing a violent storm. In the foreground, a ruggedly handsome Queequeg sits on a wooden bench, his shaved head and broad brow echoing George Washington’s stately profile, his face half‑masked by a small black idol. Ishmael, eyes narrowed, peers from behind a casement as if watching the tempest, yet intently studying Queequeg’s stoic, cannibalistic likeness. The scene is rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "At times you do not know exactly how to take them.",
+    "image_prompt": "A dim Spouter Inn room, a crackling hearth casting long shadows. Two figures sit across from one another: Ishmael, lean and contemplative, eyes fixed on the fire; Queequeg, tall, tattooed, head shaved, a jagged idol cradled in his hand. Their faces are lit by flickering flames, hinting at deep mystery and uneasy understanding between them. A dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 18,
-    "segment_text": "He never heeded my presence.",
-    "image_prompt": "A dim inn room in a storm‑blasted harbor, candlelight flickering on rough stone walls. Queequeg sits alone on an old wooden bench by the hearth, his shaved head gleaming in the fire’s glow, deep black eyes fixed on a tattered book. He ignores Ishmael standing nearby, hand still on the open pages, as if unseen. The atmosphere is heavy with ash and rain outside, a lone figure absorbed in counting, unbothered by another's presence—dark, moody 19th‑century oil painting."
+    "segment_text": "At first they are overawing.",
+    "image_prompt": "A dim Spouter Inn hall, fire crackling, Ishmael seated beside a towering Queequeg whose scarred face and fierce black eyes command the room. The young sailor’s wide, reverent gaze reflects first awe; shadows swirl around the two figures, hinting at the looming presence of a savage spirit in 19th‑century oil style. Dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 19,
-    "segment_text": "Never troubled himself with so much as a single glance, but appeared wholly occupied with counting the pages of the marvellous book.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a solitary tavern room lit by a low, flickering hearth. In the foreground sits Queequeg, hair shaved, face scarred, eyes fixed on an ancient bound book spread across his lap. His hands, one holding a jack‑knife, the other turning pages with deliberate rhythm; he counts in silence, utterly oblivious to any onlookers, no glance offered as if the world existed only within the book’s margins. The atmosphere is hushed, candlelit gloom, evoking 1800s maritime taverns."
+    "segment_text": "Their calm self-collectedness of simplicity seems a Socratic wisdom.",
+    "image_prompt": "A dim, soot‑laden tavern interior, a lone fire crackling in the hearth; Queequeg sits stoically on a rough bench, his shaved head gleaming, eyes fixed on an ancient book as he counts pages with deliberate grace. Beside him, Ishmael leans back, hand resting on a wooden table, both exuding quiet, Socratic wisdom amid the flickering shadows of a 19th‑century oil painting."
   },
   {
     "segment_index": 20,
-    "segment_text": "Considering how so subtly we had been sleeping together the night previous, and especially considering the affectionate arm I had found thrown over me upon waking in the morning,",
-    "image_prompt": "A dim, smoky inn room at dawn, a single hearth glowing low, Ishmael lying on a rough wooden bed as Queequeg’s broad arm rests protectively across his chest. The scene is bathed in flickering candlelight and the faint scent of tobacco smoke. The mood is tense yet tender, a quiet intimacy between a weary sailor and a fierce native. Dark, moody 19th‑century oil painting style."
+    "segment_text": "I had noticed also that Queequeg never consorted at all, or but very little, with the other seamen in the inn.",
+    "image_prompt": "A dim, soot‑stained tavern hearth glows faintly as a lone, tattooed Queequeg sits isolated on a worn bench. The surrounding seamen are scattered in hushed conversation, yet he remains detached, eyes fixed on his black idol, fingers idly whittling its nose. A quiet, austere atmosphere of 19th‑century maritime solitude pervades the scene—dark, moody oil painting."
   },
   {
     "segment_index": 21,
-    "segment_text": "I thought this indifference of his very strange.",
-    "image_prompt": "A dim inn room at twilight, the low fire casting trembling orange light across a worn wooden bench where Queequeg sits alone. He leans over an ancient book, his weathered face illuminated by flickering flames; his black eyes stare distant, unblinking, as he counts pages with deliberate rhythm. Beside him, a small carved idol rests in one hand, its carved nose whittled by a jack-knife. The scene exudes a quiet, almost eerie indifference, captured in dark, moody 19th‑century oil painting style."
+    "segment_text": "He made no advances whatever, appeared to have no desire to enlarge the circle of his acquaintances.",
+    "image_prompt": "A solitary Queequeg sits in a dim, stone‑walled inn, the fire’s glow barely touching his scarred, tattooed face. No other patrons linger; he remains aloof, eyes fixed on an untouched page of a book, his hands steady. The scene exudes isolation and stoic restraint, a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 22,
-    "segment_text": "But savages are strange beings.",
-    "image_prompt": "A dim inn room in a 19th‑century maritime tavern, fire crackling low on the hearth. Queequeg sits alone, a black idol pressed to his face, jack-knife carving its nose, while Ishmael watches with a contemplative expression. The scene captures the quiet intimacy of their shared silence, the rugged yet dignified presence of the \"savage\" in oil paint, chiaroscuro shadows emphasizing the rough hands and deep eyes, all rendered in a dark, moody 19th‑century style."
+    "segment_text": "All this struck me as mighty singular, yet, upon second thoughts, there was something almost sublime in it.",
+    "image_prompt": "A lone, dimly lit inn room, a fire crackling low; Ishmael sits beside a tall, weather‑worn Queequeg, who is intently counting pages of a book. The man’s scarred face and fierce eyes contrast with a calm, almost serene dignity. Ishmael’s thoughtful expression reveals awe at Queequeg’s singular, sublime nature. A dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 23,
-    "segment_text": "At times you do not know exactly how to take them.",
-    "image_prompt": "A dim inn room at twilight, a lone fire crackling in the hearth. Queequeg sits on a worn bench, feet on a stone stove, eyes fixed on a small black idol held close to his face as he whittles its nose with a jack-knife. A large, weather‑torn book lies open on his lap; he counts pages methodically, pausing every fifty to whistle in astonishment. Ishmael watches from nearby, the fire’s low glow casting long shadows over their figures, capturing the quiet tension of unfamiliar companionship in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Kyr was a man some 20,000 miles from home, by the way, of Cape Horn, that is, which was the only way he could get there, thrown among people as strange to him as though he were in the planet Jupiter, and yet he seemed entirely at his ease, preserving the utmost serenity, content with his own companionship, always equal to himself.",
+    "image_prompt": "A lone figure, a man from Cape Horn, stands amid a dimly lit tavern, surrounded by foreign faces that seem as alien as Jupiter’s skies. He exudes serene composure, his gaze steady and unshaken, content in solitary companionship. The scene is rendered as a dark, moody 19th‑century oil painting, with muted candlelight casting deep shadows across the rough wooden interior."
   },
   {
     "segment_index": 24,
-    "segment_text": "At first they are overawing in—the real self-collectedness of simplicity seems a Socratic wisdom.",
-    "image_prompt": "A dim, 19th‑century inn room bathed in flickering hearth light; Ishmael sits beside Queequeg, whose weathered face is calm and unruffled. Queequeg’s eyes gleam with a quiet, Socratic simplicity as he counts pages of an ancient book, his hands steady. The scene captures the awe-inspiring serenity of their shared silence, the raw, unpolished wisdom in Queequeg’s demeanor, all rendered in a dark, moody oil painting style of the 19th century."
+    "segment_text": "Surely, this was a touch of fine philosophy, though no doubt he had never heard there was such a thing as that.",
+    "image_prompt": "A dim inn room with a low fire, stone walls, and a single wooden bench; Queequeg sits alone, head bowed, eyes closed, a faint smile hinting at inner peace while Ishmael watches from a nearby chair, his face illuminated by candlelight, thoughtful and slightly bewildered. The scene exudes a dark, moody 19th‑century oil painting atmosphere."
   },
   {
     "segment_index": 25,
-    "segment_text": "I had noticed also that Queequeg never consorted at all, or but very little, with the other seamen in the inn.",
-    "image_prompt": "A lone Queequeg sits stoically on a weathered wooden bench inside a dimly lit, stone‑cobblestone tavern, the low hearth casting trembling shadows across his scarred face. Around him, rough sailors laugh and drink, but he remains detached, eyes fixed on an ancient carved idol cradled in his hands. The scene is rendered as a dark, moody 19th‑century oil painting, evoking isolation and silent dignity amid the tavern’s bustling chaos."
+    "segment_text": "But perhaps, to be true philosophers, we mortals should not be conscious of so living or so striving.",
+    "image_prompt": "A lone figure in a dimly lit study, hunched over an ancient, cracked leather-bound tome, his brow furrowed with deep contemplation. The air is thick with the scent of oil paint and old parchment. He gazes out a narrow window toward storm‑clouds swirling outside, lost in thought about mortality and the fleeting nature of striving, in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 26,
-    "segment_text": "He made no advances, whatever appeared, to have no desire to enlarge the circle of his acquaintances.",
-    "image_prompt": "A lone, rugged Queequeg sits on a worn wooden bench beside a crackling hearth in a dim, candlelit inn room. His shaved head gleams faintly against the soot‑stained walls; his deep black eyes stare out into the night, unblinking and unfazed by any passerby. The scene is devoid of other figures—no companions, no intruders—highlighting his solitary focus on a thick book. A dark, moody 19th‑century oil painting style captures the quiet isolation and stoic indifference of this untamed man."
+    "segment_text": "So soon as I hear that such or such a man gives himself out for a philosopher, I conclude that, like the dyspeptic old woman, he must have broken his digester.",
+    "image_prompt": "A dim, candlelit study in a 19th‑century ship’s galley, the air thick with tobacco smoke. Ishmael, gaunt and weary, leans over a cracked wooden table while a rugged sailor—Queequeg, his face scarred yet serene—murmurs of philosophy. The sailor’s eyes glint with mockery; Ishmael's expression turns skeptical, his hand clutching a battered book as he dismisses the claim like a broken digester. A dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 27,
-    "segment_text": "All this struck me as mighty singular, yet, upon second thoughts, there was something almost sublime in it.",
-    "image_prompt": "A dim inn room lit by a low-burning hearth, storm clouds gathering outside the cracked casement. In the foreground, a rugged man—Queequeg—seated on a bench, feet planted on a stone hearth, intently counting pages of an open book, his face illuminated by flickering firelight and the brief glow of distant lightning. Beside him, a lone observer—Ishmael—leans forward, eyes wide with awe, capturing the uncanny serenity and subtle sublime of this solitary ritual. The scene is rendered in dark, moody 19th‑century oil style."
+    "segment_text": "As I sat there in that now lonely room, the fire burning low, in that mild stage when, after its first intensity has warmed the air, it then only glows to be looked at.",
+    "image_prompt": "A solitary figure sits in a dim, stone‑walled inn room; the hearth’s embers burn low, casting a muted amber glow that lingers like a quiet sigh. The fire, once fierce, now smolders gently, its faint light reflecting off the rough wooden floor and weathered walls, creating a hushed, melancholic atmosphere of introspection in 19th‑century oil painting style."
   },
   {
     "segment_index": 28,
-    "segment_text": "Here was a man some twenty thousand miles from home, by the way of Cape Horn, that is, which was the only way he could get their throne among people, as strange to him, as though he were in planet Jupiter.",
-    "image_prompt": "A lone, weather‑worn Queequeg sits by a low hearth in a dim, stone tavern, the distant roar of a storm over Cape Horn echoing outside. He is isolated, his scarred face illuminated by flickering firelight, eyes reflecting a world far from home. The room feels alien, as if on another planet; the air heavy with salt and smoke. Dark, moody 19th‑century oil painting style."
+    "segment_text": "The evening shades and phantoms gathering round the casements and peering in upon us, silent solitary twain, the storm booming without in solemn swells.",
+    "image_prompt": "A dim, storm‑lit inn room where two lone figures—Queequeg and Ishmael—sit by a flickering hearth. Outside, twilight shadows and ghostly silhouettes swirl around the windowpanes, their pale faces peering in. The distant thunder rolls like solemn swells across the horizon, casting deep, brooding chiaroscuro over the weary men. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 29,
-    "segment_text": "and yet he seemed entirely at his ease, preserving the utmost serenity, content with his own companionship, whereas all was equal to himself.",
-    "image_prompt": "A lone cabin interior in a storm‑tossed harbor, dimly lit by a crackling hearth. Queequeg sits on an old wooden bench, his shaved head glowing, eyes calm and serene as he counts pages of a large book with deliberate rhythm. He is utterly at ease, exuding quiet confidence, surrounded only by the fire’s warm glow and faint thunder outside. The scene evokes a dark, moody 19th‑century oil painting style."
+    "segment_text": "I began to be sensible of strange feelings.",
+    "image_prompt": "A lone, flickering hearth casts deep shadows in a dim inn room; Ishmael sits hunched, his eyes reflecting the fire’s wavering glow as he feels an uncanny stirring within—an uneasy, almost mystical anticipation. Beside him, Queequeg, serene and inscrutable, counts pages of a heavy book, his presence a calm anchor amid the rising storm outside. The scene is rendered in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 30,
-    "segment_text": "Surely this was a touch of fine philosophy, though no doubt he had never heard there was such a thing as that.",
-    "image_prompt": "A lone, weather‑battered Queequeg sits on a wooden bench beside a low hearth, his feet propped on the stove hearth, in an austere inn room dimly lit by flickering flames. He holds a large, bound book, counting pages with deliberate regularity; his deep black eyes stare vacantly at the fire. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and subtle smoke, capturing the quiet philosophy of an unearthly yet earnest savant."
+    "segment_text": "I felt a melting in me.",
+    "image_prompt": "A lone cabin hearth glows dimly; Ishmael sits beside a rugged Queequeg, who calmly counts pages in a large book. The fire casts long shadows across their faces—Queequeg’s fierce black eyes and weathered skin, Ishmael’s weary yet softened expression. A subtle warmth spreads through the room, hinting at inner melting amid the cold, storm‑raked night. Dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 31,
-    "segment_text": "But, perhaps, to be true philosophers,",
-    "image_prompt": "A dimly lit study in a cramped New England inn, a lone wooden desk cluttered with ink-stained papers and a flickering candle; Ishmael sits hunched over a weathered book, his brow furrowed in deep thought as he muses on true philosophy, the storm’s howl muffled by thick curtains. The room is suffused with smoky haze, shadows dancing across rough stone walls, evoking a dark, moody 19th‑century oil painting style."
+    "segment_text": "No more my splintered heart and maddened hand were turned against the wolfish world.",
+    "image_prompt": "A dimly lit Spouter Inn room, a crackling hearth casting deep shadows; storm clouds churn beyond the window. In the foreground, Ishmael sits with a weary yet soothed expression, his hand resting on a weathered book, eyes reflecting newfound calm. Beside him, Queequeg—tattooed, fierce yet serene—offers a quiet smile, his dark gaze steady. The atmosphere hums with subdued tension and an emerging sense of peace, rendered in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 32,
-    "segment_text": "We mortals should not be conscious of so living or so striving.",
-    "image_prompt": "Ishmael sits on a worn wooden bench beside the crackling hearth, his eyes fixed on Queequeg who intently counts a thick book’s pages, pausing every fifty to emit a low, astonished whistle. The inn’s dim light flickers over Queequeg’s tattooed face and shaved head, while the fire casts long shadows across the stone floor. A sense of quiet introspection hangs in the air as Ishmael muses on mortal striving. *Dark, moody 19th‑century oil painting*"
+    "segment_text": "This soothing savage had redeemed it.",
+    "image_prompt": "A dim, candlelit inn room in a stormy harbor, the fire low and flickering. Ahab’s stern face is absent; instead, a lone figure—Queequeg, scarred yet dignified—seated beside Ishmael on a worn bench. The savaging monk, eyes glowing with quiet strength, gazes into his carved idol while Ishmael leans against him, tears of relief streaming in the gloom. The atmosphere is heavy with ash, soot, and the scent of burning wood, rendered in dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 33,
-    "segment_text": "So soon as I hear that such or such a man gives himself out for a philosopher, I conclude that, like the dyspeptic old woman, he must have broken his digester.",
-    "image_prompt": "Ishmael, hunched over a low table in the candle‑lit inn, listens to a hushed conversation about philosophers; his brow furrows as he mutters, “like a dyspeptic old woman.” He gestures vaguely with a hand, eyes fixed on the distant figure of Queequeg leaning against the wall, watching the smoke curl into the evening gloom. The room is heavy with salt air and muted voices, a dark, moody 19th‑century oil painting style."
+    "segment_text": "There he sat, his very indifference speaking a nature in which there lurked no civilized hypocrisies and bland deceits.",
+    "image_prompt": "A dimly lit Spouter Inn room, fire low and crackling; Queequeg sits on a worn bench, his shaved head catching the amber glow. He gazes absently at a large book, fingers stained with ink, while ash drifts from a lone cigarette. His expression is serene, unruffled by worldly deceit—an austere, primal calm that shimmers in the oil’s deep shadows, 19th‑century style."
   },
   {
     "segment_index": 34,
-    "segment_text": "As I sat there in that now lonely room, the fire burning low, in that mild stage when, after its first intensity has warmed the air, it then only glows to be looked at, the evening shades and phantoms gathering round the casements, and peering in upon a silent solitary twain, the storm without insolent swells I began to be sensible of strange feelings.",
-    "image_prompt": "A dim, candlelit inn room at dusk: a low-burning hearth casts trembling shadows across a lone wooden table where Ishmael and Queequeg sit in quiet communion. The fire’s glow fades to a subtle amber glow, while evening gloom swirls outside the window, hinting at an impending storm. The two men—one rugged, tattooed, one contemplative—are surrounded by muted oil tones, their faces illuminated by the hearth’s soft light, evoking a tense, introspective mood in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Wild he was, a very sight of sights to see, yet I began to feel myself mysteriously drawn towards him.",
+    "image_prompt": "A dimly lit Spouter Inn room, smoke curling over a crackling hearth; Queequeg sits on an old wooden bench, his scarred face illuminated by flickering firelight, hands deftly whittling a black idol while counting pages of a tattered book. Ishmael stands nearby, eyes fixed on the savage’s fierce, untamed gaze, drawn into a strange, uneasy fascination. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 35,
-    "segment_text": "Smith, I felt a melting in me.",
-    "image_prompt": "A lone, dimly lit inn room, smoke curling from a wooden pipe, the fire low and flickering. Queequeg sits on a worn bench, his shaved head glinting, eyes deep black and fierce yet gentle. He holds a small idol close to his face while a book lies open on his lap; he counts pages with deliberate rhythm, pausing at every fiftieth, whistling softly. Ishmael watches him in quiet awe, feeling a strange melting of sternness into warmth. Dark, moody 19th‑century oil painting."
+    "segment_text": "And those same things that would have repelled most others, they were the very magnets that thus drew me.",
+    "image_prompt": "A dim Spouter Inn room in 1840s style, a lone hearth crackling; Ishmael sits beside a weather‑worn, tattooed Queequeg, who intently counts pages of an ancient book. The air is heavy with storm thunder outside, yet inside the two men share a quiet, almost magnetic tension—each drawn to the other’s raw humanity amid dark, brooding light. 19th‑century oil painting."
   },
   {
     "segment_index": 36,
-    "segment_text": "No more my splendid heart and maddened hand were turned against the wolfish world.",
-    "image_prompt": "A dim inn room in a storm‑battered harbor, fire flickering low on an old hearth. Ishmael sits beside Queequeg, who is calmly counting pages of a large book while humming; the black idol lies near him. A soft glow from the window casts long shadows across their faces. The mood is tense yet contemplative—Ishmael’s heart, once wild and angry, now quieted by Queequeg’s presence. Rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "I'll try a pagan friend, thought I, since Christian kindness has proved but hollow courtesy.",
+    "image_prompt": "A dim, smoky inn room in the late 1800s, a lone figure—Ishmael—seated by a crackling hearth, his face illuminated by flickering flames as he ponders a pact with a rugged, tattooed sailor, Queequeg, whose presence looms behind him. The air is heavy with ash and distant storm; the mood is brooding, contemplative, foreboding—a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 37,
-    "segment_text": "This soothing savage had redeemed it.",
-    "image_prompt": "A dim inn room, a crackling hearth casting long shadows on rough stone walls, a lone wooden bench where Queequeg sits with feet on the stove hearth. He holds a small black idol close to his face, whittling its nose with a jack‑knife while humming. Beside him, Ishmael watches in quiet reverence, the fire’s low glow reflecting in Queequeg’s fierce eyes. The air is heavy with the scent of smoke and salt, yet a sense of calm redemption fills the space.  \n**Style:** dark, moody 19th‑century oil painting."
+    "segment_text": "I drew my bench near him and made some friendly signs and hints, doing my best to talk with him meanwhile.",
+    "image_prompt": "A dimly lit Spouter Inn hall, a crackling fire casting wavering shadows on rough stone walls. Ishmael leans close to Queequeg, his hand extended in warm, hesitant gesture as he whispers into the stranger’s ear; Queequeg, half‑masked by a shadowed hood, listens with fierce, curious eyes. The scene radiates 19th‑century oil painting gloom—rich, muted tones, chiaroscuro light, and an aura of uneasy camaraderie. Style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 38,
-    "segment_text": "There he sat, his very indifference speaking a nature in which there lurped no civilized hypocrisies and bland deceits.",
-    "image_prompt": "A dim inn room lit by a low, flickering hearth; Queequeg sits alone on a worn wooden bench, his shaved head catching the firelight, deep black eyes fixed on a small carved idol in his hand. His posture is unbothered, shoulders squared, lips pursed in quiet concentration—no hint of pretense or deceit. The scene exudes a dark, moody 19th‑century oil painting atmosphere, capturing his stoic indifference and primal honesty."
+    "segment_text": "At first he little noticed these advances, but presently, upon my referring to his last night's hospitalities, he made out to ask me whether we were again to be bedfellows.",
+    "image_prompt": "A dimly lit Spouter Inn hearth glows, smoke curling over a worn wooden table. In the foreground, a lanky, tattooed Queequeg sits hunched beside a battered book, eyes narrowed in concentration. Ishmael, cloaked and tentative, leans forward with hand extended, whispering about last night's hospitality; Queequeg’s face twists into curiosity as he asks if they will be bedfellows again. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 39,
-    "segment_text": "Wild he was a very sight of sights to see, yet I began to feel myself mysteriously drawn towards him.",
-    "image_prompt": "A dimly lit inn room at dusk, fire crackling in an iron hearth; a lone wooden bench faces the glowing blaze. Queequeg sits stooped, his shaved head gleaming, eyes fierce yet contemplative, holding a small idol close to his face as he whittles it with a jack-knife. Nearby Ishmael watches him, expression softened by awe and unexpected affection. The atmosphere is heavy with smoke, shadows, and the subtle tension of an unspoken bond forming. Dark, moody 19th‑century oil painting style."
+    "segment_text": "I told him yes, whereat I thought he looked pleased, perhaps a little complimented.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a dimly lit tavern interior. Ahab’s rugged, tattooed Queequeg sits beside a crackling hearth, eyes bright with quiet triumph. Ishmael, in worn traveler's garb, leans forward, offering a solemn “yes.” Queequeg's face lights up, cheeks flushed, hint of a smile as he nods approvingly, their silhouettes framed by low firelight and swirling smoke."
   },
   {
     "segment_index": 40,
-    "segment_text": "And, those same things that would have repelled most others, they were the very magnets that thus drew me.",
-    "image_prompt": "A dim inn room lit by a low hearth, an anxious young sailor (Ishmael) sits on a worn bench, eyes fixed on the rugged, tattooed captain (Queequeg) who is counting pages with a fierce concentration. The atmosphere is heavy with smoke and stormy shadows outside the window; their faces glow in oil’s chiaroscuro. In this dark, moody 19th‑century oil painting, the magnetic pull of raw, unpolished humanity draws Ishmael toward Queequeg, despite all outward fear."
+    "segment_text": "We then turned over the book together, and I endeavored to explain to him the purpose of the printing and the meaning of the few pictures that were in it.",
+    "image_prompt": "A dimly lit Spouter Inn hall, soot‑stained walls and a crackling hearth glow faintly. Two figures—Ishmael in ragged sailor’s garb and Queequeg, scarred yet dignified—lean over a heavy, leather‑bound book on a wooden table. Ishmael holds the cover open, pointing toward faded illustrations while Queequeg listens intently, firelight flickering across their faces. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 41,
-    "segment_text": "\"'I'll try a pagan friend,' thought I, since Christian kindness has proved but hollow courtesy.",
-    "image_prompt": "A dim inn room in the storm‑swept harbor of New Bedford, a single hearth casting wavering shadows on rough wooden benches. In the center sits Queequeg, his shaved head gleaming against soot‑black skin, a small black idol cradled close to his face as he whittles with a jackknife; his eyes fixed on the faint glow. Beside him, Ishmael leans forward, lips pursed in contemplation, whispering “I’ll try a pagan friend,” his expression torn between skepticism and yearning. The scene is rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Thus I soon engaged his interest, and from that we went to jabbering the best we could about the various outer sights to be seen in this famous town.",
+    "image_prompt": "A dim Spouter Inn tavern, smoke curling from a low fire, Ishmael and Queequeg sit on worn benches, animatedly debating the sights of New Bedford. Queequeg’s scarred face glows in candlelight, his eyes sharp; Ishmael listens, hand clasped around a battered pipe. The oil painting captures their earnest conversation, the heavy wooden walls, and the moody, 19th‑century atmosphere. Dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 42,
-    "segment_text": "I drew my bench near him, and made some friendly signs and hints, doing my best to talk with him meanwhile.",
-    "image_prompt": "Ishmael, in a dim inn room, draws his worn wooden bench close to the lone figure of Queequeg. He gestures with tentative hands and murmurs softly, attempting conversation amid flickering hearth fire. Queequeg sits stoic on a bench, eyes fixed on a small idol, feet planted on a stone hearth, as ash drifts in the low light. The scene captures tension and fragile camaraderie in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Soon I proposed a social smoke, and, producing his pouch and tomahawk, he quietly offered me a puff.",
+    "image_prompt": "A dim, soot‑stained inn room, fire crackling in a low hearth; Ishmael sits beside Queequeg, who holds a weathered pouch and a gleaming tomahawk. The savage offers a puff of wild pipe smoke, his face lit by flickering flames, eyes reflecting fierce, unbroken spirit. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 43,
-    "segment_text": "At first he little noticed these advances,",
-    "image_prompt": "A dim inn room in a 19th‑century oil painting style, the crackling hearth casting flickering shadows on stone walls. Queequeg sits on a wooden bench, his shaved head catching firelight, eyes fixed on an open book with deliberate concentration. A humble man nearby—perhaps Ishmael—extends a hesitant hand and speaks softly, but Queequeg barely glances, absorbed in counting pages. The scene is moody, chiaroscuro‑rich, evoking the era’s brooding realism. Style: dark, moody, 19th‑century oil painting."
+    "segment_text": "and then we sat exchanging puffs from that wild pipe of his and keeping it regularly passing between us.",
+    "image_prompt": "A dimly lit Spouter Inn room, fire crackling in a low hearth. Queequeg, gaunt with a shaved head and fierce black eyes, leans toward Ishmael across a scarred wooden table. They exchange puffs from a jagged, wild pipe, smoke curling like ghostly wisps around their faces. The oil painting captures the tense intimacy, raw wilderness of a savage’s breath against a weary sailor’s calm, in 19th‑century dark, moody style."
   },
   {
     "segment_index": 44,
-    "segment_text": "But presently, upon my referring to his last night's hospitalities, he made out to ask me whether we were again to be bedfellows.",
-    "image_prompt": "A dimly lit inn room in a 19th‑century oil painting, smoke curling from a clay pipe. The heavy oak table is set with a battered book and an ivory idol on a low stone hearth. Ishmael, gaunt and weary, leans forward, speaking softly to Queequeg, whose shaved head glints under the flickering fire. Queequeg’s large black eyes stare back, his hand poised over a polished bone pipe as he asks in a low voice, “Are we again bedfellows?” The mood is tense, shadowed and moody, with a palpable sense of uneasy camaraderie."
+    "segment_text": "If there yet lurt any ice of indifference towards me in the pagan's breast, this pleasant genial smoke we had soon thawed it out and left us cronies.",
+    "image_prompt": "A dim inn room, a crackling hearth, Queequeg and Ishmael seated beside an iron pipe, smoke curling upward in swirling gray wisps. Queequeg’s weathered face is illuminated by firelight, his hands steady as he exhales, while Ishmael smiles, the warmth of their newfound camaraderie breaking a lingering chill. The scene radiates 19th‑century oil painting gloom, rich shadows and muted earth tones."
   },
   {
     "segment_index": 45,
-    "segment_text": "I told him yes, whereat I thought he looked pleased, perhaps a little complimented.",
-    "image_prompt": "A dimly lit 19th‑century inn room, a low crackling hearth casting wavering shadows on rough stone walls. In the foreground, Ishmael leans toward a stooped Queequeg, his hand extended in greeting; Queequeg’s broad, tattooed face turns slightly, eyes glinting with quiet approval as he smiles faintly. The heavy wooden bench and iron stove hearth create a stark contrast to the soft glow of oil lamps. A dark, moody atmosphere thickens the scene, evoking an old‑world, dramatic oil painting style."
+    "segment_text": "He seemed to take to me quite as naturally and unbiddenly as I to him, and when our smoke was over, he pressed his forehead against mine, clasped me round the waist, and said that henceforth we were married, meaning, in his country's phrase, that we were bosom friends.",
+    "image_prompt": "A dimly lit inn hall, fire crackling low; a rugged Queequeg and a weary Ishmael sit beside a cracked stone table, smoke curling around them. Queequeg presses his scarred forehead to Ishmael’s, embraces him waist‑high, whispering “we are married” in the sense of brotherhood. Their faces glow with fierce, unspoken trust amid flickering candlelight, 19th‑century oil painting style."
   },
   {
     "segment_index": 46,
-    "segment_text": "We then turned over the book together, and I endeavoured to explain to him the purpose of the printing and the meaning of the few pictures that were in it.",
-    "image_prompt": "A dim inn room lit only by a crackling hearth, where Ishmael and Queequeg sit close on worn wooden benches. The rugged, tattooed captain of the Pequod leans over an ancient, leather‑bound book, its pages fluttering in their hands. Queequeg’s broad, black eyes reflect the flickering flames as he listens intently to Ishmael’s earnest explanation of printed scenes and symbolic images, a moment of quiet intellectual exchange amid the stormy night. Dark, moody 19th‑century oil painting."
+    "segment_text": "He would gladly die for me, if need should be.",
+    "image_prompt": "A dimly lit Spouter Inn, a crackling hearth and a stone bench under a low ceiling. In the foreground, a hulking black‑eyed Queequeg sits with his feet on the stove, a small wooden idol in hand, his face turned toward an unseen companion. He intones, “I would gladly die for you,” his mouth open, eyes fierce and solemn. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 47,
-    "segment_text": "Thus I soon engaged his interest, and from that we went to jabbering the best we could about the various outer sights to be seen in this famous town.",
-    "image_prompt": "In a dim inn’s hearthlit room, Ishmael leans close to Queequeg, who sits with a battered book on his lap and a small black idol cradled near his face. The pair converse animatedly about the city’s sights, their voices echoing off stone walls. Queequeg’s tattooed hand gestures, his shaved head gleaming in candlelight, contrast Ishmael’s modest cloak. A crackling fire casts long shadows, creating a dark, moody 19th‑century oil painting atmosphere."
+    "segment_text": "In a country man, this sudden flame of friendship would have seemed far too premature, a thing to be much distrusted.",
+    "image_prompt": "A dim, smoky tavern room of the Spouter Inn, a crackling hearth casting long shadows across worn stone walls. In the foreground Ishmael sits hunched on a rough‑hewn bench, his face illuminated by flickering flames, eyes narrowed in contemplation as he weighs the sudden, fragile bond with Queequeg—an uneasy, almost suspicious friendship forged too quickly for a countryman’s wary heart. The scene is rendered in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 48,
-    "segment_text": "Soon I proposed a social smoke.",
-    "image_prompt": "A dim inn room at dusk, fire low and flickering on the hearthstone, its glow casting long shadows across a worn wooden table. Queequeg, tall and scarred, leans against a stone bench, his shaved head catching the light, holding a rough‑handed pipe with a jagged tomahawk beside him. Ishmael, in ragged coat, approaches with a half‑smoked cigarette, offering a quiet smoke between them. Their faces are lit by the fire’s amber glow, reflecting a fragile moment of uneasy camaraderie. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "But in this simple savage, those old rules would not apply.",
+    "image_prompt": "A lone, rugged Queequeg sits by a dim hearth in the Spouter Inn, flames flickering on his weather‑battered face. He cradles a small black idol close to his lips while a large, leather‑bound book lies open before him; he counts pages with deliberate rhythm, eyes fierce yet unbothered by the surrounding tavern bustle—his simple savage defying all old rules. 19th‑century oil painting, dark and moody."
   },
   {
     "segment_index": 49,
-    "segment_text": "On, producing his pouch and tomahawk, he quietly offered me a puff.",
-    "image_prompt": "A dim inn room with a crackling fire, ash‑gray stone walls, and a lone wooden bench. Queequeg, the scarred harpooner, leans close to Ishmael, his weathered face illuminated by flickering flames. In one hand he holds a rough pouch of dried tobacco; in the other, a polished tomahawk glinting faintly. He extends a small pipe to Ishmael, offering a quiet puff as their eyes meet over the smoky haze. The scene captures raw camaraderie and primal ritual in a dark, moody 19th‑century oil painting style."
+    "segment_text": "After supper and another social chat and smoke, we went to our room together.",
+    "image_prompt": "A dim, smoky inn room at dusk, a lone hearth crackling with low flames. Queequeg in his rough, tanned skin and tribal tattoos sits beside Ishmael, both cloaked in worn coats, sharing a single pipe that drifts wisps of smoke into the gloom. The air is heavy with tension and uneasy camaraderie, illuminated by flickering candlelight and the storm’s distant roar—dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 50,
-    "segment_text": "And then we sat exchanging puffs from that wild pipe of his, and keeping it regularly passing between us.",
-    "image_prompt": "A dim, smoky inn room in a storm‑swept harbor, a low fire crackling on a stone hearth. Queequeg, his face lit by the flicker, holds a rough‑handed pipe, exhaling thick clouds that swirl between him and Ishmael, who sits opposite, eyes closed, absorbed in the rhythmic exchange of puffs. Their faces are shadowed, yet the fire’s glow casts an amber haze over their rugged features, capturing the raw intimacy of shared breath in a dark, moody 19th‑century oil painting."
+    "segment_text": "He made me a present of his embalmed head, took out his enormous tobacco wallet, and groping under the tobacco, drew out some thirty dollars in silver, then spreading them on the table and mechanically dividing them into two equal portions, pushed one of them towards me and said it was mine.",
+    "image_prompt": "A dim, smoke‑filled inn room in a 19th‑century oil style: Queequeg, half‑shaved with fierce black eyes, presents Ishmael an embalmed head on a wooden table, his massive tobacco wallet open beside it. He pulls out silver coins, spreads them across the wood, splits them evenly, and hands one portion to Ishmael, a grim gesture of strange camaraderie. Dark, moody atmosphere, candlelit shadows."
   },
   {
     "segment_index": 51,
-    "segment_text": "If there yet lurked any ice of indifference towards me in the pagan's breast, this pleasant genial smoke we had soon thawed it out and left us cronies.",
-    "image_prompt": "Two rugged figures sit on a low wooden bench in the dim glow of an old inn’s hearth. Queequeg, with his shaved head and deep black eyes, exhales a cloud of smoke from a carved pipe; Ishmael leans forward, smiling warmly as the mist curls around them. The fire crackles softly, casting flickering shadows on their weathered faces. Their relaxed postures and shared laughter melt away any coldness, turning strangers into close comrades in a dark, moody 19th‑century oil painting style."
+    "segment_text": "I was going to remonstrate, but he silenced me by pouring them into my trousers' pockets.",
+    "image_prompt": "A dim Spouter Inn night, a lone hearth crackling; Ishmael stands with a trembling hand as Queequeg—tattooed, bearded, fierce yet solemn—silently pours silver dollars into his trousers pockets. The room is shadowy, the fire low, their faces illuminated by flickering light, capturing an uneasy, almost sacred trust in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 52,
-    "segment_text": "He seemed to take to me quite as naturally and unbiddenly as I to him.",
-    "image_prompt": "A dim inn room, low hearth glow casting long shadows on rough wooden walls, Ishmael sits beside Queequeg, who leans back with a serene, unguarded smile. The stranger’s weather‑torn face, deep black eyes, and shaven head contrast with the warm amber firelight; he holds a carved idol close to his chest, while a small pipe smolders between them. Their silent camaraderie feels effortless, as if two souls have always known each other—captured in a brooding, 19th‑century oil painting style."
+    "segment_text": "I let them stay.",
+    "image_prompt": "Ishmael, weary and stunned, watches Queequeg place a stack of gleaming silver dollars on the rough wooden table, then calmly slips them into his own trousers’ pockets. The dim glow of the hearth casts long shadows over their weathered faces; the inn’s stone walls loom in muted gloom, echoing the uneasy pact between man and savage. a dark, moody, 19th‑century oil painting"
   },
   {
     "segment_index": 53,
-    "segment_text": "And when our smoke was over, he pressed his forehead against mine, clasped me round the waist, and said that henceforth we were married, meaning, in his country's phrase, that we were bosom friends.",
-    "image_prompt": "A dim inn room lit by a low, flickering hearth; in the center, Queequeg—rugged, tattooed, with a shaved head and fierce black eyes—presses his warm, scarred forehead against Ishmael’s face, their faces close, smoke drifting from a shared pipe. He wraps a strong arm around Ishmael’s waist, both men in rough 19th‑century sailor garb, the room heavy with silence and distant storm sounds. The scene is rendered as a dark, moody oil painting of the late 1800s, rich shadows, muted earth tones, and an intimate, almost sacred gesture of brotherhood."
+    "segment_text": "He then went about his evening prayers, took out his idol, and removed the paper fireboard.",
+    "image_prompt": "A dimly lit inn room in stormy night, a lone figure—Queequeg—kneels by a crackling hearth. He lifts his carved black idol from a soot‑stained fireboard, the paper wrapped around it fluttering in a weak wind. His face is solemn, eyes reflecting flickering flames; shadows cling to his tattooed skin. The scene exudes a dark, moody 19th‑century oil painting atmosphere."
   },
   {
     "segment_index": 54,
-    "segment_text": "He would gladly die for me, if need should be.",
-    "image_prompt": "Dark, moody 19th‑century oil painting: inside a dimly lit ship’s galley at night, a single crackling hearth throws flickering light over two figures. Queequeg, broad‑shouldered with intricate tattooed arms, stands tall beside Ishmael, who sits on an old wooden stool, eyes wide in awe. Queequeg’s hand rests protectively on Ishmael’s shoulder, his face fierce yet tender, lips forming a solemn vow: “I would gladly die for you.” The smoky air and worn timber lend a raw, almost mythic atmosphere."
+    "segment_text": "By certain signs and symptoms, I thought he seemed anxious for me to join him, but well knowing what was to follow, I deliberated a moment whether, in case he invited me, I would comply or otherwise.",
+    "image_prompt": "Ishmael stands alone in a dim, soot‑blackened inn hall, the flickering hearth casting long shadows. He watches Queequeg, solemn and austere, holding a carved idol on his lap, eyes fixed ahead as if beckoning. The air is thick with incense and quiet dread; Ishmael's face contorts between curiosity and fear, torn by an unseen moral choice. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 55,
-    "segment_text": "In a countryman this sudden flame of friendship would have seemed far too premature, a thing to be much distrusted.",
-    "image_prompt": "A dimly lit inn room in the 1850s, fire crackling low on an old hearth. Queequeg, a scarred yet dignified Polynesian mariner with shaved head and fierce black eyes, sits on a wooden bench, a small carved idol resting against his chest. Ishmael, a lanky young sailor, leans in close, their shoulders nearly touching, eyes wide with awe and unease. The air is heavy with the scent of smoke and distant storm; a sense of wary trust hangs between them. Dark, moody 19th‑century oil painting."
+    "segment_text": "I was a good Christian, born and bred in the bosom of the infallible Presbyterian Church.",
+    "image_prompt": "A lone figure stands by a dim hearth, hand on his chest, eyes closed as he reflects upon his Protestant upbringing; a faint cross hangs behind him, casting a subtle glow over the soot‑stained walls of the inn. The scene is rendered in a dark, moody 19th‑century oil painting style, with deep shadows and muted earth tones capturing solemn reverence."
   },
   {
     "segment_index": 56,
-    "segment_text": "But in this simple savage those old rules would not apply.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a dimly lit inn room, where a rugged, tattooed Queequeg sits on a worn bench beside a low fire. He is absorbed in counting pages of an ancient book, his eyes intense and unblinking. Nearby, Ishmael, with a contemplative expression, watches him; the scene captures the stark contrast between civilized restraint and raw, savage freedom—highlighting that old rules do not apply to this simple man. Style: 19th‑century oil painting."
+    "segment_text": "How then could I unite with this wild idolater in worshiping his piece of wood?",
+    "image_prompt": "A dim, smoky inn room in a 19th‑century oil painting style, illuminated by a low fire. Ishmael stands beside Queequeg, who holds a carved black idol on a wooden fireboard. Queequeg’s fierce, tattooed face glows with primitive reverence; Ishmael looks conflicted, eyes reflecting the flicker of flames and the weight of cultural divide. The scene captures tension between wild faith and human doubt, set in a moody, atmospheric tavern."
   },
   {
     "segment_index": 57,
-    "segment_text": "After supper, and another social chat and smoke, we went to our room together.",
-    "image_prompt": "A dimly lit inn room in a storm‑battered harbor, the fire’s low glow trembling against soot‑black walls; Ishmael and Queequeg, weary after supper, share a smoky pipe in hushed conversation, their silhouettes cast by flickering flames. The heavy wooden door looms, hinting at private chambers beyond. In a dark, moody 19th‑century oil painting style, the scene captures their quiet camaraderie amid nautical gloom and impending night."
+    "segment_text": "But what is worship, thought I?",
+    "image_prompt": "A lone figure sits hunched over a cracked wooden table in the dim glow of a single hearth, his face illuminated by flickering firelight and shadows. He leans forward, eyes narrowed, lips pursed in contemplation, as wisps of smoke curl from an ember. The room is sparse, walls lined with tattered books; a faint storm rattles against the window. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 58,
-    "segment_text": "He made me a present of his embalmed head, took out his enormous tobacco wallet, and, groping under the tobacco, drew out some thirty dollars in silver, then spreading them on the table, and mechanically dividing them into two equal portions, pushed one of them towards me, and said it was mine.",
-    "image_prompt": "A dimly lit inn room in a stormy New England harbor, an ancient wooden table scarred by time. Queequeg, his beard bristling, holds up a small brass case revealing the embalmed skull of a dead man, its hollow eyes reflecting flickering firelight. He pulls out a large tobacco wallet, fingers trembling as he extracts thirty silver dollars, spreading them across the wood with deliberate precision. In a solemn gesture he offers half to Ishmael, his gaze steady and unblinking, all rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Do you suppose now, Ishmael, that the magnanimous God of heaven and earth, pagans and all included, can possibly be jealous of an insignificant bit of black wood?",
+    "image_prompt": "A dimly lit Spouter Inn, fire crackling on a stone hearth, Ishmael standing beside a low wooden table, his face illuminated by flickering flames. He gazes at Queequeg’s carved black idol, hands clasped in contemplation, the old sailor’s weather‑worn eyes reflecting deep reverence. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 59,
-    "segment_text": "I was going to remonstrate, but he silenced me by pouring them into my trousers' pockets.",
-    "image_prompt": "Queequeg, the towering black harpooner with a shaved head and fierce tattooed face, pours gleaming silver coins into Ishmael’s trousers while they sit in a dimly lit inn room; the fire casts flickering shadows on their rough‑hewn bodies, and the air is thick with smoke and sea‑salt. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Impossible!",
+    "image_prompt": "A dim, candlelit chamber in the Spouter Inn, where a lone, soot‑blackened fire crackles against stone walls. In the foreground, a weary, disheveled sailor—Ishmael—kneels reverently before a small, black wooden idol held by Queequeg, who stands tall and austere, his shaved head gleaming in low light. The scene exudes a bleak, 19th‑century oil painting mood, with muted earth tones, deep shadows, and an atmosphere of solemn, impossible devotion. Style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 60,
-    "segment_text": "I let them stay.",
-    "image_prompt": "A dim inn room in a storm‑swept harbor, illuminated only by the crackling hearth. In the foreground, Ishmael (tall, weary, eyes reflecting firelight) clasps a small pouch of silver coins that Queequeg has poured into his trousers. Queequeg sits beside him, his shaved head gleaming, his face serene yet fierce, palm pressed to Ishmael’s shoulder in silent gratitude. The air is heavy with tension and the scent of tar; a single candle flickers on a nearby table. 19th‑century oil painting, dark and moody."
+    "segment_text": "But what is worship?",
+    "image_prompt": "A solitary Ishmael sits by a low fire in the dim Spouter Inn, his face illuminated by flickering flames as he contemplates “what is worship.” He stares into a small, black idol of Queequeg on the hearth, hands wrapped around a candle, while smoke curls from an old pipe. The scene captures brooding introspection in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 61,
-    "segment_text": "He then went about his evening prayers, took out his idol, and removed the paper fireboard.",
-    "image_prompt": "A dim inn room at twilight, a lone lantern flickering on a stone hearth. Queequeg, towering and scarred, kneels in a soot‑stained wooden chair, his shaved head gleaming. In his hands he lifts a small black idol from a rough paper fireboard that clings to the wall, its surface etched with primitive symbols. The smoke curls around him, shadows deepen, and his solemn face reflects both reverence and wild determination—an austere, 19th‑century oil painting in dark, moody tones."
+    "segment_text": "To do the will of God?",
+    "image_prompt": "A dim, candlelit study in a 19th‑century ship’s galley, the scarred face of Queequeg hunched over an ancient wooden idol, his hand poised to strike a fireboard. The air is thick with incense and salt spray; a lone lantern casts harsh shadows on the rough stone walls. Ishmael, eyes narrowed in contemplation, whispers “To do the will of God” as he reaches for a tattered prayer book, the scene rendered in dark, moody oil painting style of the 1800s."
   },
   {
     "segment_index": 62,
-    "segment_text": "By certain signs and symptoms I thought he seemed anxious for me to join him, but, well knowing what was to follow, I deliberated a moment whether, in case he invited me, I would comply or otherwise.",
-    "image_prompt": "Ishmael stands in a dimly lit inn room, the crackling fire casting long shadows on stone walls. Queequeg, half‑cloaked in rough wool, kneels beside a low table, holding a small black idol with reverent hands; his brow furrowed, he stares toward Ishmael as if inviting him into prayer. The weary sailor’s face is illuminated by flickering flames, eyes reflecting both dread and curiosity, while the room hums with the distant storm. A dark, moody 19th‑century oil painting."
+    "segment_text": "That is worship.",
+    "image_prompt": "A dimly lit Spouter Inn room, fire crackling low; Ishmael stands beside a battered wooden idol, his hand raised as he declares “That is worship.” Queequeg sits nearby, eyes fixed on the flickering flames, a half‑finished book open on his lap. The air hangs heavy with incense and smoke, shadows dancing across their faces in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 63,
-    "segment_text": "I was a good Christian, born and bred in the bosom of the infallible Presbyterian Church.",
-    "image_prompt": "A lone figure in a dim inn, the flickering hearth casting long shadows across his face. The man—Ishmael—stands beside a worn wooden table, a Bible open but unread, his gaze fixed outward as if listening to unseen prayers. Beside him, Queequeg reclines on a bench, a small idol in hand, eyes closed in contemplation. The room feels heavy with reverence and tension, the air thick with smoke and candlelight. A 19th‑century oil painting style, dark and moody, capturing the solemn introspection of faith amid wilderness."
+    "segment_text": "And what is the will of God?",
+    "image_prompt": "A solitary, candlelit study in a storm‑swept harbor, where Ishmael sits hunched over a battered Bible, his face illuminated by flickering flame; his eyes stare into the abyss as he contemplates divine purpose. Around him, faded nautical charts and a cracked pewter chalice evoke 19th‑century gloom. Rendered in dark, moody oil, with muted sepia tones and heavy chiaroscuro, capturing the introspective weight of God’s will."
   },
   {
     "segment_index": 64,
-    "segment_text": "How, then, could I unite with this wild idolater in worshipping his piece of wood?",
-    "image_prompt": "A dim inn room at dusk, a crackling hearth casting long shadows on stone walls. Captain Ahab sits alone, his weathered face illuminated by the fire’s glow, while Ishmael leans in close, eyes wide with contemplation. In front of them, Queequeg’s carved wooden idol stands on a low table, its smooth surface reflecting flickering flames. The scene is suffused with a sense of solemn ritual and uneasy alliance, rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "To do to my fellow man what I would have my fellow man to do to me.",
+    "image_prompt": "A dimly lit Spouter Inn room in the 19th century, a lone fire crackling on an old hearth. In the foreground, Ishmael stands with his hand outstretched, eyes earnest, as he speaks to Queequeg—his fellow man—who sits across, listening intently. The scene is rendered in a dark, moody oil painting style of the 1800s, emphasizing shadowed faces and the flickering glow of candlelight."
   },
   {
     "segment_index": 65,
-    "segment_text": "But what is worship?",
-    "image_prompt": "A dim inn room in a 19th‑century oil style, candlelight flickering over rough stone walls. Ishmael sits hunched on an old wooden bench, head bowed, eyes closed as he contemplates “what is worship,” his face illuminated by the soft glow of a hearth fire. Beside him, Queequeg leans forward, a small black idol in hand, its carved face peering into the gloom. The atmosphere is heavy with silence and introspection, the air thick with smoke and the distant storm. Dark, moody, 19th‑century oil painting."
+    "segment_text": "That is the will of God.",
+    "image_prompt": "A lone, candlelit corner of the Spouter Inn, a weary Ishmael hunched over a battered bible, eyes fixed on Queequeg’s black wooden idol perched upon a cracked pew. The room shrouded in smoky gloom; ash drifts from a low fire. A storm rattles windows outside. In the dim light, Ishmael whispers, “That is the will of God,” his face trembling with newfound conviction. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 66,
-    "segment_text": "thought I. Do you suppose now, Ishmael, that the magnanimous God of heaven and earth pagans, and all included, can, possibly be jealous of an insignificant bit of black wood?",
-    "image_prompt": "A dim inn room lit by a low fire, shadows pooling on stone walls; Captain Ahab’s silhouette is absent, but the focus is on Ishmael seated in a creaking wooden chair, his face turned toward a small black wood idol perched on a mantle. Queequeg, barefoot and tattooed, leans over him, whispering with an earnest, almost reverent expression. The scene captures their tense, contemplative dialogue about divine jealousy, rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Now, Queequeg is my fellow man.",
+    "image_prompt": "A dimly lit Spouter Inn room, a cracked stone hearth casting wavering shadows. In the foreground, Ishmael leans over a wooden table, eyes earnest, his hand resting on a battered journal as he speaks to Queequeg, who sits beside him, half‑wrapped in a coarse cloak, tattooed and solemn. The air hums with low thunder; a single candle flickers, illuminating the black, fierce gaze of Queequeg. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 67,
-    "segment_text": "Impossible.",
-    "image_prompt": "Ishmael sits alone by the low hearth of a dim inn room, his face illuminated by flickering flames as he stares at Queequeg’s black idol perched on the table. The smoky air hangs heavy; the wooden bench creaks beneath him. He lifts a hand to his lips, eyes wide with disbelief and a hint of awe, murmuring “Impossible.” His expression blends fear, wonder, and an emerging respect for the savage friend beside him. Rendered in a dark, moody 19th‑century oil style."
+    "segment_text": "And what do I wish that this Queequeg would do to me?",
+    "image_prompt": "A lone, darkened inn room, a crackling hearth and the scent of stormy sea outside. In the foreground, Queequeg—tattooed, shaved head, fierce black eyes—seated on an old bench, holding his carved negro idol close to his face while humming a haunting chant. Nearby Ishmael leans forward, eyes fixed on Queequeg’s solemn expression, as if pleading for a gesture of trust. The scene is rendered in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 68,
-    "segment_text": "But what is worship?",
-    "image_prompt": "A dim inn room in a stormy night, a lone candle flickering over a rough‑handed wooden table. In the foreground, a weathered sailor—Queequeg—holds an idol of black wood, its face peered into by Ishmael, who leans forward, brow furrowed, lips pursed as he murmurs “But what is worship.” The heavy hearth crackles in background; a shadowy figure of Ahab looms at the doorway. The scene feels brooding and introspective, rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Why, unite with me in my particular Presbyterian form of worship.",
+    "image_prompt": "Ishmael, cloaked in a dimly lit cabin, holds an open Bible beside a flickering hearth; his face is illuminated by the flame as he whispers, “Why, unite with me in my particular Presbyterian form of worship.” Queequeg’s shadowy silhouette looms at the doorway, eyes fixed on the man. The scene exudes brooding 19th‑century oil paint gloom, heavy chiaroscuro, and a tense, contemplative atmosphere."
   },
   {
     "segment_index": 69,
-    "segment_text": "To do the will of God.",
-    "image_prompt": "A dimly lit inn room, a low fire crackling on an old stone hearth, shadows pooling over a wooden bench. Ishmael sits across from Queequeg, who holds a small black idol close to his face while humming; the idol’s carved eyes stare back. Between them lies an open, weather‑worn book of prayers and a half‑lit candle. The scene captures the solemn moment when Ishmael whispers, “To do the will of God,” as both men contemplate divine purpose in their shared silence. Dark, moody 19th‑century oil painting."
+    "segment_text": "Consequently, I must then unite with him in his, ergo I must turn idolater.",
+    "image_prompt": "Ishmael, face lit by trembling hearth fire, bows before Queequeg’s carved wooden idol in a dim Spouter Inn room; the savage’s eyes glow with fierce reverence as he offers incense, his hand steady. A hushed storm rattles windows outside, while the smoky haze of pipe and candle mingles—capturing a tense, transformative moment of faith and brotherhood in 19th‑century oil style."
   },
   {
     "segment_index": 70,
-    "segment_text": "that is worship.",
-    "image_prompt": "A dimly lit inn room in a storm‑battered New England harbor, fire crackling low on an old hearth. Ishmael sits hunched over a worn book, his face illuminated by the flicker of flame and the glow of a small idol perched beside him. Queequeg stands nearby, solemn and unblinking, his tattooed arms resting on a chair. The scene captures Ishmael’s contemplative whisper, “that is worship,” as he gazes at the idol with reverent awe, surrounded by shadows and oil‑painted gloom of a 19th‑century moody style."
+    "segment_text": "So I kindled the shavings, helped prop up the innocent little idol, offered him burnt biscuit with kwee kweg, salamed before him twice or thrice, kissed his nose, and that done, we undressed and went to bed, at peace with our own consciences and all the world.",
+    "image_prompt": "Ishmael in a dim, soot‑stained inn room, his hand igniting fine wood shavings that cast flickering shadows on a weathered wooden altar. He steadies Queequeg’s small idol beside a cracked hearth, offers it a charred biscuit, salutes twice with solemn reverence, kisses the idol’s nose, then gently undresses to share a quiet night of peace in a candlelit chamber – a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 71,
-    "segment_text": "And what is the will of God?",
-    "image_prompt": "A solitary candle flickers on a stone hearth in a dimly lit 19th‑century inn room; Queequeg, a rugged yet dignified Polynesian sailor with shaved head and deep black eyes, sits on a worn bench, clutching his small idol. Ishmael, a young white man in simple garb, leans over him, listening intently as Queequeg speaks of the will of God. The scene is rendered in a dark, moody oil painting style, evoking 19th‑century atmospheric realism."
+    "segment_text": "But we did not go to sleep without some little chat.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: In a dimly lit cabin of the Spouter Inn, Ishmael and Queequeg lie side by side on a rough wooden bed, their faces illuminated by a single flickering candle. Their eyes meet in quiet intimacy as they whisper confidences, shadows draped over their weathered bodies, echoing the storm outside, yet wrapped in an uneasy, almost sacred camaraderie."
   },
   {
     "segment_index": 72,
-    "segment_text": "To do to my fellow man what I would have my fellow man to do to me, that is the will of God.",
-    "image_prompt": "A dim, candlelit inn room in a 19th‑century oil painting style, smoky air swirling around an old wooden table. Queequeg sits cross‑legged, his carved black idol on the hearth, while Ishmael leans close, his face illuminated by flickering firelight, eyes earnest as he speaks the moral line: “To do to my fellow man what I would have my fellow man to do to me.” The scene captures a quiet, reverent exchange, shadows lengthening across their faces in moody chiaroscuro. Dark, moody, 19th‑century oil painting."
+    "segment_text": "How it is I know not, but there is no place like a bed for confidential disclosures between friends.",
+    "image_prompt": "A dim, smoky Spouter Inn bedroom, a lone iron bed beneath flickering hearth fire. Queequeg and Ishmael lie close, faces half‑lit by the flame, their bodies entwined in quiet intimacy. Their eyes meet over a spread of tattered pages; shadows dance on stone walls. The scene feels like a 19th‑century oil painting—dark, moody, with chiaroscuro lighting capturing raw, unspoken trust. Style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 73,
-    "segment_text": "Now Queequeg is my fellow man, and what do I wish that this Queequeg would do to me?",
-    "image_prompt": "Ishmael sits alone in a dimly lit cabin, candle flame trembling against soot‑stained walls. He gazes pensively at Queequeg’s carved idol perched on the mantel, his face illuminated by flickering firelight. The old sailor's eyes reflect a weary, reflective mood as he muses over their strange friendship, clutching a tattered Bible in one hand while the other trembles with the weight of shared destiny. A dark, moody 19th‑century oil painting style."
+    "segment_text": "Man and wife, they say, they're open the very bottom of their souls to each other, and some old couples often lie and chat over old times till nearly morning.",
+    "image_prompt": "A dimly lit inn room at midnight, a lone hearth crackling. A rugged sailor and his companion lie entwined on an old wooden bed, faces illuminated by the fire’s glow. Their eyes meet in quiet reverence as they share whispered memories, the air heavy with salt‑tinged wind outside. The scene is rendered in dark, moody 19th‑century oil style, capturing raw intimacy and rustic melancholy."
   },
   {
     "segment_index": 74,
-    "segment_text": "Why, unite with me in my particular Presbyterian form of worship.",
-    "image_prompt": "A dimly lit inn room in the 19th‑century, a heavy oak table bathed in flickering firelight. Ishmael, draped in rough wool, leans forward, eyes earnest, speaking to Queequeg—his broad tattooed face turned toward him, a carved black idol perched on a stone hearth beside a crackling stove. The air hangs with the scent of wood smoke and incense; shadows dance across their faces as Ishmael’s words echo, “Why, unite with me in my particular Presbyterian form of worship.” A dark, moody oil painting style."
-  },
-  {
-    "segment_index": 75,
-    "segment_text": "Consequently, I must then unite with him in his, ergo, I must turn it all",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a candlelit inn room; Ishmael, gaunt and pensive, kneels beside Queequeg’s crude wooden idol on a low table, their faces illuminated by flickering flame. Queequeg, scarred yet dignified, holds a bundle of dry shavings, offering them to the idol while Ishmael watches with a conflicted expression. The walls are lined with faded tapestries, and a single fireboard crackles in the hearth, casting deep shadows over their intertwined destinies."
-  },
-  {
-    "segment_index": 76,
-    "segment_text": "So I kindled the shavings, helped prop up the innocent little idol, offered him burnt biscuit with kwee-kweg, saw him before him twice or thrice, kissed his nose, and that done, we undressed and went to bed, at peace with our own consciences.",
-    "image_prompt": "Dark, moody 19th‑century oil painting: an intimate inn room dimly lit by a crackling fire. In the foreground, Ishmael kneels beside Queequeg, who sits on a wooden bench, his face serene and tattooed. Ishmael kindles a small pile of shavings, propelling a modest black idol with careful hands; he offers a burnt biscuit to the idol’s head. The scene captures the moment when Ishmael kisses Queequeg’s nose, both men quietly undressing, their silhouettes framed by candlelight, exuding quiet reverence and newfound camaraderie."
-  },
-  {
-    "segment_index": 77,
-    "segment_text": "But we did not go to sleep without some little chat.",
-    "image_prompt": "A dim inn room with a low, flickering fire, two weary figures—Queequeg in his shaved head and tattered garments, Ishmael in rough sea‑cloth—seated on an old wooden bench. They lean toward each other across a cracked table, their faces illuminated by the amber glow of the hearth, engaged in hushed conversation. The air is heavy with smoke from a pipe, and distant storm clouds loom outside the window, casting long shadows over the scene. 19th‑century oil painting style, dark and moody."
-  },
-  {
-    "segment_index": 78,
-    "segment_text": "How it is, I know not, but there is no place like a bed for confidential disclosures between friends.",
-    "image_prompt": "A shadowed ship’s cabin at night, a low‑tension wooden berth under a cracked lantern glow; Ishmael and Queequeg lie side‑by‑side, their faces turned toward each other in quiet conversation, the moonlight catching the worn rope and scattered papers on the floor. The air hums with unspoken secrets, their bodies pressed close as if sharing breath itself. A dark, moody 19th‑century oil painting."
-  },
-  {
-    "segment_index": 79,
-    "segment_text": "Man and wife, they say, there open the very bottom Of their souls to each other, and some old couples Often lie and chat over old times till nearly morning.",
-    "image_prompt": "A shadowed, low-lit inn room at midnight, a lone hearth crackling; a weary sailor and a rugged companion sit close on a wooden bench, faces illuminated by flickering flames. They speak softly, eyes locked, as the wind rattles the window panes outside. The scene captures their intimate exchange of memories, with a single candle casting deep pools of light over worn leather chairs and rough stone walls—an evocative, moody 19th‑century oil painting style."
-  },
-  {
-    "segment_index": 80,
-    "segment_text": "Thus, then, in our heart's honeymoon, Lay I and Cui-keg Ah-kwe-zee, loving pair.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of Ishmael and Queequeg lying side‑by‑side on a rough wooden ship’s cabin bed, their bodies close as if sharing a secret. The room is dimly lit by a single lantern, casting deep shadows across weathered ropes and tarred boards. Their faces show tenderness amid ruggedness; Queequeg’s tattooed skin glows faintly in the lamplight, while Ishmael’s eyes reflect quiet reverence. The scene exudes an eerie, intimate harmony between two unlikely companions."
+    "segment_text": "Thus then, in our heart's honeymoon, lay I and Queequeg, a cozy, loving pair.",
+    "image_prompt": "A dimly lit inn room in the stormy night, the hearth’s low glow casting long shadows. In a quiet corner, Ishmael lies beside Queequeg, their bodies intertwined as if sharing a secret. Queequeg’s rugged face softened by gentle affection, hands resting close to Ishmael’s chest. The air is heavy with silence and unspoken bond, a dark, moody 19th‑century oil painting."
   }
 ]

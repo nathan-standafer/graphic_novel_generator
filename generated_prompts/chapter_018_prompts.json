@@ -1,472 +1,492 @@
 [
   {
     "segment_index": 0,
-    "segment_text": "CHAPTER XVIII HIS MARK As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg, in his gruff voice, loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft unless they previously produced their papers.",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, fog curling over wooden pilings. Queequeg stands tall in tattered sea‑cloth, a gleaming harpoon strapped to his arm, eyes narrowed against the wind. Captain Peleg emerges from a weathered wigwam, rough hand raised, voice thunderous as he warns of cannibals and demands papers. A shadowy crew watches, their faces tense, while distant gulls cry over the looming ship’s silhouette. Dark, moody 19th‑century oil painting."
+    "segment_text": "Chapter 18 His Mark As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft unless they previously produced their papers.",
+    "image_prompt": "A dimly lit Nantucket wharf at dusk, fog curling over the wooden pier. Queequeg stands tall, a gleaming harpoon in hand, his tattooed arm catching weak lantern light. Captain Peleg, rough‑eyed and scarred, barks from a weathered wigwam, voice echoing off stone walls. Men in heavy wool coats loom behind, tense, as the stormy sea threatens in the background—19th‑century oil painting, dark, moody."
   },
   {
     "segment_index": 1,
     "segment_text": "What do you mean by that, Captain Peleg?",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, fog curling over the water, a weathered wooden pier jutting into the gloom. Queequeg in his harpoon‑belt stands beside Captain Peleg, a gruff, broad‑shouldered man with a rough beard and scarred hands, gripping a polished brass harpoon. Peleg’s face is stern, eyes narrowed, voice booming over the creaking deck. The scene captures tension: Queequeg leans forward, head tilted, asking sharply, “What do you mean by that?” in a dark, moody 19th‑century oil painting style."
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Queequeg in his harpoon gear stands on the bulwarks, eyes fixed on Captain Peleg—tall, gruff, wearing a worn wigwam hood—who gestures emphatically toward the ship’s hull. The air is thick with tension, waves lashing below, and distant gulls cry against a bruised sky. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 2,
     "segment_text": "said I, now jumping on the bulwarks and leaving my comrade standing on the wharf.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket harbor at dusk. In the foreground, Ishmael—tall, lean, with a weathered beard—jumps onto the wooden bulwarks of a whale ship, his boots clacking against splintered planks. He strides forward, leaving Queequeg, a tattoo‑lined harpooner in a faded brown coat, standing stoically on the slick wharf beside a creaking pier. Rough waves crash against the dock; distant gulls cry overhead, casting long shadows over the grim scene. The style is true to 19th‑century oil realism."
+    "image_prompt": "A tense moment on a fog‑cloaked Nantucket pier, Ishmael leaping onto the bulwarks with Queequeg still rooted on the wooden wharf below. The dark, moody 19th‑century oil painting captures their rough, weathered faces and the stormy sea in muted blues. Thick rope, harpoons, and a looming ship’s deck set the gritty maritime scene. Style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 3,
-    "segment_text": "\"'I mean,' he replied, \"'he must show his papers.'",
-    "image_prompt": "A tense, moonlit wharf in the late 1800s, a rough‑skinned Queequeg standing on bulwarks beside Captain Peleg and Bildad, both wearing heavy wool coats and brimmed hats, eyes narrowed as they demand proof of conversion. Queequeg’s hand grips a gleaming harpoon, his tattoos glinting in the dim lantern light. The sea churns below, gulls cry; an ominous, storm‑clouded horizon looms. Rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "I mean, he replied, he must show his papers.",
+    "image_prompt": "A tense confrontation on a fog‑shrouded Nantucket wharf in the early 1800s: Captain Peleg and stern Bildad stand beside the wooden bulwarks, their faces hard with suspicion as they demand documents from the tattooed Queequeg, who holds his harpoon ready. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 4,
-    "segment_text": "\"'Yes,' said Captain Bildad in his hollow voice, sticking his head from behind Peleg's out of the wigwam.",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, a rough‑hewn wooden wigwam stands on the shore. Captain Bildad, gaunt and solemn in weathered coat, peeks from behind Peleg’s sturdy timber frame, his hollow voice echoing through the mist. Peleg, gruff and commanding, holds a harpoon aloft, casting a shadow over Queequeg, tattoo‑covered and ready to board. The sea churns, lantern light flickers, and the scene exudes tension in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Yes, said Captain Bildad in his hollow voice, sticking his head from behind Pelegs out of the wigwam.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of the Nantucket wharf at dusk: Captain Bildad, in weathered coat and brimmed hat, emerges from a rough‑cut wigwam, his hollow eyes fixed on Captain Peleg. The wind rattles tarred sails; smoke curls from the harbor’s stone jetty, casting deep shadows over the wooden bulwarks and the looming ship below."
   },
   {
     "segment_index": 5,
-    "segment_text": "\"'He must show that he's converted.",
-    "image_prompt": "A dim, storm‑laden Nantucket wharf at dusk, long wooden bulwarks creaking under the weight of a weary crew. In the foreground, Captain Bildad—his face gaunt and eyes narrowed—stands in a ragged wigwam doorway, his hand thrust forward as if demanding proof. Queequeg, half‑cloaked in tattered sailcloth, leans against the railing, harpoon slung across his shoulder, his tattooed arm exposed to show his marks. The sky is bruised with dark clouds, and a lone gull cries above, all rendered in heavy, moody 19th‑century oil style."
+    "segment_text": "He must show that he's converted.",
+    "image_prompt": "A dimly lit Nantucket wharf at twilight, a stern Captain in rough wool coat demands proof of faith from a tattooed harpooner. Queequeg stands on the bulwarks, harpoon poised, eyes wary, while a grizzled ship‑master peers through thick spectacles. The mood is tense and brooding, with stormy clouds gathering over the sea – a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 6,
-    "segment_text": "Son of darkness,' he added, turning to Queequeg.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Captain Bildad, gaunt and stern in tattered wool coat, stands on the wooden bulwarks, his face half‑shadowed by a wide brimmed hat, pointing accusingly toward Queequeg. Queequeg, tattooed and fierce, leans against the railing, harpoon in hand, eyes narrowed. Rough waves crash below, a lone whale‑boat moored nearby, while faint silhouettes of other crew loom in the misty harbor. The scene radiates tension and maritime dread."
+    "segment_text": "Son of Darkness, he added, turning to Kwekweg, art thou at present in communion with any Christian church?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Captain Bildad stands on the wooden bulwarks, his broad‑skirted coat billowing in the wind, eyes narrowed as he confronts Queequeg. Queequeg, harpoon in hand, leans forward, his tattooed arm glinting. The sea roils below, a lone gull circles above, while a distant ship’s mast looms, casting long shadows. Style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 7,
-    "segment_text": "\"'Art thou at present in communion with any Christian church?'",
-    "image_prompt": "A tense confrontation on a dimly lit Nantucket wharf at dusk, Captain Bildad, rough‑eyed and stern, leans over the bulwarks with his broad‑skirted coat billowing in a cold wind. In front of him stands Queequeg, tattooed arms glinting under flickering lantern light, holding a harpoon like a prayerful relic. The ship’s deck looms behind them, smoke curling from the galley. Bildad's voice rises, demanding, “Art thou at present in communion with any Christian church?” The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Why, said I, he's a member of the First Congregational Church.",
+    "image_prompt": "A tense, moonlit Nantucket wharf in a dim, 19th‑century oil style: Ishmael stands beside the hulking hull of the Pequod, his eyes fixed on Queequeg who clutches a gleaming harpoon. Captain Peleg and Bildad loom behind, stern faces lit by lantern glow, as Ishmael declares “He’s a member of the First Congregational Church.” The sea roils, casting long shadows over weather‑scarred wooden planks."
   },
   {
     "segment_index": 8,
-    "segment_text": "Why,\" said I, he's a member of the First Congregational Church.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Ishmael stands on the weathered bulwarks of a Nantucket wharf, face turned toward Queequeg who holds his iron harpoon aloft. Nearby, stern Captain Peleg and ominous Captain Bildad glare from a wooden wigwam doorway, their eyes narrowed in accusation. The sea roils beneath a stormy sky; the ship’s hull looms in the distance. Text overlay reads: “Why, said I, he’s a member of the First Congregational Church.” Style: 19th‑century oil painting."
+    "segment_text": "Here be it said that many tattooed savages sailing in Nantucket ships at last come to be converted into the churches.",
+    "image_prompt": "A dim harbor of Nantucket, twilight mist curling over weather‑worn wharves. Queequeg stands proud beside a battered schooner, his arm etched with vivid tattoos that glint in the lantern light. Around him, rugged sailors stare in astonishment as he gestures toward a small wooden cross on the deck, hinting at newfound faith. The scene is rendered in dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 9,
-    "segment_text": "Here be it said that many tattooed savages sailing in Nantucket ships at last come to be converted into the churches.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a crowded Nantucket wharf under stormy skies. Men with weather‑torn coats and rough hands cluster around a wooden ship, their faces lit by flickering lanterns. In the foreground, tattooed sailors—muscular, scarred, eyes fierce—are being ushered toward a modest church building, their arms marked in swirling patterns. A stern Captain Peleg stands between them, gesturing with a harpoon, while a young Queequeg watches, his expression torn between faith and duty. The scene captures the tension of conversion amid harsh sea life."
+    "segment_text": "First Congregational Church, cried Bildad.",
+    "image_prompt": "A dimly lit Nantucket wharf at dusk, a rough‑hewn wooden dock stretching into the misty sea. Captain Bildad, in tattered coat and broad brimmed hat, stands on the bulwarks shouting “First Congregational Church!” His voice booms over Queequeg, who grips a gleaming harpoon, and other whalers gawping. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 10,
-    "segment_text": "first congregational church,\" cried Bildad.",
-    "image_prompt": "A dimly lit Nantucket wharf in twilight, waves lapping against a battered whale‑boat. In the foreground, an austere white‑haired Captain Bildad stands on the wooden bulwarks, his face contorted with righteous fury as he shouts “first congregational church!” His outstretched hand points toward Queequeg, who is poised beside him, harpoon in hand, eyes wide. Behind them, Captain Peleg and a wary Ishmael lean against the railing, their silhouettes framed by the flickering lanterns of a nearby wigwam. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and textured brushstrokes."
+    "segment_text": "What, that worships in Deacon Deuteronomy Coleman's meeting house?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a bustling Nantucket wharf at dusk, with rough‑skinned Queequeg standing beside a weathered wooden ship amid gulls and lantern light. Captain Peleg and Bildad, in coarse coats, shout from the shore, while the distant silhouette of Deacon Deuteronomy’s meeting house looms on the horizon, its bell tower casting an ominous shadow over the scene."
   },
   {
     "segment_index": 11,
-    "segment_text": "\"'What that worships in Deacon Deuteronomy Coleman's meeting-house?'",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a bustling Nantucket wharf at dusk. Captain Peleg, rugged and stern, stands in a wooden wigwam doorway, pointing accusingly toward Queequeg, the tattooed harpooner who leans on a bulwark with his gleaming harpoon poised. Nearby, Captain Bildad peers from behind a curtain, clutching a stack of papers. A rough‑handed Deacon Deuteronomy, cloaked in a plain gray habit, steps forward from a meeting‑house doorway, his face lit by lantern glow, as he questions Queequeg’s faith. The scene is tense, the air thick with maritime dust and the scent of tar."
+    "segment_text": "And so saying, taking out his spectacles, he rubbed them with his great yellow bandana handkerchief, and putting them on very carefully, came out of the wigwam, and leaning stiffly over the bulwarks, took a good long look at Queequeg.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: Captain Bildad, spectacles gleaming under flickering lantern light, pulls a bright yellow bandana across his face, steps out of a weathered wigwam onto a storm‑cracked wharf. He leans rigidly over bulwarks, eyes fixed on Queequeg’s tattooed arm, the sea roiling beneath them, foreboding tension in every brushstroke."
   },
   {
     "segment_index": 12,
-    "segment_text": "And so saying, taking out his spectacles, he rubbed them with his great yellow bandanna-handkerchief, and putting them on very carefully, came out of the wigwam, and leaning stiffly over the bulwarks, took a good long look at Queequeg.",
-    "image_prompt": "A dim, storm‑clouded wharf in early dawn, lantern light flickering across wet cobblestones. Captain Bildad, a rugged Nantucket fisherman, emerges from a weathered wigwam, spectacles gleaming after being rubbed with his bright yellow bandanna. He leans stiffly over the bulwarks, eyes narrowed as he scrutinizes Queequeg—tall, tattooed, harpoon in hand—standing resolute beside the ship’s deck. The scene brims with tension, muted hues, and a foreboding sea, captured in a dark, moody 19th‑century oil painting style."
+    "segment_text": "How long hath he been a member?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of the Nantucket wharf at dusk, Queequeg standing stoically on the bulwarks with his harpoon in hand, Captain Bildad and Captain Peleg leaning over him, their faces stern and lit by lantern glow. The scene captures the tense moment when Queequeg’s membership is questioned amid soot‑smudged wooden planks and a looming stormy horizon."
   },
   {
     "segment_index": 13,
-    "segment_text": "How long hath he been a member?\"",
-    "image_prompt": "A dark, moody 19th‑century oil painting of the ship’s bulwarks at twilight. Captain Bildad, gaunt and stern, leans from his wigwam, eyes fixed on Queequeg, a tattooed harpooneer in ragged sea‑cloth, who stands tall with a polished harpoon poised. The rough wooden deck is slick with tar; distant waves crash against the hull. A faint glow from lanterns casts long shadows, highlighting the tension between man and faith amid the looming ocean. Style: 19th‑century oil painting."
+    "segment_text": "he then said, turning to me.",
+    "image_prompt": "A shadowed Nantucket wharf at dusk, Captain Bildad in his coarse wool coat and wide-brimmed hat stands beside a weather‑worn wooden dock, gripping a tattered parchment. He turns toward a young sailor—young Ishmael—whose face is lit by the flickering lantern light of a nearby ship’s cabin. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 14,
-    "segment_text": "he then said, turning to me, not very long.",
-    "image_prompt": "A dimly lit Nantucket wigwam interior, a rugged white‑haired Captain Bildad stands tall, his broad coat flared, eyes narrowed with stern accusation. He leans forward toward the young narrator, voice hushed yet forceful, saying “not very long.” The air is thick with smoke and tar; shadows cast by flickering lanterns loom over carved wooden walls. A lone harpoon rests on a nearby table, its iron gleaming ominously. 19th‑century oil painting style, dark and moody atmosphere."
+    "segment_text": "Not very long, I rather guess, young man.",
+    "image_prompt": "A tense, dimly lit wharf at twilight: Queequeg stands in the foreground with his harpoon gleaming, eyes fixed on a gruff, scarred Captain Bildad who leans against the bulwarks, stern expression. Beside them, a young Ishmael whispers “Not very long, I rather guess,” while the wind rattles tar‑laden ropes. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 15,
-    "segment_text": "I rather guess, young man.",
-    "image_prompt": "A dimly lit Nantucket wharf in the late 1800s, a broad‑mouthed captain (Captain Bildad) stands beside a weathered wooden bulwark, his face stern and shadowed by a brimmed hat. Across from him, a young, tattooed harpooneer—Queequeg—holds a gleaming harpoon, eyes narrowed in defiance. A hushed voice rises: “I rather guess, young man.” The scene is framed by the crumbling stone pier, a fog‑shrouded harbor, and faint silhouettes of a whaling ship in the background. *Dark, moody 19th‑century oil painting.*"
+    "segment_text": "No, said Peleg, and he hasn't been baptized right either, or it would have washed some of that devil's blue off his face.",
+    "image_prompt": "A dark, moody 19th‑century oil painting shows Captain Peleg standing on a grimy Nantucket wharf, harpoon in hand, glaring at Queequeg who wears a tattered, blue‑stained face. The stormy Atlantic backdrop looms, with fog‑shrouded sails and a lone fishing boat. Peleg’s stern voice threatens to wash away the devil’s mark—his words echo in the salt air. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 16,
-    "segment_text": "No, said Pellag, and he hasn't been baptized right either, or it would have washed some of that devil's blue off his face.",
-    "image_prompt": "A dim, storm‑lit Nantucket wharf at dusk: a ragged wooden pier, waves lashing its boards, and a lone whale boat moored nearby. In the foreground, Captain Pellag—stooped, broad‑shouldered, eyes narrowed—speaks to a trembling Queequeg, whose tattooed arms glow faintly in the weak lantern light. The harpoon hangs beside him, dripping with dark sea‑tar. A shadowy figure of Bildad looms in the background, clutching a Bible, as gulls cry overhead. Dark, moody 19th‑century oil painting."
+    "segment_text": "\"'Do tell now,' cried Bildad.",
+    "image_prompt": "A storm‑clouded Nantucket wharf in the late 1800s, a rough‑eyed Captain Bildad standing on a wooden bulwark, his voice raised as he shouts “Do tell now” to Queequeg, who grips a gleaming harpoon. The scene is dimly lit by flickering lanterns, with the looming ship’s deck and creaking masts in the background—dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 17,
-    "segment_text": "To tell now, cried Bildad.",
-    "image_prompt": "A tense, moonlit wharf at dusk; a rugged sea‑tied village in the background. In the foreground, Captain Bildad—clothed in tattered wool and a broad brim hat—raises his voice with a hand on his chest, eyes narrowed, as he declares “To tell now!” His face is illuminated by lantern glow, revealing soot‑stained cheeks and weathered skin. A lone harpooneer, Queequeg, stands nearby, arms crossed, listening intently. The sea churns below, waves crashing against a battered hull. Dark, moody 19th‑century oil painting."
+    "segment_text": "\"'Is this Philistine a regular member of Deacon Deuteronomy's meeting?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg on the bulwarks of a Nantucket wharf, his harpoon glinting in twilight. Captain Bildad, stern and gaunt, leans over him, demanding proof of church membership. The wooden deck creaks under their boots; a stormy horizon looms behind, hinting at looming judgment. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 18,
-    "segment_text": "Is this Philistine a regular member of Deacon Deuteronomy's meeting?",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a rough Nantucket wharf at dusk, the weathered wooden bulkhead and hanging whale‑boats casting long shadows. In the foreground, Captain Bildad—clad in a broad‑skirted drab coat, spectacles glinting—leans from his wigwam, face stern and accusing, gesturing toward Queequeg who stands tall beside him. Queequeg’s tattooed arm glows faintly under lantern light. A hushed crowd of sailors watches, the scene tense with suspicion and religious fervor."
+    "segment_text": "I never saw him going there, and I pass it every Lord's Day.'\"",
+    "image_prompt": "A dim, candlelit First Congregational Church in Nantucket, late afternoon light filtering through tall stained‑glass windows. In the foreground, an elderly man (Captain Bildad) stands at the front pew, hand on his chest, eyes wide with disbelief as he watches a lone, tattooed figure—Queequeg—walk away from the pulpit. The scene is rendered in dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 19,
-    "segment_text": "I never saw him going there, and I pass it every Lord's Day.\"",
-    "image_prompt": "A dim, storm‑shadowed Nantucket whaler’s deck at dusk; rough‑handed crewmen in coarse wool coats bustle beneath tattered sails. In the foreground, a weathered man—Captain Bildad—leans over a wooden bulwark, his face lit by flickering lantern light as he speaks to a stoic Queequeg, whose tattooed arm glows faintly. The tense, hushed exchange about church attendance hangs heavy in the misty air. Dark, moody 19th‑century oil painting style."
+    "segment_text": "\"'I don't know anything about Deacon Deuteronomy or his meeting,' said I.",
+    "image_prompt": "A lone sailor stands on a rickety Nantucket wharf, clutching a weather‑battered Bible as storm clouds swirl overhead. His face is gaunt, eyes wide with disbelief, while the looming ship’s shadow looms behind him. The scene captures his trembling admission of ignorance about Deacon Deuteronomy’s meeting, rendered in dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 20,
-    "segment_text": "\"'I don't know anything about Deacon Deuteronomy or his meeting,' said Inoes.",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, moonlight casting long shadows over weather‑worn stone and the looming hull of a whale ship. Inues stands beside Queequeg’s towering figure, his face illuminated by lantern glow, speaking in hushed tones to Captain Peleg and Bildad who lean against a rough wooden post. The air is thick with salt spray; a harpoon hangs nearby. A moody 19th‑century oil painting style captures the tense, somber atmosphere of maritime doubt and religious scrutiny."
+    "segment_text": "\"'All I know is, that Queequeg here is a born member of the First Congregational Church.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a weathered Nantucket wharf at dusk. Queequeg stands proudly on the bulwarks with his harpoon, his tattooed arm visible, while Captain Peleg and Bildad stare skeptically. The looming ship’s masts cast long shadows; a gull cries above, hinting at impending storm, all rendered in muted sepia tones. 19th‑century style."
   },
   {
     "segment_index": 21,
-    "segment_text": "That Kwekwek here is a born member of the First Congregational Church.",
-    "image_prompt": "Dark, moody 19th‑century oil painting: Queequeg—tall, tattooed, harpoon‑sheathed, eyes fierce—stands amid the shadowy back of a Nantucket meetinghouse, his broad shoulders framed by cracked wooden pews and flickering candlelight. A worn First Congregational Church banner hangs crooked on the wall; a stained‑glass window depicts a whale in stormy waves. Queequeg’s face is resolute, his hand resting lightly on his harpoon as he gazes toward the horizon, embodying both faith and wildness."
+    "segment_text": "He is a deacon himself, Queequeg is.'\"",
+    "image_prompt": "A dim harbor at twilight, the old wharf shrouded in mist. Queequeg stands tall on the bulwarks, his harpoon gleaming under a single lantern glow, eyes fierce yet reverent. A weather‑battered wooden dock stretches into darkness. In the foreground, a rugged deacon’s cap rests beside him, symbolizing his newfound Christian office, while gulls cry overhead in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 22,
-    "segment_text": "He is a deacon himself, Kwekwek is.\"",
-    "image_prompt": "Dark, moody 19th‑century oil painting: Queequeg, the tattooed harpooneer, stands tall on a weathered wharf beside the Pequod’s bulwarks, his broad arm emblazoned with a swirling S‑mark. He wears a simple black vest and a wide yellow bandanna, yet his posture exudes reverence—hands clasped in front of him as if in prayer. Behind him, Captain Peleg’s rugged silhouette watches; the sea roils ominously. The scene captures Queequeg’s proud declaration: “He is a deacon himself.”"
+    "segment_text": "\"'Young man,' said Bildad sternly, \"'thou art skylarking with me.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Queequeg in his rugged harpoon gear stands on the bulwarks, eyes fixed on a tense young man—Bildad—who holds a weathered Bible and speaks sternly with furrowed brow, amid looming wooden ship masts and swirling mist. The scene radiates tension and maritime dread."
   },
   {
     "segment_index": 23,
-    "segment_text": "\"'Young man,' said Bildad sternly, \"'thou art sky-larking with me, explain thyself, thou young Hittite.",
-    "image_prompt": "A grim, moonlit wharf at dusk; a narrow wooden pier stretches toward a hulking Nantucket whale‑boat, its deck slick with salt spray. In the foreground, a stern, gaunt Captain Bildad stands in ragged coat, his face illuminated by lantern light, gripping a harpoon in one hand while the other clenches his jaw as he confronts a young, tattooed man—Queequeg—who leans on the bulwarks, eyes wary. The scene is rendered in a dark, moody 19th‑century oil painting style, with heavy chiaroscuro and muted earth tones."
+    "segment_text": "Explain thyself, thou young Hittite.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a stormy Nantucket harbor at dusk. Captain Bildad stands tall on the wooden bulwarks, stern and accusing, pointing toward a young, tattooed Ishmael who clutches his harpoon. The wharf stretches into mist; a looming ship’s masts loom behind, lanterns flickering. Tension crackles in the heavy air as Bildad demands an explanation."
   },
   {
     "segment_index": 24,
     "segment_text": "What church dost thee mean?",
-    "image_prompt": "A dimly lit wharf at dusk, the hulking hull of a Nantucket whaler looming in silhouette. Captain Bildad, gaunt and stern, leans over a rusted bulwark, his eyes narrowed as he demands from Queequeg “What church dost thee mean?” Queequeg, tattooed and weather‑scarred, stands poised with harpoon at his belt, the sea spray curling around him. The air is heavy with salt and tension; faint lantern glow casts long shadows on their faces in a dark, moody 19th‑century oil painting style."
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket harbor at twilight, with rough wooden wharf and a hulking whaleboat in the foreground. Queequeg, harpoon in hand, stands on the bulwarks beside Captain Bildad, who leans over a cracked ledger, pointing accusingly toward Ishmael, who looks bewildered. The sea roils beneath a bruised sky, emphasizing tension and maritime dread. 19th‑century oil painting style."
   },
   {
     "segment_index": 25,
-    "segment_text": "Answer me.'",
-    "image_prompt": "A tense wharf at dusk, lanterns flickering over salt‑sprayed stone; a rugged Captain Bildad stands in a battered wooden wigwam doorway, his broad beard and weathered face illuminated by the dying light. He grips a scroll of papers, eyes narrowed, demanding an answer from a young sailor—his voice rough as sea foam. In the background, Queequeg’s harpoon glints against the ship’s bulwarks, while Captain Peleg watches from a distance. The scene is rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Answer me.\"",
+    "image_prompt": "A tense 19th‑century oil painting of a stormy Nantucket dock at twilight, the looming whaler’s masts silhouetted against a bruised sky. In the foreground Captain Bildad stands on the bulwarks, his broad‑skirted coat flaring, eyes narrowed, hand gripping a compass as he demands, “Answer me,” to a trembling Ishmael clutching a parchment. The sea churns ominously behind them. Dark, moody atmosphere, realistic brushwork."
   },
   {
     "segment_index": 26,
-    "segment_text": "Finding myself thus hard-pushed, I replied, \"'I mean, sir, the same ancient Catholic church to which you and I, and Captain Peleg there, and Queequeg here, and all of us, and every mother's son and soul of us, belong the great and everlasting first congregation of this whole worshipping world.",
-    "image_prompt": "A tense, dimly lit wharf at dusk: a stout white‑haired captain (Peleg) in coarse wool coat, his stern face half shadowed by lantern light; a tattooed, stoic Queequeg stands beside him, harpoon tucked to his side. In the foreground, a young, earnest narrator kneels on rough planks, hands clasped, eyes fixed upward as he speaks of “the great and everlasting first congregation.” The air is thick with salt spray and muted oil‑painted gloom, evoking a dark, moody 19th‑century oil painting."
+    "segment_text": "Finding myself thus hard-pushed, I replied, I mean Sir, the same ancient Catholic church to which you and I, and Captain Peleg there, and Queequeg here, and all of us, and every mother's son and soul of us belong,",
+    "image_prompt": "A tense, dimly lit Nantucket wharf at dusk, the great hull of a whaling vessel looming in the background. In the foreground, Ishmael stands firm amid a crowd of rugged sailors and Queequeg, his harpoon glinting. Captain Peleg and Bildad loom behind, stern faces illuminated by lantern glow. The air is heavy with accusation as Ishmael declares their shared faith, eyes wide, hands raised in defiance. A dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 27,
-    "segment_text": "We all belong to that call.",
-    "image_prompt": "A dimly lit, storm‑shadowed deck of the Pequod under a brooding sky, where Ishmael stands with hands clasped, addressing his ragged crew—Queequeg, Starbuck, Stubb, and Flask—in a hushed, reverent tone: “We all belong to that call.” The men, draped in worn coats and wool hats, look up with solemn faces. In the background, the ship’s masts loom like skeletal arms against swirling clouds. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and muted earth tones."
+    "segment_text": "the great and everlasting First Congregation of this whole worshipping world.",
+    "image_prompt": "A dim, storm‑laden Nantucket wharf at dusk, Queequeg standing proudly on a wooden bulwark beside a weathered schooner, his harpoon gleaming in the twilight. Captain Peleg and Bildad stare skeptically, their rough coats flapping in the wind. The air is heavy with tension as Queequeg gestures toward an unseen, ancient church—“the great and everlasting First Congregation”—hinting at faith amid maritime peril. A dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 28,
-    "segment_text": "Some of us cherish some queer cratchits, No ways touching the grand belief.",
-    "image_prompt": "A dim, storm‑clouded Nantucket wharf at dusk, where a ragged crew of whalers—Captain Peleg, Queequeg with his gleaming harpoon, and rough‑hewn mates—stand on wooden bulwarks, their faces lit by flickering lanterns. A heated debate erupts: some boast about strange “cratchits” (odd rituals) while others glare in defiance of orthodox faith. The scene is heavy with tension, smoke curling from barrels, and a looming ship’s hull, all rendered in brooding 19th‑century oil painting style."
+    "segment_text": "We all belong to that.",
+    "image_prompt": "A somber, moonlit Nantucket harbor, the Pequod’s weather‑beaten hull creaking in the wind. In a dark, moody 19th‑century oil style, Captain Ahab, Ishmael, Queequeg, Starbuck and Stubb stand shoulder‑to‑shoulder on the deck, hands clasped around each other’s shoulders, eyes fixed toward the horizon, united in silent affirmation: “We all belong to that.”"
   },
   {
     "segment_index": 29,
-    "segment_text": "Chin, a tee, and thee, all join hands.",
-    "image_prompt": "A dimly lit wharf at dusk, the wooden bulwarks slick with tar and sea spray. Queequeg, a tattooed harpooneer, stands tall beside Captain Peleg, both gripping a weather‑worn rope that binds their hands together in an uneasy covenant. Nearby, stern Captain Bildad watches from his wigwam doorway, his face illuminated by the weak glow of lanterns. The air is thick with tension and the distant cry of gulls, evoking a dark, moody 19th‑century oil painting."
+    "segment_text": "Only some of us cherish some queer crotchets.",
+    "image_prompt": "A moody 19th‑century oil painting of a stormy Nantucket harbor at dusk. Queequeg stands on the bulwarks, harpoon in hand, his tattooed arm glinting. Captain Peleg and Bildad loom behind him, stern faces shadowed by lantern light. A small crew watches; waves crash against the ship’s hull. The scene captures tense debate over “crotchets” with a dark, brooding atmosphere."
   },
   {
     "segment_index": 30,
-    "segment_text": "Splice thou mean splice hands, cried Peleg, drawing nearer.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of a rugged Nantucket wharf at dusk. Captain Peleg, gruff and weather‑scarred, stands on the bulwarks, hands clasped in fervent gesture, shouting “Splice thou mean splice hands!” His silhouette framed by looming whale‑boats and flickering lanterns. Queequeg looms beside him, harpoon poised, his tattooed arm glinting in the dim light. The harbor’s misty air hangs heavy, evoking tension and ancient maritime faith. Style: dramatic chiaroscuro, textured brushwork, 1800s realism."
+    "segment_text": "No way's touching the grand belief.",
+    "image_prompt": "A tense, dimly lit Nantucket wharf at dusk, a group of rugged sailors and a wary Queequeg gathered around a weather‑worn wooden dock. Captain Peleg’s stern face looms, while Ishmael—his eyes weary—declares “No ways touching the grand belief,” pointing to the flickering lanterns that cast long shadows over the harbor. The scene feels brooding, with muted earth tones and deep chiaroscuro typical of a 19th‑century oil painting."
   },
   {
     "segment_index": 31,
-    "segment_text": "Young man, you'd better ship for a missionary, Instead of a foremast hand, either.",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, the weathered hull of a whale‑boat looming against the misty horizon. Captain Bildad, broad‑shouldered and stern, stands on a wooden bulwark, pointing accusingly toward Queequeg—a tattooed, harpoon‑armed Native man—while Ishmael watches in tense silence. The scene is rendered in dark, moody 19th‑century oil style, with deep shadows, muted sea colors, and the heavy, oppressive atmosphere of a religious confrontation on the brink of a voyage."
+    "segment_text": "In THH all join hands.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a cluttered Nantucket wharf at dusk, with Captain Peleg and Bildad in coarse wool coats shouting across the wooden pier. Queequeg stands on a bulwark, his harpoon gleaming, as Ishmael leans against a post, eyes wide. All figures are bent together, hands clasped in earnest solidarity amid storm‑lit sails, the sea roaring behind them."
   },
   {
     "segment_index": 32,
-    "segment_text": "Never heard a better sermon.",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, a ragged crew gathered amid the spray of salt‑water and the clatter of barrels. Captain Peleg, broad‑shouldered and gruff, stands before Queequeg—tattooed, harpoon in hand—while stern Reverend Bildad leans from his wigwam, accusing him of deviance. The air crackles with heated debate; a hushed voice rises: “Never heard a better sermon.” The scene is rendered as a dark, moody 19th‑century oil painting, shadows pooling over weathered wood and trembling faces."
+    "segment_text": "Splice!",
+    "image_prompt": "A dark, moody 19th‑century oil painting of the wharf’s stormy edge: Captain Peleg and Bildad in roughened coats shout “Splice!” as Queequeg, harpoon in hand, leans over a bulwark, his tattooed arm gleaming. The harbor is misty, gulls cry; the Pequod looms in distance. Intense chiaroscuro highlights tension, nautical grit, and the looming threat of the sea."
   },
   {
     "segment_index": 33,
-    "segment_text": "Deacon Deuteronomy, why?",
-    "image_prompt": "A dimly lit, storm‑swept Nantucket wharf at twilight, a stern Deacon Deuteronomy in a heavy wool coat and brimmed hat stands on the wooden bulwarks beside a battered whale‑boat, his face lined with worry. He points accusingly toward Queequeg, who clutches a gleaming harpoon, while Captain Peleg watches from a nearby wigwam doorway. Dark clouds loom overhead, reflecting the tense moral confrontation in a 19th‑century oil painting style."
+    "segment_text": "Thou mean'st splice hands, cried Peleg, drawing nearer.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Captain Peleg, broad‑shouldered and gruff, leans forward from the wooden bulkhead, voice raised, pointing toward Queequeg who stands poised on the bulwarks with his harpoon in hand. The sea roils below, gulls cry; lantern light flickers, casting deep shadows over weathered rope and iron gear."
   },
   {
     "segment_index": 34,
-    "segment_text": "Father Mapple himself couldn't beat it, and he's reckoned something.",
-    "image_prompt": "A dim, candlelit 19th‑century parish hall, where Father Mapple stands before an austere wooden pulpit, his stern face illuminated by flickering torches. He grips a weathered Bible, eyes blazing with fervor as he delivers a thunderous sermon to a rapt congregation of sailors and townsfolk. The atmosphere is heavy with smoke and the scent of oil lamps; shadows cling to carved wood panels and stained‑glass windows, reflecting the preacher’s solemn conviction.  A dark, moody, 19th‑century oil painting."
+    "segment_text": "Young man, you'd better ship for a missionary instead of a four-mast hand.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: Captain Peleg on the weathered bulwarks of a Nantucket wharf, his gruff voice echoing over rough wooden planks and storm‑swept sky. Queequeg stands beside him, harpoon glinting, while I—young Ishmael—lean in, eyes wide with bewilderment. The scene captures tension, salt spray, and the weight of Peleg’s admonition about missionary life."
   },
   {
     "segment_index": 35,
-    "segment_text": "Come aboard, come aboard, never mind about the papers.",
-    "image_prompt": "A dimly lit Nantucket harbor at dusk, a battered whaling ship’s bulwarks looming beneath a brooding sky. Queequeg, his harpoon gleaming, stands tall amid the crew, while Captain Peleg and Bildad shout over the wind in rough, weathered coats. The men crowd around a stack of parchment papers, their faces grim with anticipation. A stormy horizon blurs the sea; the mood is tense, foreboding, as if the very air hums with impending judgment – all rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "I never heard a better sermon.",
+    "image_prompt": "A dimly lit 19th‑century Nantucket ship’s cabin, long wooden beams dripping with sea‑salt; Captain Peleg and Bildad stand before a small group of crew—Queequeg, Ishmael, and others—rising on their feet as the sermon reaches its climax. The men are illuminated by flickering lanterns, faces tense, hands clasped or raised in awe, while the dark, moody oil painting style emphasizes deep shadows and muted, oceanic hues."
   },
   {
     "segment_index": 36,
-    "segment_text": "I say, tell Quahog there—what's that you call him?—tell Quahog to step along, by the great anchor.",
-    "image_prompt": "A dimly lit wharf at dusk, a hulking whale‑boat looming in the background, its deck slick with tar and salt spray. Captain Peleg, stern and weathered, grips a harpoon while shouting to Queequeg—referred to as “Quahog”—to step aside from the great anchor’s shadow. Queequeg stands poised, his tattooed arm gleaming, harpoon in hand, eyes fixed on the rope. The scene is rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Deacon Deuteronomy,",
+    "image_prompt": "A moody 19th‑century oil painting of a dimly lit Nantucket wharf at dusk, where the stern Captain Peleg stands in his rough coat, eyes narrowed, addressing an earnest Queequeg who clutches his harpoon. Nearby, a towering figure—Deacon Deuteronomy—leans over the bulwarks, his spectacles gleaming, as the air crackles with tension and old‑world maritime grit."
   },
   {
     "segment_index": 37,
-    "segment_text": "What a harpoon he's got there.",
-    "image_prompt": "A tense, moonlit wharf at dusk: Queequeg stands on the rusted wooden bulwarks, his broad‑bodied frame illuminated by flickering lanterns, clutching a gleaming harpoon that catches the dim light. Captain Peleg and Bildad loom behind him, their faces shadowed, eyes fixed on the weapon’s polished blade. The sea churns in the distance, waves reflecting pale firelight, while a lone gull cries above, underscoring the looming threat of the monstrous Moby‑Dick. Rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Why, Father Mapple himself couldn't beat it, And he's reckoned something.",
+    "image_prompt": "A dimly lit Nantucket dock at dusk, a rough‑haired Captain Peleg and stern Captain Bildad stand on weathered bulwarks, their faces shadowed by lantern glow. Queequeg’s harpoon gleams like a silver blade in the gloom. A hushed voice of Father Mapple echoes from a distant pew, as the crew listens, tension thick in the salt‑laden air. 19th‑century oil painting style, dark and moody."
   },
   {
     "segment_index": 38,
-    "segment_text": "Looks like good stuff, that.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. In the foreground, a rugged Captain Peleg stands beside Queequeg, who grips his polished harpoon with fierce pride. The sea roils in muted blues behind them, and a lone gull circles overhead. Peleg’s weathered face is illuminated by lantern light as he whispers, “Looks like good stuff, that,” while the harpoon glints ominously against the dark horizon. The scene captures tension, maritime grit, and subtle religious undertones."
+    "segment_text": "Come aboard, come aboard, Never mind about the papers.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg, arms wide in a dramatic gesture, standing on the bulwarks of a Nantucket whaling ship as Captain Peleg and Bildad shout “Come aboard, come aboard!” The stormy Atlantic horizon looms, with creaking timbers and billowing sails, capturing tension, maritime authority, and the clash of cultures in a tense, nautical tableau."
   },
   {
     "segment_index": 39,
-    "segment_text": "And he handles it about right.",
-    "image_prompt": "Dark, moody 19th‑century oil painting of Queequeg on a weather‑torn wharf, gripping his polished harpoon with practiced confidence. The moonlit sea reflects muted silver; fog curls over the wooden bulwarks. Queequeg’s tattooed arm glows in the dim light as he steadies the iron blade, poised to strike. Behind him, Captain Peleg and a skeptical Bildad watch from the wigwam, their faces shadowed by lantern glow, tension thick in the salt‑filled air. Style: dramatic chiaroscuro, muted palette, realistic maritime detail."
+    "segment_text": "I say, tell Quollhog there.",
+    "image_prompt": "A tense, moonlit wharf in Nantucket, a stormy horizon looming over the harbor. Captain Peleg, grizzled and commanding, points toward Queequeg—his harpoon glinting—while shouting to a nervous Quollhog (a skeptical crewman). Queequeg stands defiantly on the bulwarks, harpoon poised, eyes blazing. Rough wooden deck, sails billowing in dark winds, all rendered as a moody 19th‑century oil painting."
   },
   {
     "segment_index": 40,
-    "segment_text": "I say, Quahog, or whatever your name is, did you ever stand in the head of a whale-boat?",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Captain Peleg, gruff and foreboding, stands on a crumbling wharf overlooking a massive whale‑boat in the twilight sea. Queequeg, half‑in shadow, leans over the bulwarks, his harpoon glinting like a promise of violence. The air is thick with salt spray and tension; distant gulls cry against a stormy horizon. Peleg’s stern voice cuts through the scene as he questions Queequeg about past voyages, hinting at buried secrets and impending conflict."
+    "segment_text": "What's that you call him?",
+    "image_prompt": "A tense wharf at dusk, dark oil‑painted shadows and mist swirling around a battered Nantucket schooner. Captain Bildad stands in his rough wigwam, pointing accusatorily toward Queequeg who grips a gleaming harpoon on the bulwarks. Ishmael watches, eyes wide, as Ahab’s silhouette looms in the background, the crew murmuring in 19th‑century maritime garb. Dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 41,
-    "segment_text": "Did you ever strike a fish?",
-    "image_prompt": "A tense, moonlit wharf in a 19th‑century Nantucket, the spray of waves crashing against weathered timber. In the foreground stands Queequeg, broad‑shouldered and tattooed, gripping his gleaming harpoon with one hand while the other rests on a bulwark rail. His eyes are narrowed, listening to Captain Peleg’s harsh voice as he asks, “Did you ever strike a fish?” The stormy sky looms overhead, casting deep shadows over the deck and the dark, looming sea beyond. Dark, moody 19th‑century oil painting."
+    "segment_text": "Tell Quollhog to step along.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a storm‑swept Nantucket wharf at dusk. Queequeg, fierce and tattooed, grips a gleaming harpoon while Captain Bildad, stern in broad‑skirted coat, points angrily toward the deck with a hand gesture like “step along.” The sea roils below, lantern light flickers on wet stone, and distant sails loom against a bruised horizon."
   },
   {
     "segment_index": 42,
-    "segment_text": "Without saying a word, Queequeg, in his wild sort of way, jumped upon the bulwarks.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Queequeg, hair wild and eyes fierce, leaps from the wharf onto a weathered bulwark of a Nantucket whaling ship at dusk. His harpoon glints in the low light as waves crash against the hull. The sky is overcast, casting deep shadows across the wooden deck. Nearby, Captain Peleg and Bildad stare in astonishment, their faces lit by flickering lanterns, while distant sails ripple against a stormy horizon."
+    "segment_text": "By the great anchor, What a harpoon he's got there.",
+    "image_prompt": "A dramatic, dark‑moody 19th‑century oil painting of Queequeg standing on a weathered wharf beside the massive anchor of the Pequod, his gleaming harpoon in hand, the sea roiling behind him. The muted palette emphasizes salt spray and stormy clouds, while the harpoon’s iron glint contrasts with the worn wooden deck, capturing tension and impending adventure."
   },
   {
     "segment_index": 43,
-    "segment_text": "From thence into the bows of one of the whale-boats hanging to the side, and then bracing his left knee and poising his harpoon, cried out in some such way as this, \"'Copaine!",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Queequeg stands on the forward bow of a side‑hanging whale‑boat, his left knee braced against splintered wood, harpoon raised high, dripping with fresh blood. His face is fierce and focused as he cries out to “Copaine,” eyes blazing in candlelit gloom. Rough rope coils around the deck, sea spray curls beneath the mast, and distant gulls cry above a stormy horizon, all rendered in heavy, dramatic brushwork."
+    "segment_text": "Looks like good stuff, that, And he handles it about right.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg standing on the bulwarks of a Nantucket wharf, his broad harpoon gleaming in salt‑lit gloom. He grips the blade with practiced ease, eyes narrowed against stormy skies; nearby Captain Peleg and Bildad stare in wary approval. The wooden deck, rope, and distant ship silhouettes evoke tense maritime drama. Art style: 19th‑century oil painting."
   },
   {
     "segment_index": 44,
-    "segment_text": "You see him small drop tar on water, dare?",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, the old wooden bulwarks creaking under footfall. In the foreground, a scarred, tattooed Queequeg in his whale‑boat coat stands poised on the edge of the dock, harpoon raised high, eyes fixed on a small glimmering tar droplet rolling across slick water. Behind him, the looming hull of a stout schooner gleams faintly through mist; shadowy figures—Captain Peleg and Bildad—watch in tense silence. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and gritty maritime texture."
+    "segment_text": "I say, Quillhog, or whatever your name is, did you ever stand in the head of a whaleboat?",
+    "image_prompt": "A tense, dark 19th‑century oil painting of a Nantucket wharf at dusk: Queequeg, in a weathered harpoon‑sheathed stance, strides across the wooden bulwarks while Captain Peleg and Bildad loom behind him, eyes narrowed. The stormy sky casts muted light on the ship’s hull; rough waves lap the quay. The mood is ominous, echoing a foreboding sea saga."
   },
   {
     "segment_index": 45,
-    "segment_text": "You see him?'",
-    "image_prompt": "A dimly lit wharf at dusk, storm clouds gathering over the sea; a hulking whale‑boat leans against its mast. Queequeg, scarred and fierce, grips his harpoon in one hand while the other steadies the boat’s bulwark. Captain Bildad, gaunt and stern, watches from behind a wooden wigwam doorway, eyes narrowed. The scene is rendered as a dark, moody 19th‑century oil painting, with muted earth tones, heavy brushstrokes, and an oppressive, dramatic atmosphere."
+    "segment_text": "Did you ever strike a fish?",
+    "image_prompt": "A moody 19th‑century oil painting of Queequeg standing on the bulwarks of a Nantucket wharf, his harpoon gleaming in a stormy sky. He leans forward, eyes fierce, as he declares “Did you ever strike a fish?” The wooden deck creaks beneath him, and distant sails whisper, capturing the tension of a sea‑faring conversation. Dark, atmospheric style, 19th century."
   },
   {
     "segment_index": 46,
-    "segment_text": "Well, spose I'm one way lie, well, din!\"",
-    "image_prompt": "A dark, moody 19th‑century oil painting of the storm‑lit Nantucket wharf at dusk. Queequeg, tattooed and fierce, stands on the rusted bulwarks, his harpoon poised above the deck, eyes fixed on a distant ship. Captain Peleg and Bildad loom in shadowy silhouettes behind him, their faces tense. The sea roils beneath a brooding sky, reflecting a trembling horizon. Gritty, chiaroscuro lighting accentuates the tension of Queequeg’s shouted challenge amid the creaking wooden vessels."
+    "segment_text": "Without saying a word, Queequeg in his wild sort of way jumped upon the bulwarks, from thence into the bows of one of the whaleboats hanging to the side, and then bracing his left knee and poising his harpoon, cried out in some such way as this,",
+    "image_prompt": "A dark, moody 19th‑century oil painting: Queequeg, wild eyes gleaming, leaps from the bulwarks onto a whaleboat hanging beside the Pequod’s side. He braced his left knee, poised harpoon in hand, shouting fiercely into the wind. Rough timber and stormy sea backdrop, muted palette, dramatic chiaroscuro capturing the tense, raw moment of daring action."
   },
   {
     "segment_index": 47,
-    "segment_text": "And taking sharp aim at it, he darted the iron right over old Bildad's broad brim, clean across the ship's decks, and struck the glistening tar-spot out of sight.",
-    "image_prompt": "A dim, storm‑laden Nantucket wharf at dusk, a lone whale‑boat’s deck slick with black tar. Queequeg, in tattered sailcloth, stands on the bulwarks, harpoon gleaming, his eyes fierce. He throws the iron shaft straight across the ship’s broadside, striking an old captain’s brim, the metal cleaving the deck and vanishing into a glittering tar‑spot. The scene is rendered as a dark, moody 19th‑century oil painting, rich in shadow and dramatic light."
+    "segment_text": "Cap'n, you see him small drop tar on water, dare?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg leaping onto a whaleboat’s bulwark, harpoon poised over a glistening tar splash in stormy sea water. His fierce eyes stare at Captain Peleg, who watches from the ship’s deck, tension thick as fog. The scene captures the raw, nautical drama of a harpooneer’s daring moment aboard a Nantucket vessel."
   },
   {
     "segment_index": 48,
-    "segment_text": "\"'Now,' said Queak-Quake, quietly hauling in the line,",
-    "image_prompt": "A somber, dimly lit wharf at dusk, a battered wooden ship’s bulwarks looming beneath a storm‑choked sky. Queequeg—tall, tattooed, with a weather‑scarred harpoon in hand—stands stoically on the deck, his broad shoulders silhouetted against the lantern glow. He pulls back a tangled line with one arm, eyes fixed on the sea’s horizon, while shadowy figures of Captain Peleg and Bildad loom behind him, their faces etched with grim determination. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "You see him?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg leaping from the bulwarks onto a whaleboat, his harpoon poised in midair, eyes fixed on the horizon as waves crash around him; Captain Peleg and Bildad stare in awe from the deck below. The stormy Nantucket sky looms overhead, with muted grays and deep blues capturing tension and impending adventure."
   },
   {
     "segment_index": 49,
-    "segment_text": "Spose ye him, whaley I, Why, dad whale dead!\"",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg standing on the bulwarks of a Nantucket whale‑boat at dusk, his broad harpoon poised above his shoulder. He is mid‑shout, eyes fierce, mouth open as he declares “Spose ye him, whaley I, Why, dad whale dead.” The stormy sea swells below, moonlit waves crash against the wooden deck; Captain Peleg and a wary crew loom in shadowed silhouettes behind him. The scene exudes tension, primal fear, and raw maritime drama."
+    "segment_text": "Well, spose him one whale-eye.",
+    "image_prompt": "A tense 19th‑century oil painting of Queequeg standing on the bulwarks of a Nantucket wharf, harpoon poised over a tar‑stained deck, his eyes fixed on an unseen target. Captain Peleg and Bildad loom in the background, their faces stern, while a distant Pequod looms above. The scene is bathed in dusky gloom, evoking a dark, moody maritime drama."
   },
   {
     "segment_index": 50,
-    "segment_text": "Quick, Bildad,\" said Peleg, his partner, who, aghast at the close vicinity of the flying harpoon, had retreated towards the cabin gangway.",
-    "image_prompt": "A dark, moody 19th‑century oil painting: a storm‑swept Nantucket wharf at twilight, mist curling over wooden planks. Captain Peleg, broad‑shouldered and grim, stands in the foreground clutching a tattered handkerchief, his face illuminated by lantern light. Bildad, gaunt and trembling, retreats hastily toward the cabin gangway, his cloak billowing as if caught in an unseen gale. In the background, Queequeg’s harpoon glints ominously on the deck, hinting at imminent danger. The scene is tense, shadowed, with muted earth tones and a palpable sense of impending conflict."
+    "segment_text": "Well, den.\"",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Queequeg, fierce and tattooed, leaps from the bulwarks onto a creaking whaleboat, his left knee braced, harpoon poised above the water’s churn. Captain Peleg stands nearby, eyes wide in awe, while a tense crowd of crew watches. The sky roils with heavy clouds, casting deep shadows over the deck."
   },
   {
     "segment_index": 51,
-    "segment_text": "Quick, I say you, Bildad, and get the ship's papers.",
-    "image_prompt": "A tense, moonlit Nantucket wharf bathed in storm‑gray clouds; the prow of a whale‑boat lurches against the cold sea. In the foreground, Ishmael—lean, wiry, eyes fierce with urgency—shouts to Bildad, an older, haggard man in tattered wool coat, clutching a weathered bundle of papers. The harpoon’s glint and a distant gull cry punctuate the scene, while shadowy silhouettes of other crew loom behind the broken wooden gangways, all rendered in stark, brooding 19th‑century oil style."
+    "segment_text": "And taking sharp aim at it, he darted the iron right over old Bildad's broad brim, clean across the ship's decks, and struck the glistening tar spot out of sight.",
+    "image_prompt": "A tense moment on a weather‑torn Nantucket wharf: Queequeg, harpoon poised, leans over the ship’s deck, eyes fixed on Captain Bildad’s broad brim. He throws the iron spear with razor‑sharp aim, cleanly slicing through tar‑slick planks and striking the glistening spot midair. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 52,
-    "segment_text": "We must have Hedgehog there—I mean Quahog in one of our boats.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of the wind‑tossed deck of a Nantucket whaler at dusk. Captain Peleg, rough‑haired and stern, stands in front of a crew of rugged sailors, pointing toward a small, weather‑worn harpooneer’s boat anchored nearby. In the foreground, Queequeg—tattooed, holding his harpoon—looks up, wary. The sky is bruised gray, waves crashing against the hull, and a lone lantern casts flickering light over the tense scene. Style: 19th‑century oil painting."
+    "segment_text": "Now, said Queequeg, quietly hauling in the line, spose him whale-eye.",
+    "image_prompt": "A tense moment on a storm‑laden Nantucket wharf: Queequeg, rugged and fierce, quietly hauls in a taut harpoon line, eyes fixed on the sea as he mutters “spose him whale‑eye.” The dark, moody 19th‑century oil painting captures his muscular silhouette against a brooding sky, the iron harpoon glinting, with Captain Peleg and other sailors watching anxiously in muted tones."
   },
   {
     "segment_index": 53,
-    "segment_text": "Look ye, Quahog, we'll give ye the ninetieth lay, and that's more than ever was given a harpoonier yet out of Nantucket.\"",
-    "image_prompt": "A somber 19th‑century oil scene on a dimly lit Nantucket wharf: Captain Peleg, grizzled and stern, stands beside Queequeg, the tattooed harpooner in ragged sea‑cloth, pointing at a weather‑worn ledger of “ninetieth lay.” The harbor is misty, lanterns flickering; distant ships loom. Peleg’s voice echoes over the creaking deck, while Queequeg’s eyes gleam with fierce pride. The mood is tense, austere, and heavy with maritime superstition—a dark, moody oil painting of 19th‑century seafaring dread."
+    "segment_text": "Why, dad whale dead.",
+    "image_prompt": "A tense, moonlit wharf at night: Queequeg, bare‑armed and fierce, stands on the bulwarks of a battered Nantucket schooner, his harpoon poised above the sea. The waves crash against iron rails; a ghostly fog curls around him. He exclaims “Why, dad whale dead,” as a distant silhouette of a great white whale breaks through the horizon—dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 54,
-    "segment_text": "So down we went into the cabin, and to my great joy Queequeg was soon enrolled among the same ship's company to which I myself belonged.",
-    "image_prompt": "A dim, storm‑lit Nantucket wharf at dusk; a weathered wooden cabin door opens onto a cramped galley deck where Ishmael, ragged but dignified, stands beside Queequeg—his tattooed arm glinting in low light. The harpoon rests by his side as the crew watches, their faces grim with soot and salt spray. A faint glow from lanterns casts deep shadows across the rough planks, capturing a moment of uneasy camaraderie and solemn acceptance. 19th‑century oil painting, dark and moody."
+    "segment_text": "Quick, Bildad.",
+    "image_prompt": "A tense, moonlit Nantucket wharf at dusk: Captain Bildad, broad‑skirted and weather‑worn, strides toward the Pequod’s bulwarks, his eyes wild with urgency. The ship looms in shadowy oil strokes, waves lashing against its hull. Queequeg stands beside him, harpoon gleaming, while a trembling Ishmael watches from the deck. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 55,
-    "segment_text": "When all preliminaries were over, and Peleg had got everything ready for signing, he turned to me and said, I guess.",
-    "image_prompt": "A dimly lit wharf at dusk, the hulking hull of a Nantucket whale‑ship looming in shadow. Captain Peleg, broad‑shouldered and stern, stands beside a battered oak desk on the ship’s deck, his weathered hands clutching a tattered parchment. Ishmael, eyes wide with nervous anticipation, leans forward, clutching a quill. Queequeg watches from a distance, harpoon in hand, his tattooed arm glinting faintly. The mood is tense, brooding, as the sea roars beyond, all rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Said Peleg, his partner, who, aghast at the close vicinity of the flying harpoon, had retreated towards the cabin gangway.",
+    "image_prompt": "A tense moment on a storm‑swept Nantucket wharf: Captain Peleg, eyes wide with shock at Queequeg’s flying harpoon, retreats toward a shadowy cabin gangway. Rough wooden planks and flickering lantern light cast deep chiaroscuro across the scene, while the looming ship’s silhouette looms in the misty twilight, evoking a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 56,
-    "segment_text": "Quahog, there don't know how to write, does he?",
-    "image_prompt": "A tense, moonlit wharf in Nantucket, 19th‑century oil painting style. Captain Peleg and stern Captain Bildad stand at the bulwarks, eyes narrowed on Queequeg, a tattooed harpooneer with a fierce gaze. The sea churns beneath an overcast sky; a battered whale‑boat drifts nearby. Queequeg’s hand grips a quill poised to sign papers, while Peleg whispers doubt: “Quahog, he don’t know how to write.” Dark, moody atmosphere, chiaroscuro lighting, period naval attire, oil texture."
+    "segment_text": "Quick, I say, you build ad, and get the ship's papers.",
+    "image_prompt": "A tense dockside scene in a dark, moody 19th‑century oil painting: Queequeg, harpoon gleaming, leaps onto a ship’s bulwarks while Captain Peleg and Bildad glare from the wigwam, demanding papers. The wind-swept Nantucket shore looms, wooden timbers creaking, with stormy clouds gathering above a looming sea. The mood is ominous, foreboding, charged with religious scrutiny and maritime tension."
   },
   {
     "segment_index": 57,
-    "segment_text": "I say, Quahog, blast ye.",
-    "image_prompt": "A dimly lit Nantucket wharf at dusk, the gray bulk of a whale‑boat looming against a stormy horizon. Captain Peleg stands on the bulwarks, his broad shoulders silhouetted by flickering lanterns, shouting “Quahog, blast ye” with a fierce, accusatory tone. Queequeg, tattooed and rugged, leans in, eyes narrowed, holding his harpoon ready to strike. The air is thick with tension and the distant creak of waves. Dark, moody 19th‑century oil painting style."
+    "segment_text": "We must have Hedgehog there, I mean Quahog, in one of our boats.",
+    "image_prompt": "A tense 19th‑century oil painting of a stormy Nantucket harbor at dusk, dark clouds swirling over the wharf. Captain Peleg stands on a wooden bulwark, his broad coat flapping, pointing toward a battered whaleboat with a tattered flag “Quahog.” Queequeg leans against the mast, harpoon in hand, while crewmen gather, eyes fixed on the looming vessel, all rendered in muted earth tones and heavy chiaroscuro for a moody atmosphere."
   },
   {
     "segment_index": 58,
-    "segment_text": "Dost thou sign thy name, or make thy mark?",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a cramped ship cabin at dusk. Captain Peleg, gruff and weathered, leans over a rough wooden table with parchment and quill in hand, his broad shoulder blade illuminated by a single lantern flame. Beside him, Queequeg—tall, tattooed, harpoon tucked at his hip—leans forward, eyes fixed on the ink as he signs a name in bold black script. The cabin walls are lined with barrels, rope coils and a faint silhouette of the Pequod’s mast beyond a porthole. The scene is tense yet reverent, capturing the solemnity of the signing moment in an era‑accurate nautical setting."
+    "segment_text": "Look ye, Quahog, we'll give ye the ninetieth lay, and that's more than ever was given a harpooner yet out of Nantucket.\"",
+    "image_prompt": "A tense wharf scene in dim harbor light: Queequeg stands beside the ship’s bulwarks holding a gleaming harpoon, eyes fierce. Captain Bildad, broad‑skirted and stern, speaks to him with a wooden handkerchief draped over his shoulder, while Captain Peleg watches from behind a weathered wigwam. The salty air swirls around their figures in a dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 59,
-    "segment_text": "But at this question, Queequeg, who had twice or thrice before taken part in similar ceremonies, looked no ways abashed at taking the offered pen, copied upon the paper, in the proper place,",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Queequeg standing on a ship’s bulwark, his weathered face calm and confident as he holds a quill poised over parchment. The sea roils behind him, lantern light flickering from the rigging. Ahab’s silhouette looms in the distance, while Captain Peleg watches with wary eyes. Queequeg’s tattooed arm glows faintly under candlelight, emphasizing his ritualistic acceptance of paper and pen. Style: 19th‑century oil painting."
+    "segment_text": "So down we went into the cabin, and to my great joy Queequeg was soon enrolled among the same ship's company to which I myself belonged.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: a cramped wooden cabin on a Nantucket whaler, lantern light spilling across polished pine panels. Captain Peleg and Ishmael stand beside a sturdy table, their faces illuminated by the glow of a single candle. Queequeg, half‑clad in his tattooed skin, steps forward proudly, hand extended to sign a parchment, as crew members watch with wary smiles. The scene feels heavy with anticipation and uneasy camaraderie."
   },
   {
     "segment_index": 60,
-    "segment_text": "An exact counterpart of a queer round figure which was tattooed upon his arm, so that, through Captain Peleg's obstinate mistake touching his appellative, it stood something like this quahog.",
-    "image_prompt": "A tense, moonlit wharf scene in a dark, moody 19th‑century oil painting: Queequeg stands on the bulwarks, his arm prominently displayed, bearing a striking, round tattoo that mirrors a quahog shell’s silhouette—his identity misread by Captain Peleg. The harbor is dimly lit by lanterns, fog curling over the water. Peleg watches skeptically, a harpoon in hand, while other crew members loom in shadow, their faces reflecting doubt and curiosity. The atmosphere is heavy with tension and mystique."
+    "segment_text": "When all preliminaries were over and Peleg had got everything ready for signing, he turned to me and said, I guess, Quohog, there don't know how to write, does he?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a cramped ship cabin: Captain Peleg stands beside a heavy oak table strewn with papers and inkpot, his weathered face turned toward Ishmael who looks uncertain. Queequeg looms in the background, harpoon by his side, while a flickering lantern casts deep shadows over the rough wooden walls. The scene conveys tense anticipation of signing."
   },
   {
     "segment_index": 61,
-    "segment_text": "His S-mark.",
-    "image_prompt": "A dimly lit wharf at dusk, the ragged silhouette of a whale‑boat looming in the background. Queequeg stands on the bulwarks, his muscular arm raised to reveal a jagged S‑mark tattooed in deep crimson ink. The sea reflects a stormy sky; gulls cry overhead. Captain Bildad watches from a nearby wooden post, stern and wary. A faint glow of lantern light casts long shadows across their faces, capturing the tension of conversion and maritime peril in a dark, moody 19th‑century oil painting."
+    "segment_text": "I say, Quohog, Blasgy, dost thou sign thy name or make thy mark?",
+    "image_prompt": "A tense dockside scene in a dark, moody 19th‑century oil painting: Queequeg stands poised on the bulwarks of a Nantucket whaling ship, harpoon at his side, while Captain Bildad and Captain Peleg confront him with stern, weathered faces. The stormy Atlantic horizon looms; wooden planks gleam wet, lanterns flicker, and the air crackles with tension as Queequeg is urged to sign or mark his name."
   },
   {
     "segment_index": 62,
-    "segment_text": "Meanwhile Captain Bildad sat earnestly and steadfastly eyeing Queequeg, and at last, rising solemnly and fumbling in the huge pockets of his broad-skirted drab coat, took out a bundle of tracks and, selecting one entitled",
-    "image_prompt": "Dark, moody 19th‑century oil painting: Captain Bildad, gaunt and austere in a broad‑skirted drab coat, stands on the creaking deck of a Nantucket whaling ship. He peers intently at Queequeg, whose tattooed arm glows beneath lantern light. Bildad lifts his hand, fumbling through deep pockets to reveal an old bundle of parchment titled “The Latter Day Coming.” The sea roils in stormy gray, and distant masts loom, hinting at impending judgment. Style: 19th‑century oil painting."
+    "segment_text": "But at this question, Queequeg, who had twice or thrice before taken part in similar ceremonies, looked no ways abashed, but taking the offered pen, copied upon the paper, in the proper place, an exact counterpart of a queer round figure which was tattooed upon his arm, so that through Captain Peleg's obstinate mistake touching his appellative, it stood something like this.",
+    "image_prompt": "A dark, moody 19th‑century oil painting: Queequeg stands on a ship’s deck at dusk, the misty harbor in background. He holds an inked pen, faithfully copying his distinctive tattooed round mark onto a parchment. Captain Peleg watches from the shadows, mispronouncing his name. The scene radiates tension, faith, and maritime tradition under a storm‑laden sky."
   },
   {
     "segment_index": 63,
-    "segment_text": "The latter day coming, or no time to lose, placed it in Quixote's hands, and then, grasping them in the book with both his, looked earnestly into his eyes, and said, Son of darkness, I must do my duty by the latter day coming earned of this ship, and feel concern for the souls of all its crew, if thou still clingest to thy pagas, I must.",
-    "image_prompt": "A dimly lit wharf at dusk, fog curling over wooden planks; Captain Bildad stands in a heavy, drab coat, his face set in stern resolve as he thrusts an ancient parchment into Queequeg’s weather‑scarred hands. The harpoon‑armed mariner gazes back with fierce, tattooed eyes. Lantern light flickers, casting long shadows across the deck and the looming whaleboat. A muted storm gathers beyond, hinting at imminent peril. Dark, moody 19th‑century oil painting."
+    "segment_text": "Quohog, his X mark.",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a rough Nantucket wharf at dusk. Queequeg, towering and scarred, stands on the bulwarks with his harpoon poised, while Captain Peleg watches from a nearby wigwam. In front of him, a weathered parchment lies open; Queequeg’s tattooed X mark is drawn in bold ink beside it, illuminated by lantern light. The scene captures tense scrutiny and the weight of ritual aboard a looming ship."
   },
   {
     "segment_index": 64,
-    "segment_text": "Spurned the idle bell, and the hideous dragon turned from the wrath, to come thine eye, I say, O goodness gracious, steer clear of the fiery pit.",
-    "image_prompt": "A dimly lit harbor at dusk, fog curling over a battered Nantucket wharf. Queequeg, in tattered sea‑cloth and scarred arm tattoos, stands on the bulwarks with his harpoon poised, eyes narrowed toward a looming, soot‑blackened bell that rings mournfully. A spectral dragon of smoke curls above, its menacing wings shadowing the ship’s hull. Captain Bildad, gaunt and stern, watches from behind a wooden post, while a distant whale’s eye glows ominously in the dark waters. The scene is rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Meanwhile, Captain Bildad sat earnestly and steadfastly eyeing Queequeg, and at last, rising solemnly and fumbling in the huge pockets of his broad-skirted drab coat, took out a bundle of tracks, and selecting one entitled The Latter Day Coming or No Time to Lose, placed it in Queequeg's hands, and then grasping them and the book with both his,",
+    "image_prompt": "A dim harbor at dusk, a weather‑worn wharf lit by flickering lanterns; Captain Bildad in a broad‑skirted drab coat, solemn and gaunt, eyes Queequeg with intense scrutiny. He fumbles from deep pockets, pulls out an ancient bundle of parchment titled “The Latter Day Coming” or “No Time to Lose,” and hands it to the tattooed harpooner. A dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 65,
-    "segment_text": "something of the salt sea, yet lingered in old Bildad's language, heterogeneously mixed with scriptural and domestic phrases.",
-    "image_prompt": "A grim, moonlit harbor at dusk, waves lashing the broken hulls of Nantucket whaleboats. In the foreground stands Captain Bildad, gaunt and stern, with a weather‑battered coat flapping in the wind, his face half‑shadowed as he delivers a fervent sermon to a wary crew. His hands gesture wildly, mixing biblical cadence with crude nautical slang; the salty spray curls around him like a living scripture. The scene is rendered in dark, moody 19th‑century oil style."
+    "segment_text": "looked earnestly into his eyes and said, Son of Darkness, I must do my duty by thee.",
+    "image_prompt": "A dimly lit Nantucket harbor, the old wooden wharf creaking beneath a storm‑laden sky. In the foreground, Captain Bildad – broad‑skirted, weather‑worn – leans close to Queequeg’s tattooed arm, his eyes narrowed with fierce conviction. The harpoon glints on the deck, and distant waves crash against the Pequod’s hull. A dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 66,
-    "segment_text": "Avast there, avast there, Bildad, avast now spoiling our harpooneer, Peleg.",
-    "image_prompt": "A bleak harbor at dusk, a battered Nantucket wharf looming under heavy clouds. Captain Peleg, gruff and foreboding, stands on the bulwarks clutching a harpoon, his eyes fixed on Queequeg, the tattoo‑covered harpooneer, who leans forward with fierce determination. Bildad, cloaked in a weathered coat, hovers beside them, lips twisted in warning, as waves crash against the wooden hull. The scene is rendered in dark, moody 19th‑century oil painting style, evoking tension and foreboding."
+    "segment_text": "I am part owner of this ship and feel concern for the souls of all its crew.",
+    "image_prompt": "A tense moment on the deck of a 19th‑century whaling ship, Captain Bildad standing in dim lantern light, his broad coat draped over the wooden rail. He gestures with one hand toward the crew below, eyes fixed on Queequeg who holds a harpoon, while the stormy sea roils outside. The scene is rendered as a dark, moody oil painting of the era."
   },
   {
     "segment_index": 67,
-    "segment_text": "Pious harpooneers never make good voyagers, it takes the shark out of him.",
-    "image_prompt": "A grim 19th‑century oil painting of a battered Nantucket whaling ship’s deck at twilight. In the foreground an austere, weathered mariner—Captain Bildad—holds a long harpoon aloft, his face lit by lantern fire as he delivers a stern sermon: “Pious harpooneers never make good voyagers.” A young, tattoo‑marked Queequeg stands nearby, his eyes wide, the sea roiling behind them. Dark, moody tones emphasize the harshness of the sea and moral gravity."
+    "segment_text": "If thou still clingest to thy pagan ways, which I sadly fear, I beseech thee, remain not for I a Belial bondsman.",
+    "image_prompt": "Dark, moody 19th‑century oil painting: Captain Bildad in rough wool coat and brimmed hat stands solemnly on the storm‑tossed deck of a Nantucket whaler, his face stern as he addresses Queequeg—tattooed harpooner with rugged beard—who leans against the rail. A gull cries overhead; waves crash below; the sky is heavy, foreboding, reflecting Bildad’s admonition to abandon pagan ways."
   },
   {
     "segment_index": 68,
-    "segment_text": "No harpooneer is worth a straw who ain't pretty sharkish.",
-    "image_prompt": "A grim, dimly lit wharf at dusk, a battered Nantucket schooner’s bulwarks jutting into the misty sea. Captain Peleg stands in ragged coat, his face shadowed by a wide brim hat, pointing sternly at Queequeg—tall, tattoo‑lined, harpoon poised over his shoulder. Nearby Bildad leans on a battered wheel, eyes narrowed. The air is thick with salt spray and the scent of tar. A hushed, menacing tone hangs as Peleg declares: “No harpooneer is worth a straw who ain’t pretty sharkish.” Style: dark, moody 19th‑century oil painting."
+    "segment_text": "Spurn the idle bell and the hideous dragon, Turn from the wrath to come, mind thine eye.",
+    "image_prompt": "A tense, dimly lit deck at dusk, Captain Bildad standing with a stern expression, his broad‑skirted coat flaring in the wind as he raises a weathered hand to shout warning words. Queequeg, harpoon glinting, stands behind him, eyes wide and wary. The ship’s silhouette looms beneath stormy clouds, oil brushwork capturing the harsh, moody atmosphere of a 19th‑century maritime scene."
   },
   {
     "segment_index": 69,
-    "segment_text": "There was young Nat Swain, once the bravest boatheader out of all Nantucket and the Vineyard.",
-    "image_prompt": "A dramatic, dimly lit harbor at dusk, a lone young sailor—Nat Swain—stands on the worn deck of a Nantucket whaler, his face resolute and eyes forward. He wears a battered wool coat, weathered boots, and a sea‑salted beard. Behind him, a stormy Atlantic roils, gulls cry; lantern light flickers against the dark hull. The scene is rendered in brooding 19th‑century oil style, with deep shadows, muted earth tones, and an aura of impending peril."
+    "segment_text": "I say, O, goodness gracious, steer clear of the fiery pit.",
+    "image_prompt": "A tense, moonlit wharf in Nantucket, a rugged wooden ship looming beneath storm‑clouds; Captain Bildad stands in tattered drab coat, eyes blazing with fervor, pointing an accusing finger toward Queequeg—his broad‑armed harpooneer, tattooed and resolute. The air crackles with ominous dread as Bildad utters “O, goodness gracious, steer clear of the fiery pit.” Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 70,
-    "segment_text": "He joined the meeting and never came to good.",
-    "image_prompt": "A dim, candlelit 19th‑century church hall, shadows pooling over stone pews; a lone figure—tanned, tattooed, eyes haunted—seated among stern-faced clergy, clutching a worn Bible that glows faintly. He gazes upward with weary resignation, his hands trembling as he clutches the pages, while a subtle, almost invisible ghost of a whale‑hook hangs in the air behind him, symbolizing his unredeemed spirit. The atmosphere is brooding, heavy with incense and sorrow, rendered in dark oil tones."
+    "segment_text": "Something of the salt sea yet lingered in old Bildad's language, heterogeneously mixed with scriptural and domestic phrases.",
+    "image_prompt": "A dimly lit Nantucket wharf at dusk, Captain Bildad stands on the weather‑worn bulwarks, his broad‑skirted coat flapping in a salty wind. He speaks with a haunted cadence, his voice mixing biblical exhortations and rustic sayings, as Queequeg and Ishmael listen from nearby. The scene is rendered in dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 71,
-    "segment_text": "He got so frightened about his plaguey soul that he shrinked and sheared away from Wales for fear of afterclaps, in case he got stove and went to Davy Jones.",
-    "image_prompt": "A trembling Nantucket harpooneer, eyes wide with dread, retreats from a mist‑shrouded Welsh harbor, clutching his scarred arm as if it might summon the Devil’s clutches; shadowy gulls wheel overhead, and the sea roils like black ink. In the background, a spectral ship—Davy Jones’ coffin—glows faintly through the fog, while an unseen storm rages above. Rendered in dark, moody 19th‑century oil style, with heavy chiaroscuro and muted earth tones."
+    "segment_text": "Avast there, avast there, Bildad.",
+    "image_prompt": "A tense harbor scene in a dark, moody 19th‑century oil painting: Captain Bildad stands on the weathered bulwarks of a Nantucket whaling ship, his broad‑skirted coat billowing, eyes fixed on Queequeg who grips a gleaming harpoon. Storm clouds loom overhead, sea spray laced with tar, and the crew watches as Bildad shouts “Avast there!” in fierce command."
   },
   {
     "segment_index": 72,
-    "segment_text": "Pelleg!",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Captain Peleg on the bulwarks of a Nantucket wharf, harpoon in hand, shouting across the misty harbor. He stands tall, gruff voice booming, eyes fixed on Queequeg who leaps onto the deck. The sea churns under an overcast sky; wooden planks and rope fray around them. Peleg’s weathered face is lit by a lone lantern glow, embodying stern authority in a tense, atmospheric maritime setting. 19th‑century oil painting style."
+    "segment_text": "Avast now spoiling our harpooneer, Peleg.",
+    "image_prompt": "A tense, storm‑shadowed wharf in the twilight of Nantucket, Captain Peleg stands on the bulwarks, his broad hat tipped forward as he shouts “Avast now spoiling our harpooneer,” toward Queequeg who clutches a gleaming harpoon. The wooden deck creaks under their weight; distant waves crash against the hull. A dark, moody 19th‑century oil painting style captures the looming tension and gritty maritime atmosphere."
   },
   {
     "segment_index": 73,
-    "segment_text": "Pelleg!\"",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Captain Peleg standing on the bulwarks of a Nantucket wharf, harpoon in hand, his gruff voice echoing over rough wooden planks. He faces Queequeg and Bildad, demanding papers for the cannibal. The scene is tense, with stormy sea in the background, gulls circling, and lantern light flickering. Peleg’s stern expression contrasts with Queequeg’s fierce determination, all rendered in muted sepia tones, thick impasto brushwork, capturing the grim maritime atmosphere of a 19th‑century oil painting."
+    "segment_text": "Pious harpooneers never make good voyagers.",
+    "image_prompt": "A grim, moonlit Nantucket wharf in a dark, moody 19th‑century oil painting: a grizzled ship’s captain, face lined by salt and soot, stands on the weathered deck amid a scattered crew of harpooneers clutching battered harpoons. His stern gaze pierces the misty horizon as he declares “Pious harpooneers never make good voyagers,” while the wind rattles tattered sails in the background."
   },
   {
     "segment_index": 74,
-    "segment_text": "said Bildad, lifting his eyes and hands.",
-    "image_prompt": "A somber, dimly lit wharf at twilight, a towering 19th‑century schooner’s hull looming in the background. In the foreground, Captain Bildad—a rugged, weathered man with a long white beard—raises his gauntleted hands and eyes skyward, as if calling for divine judgment. His stern face is illuminated by a lone lantern, casting deep shadows across his rough coat and scarred skin. The sea churns beneath, waves reflecting the harsh light in a moody, oil‑painted atmosphere. Style: dark, moody 19th‑century oil painting."
+    "segment_text": "It takes the shark out of them.",
+    "image_prompt": "A tense moment on a dim Nantucket wharf, Captain Bildad, in a weather‑worn coat, berates Queequeg with a harsh admonition, “It takes the shark out of them.” The scene is painted as a dark, moody 19th‑century oil, shadows pooling over rough wooden bulwarks, harpoons gleaming, and the sea’s mist curling around their stern faces."
   },
   {
     "segment_index": 75,
-    "segment_text": "Thou thyself, as I am myself, hast seen many a perilous time.",
-    "image_prompt": "A dimly lit Nantucket harbor at twilight, the storm‑torn wharf shrouded in mist. In the foreground, a stern, broad‑shouldered sailor—Captain Bildad—stands atop weathered wooden planks, his face illuminated by a flickering lantern. He confronts an uneasy young man beside him, his voice echoing across the sea: “Thou thyself… hast seen many a perilous time.” Behind them, a battered whaleboat leans against the pier, its harpoons glinting. The scene is rendered in a dark, moody 19th‑century oil painting style, with heavy chiaroscuro and muted nautical tones."
+    "segment_text": "No harpooneer is worth a straw who ain't pretty sharkish.",
+    "image_prompt": "A tense deck at dusk, waves crashing against the Pequod’s hull. Captain Bildad, broad‑skirted and stern, stands beside a weary Queequeg clutching his iron harpoon, pointing disdainfully toward a ragged whaleboat. The crew watches in silence; a lone gull cries overhead. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 76,
-    "segment_text": "Thou knowest, Pelleg, what it is to have the fear of death.",
-    "image_prompt": "A dim, storm‑shadowed wharf at dusk, waves lashing against a battered Nantucket ship’s hull. Captain Peleg, in weather‑worn sea‑coat and broad brimmed hat, stands on the bulwarks, eyes fixed on the trembling Queequeg who clutches a gleaming harpoon. Ahab looms behind them, his face gaunt, exuding looming dread as he whispers to Peleg: “Thou knowest, Pelleg…”. The mood is heavy, oil‑painted chiaroscuro, 19th‑century maritime drama."
+    "segment_text": "There was young Nat Swain.",
+    "image_prompt": "Young Nat Swain, gaunt and weather‑worn, stands on the creaking deck of a Nantucket whaler, his eyes haunted by distant storms. He is surrounded by swirling fog, the ship’s black sails billowing, while men below him labor in hushed, desperate silence. The scene is rendered as a dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 77,
-    "segment_text": "How, then, canst thou prate in this ungodly guise?",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk. Captain Bildad, gaunt and stern, stands on the wooden bulwarks, his broad‑skirted coat billowing, while Queequeg, tattooed and fierce, leans against the railing with harpoon in hand. The sea roils below, clouds heavy. In a tense moment, Bildad confronts Queequeg with the line “How, then, canst thou prate in this ungodly guise?” Their faces are illuminated by flickering lantern light, capturing moral dread and rugged maritime grit."
+    "segment_text": "Once the bravest boatheader out of all Nantucket and the vineyard, he joined the meeting and never came to good.",
+    "image_prompt": "A dim, storm‑shadowed Nantucket church hall, a lone rugged boat‑header—tall, weather‑scarred, eyes fierce—steps forward into the flickering candlelight of a 19th‑century Congregational meeting. His stern face and scarred hands contrast with the serene pews; an aura of solemn dread hangs as he joins the congregation, his bravery fading in the hush. Dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 78,
-    "segment_text": "Thou beliest thine own heart, Pelleg.\"",
-    "image_prompt": "A tense, moonlit harbor scene in a 19th‑century oil painting: Captain Peleg stands rigid on the ship’s bulwarks, his weathered face illuminated by flickering lanterns, while an older mariner—Captain Bildad—addresses him with stern, accusatory words. The sea roils beneath a stormy sky; distant masts sway in the gloom. Queequeg lingers at the edge, harpoon in hand, eyes fixed on the heated exchange. Shadows cling to the wooden deck, emphasizing the dark, moody atmosphere of moral confrontation."
+    "segment_text": "He got so frightened about his plaguey soul that he shrinked and sheared away from Wales for fear of afterclaps, in case he got stove and went to Davy Jones.",
+    "image_prompt": "A trembling sailor, clutching his coat, retreats in shadowed fog off the Welsh coast, eyes wide with dread of “afterclaps.” The sea roils beneath an ominous sky; gulls cry overhead. Dark, moody 19th‑century oil painting style."
   },
   {
     "segment_index": 79,
-    "segment_text": "When this same Pequod here had her three masts Overboard in that typhoon on Japan, That same voyage when thou went to mate With Captain Ahab, didst thou not think Of death and the judgment then?",
-    "image_prompt": "A dark, moody 19th‑century oil painting of the Pequod’s battered deck in a violent typhoon off Japan: towering waves crash against three shattered masts, blackened sails billowing in fierce wind. Captain Ahab stands resolute amid spray, his face grim, as he confronts the storm’s fury and the looming threat of death. Ishmael looks on, clutching a Bible, while Queequeg lingers nearby, his harpoon gleaming ominously. The scene captures raw maritime dread and moral reckoning in somber, dramatic lighting."
+    "segment_text": "Pelag.",
+    "image_prompt": "A tense, moonlit deck of the Pequod at night, dark waves lashing below; Captain Bildad, broad‑skirted and fierce, thrusts his hand into his coat pocket, shouts “Pelag!” toward a startled Queequeg standing on the bulwarks. Stormy clouds swirl overhead, lantern light flickering, oil painting style of 19th‑century maritime drama."
   },
   {
     "segment_index": 80,
-    "segment_text": "\"'Hear him!",
-    "image_prompt": "A tense, dimly lit wharf at dusk, a hulking whale‑boat’s bulwarks glistening with salt spray. Captain Peleg, gruff and resolute, stands in front of the ship’s deck, his broad shoulders hunched as he intones “Hear him!” His face is shadowed by a heavy hat, eyes fixed on Queequeg, who leans forward from the bulwarks, harpoon poised. The air crackles with impending storm; distant gulls cry. A 19th‑century oil painting, dark and moody, captures the looming tension of this maritime confrontation."
+    "segment_text": "Pelag, said Bildad, lifting his eyes and hands, thou thyself, as I myself, has seen many a perilous time.",
+    "image_prompt": "A tense scene on the deck of a Nantucket whaling ship at dusk: Captain Bildad, in weathered broad‑skirted coat, raises his eyes and hands to a trembling crew member named Pelag, speaking in old nautical rhetoric about perilous times. The dark, stormy sky looms overhead, waves crash below; the oil painting style is moody, 19th‑century maritime realism."
   },
   {
     "segment_index": 81,
-    "segment_text": "hear him now!'",
-    "image_prompt": "A dimly lit Nantucket wharf at twilight, the hulking hull of a whale‑ship looming in stormy gray mist. Captain Peleg stands on the bulwarks, his broad shoulders hunched, voice booming with urgent command: “Hear him now!” Queequeg, harpoon in hand, leans forward from the deck, eyes narrowed; Ishmael watches from below, tense. The sea churns darkly behind them, a looming sense of impending judgment. Rendered as a 19th‑century oil painting, moody chiaroscuro highlights the tension and dread."
+    "segment_text": "Thou knowest, Pelag, what it is to have the fear of death.",
+    "image_prompt": "A tense, storm‑laden Nantucket dock at dusk: dark, moody 19th‑century oil painting of the Pequod’s bulwarks shrouded in mist. Captain Peleg, rough‑eyed and gruff, stands beside a towering whaleboat, eyes fixed on Queequeg, who holds his harpoon aloft. The scene captures the moment Peleg declares “Thou knowest, Pelag, what it is to have the fear of death,” with looming waves, weathered rope, and the ship’s shadowy hull in a brooding nautical tableau."
   },
   {
     "segment_index": 82,
-    "segment_text": "cried Peleg, Marching across the cabin, and thrusting His hands far down into his pockets.",
-    "image_prompt": "A grim, moonlit cabin aboard a Nantucket whaler, its wooden deck shadowed by heavy drapes. Captain Peleg strides forward in a tattered coat, his face set in fierce determination; his hands thrust deep into his pockets as if clutching invisible resolve. The air is thick with the scent of tar and salt, lantern light flickering on polished brass fittings. Behind him, Queequeg watches from a bulwark, harpoon gleaming. A dark, moody 19th‑century oil painting style captures the tension and rugged faith of the scene."
+    "segment_text": "How then canst thou prate in this ungodly guise?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of Captain Bildad standing on a battered Nantucket wharf, his broad‑skirted coat billowing, eyes fixed on Queequeg who holds a harpoon in a tense stance. The stormy sea lingers behind them; the ship’s deck is cluttered with tar and ropes. Tension crackles as Bildad questions Queequeg’s “ungodly guise” amid looming clouds. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 83,
-    "segment_text": "\"'Hear him, all of ye!",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a storm‑swept Nantucket wharf at dusk. Captain Peleg, gaunt and stern in weathered coat, stands on the bulwarks, his voice booming over the creaking deck as he orders “Hear him, all of ye!” Queequeg, harpoon in hand, leans forward with fierce determination. Nearby, a nervous Bildad watches from behind a cracked wigwam, while distant gulls cry against bruised clouds. The sea churns ominously, reflecting muted lantern light and the looming dread of impending conflict."
+    "segment_text": "Thou belliest thine own heart, Pelag.",
+    "image_prompt": "A tense, moonlit Nantucket dock, a battered whaleboat moored; Captain Bildad in weathered coat confronts an anxious Pelag (Ishmael) amid swirling sea mist. Bildad's stern gaze and outstretched hand point accusingly, while Pelag’s face is pale with fear. Dark, moody 19th‑century oil painting style, heavy chiaroscuro, nautical gloom."
   },
   {
     "segment_index": 84,
-    "segment_text": "think of that, When every moment we thought the ship would sink,",
-    "image_prompt": "A somber, dimly lit deck at twilight, a battered whale‑ship groaning under a stormy sky; Captain Ahab stands in the foreground, eyes narrowed, his hand gripping the rail as he exhales a weary “think of that” to his crew. The crew—Ishmael, Queequeg, Starbuck, Stubb, Flask—cluster around him, faces illuminated by flickering lanterns, their bodies hunched with dread and resolve. The sea roils beneath the mast, hinting at impending doom in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Tell me, when this same Pequod here had her three masts overboard in that typhoon on Japan, that same voyage when thou went mate with Captain Ahab, didst thou not think of death and the judgment then?",
+    "image_prompt": "A dark, moody 19th‑century oil painting: a stormy night at sea, the Pequod’s shattered masts billowing in relentless waves, Captain Bildad standing on deck, his face lit by lantern glow, speaking to a trembling crew about death and judgment during the typhoon. The swirling sky, splashing water, and tense shipwrecked hull create an ominous, dramatic scene."
   },
   {
     "segment_index": 85,
-    "segment_text": "Death and the judgment, then?",
-    "image_prompt": "A dark, moody 19th‑century oil painting of a storm‑tossed Nantucket wharf at dusk. Captain Peleg stands on the bulwarks, his broad face illuminated by lantern light, pointing sternly toward Queequeg, who clutches a gleaming harpoon. Behind them, a battered whale‑boat drifts in heavy waves, its deck littered with tar and broken rope. A distant ship’s silhouette looms over the horizon, hinting at impending judgment, as the sea roars ominously around them. 19th‑century oil painting style."
+    "segment_text": "\"'Hear him, hear him now!'",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a storm‑swept Nantucket wharf at dusk, Captain Bildad, robed in tattered broad‑skirted coat, shouts “Hear him, hear him now!” from his wigwam. Queequeg, harpoon glinting, stands on the bulwarks, eyes fixed on the looming Pequod’s mast‑broken hull. The sea churns with ominous clouds, reflecting a tense, biblical drama."
   },
   {
     "segment_index": 86,
-    "segment_text": "What?",
-    "image_prompt": "A dark, 19th‑century oil painting: Queequeg, in weathered wool coat, stands on the creaking bulwarks of a Nantucket wharf, his massive harpoon poised over the ship’s deck; Captain Peleg, stern and gruff, shouts from the edge of a wooden wigwam, while Bildad, haggard and hollow‑voiced, peers from behind. The foggy harbor glows with muted lantern light, waves lashing at the quay, all rendered in brooding chiaroscuro. Art style: dark, moody 19th‑century oil painting."
+    "segment_text": "cried Peleg, marching across the cabin and thrusting his hands far down into his pockets.",
+    "image_prompt": "Dark, moody 19th‑century oil painting of Captain Peleg in a cramped ship’s cabin, shoulders hunched, chestnut coat draped over broad shoulders, eyes burning with fervor. He strides forward, hands thrust deep into his pockets, the wooden deck and hanging rigging dimly lit by lantern glow. The scene captures tension, urgency, and the rough, weathered texture of a Nantucket whaling vessel."
   },
   {
     "segment_index": 87,
-    "segment_text": "With all three masts making Such an everlasting thundering against the sigh, And every sea breaking over us fore and aft, Think of death and the judgment, then?",
-    "image_prompt": "A storm‑swept Nantucket wharf at dusk, three battered masts creaking like thunderous drums. Dark clouds roll over a churning sea, waves slamming against hulls with relentless fury. In the foreground, Captain Peleg and Bildad stand on bulwarks, their faces illuminated by lantern light, eyes fixed on the tempestuous horizon. The scene is rendered as a dark, moody 19th‑century oil painting, rich in chiaroscuro and atmospheric tension."
+    "segment_text": "\"'Hear him, all of ye!",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket harbor at twilight. In the foreground, Captain Bildad stands on a creaking deck, his broad‑skirted coat billowing, voice raised to the crew in urgent, trembling tones: “Hear him, all of ye!” The crew—Queequeg with harpoon, Ishmael in ragged attire, and other sailors—listen solemnly as waves crash against the ship’s battered hull. The scene radiates tension, dread, and a foreboding sea storm."
   },
   {
     "segment_index": 88,
-    "segment_text": "No.",
-    "image_prompt": "A tense, dimly lit wharf at dusk: Captain Peleg and Bildad stand beside the bulwarks, their faces stern in flickering lantern light. Queequeg, with his tattooed arm glinting, leans forward, his hand poised over a harpoon, eyes narrowed. He delivers a single word—“No”—against a backdrop of looming whale‑boats and a stormy Atlantic horizon. The scene is rendered as a dark, moody 19th‑century oil painting, with heavy chiaroscuro and muted sea colors."
+    "segment_text": "Think of that, when every moment we thought the ship would sink!",
+    "image_prompt": "A dark, moody 19th‑century oil painting: Captain Peleg stands on a battered Nantucket wharf, his weathered face twisted in fierce admonition as he points toward a trembling Pequod, its masts splintering, the sea roiling violently around it. Queequeg, harpoon gleaming, watches from the bulwarks; waves crash against the deck, threatening to swallow the ship. The scene is drenched in stormy gloom and tense anticipation."
   },
   {
     "segment_index": 89,
-    "segment_text": "No time to think about death then.",
-    "image_prompt": "A somber, dimly lit Nantucket wharf at dusk, a wooden bulkhead creaking under the weight of an anxious crew. Captain Peleg stands on the bulwarks, his broad shoulders hunched as he delivers a thunderous decree: “No time to think about death then.” Queequeg, harpoon in hand, leans against the railing, eyes narrowed with resolve. Behind them, faint silhouettes of other sailors clutching papers, their faces pale and tense. The scene is rendered in a dark, moody 19th‑century oil painting style, heavy shadows, muted earth tones, capturing the oppressive atmosphere of impending peril."
+    "segment_text": "Death and the judgment then?",
+    "image_prompt": "A storm‑laden Nantucket harbor at dusk, waves crashing against a battered whaling ship’s hull; Captain Peleg stands on the bulwarks, his face gaunt, eyes fixed skyward as if hearing an unseen judgment. Queequeg in harpoon stance, inked arm glowing in dim lantern light. Dark, moody 19th‑century oil painting."
   },
   {
     "segment_index": 90,
-    "segment_text": "Life was what Captain Ahab and I was thinking of, and how to save all hands, how to rig jury-masts, how to get into the nearest port—it—that was what I was thinking of.\"",
-    "image_prompt": "A somber, 19th‑century oil painting: Captain Ahab stands on a battered wharf amid the dim twilight, his face etched with grim determination. Beside him, Ishmael leans forward, eyes reflecting resolve. The stormy Atlantic churns in the background, waves crashing against the ship’s hull. Both men are silhouetted against flickering lantern light, their silhouettes framed by cracked wooden planks and a tattered flag. The scene conveys urgency: Ahab and Ishmael planning jury‑masts, salvaging crew, seeking refuge—dark, moody, 19th‑century style."
+    "segment_text": "What?",
+    "image_prompt": "A dark, moody 19th‑century oil painting of a stormy Nantucket wharf at dusk: Queequeg in his harpoon‑laden hands stands on the bulwarks, Captain Peleg and Bildad in ragged wigs, voices raised, while Ishmael watches nervously. The wooden ship’s deck looms beneath thunderclouds, waves crashing against the hull, all rendered with heavy brushstrokes and muted, brooding tones."
   },
   {
     "segment_index": 91,
-    "segment_text": "Bill died, said no more, but buttoning up his coat, stalked on deck, where we followed him.",
-    "image_prompt": "A lone figure of Bill, gaunt and solemn, strides across the dimly lit deck of an old Nantucket whaler, his coat buttoned tight against a chill wind. The wooden planks glisten with salt spray, shadows cast by the low sun behind storm‑clouds. Beside him, Ishmael and Queequeg trail in muted silence, their faces marked by weariness. A dark, moody 19th‑century oil painting style captures the somber tension of a sea‑faring crew at dusk."
+    "segment_text": "With all three masts making such an everlasting thundering against the side, and every sea breaking over us, fore and aft!",
+    "image_prompt": "Dark, moody 19th‑century oil painting of a battered whaler in stormy seas: three massive masts groaning under relentless thunder, waves crashing fore and aft, crew scrambling on deck, Captain Peleg shouting orders; Queequeg poised with harpoon amid spray. The sky roils, lightning illuminates the ship’s weathered hull, capturing the raw terror of a tempest at sea. Style: 19th‑century oil painting."
   },
   {
     "segment_index": 92,
-    "segment_text": "There he stood, very quietly overlooking some seymakers who were mending a top-sail in the waste.",
-    "image_prompt": "A dim, storm‑clouded Nantucket harbor at dusk, a lone figure—Queequeg—stands on the weather‑worn bulwarks of a whale‑boat, his harpoon resting beside him. He watches stoically as crew members in rough wool coats work on a torn top‑sail, their hands stained with tar and sweat. The scene is rendered in a dark, moody 19th‑century oil painting style, emphasizing heavy shadows, muted earth tones, and the rugged maritime atmosphere."
+    "segment_text": "Think of death and the judgment then!",
+    "image_prompt": "A tense, dark 19th‑century oil painting of Captain Peleg standing on a creaking wharf, his broad shoulders hunched, eyes fixed on Queequeg amid stormy Atlantic gloom. The harbor is shrouded in mist and waves, lanterns flickering. Peleg’s voice echoes: “Think of death and the judgment then,” as distant gulls cry, conveying foreboding dread. Art style: dark, moody, 19th‑century oil painting."
   },
   {
     "segment_index": 93,
-    "segment_text": "Now and then he stooped to pick up a patch or save an end of tarred twine, which otherwise might have been wasted.",
-    "image_prompt": "Ahab in a weather‑worn, heavy‑sail schooner’s deck, mid‑stretching to retrieve a torn sail patch and a frayed tarred twine from the splintered wooden planks, his broad shoulders hunched against a stormy Atlantic backdrop. Men bustle around him with canvas and ropes; waves crash below the masts. The scene is rendered in a dark, moody 19th‑century oil painting style, emphasizing muted colors, dramatic chiaroscuro, and the gritty texture of sea‑weathered timber."
+    "segment_text": "No, no time to think about death then!",
+    "image_prompt": "A tense, dimly lit Nantucket harbor at twilight, the wooden deck of a whaling ship creaking under heavy boots; Captain Bildad stands resolute in his rough coat, eyes narrowed, as he delivers a stern admonition: “No, no time to think about death then.” Behind him, Queequeg grips a gleaming harpoon, the harbor mist curling around the mastheads. The scene is rendered as a dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 94,
+    "segment_text": "Life was what Captain Ahab and I was thinking of, and how to save all hands, how to rig jury masts, how to get into the nearest port—that was what I was thinking of.\"",
+    "image_prompt": "A somber, twilight harbor scene: Captain Ahab stands on a battered deck with Queequeg beside him, both silhouetted against storm‑clouded skies. Their faces are grim, eyes fixed on the horizon where a lone mast is being jury‑rigged by crewmen in ragged coats. The ship’s hull groans; tar splashes in the foreground. Dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 95,
+    "segment_text": "Bildad said no more, but, buttoning up his coat, stalked on deck where we followed him.",
+    "image_prompt": "A lone, stern Captain Bildad in a tattered, broad‑skirted coat, buttoning his weather‑worn jacket as he stalks the deck of a creaking Nantucket whaler, lantern light flickering over slick tarred ropes and iron masts; the gloomy harbor at dusk looms behind him, with stormy clouds gathering. Dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 96,
+    "segment_text": "There he stood, very quietly overlooking some sailmakers who were mending a top sail in the waste.",
+    "image_prompt": "A dimly lit Nantucket wharf at twilight, Captain Bildad stands alone on weather‑torn bulwarks, his silhouette framed by flickering lanterns. In the background, rough‑handed sailmakers labor over a tattered top sail in the ship’s waste, their faces grim and soot‑streaked. The scene is rendered as a dark, moody 19th‑century oil painting."
+  },
+  {
+    "segment_index": 97,
+    "segment_text": "Now and then he stooped to pick up a patch or save an end of tarred twine which otherwise might have been wasted.",
+    "image_prompt": "A lone whaleboat crewman bends amid storm‑scarred decks, clutching a ragged patch and frayed tarred twine, the ship’s battered hull groaning under wind. Distant waves crash against the prow, while lantern light flickers over weathered timber. The scene is rendered in dark, moody 19th‑century oil painting style, evoking gritty maritime toil."
   }
 ]

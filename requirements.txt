@@ -1,6 +1,5 @@
 
 # Core dependencies
-python>=3.8
 nltk
 torch
 torchaudio
@@ -13,3 +12,4 @@ sentencepiece
 
 # Video processing
 ffmpeg-python
+Pillow

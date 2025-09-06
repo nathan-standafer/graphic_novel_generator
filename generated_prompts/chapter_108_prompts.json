@@ -1,0 +1,842 @@
+[
+  {
+    "segment_index": 0,
+    "segment_text": "Chapter 28.",
+    "image_prompt": "A dim deck at night, a rugged carpenter hunched over a wooden bench lit by two lanterns, filing ivory and bone with leather straps and brass tools scattered around; a blacksmith’s forge glows red in the background as sparks fly. Captain Ahab watches from the shadowed prow, his silhouette framed by sharp chiaroscuro, eyes fixed on the carpentry work. Romantic realism, 19th‑century whaling ship, deep navy and charcoal tones, fine linework with semi‑realistic gradients, paper grain."
+  },
+  {
+    "segment_index": 1,
+    "segment_text": "Ahab and the Carpenter.",
+    "image_prompt": "Ahab stands beside a rugged carpenter at night on the deck of the Pequod, lanterns casting deep navy shadows over polished ivory tools and splintered oak. The carpenter’s hands file a jagged whale‑bone leg while Ahab’s stern gaze meets the horizon, firelight flickering off the blacksmith’s forge in the distance. Romantic realism, high‑contrast chiaroscuro, charcoal tones, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 2,
+    "segment_text": "The Deck.",
+    "image_prompt": "Deck of the Pequod at twilight, moon‑lit waves lapping against iron railings; Ahab stands tall, silhouette framed by deep navy sky and charcoal clouds, his eyes fixed on horizon. Captain Starbuck and Stubb lean over the railing, lanterns casting sharp chiaroscuro shadows across weathered planks. The ship’s rigging curls like blackened vines, while distant gulls cry against a storm‑heavy sky—romantic realism, 19th‑century maritime tension."
+  },
+  {
+    "segment_index": 3,
+    "segment_text": "First Night Watch.",
+    "image_prompt": "Night watch on the deck of the Pequod, moonlit and storm‑swept, Captain Ahab stands in a shadowed alcove beside a low wooden bench. Two lanterns cast deep navy pools of light over polished ivory tools, a vice, and scattered leather straps. The blacksmith’s forge glows red in the distance, sending wisps of soot into the crisp air. Romantic realism: high‑contrast chiaroscuro, charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain, 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 4,
+    "segment_text": "Carpenter standing.",
+    "image_prompt": "Carpenter standing amid a dim deck workshop, torch‑lit beams of deep navy and charcoal swirling in sharp chiaroscuro; he is poised beside an iron vice holding a slab of ivory, surrounded by scattered leather straps, bone files, and gleaming steel tools. Two lanterns cast wavering light across the polished wood bench while a red forge flame flickers in the background, reflecting off wet surfaces—an atmospheric Romantic realism of 19th‑century whaling craftsmanship."
+  },
+  {
+    "segment_index": 5,
+    "segment_text": "Before his vice.",
+    "image_prompt": "Carpenter in a dim deck‑room, lanterns casting sharp chiaroscuro on weathered timber; he leans over a sturdy workbench, fingers poised around a large iron vice, ivory filings glittering like sea foam. The night watch hums faintly, deep navy and charcoal tones dominate, fine linework blended with semi‑realistic gradients, subtle paper grain—romantic realism of a 19th‑century whaling ship’s interior."
+  },
+  {
+    "segment_index": 6,
+    "segment_text": "Bench, and by the light of two lanterns, busily filing the ivory.",
+    "image_prompt": "Moody, high‑contrast Romantic realism illustration set aboard a 19th‑century whaling ship deck at night. A solitary carpenter bench bathed in twin lantern glow, sharp chiaroscuro lighting highlighting fine linework and semi‑realistic gradients. The carpenter hunched over, filleting ivory bone with meticulous tools scattered around—saw, file, leather straps, screws—his breath misting in the dim air. Deep navy and charcoal tones capture tense solitude of a whaling voyage. 19th‑century nautical setting."
+  },
+  {
+    "segment_index": 7,
+    "segment_text": "Joist for the leg, which joist is firmly fixed in the vice.",
+    "image_prompt": "A dim deck workshop at night, a rugged carpenter hunched over a heavy wooden joist, its ends clamped tightly in a brass vise. Two lanterns cast harsh, chiaroscuro light across ivory files, bone dust, and scattered tools. Captain Ahab watches from the shadows, his silhouette sharp against the navy‑black sea, while a faint glow of forge fire hints at the blacksmith’s nearby toil—Romantic realism, 19th‑century nautical tension."
+  },
+  {
+    "segment_index": 8,
+    "segment_text": "Slabs of ivory, leather straps, pads, screws, and various tools of all sorts lying about the bench.",
+    "image_prompt": "A dim deck‑bench under twin lanterns, a rugged carpenter’s worktable cluttered with slabs of polished ivory, weathered leather straps, padded bone inserts, brass screws, and an array of hand tools—files, chisels, sandpaper—spattered with bone dust. The scene is moody, high‑contrast Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain, evoking a 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 9,
+    "segment_text": "Forward, the red flame of the forge is seen, where the blacksmith is at work, draught the file, and draught the bone.",
+    "image_prompt": "Red‑flame forge blazing on a cramped ship deck, a rugged blacksmith hunched over a wooden bench, his soot‑stained hands gripping a sharp file that glints in the torchlight. He drags the file across a rough bone slab, sparks dancing like tiny stars against navy‑black sky, while lanterns cast deep charcoal shadows, capturing the tense, Romantic realism of a 19th‑century whaling vessel."
+  },
+  {
+    "segment_index": 10,
+    "segment_text": "That is hard which should be soft, and that is soft which should be hard.",
+    "image_prompt": "Illustrate a dimly lit ship’s workshop aboard the Pequod at night. The carpenter stands hunched over a heavy oak bench, a vice clamping an ivory leg of a whale. He files the bone with a worn file, sweat glistening on his brow, while two lanterns cast stark chiaroscuro across the room. A faint red glow from a nearby forge hints at the blacksmith’s work. The mood is moody, high‑contrast Romantic realism in deep navy and charcoal tones, 19th‑century maritime detail."
+  },
+  {
+    "segment_index": 11,
+    "segment_text": "So we go, who file old jaws and shin bones.",
+    "image_prompt": "A dim deck at night, moon‑lit sails draped over a wooden ship’s hull. A weary carpenter hunched over a bench, two lanterns casting sharp chiaroscuro light on ivory scraps, leather straps, and bone fragments scattered around him. He files old whale jaws and shin bones with a fine file, the glow of a forge’s red flame nearby. The scene captures 19th‑century whaling tension in moody Romantic realism, deep navy and charcoal tones."
+  },
+  {
+    "segment_index": 12,
+    "segment_text": "Let's try another.",
+    "image_prompt": "A dim, moonlit deck of the Pequod at night, a rugged carpenter hunched over a wooden bench in a cramped galley, surrounded by scattered ivory slabs, leather straps, and metal tools. Two lanterns cast sharp chiaroscuro, illuminating dusted bone and soot. Ahab’s shadow looms nearby, his voice echoing as he instructs the laborer. Romantic realism, 19th‑century whaling style, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 13,
+    "segment_text": "Aye, now, this works better.",
+    "image_prompt": "A ship’s cramped workshop at night: Captain Ahab stands beside a rugged carpenter, lanterns casting sharp chiaroscuro on tables piled with ivory slabs, leather straps, and iron tools. The carpenter files bone‑like jaws, sparks from a nearby forge flickering. Ahab nods approvingly, “Aye, now, this works better,” his eyes reflecting deep navy gloom. Romantic realism, 19th‑century whaling tone, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 14,
+    "segment_text": "Senoneses.",
+    "image_prompt": "A dim deck at night, a rugged carpenter hunched over an ivory bench under two flickering lanterns, his tools scattered—files, leather straps, screws, and a blacksmith’s forge glowing red in the background. He coughs as bone dust swirls, muttering “Senoneses,” the word echoing across the ship’s wooden bulkhead. Captain Ahab watches from the mast, eyes narrowed, while Stubb leans nearby, grumbling about the strange sounds. Romantic realism, 19th‑century maritime, deep navy and charcoal tones, chiaroscuro lighting."
+  },
+  {
+    "segment_index": 15,
+    "segment_text": "Halloa, this bone dust is senoneses.",
+    "image_prompt": "A dim ship’s workshop at night, Captain Ahab stands beside a rough‑cut carpenter’s bench, lanterns casting deep navy shadows and sharp chiaroscuro over scattered ivory slabs, leather straps, bone dust, and blacksmith tools. The carpenter, soot‑streaked, mutters “Halloa, this bone dust is senoneses,” as he files a jagged jawbone in the vice, flames licking a forge nearby. Romantic realism, 19th‑century maritime gloom, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 16,
+    "segment_text": "Why, it's S-enoneses.",
+    "image_prompt": "Carpenter’s cramped workshop aboard the Pequod at night, two lanterns casting stark navy and charcoal shadows across a workbench cluttered with ivory slabs, leather straps, screws, and bone tools; a blacksmith in the background hammers a forge flame, soot drifting. The carpenter, eyes narrowed, mutters “Why, it’s S‑enoneses” as he files a shinbone, his hand trembling. Moody Romantic realism, 19th‑century whaling era, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 17,
+    "segment_text": "Yes, it's S-enoneses.",
+    "image_prompt": "A dim, high‑contrast illustration of a cramped ship’s carpenter’s bench under two flickering lanterns. The carpenter, a rugged old man in worn breeches, hunched over a wooden vice grips a jagged ivory jawbone. Dust swirls around his hands; bone fragments and leather straps scatter the table. A faint, ghostly whisper of “S‑enoneses” lingers in the air, hinting at mystical craftsmanship. Romantic realism, deep navy/charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, 19th‑century whaling setting."
+  },
+  {
+    "segment_index": 18,
+    "segment_text": "Yes, it's S-enoses.",
+    "image_prompt": "Carpenter in a dim deck workshop, lantern light flickering over a vice‑clamped ivory joist, his breath misting the air as he mutters “Yes, it’s S‑enoses.” Fine linework shows scattered bone dust, leather straps, and blacksmith tools; chiaroscuro casts deep navy shadows across the wooden bench. Romantic realism, 19th‑century whaling ship interior, subtle paper grain, dramatic contrast, capturing tension of manual craft on a stormy night."
+  },
+  {
+    "segment_index": 19,
+    "segment_text": "Bless my soul, it won't let me speak.",
+    "image_prompt": "A dim deck at night, a solitary carpenter hunched over a vice‑fixed ivory joist under flickering lantern light; his hands dusted with bone powder, he mutters “Bless my soul, it won’t let me speak.” Ahab watches from the shadows, stern and brooding, while the foreboding red forge glows in the background. Moody Romantic realism, 19th‑century naval setting, deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 20,
+    "segment_text": "This is what an old fellow gets now for working in dead lumber.",
+    "image_prompt": "Carpenter hunched over a wooden bench, lantern light flickering on his weather‑worn hands as he files a jagged piece of ivory and bone. Dust curls like ghostly mist around the vice‑held joist, while a red forge flame stirs in the background, blacksmith’s anvil clanking faintly. The deck hums with low waves, deep navy shadows pooling over charcoal‑tinted wood, capturing the gritty toil of “dead lumber” in moody Romantic realism."
+  },
+  {
+    "segment_index": 21,
+    "segment_text": "Saw a live tree, and you don't get this dust.",
+    "image_prompt": "A dark ship’s galley at night, a rugged carpenter hunched over a wooden bench under two flickering lanterns, his hands stained with ivory filings. He grinds bone against a vice, the blacksmith’s forge blazes red in the background. Ahab watches from the deck, eyes narrowed, as the carpenter mutters about “live tree” dust versus bone dust. Moody chiaroscuro, deep navy and charcoal tones, Romantic realism of a 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 22,
+    "segment_text": "Amputate a live bone, and you don't get it.",
+    "image_prompt": "Amid the dim deck of the Pequod at night, a rugged ship’s carpenter kneels beside a wooden bench, his hands gripping a fresh live bone—perhaps a whale’s shin—under twin flickering lanterns. Fine lines trace the bone’s rough surface while charcoal shadows pool around him; a faint red glow from the forge behind hints at fire and metal work. The scene is moody, high‑contrast Romantic realism with deep navy and charcoal tones, sharp chiaroscuro lighting, subtle paper grain, capturing the tense, gritty atmosphere of 19th‑century whaling."
+  },
+  {
+    "segment_index": 23,
+    "segment_text": "S&Es.",
+    "image_prompt": "A moonlit ship’s deck, a solitary carpenter hunched over a battered oak workbench, two flickering lanterns casting deep navy shadows and sharp chiaroscuro on ivory slabs, leather straps, and rusted tools scattered about. A blacksmith’s forge blazes red in the background, its iron hammers echoing, while bone dust swirls like fine snow. The scene captures tense 19th‑century whaling craftsmanship in Romantic realism, charcoal tones, subtle paper grain, and dramatic lighting."
+  },
+  {
+    "segment_index": 24,
+    "segment_text": "Come, come, you old smut.",
+    "image_prompt": "A tense night on the Pequod’s deck: a weary carpenter in a dim lantern glow, sweat‑slicked brow, shouts “Come, come, you old smut” toward Ahab, who stands looming over him with a foreboding stare. The wooden benches and scattered ivory tools glint beneath sharp chiaroscuro lighting. Romantic realism, 19th‑century maritime style, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 25,
+    "segment_text": "There, bear a hand, and let's have that ferule and buckle screw.",
+    "image_prompt": "A dim deck‑side workshop under a stormy night sky, two lanterns casting deep navy shadows over a rough oak bench. A weary carpenter grips a gleaming iron ferule beside a brass buckle screw, his hands stained with ivory dust; a blacksmith’s forge glows red in the background, smoke curling toward the horizon. Captain Ahab stands nearby, eyes sharp, directing the work with a tense, commanding gesture. Romantic realism, high‑contrast chiaroscuro, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 26,
+    "segment_text": "I'll be ready for them presently.",
+    "image_prompt": "A weary carpenter in a dim ship’s hold, lanterns casting deep navy and charcoal chiaroscuro, files ivory and bone with steady hands; the red forge flame lingers nearby as a blacksmith hammers a buckle screw. Ahab stands in shadowed silhouette, his eyes fixed on the workbench, murmuring “Ill be ready for them presently.” Romantic realism, 19th‑century maritime setting, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 27,
+    "segment_text": "Lucky now, senese.",
+    "image_prompt": "A dim, charcoal‑toned whaling deck at night; two flickering lanterns cast sharp chiaroscuro on a wooden workbench piled with ivory slabs, leather straps, and rusted tools. In the foreground, a weathered carpenter hunched over a vice, file in hand, muttering “Lucky now, senese.” Ahab’s stern silhouette looms behind him, his gaze fixed on the forging fire where a blacksmith hammers a gleaming buckle. Romantic realism, fine linework, subtle paper grain, 19th‑century maritime atmosphere."
+  },
+  {
+    "segment_index": 28,
+    "segment_text": "There's no kneeses, there's no knee joint to make, that might puzzle a little, but a mere shinbone.",
+    "image_prompt": "A dim deck at night, moonlit over the Pequod’s hull, where a rugged carpenter hunched over a wooden bench, a single shucked shinbone in hand, its raw bone glinting under lantern glow. Ahab looms in shadow, eyes fixed on the work, while Starbuck watches from the railing. The scene is moody, high‑contrast Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 29,
+    "segment_text": "Why it's easy as making hop poles, only I should like to put a good finish on.",
+    "image_prompt": "A dim ship’s carpentry bay at night, lanterns casting sharp chiaroscuro on a weather‑worn carpenter hunched over an ivory leg joint in a vice. He files the bone with a fine blade, dust swirling like ghostly snow, while a distant forge glows red. The scene captures Ahab’s terse remark about finishing the piece, tension thick between raw craft and obsessive precision—moody Romantic realism, deep navy charcoal tones, 19th‑century nautical detail."
+  },
+  {
+    "segment_index": 30,
+    "segment_text": "Time, time, if I but only had the time, I could turn him out as neat a leg now as ever.",
+    "image_prompt": "Carpenter in a dim deck‑bench workshop, two flickering lanterns casting sharp chiaroscuro on ivory slabs and bone, while a red forge flame licks the air. He files a massive whale’s leg, his brow furrowed, muttering “Time…if I had time…” Ahab stands nearby, silhouette against the ship’s dark hull, watching the meticulous work with tense anticipation. Romantic realism in navy‑charcoal tones, fine linework and subtle paper grain."
+  },
+  {
+    "segment_index": 31,
+    "segment_text": "Segses scrape to a lady in a parlor.",
+    "image_prompt": "A dimly lit ship’s galley, late night watch, two lanterns casting deep navy shadows across a rugged wooden bench. A grizzled carpenter hunched over a vice, ivory files gleaming with bone dust as he scrapes a jagged shank of whale jawbone—“Segses”—toward a polished oval slate that will mark the leg’s length. The air is thick with charcoal soot and the faint hiss of a distant forge, evoking 19th‑century whaling tension in Romantic realism."
+  },
+  {
+    "segment_index": 32,
+    "segment_text": "Those buckskin legs and calves of legs I've seen in shop windows wouldn't compare at all.",
+    "image_prompt": "A dim deck workshop at night, two lanterns flicker over a rugged carpenter’s bench where ivory slabs and leather straps lie scattered. The carpenter, sweat‑slicked and focused, files a raw shinbone, murmuring about buckskin legs seen in shop windows—his eyes reflecting the sharp chiaroscuro of deep navy and charcoal tones. Romantic realism, 19th‑century whaling voyage atmosphere, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 33,
+    "segment_text": "They soak water, they do, and of course get rheumatic and have to be doctored.",
+    "image_prompt": "A dim, moonlit ship’s galley where a weary carpenter holds a damp leather‑tied whale jawbone in his gloved hand; the water‑slicked surface glistens under two lanterns, casting deep navy shadows and sharp charcoal chiaroscuro. The scene shows fine linework of bone dust, a trembling hand, and a subtle paper grain texture, evoking 19th‑century whaling tension in Romantic realism style."
+  },
+  {
+    "segment_index": 34,
+    "segment_text": "Segs with washes and lotions, just like live legs.",
+    "image_prompt": "A dim deck workshop at night, a weather‑worn carpenter hunched over a carved ivory leg, his hands stained with bone dust. He applies bright green washes and amber lotions to the polished surface, mimicking the supple sheen of living legs. Two lanterns cast sharp chiaroscuro across splintered timber, shadows dancing on ropes and sea‑salted planks. Romantic realism, 19th‑century whaling era, deep navy and charcoal tones, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 35,
+    "segment_text": "There, before I saw it off, now I must call his old mogul ship and see whether the length will be all right.",
+    "image_prompt": "A dimly lit ship’s deck‑bench under twin lanterns, a rugged carpenter in 19th‑century whaling garb holds a freshly filed ivory leg, measuring its length with an old brass ruler. Behind him, a red forge burns, blacksmith’s tools scattered, while Captain Ahab stands nearby, eyes narrowed, assessing the piece. Moody navy and charcoal tones clash with sharp chiaroscuro, fine linework blending into semi‑realistic gradients, subtle paper grain capturing tension of a whaling voyage."
+  },
+  {
+    "segment_index": 36,
+    "segment_text": "Too short, if anything, I guess.",
+    "image_prompt": "A tense night on the Pequod’s deck, Ahab stands beside a carpenter’s wooden bench under two lanterns, their flickering glow cutting sharp chiaroscuro shadows across ivory slabs and bone tools. The carpenter hammers a brace into a vice, his face lit by the forge’s red flame in the distance. Ahab mutters “Too short, if anything, I guess,” as he measures a leg‑replacement, the ship’s creaking hull looming behind them. Romantic realism, 19th‑century nautical drama, deep navy and charcoal tones."
+  },
+  {
+    "segment_index": 37,
+    "segment_text": "Ha!",
+    "image_prompt": "A solitary carpenter huddles over a bench in the dim deck of the Pequod at night, lantern light casting deep navy shadows and sharp charcoal contrasts on ivory slabs, bone filings, leather straps, and steel tools scattered around. He files a jagged whale jawbone with meticulous precision, sweat glistening on his brow, as a distant red forge flame flickers in the background—Romantic realism, 19th‑century maritime atmosphere."
+  },
+  {
+    "segment_index": 38,
+    "segment_text": "That's the heel.",
+    "image_prompt": "A dim deck at night, two lanterns flickering over a wooden workbench where an elderly carpenter files ivory and sharpens a bone leg for Captain Ahab. The scene is steeped in moody Romantic realism: deep navy shadows clash with charcoal light, chiaroscuro highlights on the carved heel, fine linework detailing tools and splintered wood, subtle paper grain adding texture—capturing 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 39,
+    "segment_text": "We are in luck.",
+    "image_prompt": "Ahab and the weary carpenter stand amid a dimly lit ship’s workbench, lanterns casting sharp chiaroscuro on ivory slabs, bone dust, and blacksmith tools; Ahab’s grim face turns to the carpenter with a fleeting smile, whispering “We are in luck.” The scene glows in deep navy and charcoal tones, Romantic realism style, 19th‑century maritime atmosphere, fine linework blending into semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 40,
+    "segment_text": "Here he comes, or it's somebody else, that's certain.",
+    "image_prompt": "A dim, iron‑laden ship’s deck at night, two lanterns casting stark navy shadows on a wooden workbench where a weary carpenter files ivory against a vice. Captain Ahab stands nearby, his face half‑lit by flickering flame, eyes narrowed with relentless intent. In the background, a blacksmith hammers steel, smoke curling into the charcoal sky, while distant waves crash in muted contrast—Romantic realism, 19th‑century whaling mood."
+  },
+  {
+    "segment_index": 41,
+    "segment_text": "A.H.A.B.",
+    "image_prompt": "Ahab stands in a dimly lit ship’s galley, his scarred face illuminated by two lanterns and the flickering forge fire. He grips a carved ivory leg in one hand, while the other holds a long‑handed file. Around him, tools spill across a wooden bench: leather straps, iron screws, bone dust swirling like ash. The scene is moody, high‑contrast Romantic realism with deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 42,
+    "segment_text": "Advancing during the ensign's scene, the carpenter continues.",
+    "image_prompt": "A dim deck at night: a rugged carpenter hunched over an ivory bench, torchlight flickering on polished wood and scattered tools—file, sandpaper, leather straps, bone fragments. Two lanterns cast sharp chiaroscuro across the scene as he files a whale jawbone leg, his hands steady despite a faint cough. Captain Ahab watches from a distance, stern yet intrigued. The moody, high‑contrast Romantic realism style of 19th‑century maritime illustration, deep navy and charcoal tones, captures tension and craft."
+  },
+  {
+    "segment_index": 43,
+    "segment_text": "Sneezing at times.",
+    "image_prompt": "A lone carpenter hunched over a wooden bench in the dim deck‑wardroom of the Pequod, his breath misting from sudden sneezes as ivory filings and bone dust swirl in shafts of lantern light. The scene is moody, high‑contrast Romantic realism, deep navy and charcoal tones, chiaroscuro shadows on weathered timber, fine linework with semi‑realistic gradients, subtle paper grain—capturing the tense, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 44,
+    "segment_text": "Well, manmaker.",
+    "image_prompt": "Ahab stands beside a low wooden bench under twin lanterns, the deck’s rough planks illuminated by sharp chiaroscuro. The carpenter, mid‑file, pauses, his face lit by the forge’s red glow, looks up with weary eyes and says “Well, manmaker.” Ahab’s stern gaze meets him, tension thick as storm‑dark navy water. Romantic realism: deep charcoal outlines, fine linework blending into semi‑realistic gradients, subtle paper grain, 19th‑century nautical mood."
+  },
+  {
+    "segment_index": 45,
+    "segment_text": "Just in time, sir.",
+    "image_prompt": "A humble carpenter, sweat‑dampened brow, pauses mid‑file as a hushed whisper of “Just in time, sir” echoes through the dim deck. He stands by a battered wooden bench, ivory shards glinting under two lanterns, a forge’s red glow flickering in the distance. The scene captures 19th‑century whaling tension: sharp chiaroscuro lighting, deep navy and charcoal tones, Romantic realism with fine linework and subtle paper grain."
+  },
+  {
+    "segment_index": 46,
+    "segment_text": "If the captain pleases, I will now mark the length.",
+    "image_prompt": "A dim ship’s workshop at night: a rugged carpenter with soot‑streaked hands stands beside a heavy wooden bench, holding a long ivory ruler against a carved whale bone leg. Captain Ahab watches from the shadows, his profile illuminated by two lanterns casting sharp chiaroscuro. The forge glows red in the background, steam curling from the blacksmith’s anvil. Deep navy and charcoal tones dominate, fine linework blending into semi‑realistic gradients, capturing tense 19th‑century whaling drama. Romantic realism, 1800s style."
+  },
+  {
+    "segment_index": 47,
+    "segment_text": "Let me measure, sir.",
+    "image_prompt": "Ahab stands beside a cramped wooden workbench on the deck of the Pequod, lanterns casting sharp chiaroscuro shadows over piles of ivory slabs, leather straps, and metal tools. The carpenter, sweat‑drenched and focused, holds a brass measuring rod in front of Ahab’s stern face, while a blacksmith sparks from a forge in the background. Romantic realism, 19th‑century maritime tone, deep navy and charcoal hues, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 48,
+    "segment_text": "Measured for a leg.",
+    "image_prompt": "Ahab stands in the dim deck workshop, lanterns casting sharp chiaroscuro on a wooden bench strewn with ivory slabs, leather straps, and tools. The carpenter, hands stained, measures a curved leg‑shaped piece of ivory against a sturdy vice, his face tense under navy shadows. A faint red glow from a nearby forge hints at Prometheus‑like fire. Romantic realism, 19th‑century maritime style, deep navy & charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 49,
+    "segment_text": "Good.",
+    "image_prompt": "A dim deck at night, a rugged wooden workbench bathed in twin lantern glow; a stern carpenter hunched over an ivory leg, file gleaming as it smooths bone‑like surface. Nearby, a forge’s crimson flame licks blacksmith tools—steel, screws, leather straps—while soot drifts in sharp chiaroscuro against deep navy and charcoal tones. Romantic realism, 19th‑century whaling ship, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 50,
+    "segment_text": "Well, it's not the first time.",
+    "image_prompt": "A dimly lit ship’s carpentry workshop at night, a stout carpenter in rough linen grips an ivory file against a vice‑clamped bone. Captain Ahab watches from a shadowed doorway, his face illuminated by flickering lantern light, exuding stern determination. The air is heavy with sawdust and metal clank; the scene radiates Romantic realism, deep navy charcoal tones, sharp chiaroscuro, fine linework blending into semi‑realistic gradients—19th‑century whaling tension captured in moody illustration."
+  },
+  {
+    "segment_index": 51,
+    "segment_text": "About it.",
+    "image_prompt": "A dim deck workshop at night, two flickering lanterns cast harsh navy shadows on a rough wooden bench. A rugged carpenter hunched over a vice, file glinting in charcoal light as he shapes ivory and bone, dust swirling like ghostly sea mist. A blacksmith’s forge blazes red, sparks dancing against the deep charcoal sky. The scene blends Romantic realism with stark chiaroscuro, evoking 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 52,
+    "segment_text": "There.",
+    "image_prompt": "Ahab stands in the dim deck‑room, two lanterns casting deep navy shafts across a cluttered wooden bench. The carpenter files ivory with sharp, fine lines, sweat glistening on his brow; beside him, a blacksmith’s forge roars red flame, sparks dancing like sea foam. Ahab’s silhouette looms against charcoal shadows, eyes fixed on the newly shaped leg—his grim determination captured in Romantic realism, high‑contrast chiaroscuro, subtle paper grain."
+  },
+  {
+    "segment_index": 53,
+    "segment_text": "Keep thy finger on it.",
+    "image_prompt": "Ahab stands in the dim lantern-lit carpentry loft, his weather‑worn hand gripping a carved ivory leg’s joint. The carpenter hammers and files beside him, soot-streaked tools glinting in stark chiaroscuro. A faint red glow from a forge behind them casts dramatic shadows across their faces. Romantic realism, 19th‑century whaling ship interior, deep navy and charcoal tones, fine linework with subtle gradients and paper grain."
+  },
+  {
+    "segment_index": 54,
+    "segment_text": "This is a cogent vice thou hast here, carpenter.",
+    "image_prompt": "A dark deck at night, lantern glow spilling over a rugged wooden bench where an elderly carpenter grips a heavy iron vice, its jaws clenched around ivory bone. Ahab watches from the shadows, eyes narrowed, as the carpenter’s weathered hands press the vice firmly, the steel biting into the wood. Storm clouds loom outside; waves crash below, echoing the tension of a 19th‑century whaling voyage. Moody Romantic realism, deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 55,
+    "segment_text": "Let me feel its grip once.",
+    "image_prompt": "Ahab stands beside a cramped ship’s workbench, lanterns casting deep navy and charcoal shadows over rough timber and scattered ivory scraps. The carpenter grips the iron vice with calloused hands, his face illuminated by sharp chiaroscuro from twin lamps. Ahab leans in, eyes narrowed, feeling the vice’s cold grip as the blacksmith’s forge blazes faintly behind them—moody Romantic realism, fine linework blended with subtle gradients."
+  },
+  {
+    "segment_index": 56,
+    "segment_text": "So, so, it does pinch some.",
+    "image_prompt": "A dim deck‑night scene in a 19th‑century whaling ship: a weary carpenter grips a heavy wooden vice, his fingers trembling as he feels the iron clamp tighten on a carved ivory leg. Ahab watches from the shadows, stern and impatient, while a blacksmith’s forge sputters nearby, casting flickering red light over bone dust. Moody, high‑contrast Romantic realism, deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 57,
+    "segment_text": "Oh, sir, it will break bones.",
+    "image_prompt": "A dim deck at night, a rugged carpenter hunched over a wooden bench under two flickering lanterns, his hands stained with ivory dust and bone grit. He grips a vice‑held leg bone, eyes narrowed as he files its edge, the sharp chiaroscuro of the ship’s lantern light casting deep shadows on weathered wood. The tense silence is broken by Ahab’s voice: “Oh, sir, it will break bones.” Romantic realism, 19th‑century maritime setting, navy and charcoal tones, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 58,
+    "segment_text": "Beware, beware.",
+    "image_prompt": "A dark ship deck at night, a rugged carpenter in a stiff wool coat hunched over a wooden bench under two flickering lanterns, his hand gripping a file against a vice‑clamped ivory leg. Ahab’s stern silhouette looms nearby, eyes narrowed, voice echoing “Beware, beware.” The scene is moody, high‑contrast Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with subtle paper grain, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 59,
+    "segment_text": "No fear, I like a good grip.",
+    "image_prompt": "A dim ship’s workbench under twin lanterns, a grizzled carpenter hunched over a vice gripping a jagged whale‑jawbone. He murmurs “No fear, I like a good grip,” as sparks from the forge flare in the background. The scene is moody Romantic realism, 19th‑century whaling, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain capturing tension."
+  },
+  {
+    "segment_index": 60,
+    "segment_text": "I like to feel something in this slippery world that can hold man.",
+    "image_prompt": "Ahab stands beside a rugged wooden workbench under dim lantern light, his hand gripping a vice that clamps an ivory‑shaded whale jawbone. He speaks in hushed urgency to the weary carpenter, eyes reflecting the flicker of a forge’s red flame. The cabin is cluttered with bone dust, leather straps, and iron tools; shadows dance across weathered timber, creating sharp chiaroscuro. Romantic realism, 19th‑century maritime, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 61,
+    "segment_text": "What's Prometheus about there?",
+    "image_prompt": "A dim deck at night, two lanterns flickering over a wooden workbench where a weathered carpenter files ivory and bone, his tools scattered beside leather straps and iron screws. Beside him, a blacksmith’s forge glows red‑hot, sparks dancing in the charcoal gloom. Captain Ahab stands tall, hands clasped, eyes fixed on the craftsman as he muses about Prometheus forging man—an eerie, Romantic realism of 19th‑century whaling, deep navy and charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 62,
+    "segment_text": "The blacksmith, I mean.",
+    "image_prompt": "Blacksmith in a dim ship’s galley, sparks flying from a roaring forge as he hammers a gleaming steel buckle‑screw; the iron glows crimson against deep navy and charcoal gloom. Fine linework captures the blacksmith’s sweat‑slick face, his weathered hands, and the swirling smoke curling over wooden benches littered with ivory files, leather straps, and brass tools. Romantic realism, 19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 63,
+    "segment_text": "What's he about?",
+    "image_prompt": "A dim ship’s workshop at night, a weathered carpenter hunched over a wooden bench, his hands busy filing ivory and bone under flickering lantern light; a blacksmith in the background hammers steel with fierce red flame, sparks dancing like sea‑foam. Captain Ahab watches, jaw set, as the carpenter measures a jagged leg. The air is thick with dust, soot, and tension—an ominous, Romantic realist scene of 19th‑century whaling, deep navy and charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 64,
+    "segment_text": "He must be forging the buckle screw, sir, now.",
+    "image_prompt": "A dim deck at night, lantern glow casting deep navy shadows over a rugged wooden bench. Ahab stands beside an old carpenter, who is hunched over a forge where red flames dance. The blacksmith’s soot‑stained hands shape a gleaming buckle screw from hot iron; sparks drift like tiny stars. Rough sea mist seeps through the ship’s hull, and distant waves crash in muted charcoal tones, all rendered in Romantic realism with sharp chiaroscuro lighting."
+  },
+  {
+    "segment_index": 65,
+    "segment_text": "Right, it's a partnership, he supplies the muscle part.",
+    "image_prompt": "A dim deck at night, two lanterns casting stark chiaroscuro on a wooden workbench where an old carpenter files ivory. Nearby, a blacksmith in his forge hammers metal, sparks flying like tiny stars against the deep navy sky. Captain Ahab watches, a silhouette of determination, as the craftsman and smith collaborate—muscle and fire—crafting a perfect leg for the ship’s keel. Romantic realism, 19th‑century whaling, charcoal tones, fine linework."
+  },
+  {
+    "segment_index": 66,
+    "segment_text": "He makes a fierce red flame there.",
+    "image_prompt": "A dim ship‑deck workshop bathed in deep navy and charcoal shadows, a lone blacksmith hunched over an anvil beneath two flickering lanterns. His forge roars with a fierce red flame that throws sharp chiaroscuro across the soot‑laden air, illuminating scattered ivory slabs, leather straps, and steel tools on the carpenter’s bench. The scene captures 19th‑century whaling tension in Romantic realism, fine linework blended with semi‑realistic gradients and subtle paper grain."
+  },
+  {
+    "segment_index": 67,
+    "segment_text": "Aye, sir, he must have the white heat for this kind of fine work.",
+    "image_prompt": "Ahab’s stern silhouette watches a rugged carpenter in a cramped ship’s galley, his hand gripping an ivory‑fileed leg while a nearby blacksmith hammers steel beneath a fierce, bright white forge flame. The lanterns cast deep navy shadows and sharp charcoal contrasts across the wooden bench strewn with leather straps, screws, and bone dust. Romantic realism, 19th‑century maritime detail, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 68,
+    "segment_text": "Um, um, so he must.",
+    "image_prompt": "A dim deck at night, lanterns casting sharp chiaroscuro on a wooden bench where a seasoned carpenter files ivory with meticulous hand. Ahab looms in the background, stern and watchful, his eyes reflecting the flickering forge flame. The scene is moody, high‑contrast Romantic realism, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain—evoking a 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 69,
+    "segment_text": "I do deem it now a most meaning thing, that that old Greek, Prometheus, who made men, they say, should have been a blacksmith and animated them with fire, for what's made in fire must properly belong to fire, and so hell's probable.",
+    "image_prompt": "A dim deck at night, two lanterns casting sharp chiaroscuro on a weather‑worn carpenter’s bench filled with ivory, bone, leather straps and iron tools; the blacksmith’s forge glows red as he hammers a buckle. Ahab stands beside him, eyes reflecting flame, murmuring about Prometheus like a mythic blacksmith of fire. Moody, high‑contrast Romantic realism, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain, 19th‑century whaling voyage style."
+  },
+  {
+    "segment_index": 70,
+    "segment_text": "How the soot flies, this must be the remainder the Greek made the Africans of.",
+    "image_prompt": "A dimly lit ship’s carpentry loft at night, a weary blacksmith hammers in a forge whose crimson flame casts stark chiaroscuro across his face; soot swirls like ash, drifting over an ivory bench littered with bone filings and leather straps. Ahab watches from the deck below, silhouette against navy gloom, while Stubb mutters about Prometheus. Romantic realism, 19th‑century maritime, deep navy & charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 71,
+    "segment_text": "Carpenter, when he's through with that buckle, tell him to forge a pair of steel shoulder blades.",
+    "image_prompt": "Carpenter in a dim deck‑room, lanterns flickering on a wooden bench cluttered with ivory slabs, leather straps, and blacksmith tools. He files a metal buckle, sweat glistening on his brow, while a roaring forge casts red light across the scene. Ahab watches from the ship’s railing, eyes narrowed, urging: “When you finish that buckle, forge steel shoulder blades.” Moody Romantic realism, 19th‑century naval atmosphere, deep navy and charcoal tones, chiaroscuro lighting, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 72,
+    "segment_text": "There's a peddler aboard with a crushing pack.",
+    "image_prompt": "A dark, moody deck scene at night: Ahab’s ship creaks beneath a deep navy sky, sharp chiaroscuro lighting from two lanterns casting long shadows over the wooden deck. In the foreground, a rugged peddler in tattered sea‑cloth holds a heavy, crumpled pack of salted pork and dried fish, his hands stained with salt and sweat. The ship’s galley hums faintly behind him, while distant waves ripple against black hull—Romantic realism, 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 73,
+    "segment_text": "Sir?",
+    "image_prompt": "A dim ship’s deck at night, a rugged wooden bench bathed in the flicker of two lanterns and a distant forge flame. An elderly carpenter, hands stained with ivory dust and leather straps, files a jagged whale jawbone while Ahab, stern and commanding, watches from a shadowed corner. The air is thick with soot and bone grit; chiaroscuro highlights the carpenter’s weather‑worn face as he mutters “Sir” to the captain. Romantic realism, 19th‑century maritime style, deep navy and charcoal tones."
+  },
+  {
+    "segment_index": 74,
+    "segment_text": "Hold, while Prometheus is about it, I'll order a complete man after a desirable pattern.",
+    "image_prompt": "Carpenter hunched over a wooden bench, filleting ivory shin‑bone under twin oil lamps; a blacksmith nearby hammers a glowing forge, sparks like Prometheus’ fire. Captain Ahab, cloaked in navy gloom, leans forward, eyes gleaming with grim resolve, saying “Hold while Prometheus is about it—I’ll order a complete man after a desirable pattern.” Moody Romantic realism, sharp chiaroscuro, deep navy/charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 75,
+    "segment_text": "Imprimus, fifty feet high in his socks, then, chest mottled after the Thames tunnel, then, legs with roots to him, to stay in one place, then, arms three feet through the wrist, no heart at all, brass forehead, and about a quarter of an acre of fine brains, and let me see.",
+    "image_prompt": "Ahab stands beside a rugged wooden bench in the dim deck of the Pequod, lanterns casting sharp navy shadows over his weather‑battered face. He gestures toward an enormous, half‑finished ivory leg—fifty feet tall, mottled chest like a Thames tunnel, roots anchoring it to the ship’s hull, arms three feet long, no heart, brass forehead gleaming. Fine paper grain and chiaroscuro illuminate the intricate filaments of bone and steel, capturing the tense 19th‑century whaling atmosphere in Romantic realism."
+  },
+  {
+    "segment_index": 76,
+    "segment_text": "Shall I order eyes to see outwards?",
+    "image_prompt": "Ahab stands over a dimly lit wooden bench, lanterns flickering in deep navy and charcoal tones. He grips a carved ivory eye socket, contemplating its insertion into a whale‑leg prosthesis. The carpenter’s tools—files, drills, iron screws—scatter around, while the blacksmith’s forge glows red. Romantic realism, 19th‑century whaling ship deck, high‑contrast chiaroscuro, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 77,
+    "segment_text": "No, but put a skylight on top of his head to illuminate inwards.",
+    "image_prompt": "Carpenter hunched over a half‑finished wooden prosthetic leg, a fragile skylight inset in its carved skull, shafts of pale moonlight filtering inward like a divine eye. Captain Ahab stands beside him, hand on the workbench, eyes bright with obsession. Behind them, a dimly lit ship deck and a blacksmith’s forge crackle softly; two lanterns cast deep navy shadows, chiaroscuro lighting the scene in Romantic realism of 19th‑century whaling."
+  },
+  {
+    "segment_index": 78,
+    "segment_text": "There, take the order, and away.",
+    "image_prompt": "Ahab stands over a dimly lit carpenter’s bench on the deck at night, lanterns casting sharp chiaroscuro across carved ivory and brass tools. The old blacksmith hammers a gleaming buckle screw in the glow of a red forge flame, while Ahab, resolute and grim, declares, “There, take the order, and away.” Moody Romantic realism, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 79,
+    "segment_text": "Now what's he speaking about, and who's he speaking to, I should like to know.",
+    "image_prompt": "A dimly lit ship’s carpenter’s bench under twin lanterns, a rugged wood‑carpenter in period 19th‑century attire hunched over ivory and bone, file in hand, eyes wide with confusion. Nearby, Captain Ahab stands in a rumpled captain’s coat, pointing toward the carpenter, while Stubb chuckles behind him. The scene is moody, high‑contrast Romantic realism: deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 80,
+    "segment_text": "Shall I keep standing here?",
+    "image_prompt": "Ahab and the carpenter on a moonlit deck, lanterns flickering over a wooden bench cluttered with ivory slabs, leather straps, and blacksmith tools. The carpenter files bone and shapes a whale leg while Ahab watches, his expression tense, voice echoing: “Shall I keep standing here?” Moody, high‑contrast Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 81,
+    "segment_text": "Aside.",
+    "image_prompt": "A solitary carpenter hunched over a dark wooden bench in the dim deck’s watch‑room, ivory shavings swirling like sea spray. Two lanterns cast sharp navy shadows across tools—files, leather straps, a red forge flame in the background. Ahab stands beside him, his gaze fixed on the vice holding a jagged shinbone, while Stubb mutters from the doorway. Romantic realism, 19th‑century whaling era, high‑contrast chiaroscuro, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 82,
+    "segment_text": "Tis but indifferent architecture to make a blind dome, here's one.",
+    "image_prompt": "Dark ship‑deck workshop at night, two flickering lanterns casting deep navy and charcoal shadows over a rugged wooden bench cluttered with ivory slabs, leather straps, brass screws, and tools. A lone carpenter, soot‑streaked, files bone‑like ivory under the sharp chiaroscuro of a red forge glow. In the background, Captain Ahab stands in silhouette, his gaze fixed on the unfinished “blind dome” of the carved leg, evoking Romantic realism with fine linework, semi‑realistic gradients, and subtle paper grain."
+  },
+  {
+    "segment_index": 83,
+    "segment_text": "No, no, no.",
+    "image_prompt": "A tense moment on the deck at night: a weary carpenter hunched over his bench, surrounded by scattered ivory slabs, leather straps, and rusted tools, while a pale lantern casts deep shadows. He mutters “No, no, no” in frustration as he wrestles a stubborn bone with a vice. Captain Ahab watches from a distance, his silhouette framed against the black sea, the red glow of a forge flickering behind them. Romantic realism, 19th‑century nautical setting, moody navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 84,
+    "segment_text": "I must have a lantern.",
+    "image_prompt": "A solitary carpenter stands amid the cramped deck‑bench of a 19th‑century whaling ship, ivory shavings and leather straps scattered around him. He grips a weathered lantern, its flickering orange flame cutting through deep navy shadows and charcoal haze, casting sharp chiaroscuro on his calloused hands and the rough wooden table. The scene radiates moody Romantic realism, with fine linework blending into semi‑realistic gradients and subtle paper grain."
+  },
+  {
+    "segment_index": 85,
+    "segment_text": "Ho!",
+    "image_prompt": "Dark, moody illustration of the ship’s deck at night in 19th‑century whaling style. Ahab stands amid scattered tools—ivory files, leather straps, a forge’s red flame—and two lanterns casting sharp chiaroscuro light on his weathered face and the wooden bench. The carpenter works, his vice gripping a bone leg; smoke curls from the forge. Deep navy and charcoal tones dominate, with fine linework blending into semi‑realistic gradients, capturing tension of the whaling voyage."
+  },
+  {
+    "segment_index": 86,
+    "segment_text": "Ho!",
+    "image_prompt": "Ahab’s cramped deck workshop at night: a rugged carpenter stands by a wooden bench, two flickering lanterns casting deep navy shadows over ivory slabs, leather straps and bone tools scattered around. A blacksmith nearby hammers a glowing forge, sparks flying like charcoal fireflies. The air is thick with bone dust; the scene pulses with Romantic realism, sharp chiaroscuro lighting, fine linework, semi‑realistic gradients, and subtle paper grain, evoking 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 87,
+    "segment_text": "That's it, hey?",
+    "image_prompt": "Ahab stands at the carpenter’s cramped bench, lanterns throwing deep navy shadows over ivory files and blacksmith sparks. He grips a freshly forged leg‑bone, eyes fierce as he declares, “That’s it, hey!” The scene is moody Romantic realism: sharp chiaroscuro, charcoal tones, fine linework blending into semi‑realistic gradients, subtle paper grain—capturing the tense 19th‑century whaling ship atmosphere."
+  },
+  {
+    "segment_index": 88,
+    "segment_text": "Here are two, sir.",
+    "image_prompt": "A dim, storm‑battered deck at night, a rugged carpenter in rough wool sits at a wooden bench under the flickering glow of two oil lanterns. He holds a polished ivory file, surrounded by scattered tools, leather straps, and bone shavings; a blacksmith’s forge sputters red flame nearby. The mood is tense, chiaroscuro shadows deepening the sea‑air gloom, Romantic realism style, 19th‑century nautical setting."
+  },
+  {
+    "segment_index": 89,
+    "segment_text": "One will serve my turn.",
+    "image_prompt": "A dim ship deck at night, lanterns flickering over a rugged wooden bench where a seasoned carpenter files ivory and shapes a whale‑bone leg for Captain Ahab. The air is thick with bone dust; a blacksmith’s forge glows red in the background. Ahab stands, eyes narrowed, pointing to the workbench as the carpenter measures, the scene bathed in deep navy and charcoal chiaroscuro—romantic realism of 19th‑century whaling."
+  },
+  {
+    "segment_index": 90,
+    "segment_text": "What art thou thrusting that thief-catcher into my face for, man?",
+    "image_prompt": "A weary carpenter leans over a rickety wooden bench in the dim deck‑wardroom of the Pequod, his hands stained with ivory dust and blacksmith soot. Two lanterns cast sharp navy‑charcoal chiaroscuro across his tools—files, leather straps, a forged buckle screw—and the glow from the forge’s red flame. Captain Ahab, eyes narrowed, watches him, asking sharply in a 19th‑century nautical tone: “What art thou thrusting that thief‑catcher into my face for, man?” Romantic realism, high contrast, paper grain."
+  },
+  {
+    "segment_index": 91,
+    "segment_text": "Thrusted light is worse than presented pistols.",
+    "image_prompt": "A dimly lit ship’s workshop at night, Captain Ahab stands beside a carpenter’s bench under two flickering lanterns. The carpenter holds a wooden beam, while a blacksmith hammers sparks from a forge in the background. Ahab, eyes narrowed, gestures accusingly toward the glowing light, comparing it to pistols—“Thrusted light is worse than presented pistols.” Moody Romantic realism, 19th‑century navy/charcoal tones, sharp chiaroscuro, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 92,
+    "segment_text": "I thought, sir, that you spoke to Carpenter.",
+    "image_prompt": "Ahab, in a dimly lit ship’s deck workshop, leans over a worn oak bench where the carpenter files ivory and sharpens bone, lantern light flickering across soot‑stained hands. The blacksmith’s forge glows a fierce crimson beside them. Ahab’s weathered face is illuminated by chiaroscuro, his voice hushed yet urgent as he directs the carpenter—moody Romantic realism, deep navy and charcoal tones, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 93,
+    "segment_text": "Carpenter?",
+    "image_prompt": "A dim deck at night, two lanterns casting sharp chiaroscuro on a weather‑worn carpenter’s bench. He files ivory joists and bone shafts in a vice, surrounded by leather straps, screws, and scattered tools. The forge glows red in the background as a blacksmith hammers metal. Moody, high‑contrast Romantic realism in deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain—19th‑century whaling ship interior."
+  },
+  {
+    "segment_index": 94,
+    "segment_text": "Why, that's—but no, a very tidy, and, I may say, an extremely gentleman-like sort of business.",
+    "image_prompt": "A dim deck at night, lanterns casting sharp chiaroscuro on a wooden workbench where a seasoned carpenter in soot‑stained apron hammers ivory and bone. Captain Ahab stands nearby, eyes narrowed, whispering to the craftsman: “Why, that’s but no, a very tidy, and I may say an extremely gentleman‑like sort of business.” The scene radiates moody Romantic realism, deep navy and charcoal tones, fine linework with subtle paper grain, evoking 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 95,
+    "segment_text": "Thou art in here, Carpenter, or wouldst thou rather work in clay?",
+    "image_prompt": "Carpenter hunched over a battered wooden bench under the dim glow of two lanterns, ivory shavings scattered like snow; Ahab’s booming voice rings from the deck below. The scene is moody, high‑contrast Romantic realism in deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain—capturing a 19th‑century whaling ship’s tense, nocturnal workshop."
+  },
+  {
+    "segment_index": 96,
+    "segment_text": "Sir?",
+    "image_prompt": "A dark, moody ship deck at night, a solitary carpenter hunched over a sturdy iron vice, ivory tools and bone filaments scattered across the wooden bench. Two lanterns cast sharp chiaroscuro light, illuminating Ahab’s stern face watching intently, while distant sparks from the forge glow red. Romantic realism style, 19th‑century nautical setting, deep navy and charcoal tones, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 97,
+    "segment_text": "Clay, clay, sir?",
+    "image_prompt": "A dim deck at night, a weary carpenter hunched over an ivory bench under two lanterns, his face illuminated by the flickering forge flame nearby. He mutters “Clay, clay, sir” as he struggles with a stubborn piece of bone‑filled wood, dust swirling like ghostly mist. Ahab looms in shadow, eyes fixed on the work, while Starbuck watches from the gangway, the ocean’s distant roar underscoring the tense, Romantic realism scene. 18th‑century whaling ship, moody chiaroscuro, navy charcoal tones."
+  },
+  {
+    "segment_index": 98,
+    "segment_text": "That's mud.",
+    "image_prompt": "A dimly lit ship’s galley at night, a weary carpenter hunched over an ivory‑filled bench, tools scattered like ghosts. Two lanterns cast sharp chiaroscuro on the rough wooden surface, revealing bone dust and splintered wood. Captain Ahab stands nearby, his face shadowed, exclaiming “That’s mud,” as he gestures to the grime-covered workbench, while a distant forge blazes red. Romantic realism, deep navy & charcoal tones, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 99,
+    "segment_text": "We leave clay to ditchers, sir.",
+    "image_prompt": "A dim, moonlit ship’s workshop on the Pequod, navy‑black hull edges cast long shadows; two lanterns flicker over a rough oak bench strewn with ivory slabs, leather straps, and rusted metal tools. The carpenter, sweat‑slick and focused, leans in toward Captain Ahab, pointing at a clay model of a whale leg, saying, “We leave clay to ditchers, sir.” Moody chiaroscuro lighting, fine linework blended with semi‑realistic gradients, Romantic realism, 19th‑century maritime."
+  },
+  {
+    "segment_index": 100,
+    "segment_text": "The fellow's imbious.",
+    "image_prompt": "Night watch on a cramped whaling‑ship deck: a rugged carpenter hunched over an iron vice, filing ivory bone with a gleaming file, while a blacksmith sparks from a red forge nearby. Two lanterns cast deep navy shadows across scattered tools—leather straps, screws, and leather‑lined slabs of ivory. Captain Ahab stands in the doorway, his stern gaze fixed on the soot‑laden workbench, the air thick with bone dust and the metallic scent of forged steel. Romantic realism, 19th‑century maritime style, chiaroscuro lighting."
+  },
+  {
+    "segment_index": 101,
+    "segment_text": "What art thou sneezing about?",
+    "image_prompt": "A dark, moody illustration of a cramped ship’s workbench under twin lanterns, the carpenter hunched over ivory and bone, tools scattered around. Ahab leans close, face illuminated by harsh chiaroscuro, his eyes narrowed as he watches the carpenter sneezing amid dust clouds. The scene is set in 19th‑century whaling era, Romantic realism style, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain capturing tension."
+  },
+  {
+    "segment_index": 102,
+    "segment_text": "Bone is rather dusty, sir.",
+    "image_prompt": "Illustrate a dimly lit ship’s workbench at night: A weary carpenter, soot‑streaked hands gripping a file, hunches over a jagged ivory leg in a vice. Two lanterns cast harsh chiaroscuro, revealing bone dust swirling like ash. Captain Ahab watches from the shadows, his stern face illuminated by red forge fire behind him. Romantic realism, 19th‑century maritime setting, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 103,
+    "segment_text": "Take the hint, then, and when thou art dead never bury thyself under living people's noses.",
+    "image_prompt": "Carpenter hunched over a wooden bench in a dimly lit deck room, two lanterns casting deep navy shadows on his hands as he files ivory bones; a blacksmith’s forge sputters red flame nearby. Captain Ahab, gaunt and brooding, leans close, voice low: “Take the hint, then, and when thou art dead never bury thyself under living peoples noses.” Romantic realism, sharp chiaroscuro, charcoal tones, fine linework with semi‑realistic gradients, paper grain texture."
+  },
+  {
+    "segment_index": 104,
+    "segment_text": "Sir?",
+    "image_prompt": "Ahab stands in a dim deck‑workshop, lanterns casting sharp navy chiaroscuro over polished wood and gleaming ivory. The seasoned carpenter, hands stained with bone dust, bows respectfully, saying “Sir” to the grizzled captain. Steam curls from a nearby forge where a blacksmith hammers red-hot metal into a buckle. Romantic realism, 19th‑century nautical palette, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 105,
+    "segment_text": "Oh, ah, I guess so.",
+    "image_prompt": "A dim deck workshop at night, moonlit through a ship’s porthole, Captain Ahab stands beside a weathered carpenter’s bench. The carpenter files ivory and bone under twin lanterns, sparks from the forge dancing in chiaroscuro light. Ahab’s face is half‑shadowed, lips pursed as he murmurs “Oh, ah, I guess so.” The scene exudes 19th‑century whaling tension, moody navy tones, sharp contrasts, Romantic realism with fine linework and subtle paper grain."
+  },
+  {
+    "segment_index": 106,
+    "segment_text": "Yes, may.",
+    "image_prompt": "A dim deck at night, moon‑lit and misty, a lone carpenter hunched over an ivory bench lit by two lanterns; he files a whale jawbone leg in Ahab’s stern gaze, while the blacksmith’s forge glows red nearby. The scene captures tense 19th‑century whaling realism: deep navy sea, charcoal shadows, sharp chiaroscuro, fine linework with semi‑realistic gradients, subtle paper grain—Romantic realism of a doomed voyage."
+  },
+  {
+    "segment_index": 107,
+    "segment_text": "Look ye, carpenter.",
+    "image_prompt": "Carpenter in a dimly lit ship’s galley, hand poised over an ivory bench, filing a whale jawbone leg under flickering lantern light; the blacksmith forge glows red beside him, sparks dancing in the air. Ahab watches from the deck doorway, his silhouette stark against the navy gloom, eyes reflecting the chiaroscuro glow. Romantic realism style, 19th‑century whaling ship atmosphere, deep charcoal tones and subtle paper grain."
+  },
+  {
+    "segment_index": 108,
+    "segment_text": "I dare say thou callest thyself a right good workman like workman, eh?",
+    "image_prompt": "A weary carpenter in a dim ship’s workshop, hands stained with ivory dust and soot, speaks to Captain Ahab over a low wooden bench illuminated by two lanterns. The scene is moody, high‑contrast Romantic realism: deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain. 19th‑century whaling ship interior, tense atmosphere of crafting a replacement leg."
+  },
+  {
+    "segment_index": 109,
+    "segment_text": "Well then, will it speak thoroughly well for thy work if, when I come to mount this leg thou makest, I shall nevertheless feel another leg in the same identical place with it?",
+    "image_prompt": "Ahab stands before a cluttered carpenter’s bench on the deck of the Pequod, lanterns casting deep navy shadows over ivory slabs and bone tools. The weary carpenter files a whale‑jaw leg in a vice, sweat glistening on his brow. Ahab, eyes narrowed, asks if the new limb will echo the old one’s presence, tension crackling like blacksmith fire in a Romantic realism style of 19th‑century whaling."
+  },
+  {
+    "segment_index": 110,
+    "segment_text": "That is, carpenter, my old lost leg, the flesh and blood, one I mean.",
+    "image_prompt": "A weary carpenter stands in a dim deck workshop, lanterns casting deep navy shadows on a workbench strewn with ivory slabs, leather straps, and blacksmith tools. He grips a wooden leg‑shaped frame, eyes fixed on a rough, flesh‑colored bone he is filing. Captain Ahab watches from the fore, his face tense, while the sea’s stormy horizon bleeds through the window. Romantic realism, 19th‑century maritime gloom, chiaroscuro lighting, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 111,
+    "segment_text": "Canst thou not drive that old Adam away?",
+    "image_prompt": "Ahab stands on a dimly lit deck at night, lanterns flickering beside a wooden workbench where a rugged carpenter files ivory and bone. The sea roars in the distance; Ahab’s stern face is illuminated by sharp chiaroscuro. He speaks to the carpenter with grim urgency, “Canst thou not drive that old Adam away?” The scene captures tense 19th‑century whaling realism: deep navy shadows, charcoal tones, fine linework and subtle paper grain in Romantic realism style."
+  },
+  {
+    "segment_index": 112,
+    "segment_text": "Truly, sir, I begin to understand somewhat now.",
+    "image_prompt": "Ahab stands in a dim deck workshop at night, lantern light flickering over a wooden bench cluttered with ivory blocks, leather straps and bone tools. He grips a carved leg piece, his face illuminated by sharp chiaroscuro, eyes reflecting the forge’s red glow from a nearby blacksmith. The sea’s mist curls around the ship’s hull outside. Romantic realism, 19th‑century whaling era, deep navy and charcoal tones, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 113,
+    "segment_text": "Yes, I have heard something curious on that score, sir, how that a dismasted man never entirely loses the feeling of his old spar, but it will be still pricking him at times.",
+    "image_prompt": "Ahab speaks in a dim deck‑room, lanterns casting deep navy chiaroscuro on carved ivory and weathered timber; the carpenter’s bench cluttered with bone dust, leather straps, and metal tools. Ahab’s gaunt face is illuminated by sharp light, eyes reflecting the ghostly glow of the forge’s red flame. The scene captures tension: a dismasted man’s phantom spar prickling his memory, set against a moody Romantic realism of 19th‑century whaling."
+  },
+  {
+    "segment_index": 114,
+    "segment_text": "May I humbly ask if it be really so, sir?",
+    "image_prompt": "A somber night watch on the deck of the Pequod: Captain Ahab, in a weather‑torn coat, leans over a carpenter’s oak bench amid dim lantern light. The carpenter, hands stained with ivory dust, files a whale jawbone leg while Ahab, eyes narrowed, asks a humble question to the workman. Moody, high‑contrast Romantic realism, deep navy and charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century nautical setting."
+  },
+  {
+    "segment_index": 115,
+    "segment_text": "It is, man.",
+    "image_prompt": "Ahab stands beside the dim lantern‑lit carpenter’s bench on the deck, his eyes fixed on a freshly filed ivory leg in a vice. The blacksmith’s forge glows red, casting sharp chiaroscuro across splintered wood and scattered tools. Ahab exhales a weary “It is, man,” as salt spray curls from the sea, while distant waves crash against the hull—an ominous, high‑contrast Romantic realism of 19th‑century whaling."
+  },
+  {
+    "segment_index": 116,
+    "segment_text": "Look, put thy live leg here in the place where mine once was.",
+    "image_prompt": "Ahab stands beside a cramped ship’s workbench, lanterns flickering in deep navy and charcoal hues. The carpenter, hands stained with ivory dust, holds a freshly forged wooden leg. Ahab’s weathered face is illuminated by sharp chiaroscuro, his finger pointing to the slot where his own missing limb once fit. Tension crackles as the sea’s wind rattles the deck outside, captured in fine linework and subtle paper grain—19th‑century Romantic realism."
+  },
+  {
+    "segment_index": 117,
+    "segment_text": "So, now, here is only one distinct leg to the eye, yet two to the soul, where thou feelest tingling life.",
+    "image_prompt": "A dim deck at night, a rugged carpenter hunched over a vice‑clamped ivory leg, its polished shaft gleaming under lantern light. Captain Ahab watches in silence, his face shadowed by deep navy and charcoal tones, hinting at inner turmoil. The scene captures the paradox: one visible leg, yet two souls—one mortal, one spectral—trembling with life, rendered in moody Romantic realism with sharp chiaroscuro and fine linework."
+  },
+  {
+    "segment_index": 118,
+    "segment_text": "There, exactly there, there to a hair, do I. Isn't a riddle?",
+    "image_prompt": "A dim, moonlit deck at night: Ahab watches from the ship’s rail as a rugged carpenter, hands stained with bone‑dust, files a pale ivory leg in front of a sharp vice, two flickering lanterns casting deep navy shadows over scattered tools and soot. The forge’s red flame dances beside him, its heat turning blacksmith’s metal to molten amber. Ahab’s face is half‑lit by the glow, his eyes narrowed, as he mutters, “There, exactly there, …” in a low, contemplative tone, the tension thick like sea mist. Romantic realism, 19th‑century nautical detail, chiaroscuro lighting, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 119,
+    "segment_text": "I should humbly call it a poser, sir.",
+    "image_prompt": "A dim deck workshop at night, two lanterns casting stark chiaroscuro on a wooden bench where a rugged carpenter files ivory and bone with meticulous tools; the air thick with dust and the faint glow of a forge’s red flame. Captain Ahab stands nearby, his stern gaze fixed on the work, while the ship’s crew watches in silence. Romantic realism, 19th‑century whaling era, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 120,
+    "segment_text": "Hist, then, how dost thou know that some entire living thinking thing may not be invisibly and uninterpenetratingly standing precisely where thou now standest?",
+    "image_prompt": "A shadowed ship’s deck at night, a grizzled carpenter hunched over an ivory bench under two flickering lanterns, his hand gripping a vice that clamps a raw whale jawbone. Ahab, in tattered sea‑cloth, watches with a grim expression; Stubb stands nearby, eyes narrowed. The air is thick with bone dust and soot, the forge’s red glow seeping through portholes. Romantic realism: deep navy, charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 121,
+    "segment_text": "I am standing there in thy spite.",
+    "image_prompt": "Ahab stands in the shadowy deck workshop, his gaunt silhouette framed by twin lanterns and a red forge glow. He faces the carpent­er hunched over an ivory bench, vice clamping a leg‑bone. Ahab’s face is stern, eyes narrowed, voice echoing “I am standing there in thy spite.” Moody high‑contrast Romantic realism: deep navy, charcoal tones, sharp chiaroscuro, fine linework with semi‑realistic gradients and subtle paper grain. 20th‑century seafaring style."
+  },
+  {
+    "segment_index": 122,
+    "segment_text": "In thy most solitary hours, then, dost thou not fear eavesdroppers, hold, don't speak?",
+    "image_prompt": "Ahab alone in the dim deck‑bench workshop, lanterns casting sharp chiaroscuro on his weathered face and the half‑finished ivory leg. He leans over a vise, hands stained with bone dust, eyes narrowed as if listening to unseen eavesdroppers. The ship’s creak echoes faintly; a blacksmith’s forge glows red in the background. Romantic realism, 19th‑century whaling era, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 123,
+    "segment_text": "And if I still feel the smart of my crushed leg, though it be now so long dissolved, then, why mayst not thou, carpenter, feel the fiery pains of hell for ever, and without a body?",
+    "image_prompt": "Ahab stands in the dim deck‑workroom, his gaunt face illuminated by two lanterns as a weary carpenter files ivory beside a vice. The blacksmith’s forge glows red-hot nearby. Ahab, ragged and haunted, speaks to the woodworker about the lingering pain of his broken leg, demanding the craft endure like eternal fire. Moody Romantic realism, 19th‑century nautical setting, deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 124,
+    "segment_text": "Ha!",
+    "image_prompt": "A lone carpenter hunched over a rough‑barked workbench on the deck at night, two lanterns casting deep navy shadows and sharp charcoal chiaroscuro across ivory slabs, bone files, leather straps, and scattered tools. Captain Ahab stands beside him, his weathered face illuminated by the forge’s red flame, exhaling a breath of soot as he mutters “Ha,” a grim chuckle echoing over the creaking ship in 19th‑century Romantic realism style."
+  },
+  {
+    "segment_index": 125,
+    "segment_text": "Good lord!",
+    "image_prompt": "Ahab in the dim deck‑workshop, his face illuminated by twin lanterns and a roaring forge’s red flame, exclaims “Good lord” as he watches the carpenter file ivory jaws beside scattered tools. The scene is moody Romantic realism, 19th‑century whaling ship interior, deep navy and charcoal tones, sharp chiaroscuro, fine linework with semi‑realistic gradients, subtle paper grain, tense yet contemplative atmosphere."
+  },
+  {
+    "segment_index": 126,
+    "segment_text": "Truly, sir, if it comes to that, I must calculate over again.",
+    "image_prompt": "A lone carpenter in a dimly lit ship’s deck workshop, his hands stained with ivory dust and bone fragments, stands before an iron vice gripping a rough‑cut whale jawbone leg. Ahab watches from the shadows, expression tense, while Starbuck holds a lantern casting sharp chiaroscuro across the scene. The blacksmith’s forge glows red in the background, smoke curling like ghosts. Romantic realism, 19th‑century nautical style, deep navy and charcoal tones, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 127,
+    "segment_text": "I think I didn't carry a small figure, sir.",
+    "image_prompt": "A dimly lit shipboard workshop at night: Ahab in heavy wool coat leans over a sturdy wooden bench, lanterns casting deep navy and charcoal chiaroscuro shadows. The carpenter, tools scattered—ivory files, leather straps, metal screws—tends to a roughened whale‑bone leg, sweat gleaming on his brow. Ahab's stern face contemplates the unfinished work, muttering about a missing small figure, while distant waves ripple against the hull in Romantic realism style."
+  },
+  {
+    "segment_index": 128,
+    "segment_text": "Looky, putting heads should never grand premises.",
+    "image_prompt": "A shadowed ship’s deck at night, Ahab and the carpenter labor beside a heavy wooden bench. Lanterns cast sharp chiaroscuro onto ivory slabs, leather straps, and scattered tools. The carpenter files a jagged jawbone, while Ahab watches intently, his face lit by flickering forge flames in the background. Romantic realism, deep navy and charcoal tones, fine linework with semi‑realistic gradients, paper grain texture—19th‑century whaling tension captured."
+  },
+  {
+    "segment_index": 129,
+    "segment_text": "How long before the leg is done?",
+    "image_prompt": "Ahab stands beside a cramped wooden workbench on the deck of the Pequod, lanterns casting sharp chiaroscuro over a half‑finished ivory prosthetic leg. The carpenter, sweat‑drenched, files bone with fine tools while a blacksmith’s forge glows red in the background. Ahab’s stern face is illuminated by deep navy and charcoal tones, capturing tension of a 19th‑century whaling voyage. Romantic realism, high contrast illustration, 19th‑century style."
+  },
+  {
+    "segment_index": 130,
+    "segment_text": "Perhaps an hour, sir.",
+    "image_prompt": "A dim, high‑contrast illustration of the ship’s galley at night, with a rugged carpenter hunched over a wooden bench, tools scattered—ivory files, leather straps, a red forge flame casting sharp chiaroscuro. Captain Ahab, stoic and weathered, watches from the doorway, his face lit by lantern glow. The atmosphere is moody Romantic realism: deep navy sky, charcoal shadows, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling tension."
+  },
+  {
+    "segment_index": 131,
+    "segment_text": "Bungle away at it then, and bring it to me, turns to go.",
+    "image_prompt": "Carpenter hunched over a dimly lit bench, two lanterns casting sharp chiaroscuro across ivory slabs, leather straps, and scattered tools. He files a whale’s shinbone with focused intensity, sparks from a nearby forge glinting like distant stars. Captain Ahab watches, impatient yet reverent, his silhouette framed by the navy‑black deck. The scene exudes Romantic realism: deep charcoal tones, fine linework, semi‑realistic gradients, subtle paper grain, 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 132,
+    "segment_text": "Oh, life, here I am, proud as Greek god, and yet standing debtor to this blockhead for a bone to stand on.",
+    "image_prompt": "A dim, storm‑shadowed ship’s deck at night: Captain Ahab stands in a low, soot‑black lantern glow, his gaunt silhouette framed by towering rigging and the blacksmith’s forge flare behind him. He holds a carved ivory leg in one hand, eyes fierce with Greek‑mythic pride yet humbled by the weary carpenter beside him, whose sweat‑slick beard glints against charcoal tones—Romantic realism, deep navy and charcoal, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients."
+  },
+  {
+    "segment_index": 133,
+    "segment_text": "Cursed be that mortal inter-indebtedness which will not do away with ledgers.",
+    "image_prompt": "Night‑watch on the deck: a rugged carpenter hunched over a wooden bench, two lanterns casting deep navy shafts across polished ivory slabs and brass tools. In the dim glow, a blacksmith’s red flame sears a forge nearby. Captain Ahab stands at the railing, eyes narrowed, his face illuminated by stark chiaroscuro as he mutters “Cursed be that mortal inter‑indebtedness….” The scene is rendered in Romantic realism with fine linework, subtle paper grain, and high‑contrast charcoal tones."
+  },
+  {
+    "segment_index": 134,
+    "segment_text": "I would be free as air, and I'm down in the whole world's books.",
+    "image_prompt": "Ahab stands beside a wooden workbench in the dim deck’s lantern glow, a half‑finished ivory leg before him, hands stained with bone dust. He lifts a worn jawbone piece, eyes distant, whispering “I would be free as air…I’m down in the whole world’s books.” The scene is moody Romantic realism: deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling ship interior."
+  },
+  {
+    "segment_index": 135,
+    "segment_text": "I am so rich, I could have given bid for bid with the wealthiest praetorians at the auction of the Roman Empire, which was the world's, and yet I owe for the flesh and the tongue I brag with.",
+    "image_prompt": "A lone carpenter in a dimly lit ship’s workshop, hunched over an ivory bench, files bone‑shaped tools while two lanterns cast stark navy shadows. He mutters about wealth and debt, his face illuminated by chiaroscuro light, hands trembling with the weight of a forged leg. The scene evokes 19th‑century whaling tension in Romantic realism, deep charcoal tones, fine linework, semi‑realistic gradients, subtle paper grain—moody, high‑contrast illustration."
+  },
+  {
+    "segment_index": 136,
+    "segment_text": "By heavens, I'll get a crucible and into it and dissolve myself down to one small compendious vertebra.",
+    "image_prompt": "Ahab hunched over an iron crucible on a soot‑blackened forge bench, his gauntleted hand gripping a single, gleaming vertebra. The cabin is dimly lit by two lanterns and the red glow of the furnace, casting sharp chiaroscuro shadows across weathered timber and scattered tools. Ahab’s face, illuminated in deep navy and charcoal tones, shows fierce determination as molten metal swirls around him, evoking a dramatic Romantic realism scene of self‑transformation on a 19th‑century whaling ship."
+  },
+  {
+    "segment_index": 137,
+    "segment_text": "So, Carpenter resuming his work.",
+    "image_prompt": "Carpenter resumes meticulous work on a carved whale‑leg beside a cramped wooden bench aboard the Pequod’s deck at night. Two lanterns cast sharp chiaroscuro across ivory slabs, leather straps, and scattered tools. A faint red glow from the forge in the background hints at the blacksmith’s fire. The scene is moody, high‑contrast Romantic realism with deep navy and charcoal tones, fine linework blended with semi‑realistic gradients and subtle paper grain, evoking a 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 138,
+    "segment_text": "Well, well, well.",
+    "image_prompt": "A dim deck at night, lanterns casting sharp chiaroscuro on a wooden bench where a grizzled carpenter files ivory and bone with meticulous care; Ahab stands nearby, his expression fierce yet contemplative, eyes fixed on the work. The ship’s hull looms in charcoal shadows, wind rattling rigging. Romantic realism: deep navy sky, fine linework blended with semi‑realistic gradients, subtle paper grain—capturing 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 139,
+    "segment_text": "Stubb knows him best of all, and Stubb always says he's queer.",
+    "image_prompt": "A dark, moody deck at twilight, navy and charcoal tones dominating; sharp chiaroscuro highlights a stout, grizzled first mate—Stubb—speaking in hushed tones to a small group of weary crew under flickering lanterns. His broad beard curls with every word, eyes narrowed in mockery toward the carpenter’s wooden bench. The scene captures tension and camaraderie aboard a 19th‑century whaling ship, rendered in Romantic realism with fine linework, semi‑realistic gradients, and subtle paper grain."
+  },
+  {
+    "segment_index": 140,
+    "segment_text": "Says nothing but that one sufficient little word, queer.",
+    "image_prompt": "Ahab stands in the dim deck, his face carved by moonlit shadows, glaring at the carpenter who files ivory beside a flickering forge flame. Two lanterns cast sharp chiaroscuro across soot‑stained wood and scattered tools—ivory slabs, leather straps, iron screws—while Ahab mutters “queer” with cold disdain. Romantic realism, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 141,
+    "segment_text": "He's queer, says Stubb.",
+    "image_prompt": "A dimly lit deck at night, the ship’s wooden planks creaking underfoot. Stubb, a stout, weather‑worn sailor with a crooked grin, leans close to Captain Ahab, whispering “He’s queer,” his voice rough like sea spray. Ahab’s stern face is illuminated by two lanterns, casting deep navy shadows across the rigging. The ocean’s mist curls around their ankles, a subtle paper grain texture adding depth to this Romantic realism illustration in 19th‑century maritime style."
+  },
+  {
+    "segment_index": 142,
+    "segment_text": "He's queer, queer, queer, queer, and keeps dinning it into Mr. Starbuck all the time.",
+    "image_prompt": "A dim deck at night, lanterns flickering over a wooden workbench where a weary carpenter files ivory, his face grim with sweat and soot. Captain Ahab stands nearby, eyes narrowed, muttering “Queer, queer…” as he watches the craftsman’s steady hands. The ship’s hull groans in the background; distant waves crash against the bulkhead. Moody Romantic realism: deep navy, charcoal tones, sharp chiaroscuro lighting, fine linework with subtle paper grain—19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 143,
+    "segment_text": "Queer, sir, queer, queer, very queer.",
+    "image_prompt": "Ahab stands in the dim deck‑workshop, lantern light flickering over a rugged wooden bench strewn with ivory files and leather straps. The carpenter, hands stained with bone dust, nods as Ahab mutters “Queer, sir, queer, queer, very queer,” his voice echoing off stone walls. Dark navy shadows cling to the iron vice, while sharp chiaroscuro highlights the tense faces, capturing a moody 19th‑century whaling tension in Romantic realism."
+  },
+  {
+    "segment_index": 144,
+    "segment_text": "And here's his leg.",
+    "image_prompt": "Carpenter in dim deck loft, two lanterns casting sharp chiaroscuro on a rough wooden bench strewn with ivory slabs, leather straps, and iron tools; he holds a freshly filed whale‑jaw leg—smooth, pale ivory gleaming against charcoal shadows. Ahab’s silhouette looms through the doorway, eyes fixed on the crafted limb, while the faint glow of a forge crackles in the background. Romantic realism, 19th‑century nautical mood, deep navy and charcoal tones."
+  },
+  {
+    "segment_index": 145,
+    "segment_text": "Yes, now that I think of it, here's his bedfellow.",
+    "image_prompt": "Carpenter hunched over a wooden bench in the dim deck of the Pequod, lamp‑lit shadows throwing deep navy and charcoal chiaroscuro across ivory slabs and bone dust. Ahab stands nearby, eyes fixed on a freshly carved whale jaw‑leg, whispering “Here’s his bedfellow.” The scene captures 19th‑century whaling tension in Romantic realism, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 146,
+    "segment_text": "Has a stick of whale's jawbone for a wife.",
+    "image_prompt": "Carpenter in the dim deck‑bench workshop, torchlight flickering on soot‑stained walls, grips a jagged whale’s jawbone like an odd trophy. He gestures toward it with a weary grin, saying “Has a stick of whale’s jawbone for a wife,” while Captain Ahab leans over the vice, eyes narrowed in bemused curiosity. Romantic realism, deep navy and charcoal tones, sharp chiaroscuro, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 147,
+    "segment_text": "And this is his leg, he'll sting of whale's jawbone for a wife.",
+    "image_prompt": "A dim deck at night, two lanterns throwing sharp chiaroscuro onto a wooden bench where a rugged carpenter files the jagged bone of a whale’s jaw into a sturdy leg‑shaped piece. Ahab watches from the ship’s rail, his silhouette framed by deep navy and charcoal tones. The blacksmith’s forge glows red in the background, sparks flying like ghostly sea foam against a moody Romantic realism style with fine linework, semi‑realistic gradients, and subtle paper grain."
+  },
+  {
+    "segment_index": 148,
+    "segment_text": "And this is his leg, he'll stand on this.",
+    "image_prompt": "Carpenter hunched over a workbench in the dimly lit ship’s galley, two lanterns casting sharp chiaroscuro on his hands as he files an ivory‑studded whale‑leg. Red sparks flicker from a nearby forge where a blacksmith hammers a buckle screw; soot curls like ghostly smoke. Captain Ahab stands at the threshold, eyes narrowed, contemplating the finished leg that will support his cursed vengeance—an ominous, Romantic realism tableau in deep navy and charcoal tones."
+  },
+  {
+    "segment_index": 149,
+    "segment_text": "What was that now about one leg standing in three places, and all three places standing in one hell?",
+    "image_prompt": "A dimly lit ship’s carpenter’s shop at night, two lanterns casting sharp chiaroscuro on a wooden bench piled with ivory slabs, leather straps, and tools. The weary carpenter files a whale jawbone leg, while Captain Ahab watches, his face illuminated by the forge’s red flame. In the gloom, the scene captures the surreal notion of “one leg standing in three places,” echoing 19th‑century whaling tension—Romantic realism, navy charcoal tones, fine linework, semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 150,
+    "segment_text": "How was that?",
+    "image_prompt": "A dim deck at night, two lanterns casting deep navy and charcoal chiaroscuro across a wooden bench where an old carpenter files ivory jawbones into the shape of a ship’s leg. Sparks from a red forge flare in the background, blacksmith hammers a buckle screw. Ahab watches, tense, as the hand‑held vice grips bone, its rough texture contrasting with the polished lamp light—romantic realism, 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 151,
+    "segment_text": "Oh, I don't wonder he looks so scornful at me.",
+    "image_prompt": "Ahab stands in the dim deck workshop, lanterns casting deep navy and charcoal shadows across a cluttered bench of ivory, bone, and iron tools. His gaunt face is illuminated by sharp chiaroscuro light, revealing a scornful expression as he gazes at Ishmael with disdain. The sea’s distant roar echoes through the high‑contrast Romantic realism scene, capturing tension aboard the 19th‑century whaling vessel. --style Romantic realism, 19th‑century nautical illustration"
+  },
+  {
+    "segment_index": 152,
+    "segment_text": "I'm a sort of strange-thoughted sometimes, they say, but that's only haphazard-like.",
+    "image_prompt": "Ahab stands alone on the deck at night, lantern light flickering across his weather‑worn face as he mutters to himself about being “strange‑thoughted.” The ship’s canvas sails ripple in a muted storm, while the deep navy hull glows under sharp chiaroscuro. Romantic realism: fine linework meets semi‑realistic gradients, subtle paper grain, high contrast, 19th‑century whaling atmosphere."
+  },
+  {
+    "segment_index": 153,
+    "segment_text": "Then, a short little old body like me should never undertake to wade out into deep waters with tall, heron-built captains.",
+    "image_prompt": "A lone, weather‑scarred carpenter in a dimly lit ship’s galley, hunched over an ivory bench, files a jagged whale jawbone leg. Two lanterns cast deep navy shadows; the forge’s red flame flickers nearby. The figure wears tattered sea‑cloth, eyes weary, while the air hums with the clink of tools and distant waves. Romantic realism, 19th‑century maritime setting, high contrast chiaroscuro, subtle paper grain."
+  },
+  {
+    "segment_index": 154,
+    "segment_text": "The water chucks you under the chin pretty quick, and there's a great cry for lifeboats.",
+    "image_prompt": "Ahab stands on the deck at night, lanterns flickering against dark waves; his face is grim as he watches the sea crash over the hull, sending water up to his chin. The ship creaks, and distant cries of “lifeboats!” echo from below deck. Romantic realism style, 19th‑century whaling era, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 155,
+    "segment_text": "And here's the heron's leg, long and slim, sure enough.",
+    "image_prompt": "Ahab’s grim shipyard at night: a narrow wooden deck bathed in deep navy shadows, two lanterns casting sharp chiaroscuro light on a rugged carpenter hunched over a long, slim heron‑leg propped against a vice. Ivory slabs, leather straps and metal tools litter the bench; a blacksmith’s forge glows red in the background. The scene exudes 19th‑century whaling tension, Romantic realism with fine linework, semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 156,
+    "segment_text": "Now, for most folks, one pair of legs lasts a lifetime, and that must be because they use them mercifully, as a tender-hearted old lady uses her roly-poly old coach, horses.",
+    "image_prompt": "A dim lantern-lit ship’s carpentry loft in the 19th‑century whaling era: a weary carpenter hunched over an ivory bench, file in hand, surrounded by scattered bone fragments, leather straps and soot‑blackened tools. In shadowed corners, a lone wooden horse‑like leg stands beside a cracked coach, evoking the old lady’s tender use of her roly‑poly carriage. Moody navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain—Romantic realism style."
+  },
+  {
+    "segment_index": 157,
+    "segment_text": "But Ahab, oh he's a hard driver.",
+    "image_prompt": "Ahab stands in the storm‑lit deck of the Pequod, his gaunt face illuminated by a single lantern, eyes fixed on the horizon as waves crash against the hull. The moon hangs low over blackened rigging, shadows deepening his scarred hands gripping a rope. A faint mist curls around the prow, and distant gulls cry, underscoring his relentless, hard‑driving resolve in 19th‑century Romantic realism with navy charcoal tones, chiaroscuro lighting, fine linework, and subtle paper grain."
+  },
+  {
+    "segment_index": 158,
+    "segment_text": "Look, driven one leg to death, and spaven the other for life, and now wears out bone legs by the cord.",
+    "image_prompt": "Ahab stands in a dim ship’s workshop, lantern light flickering over a wooden bench cluttered with ivory slabs, leather straps, and blacksmith tools. He grips a forged bone leg, its once‑tough edge now dulled by a worn cord, while a red forge flame casts sharp chiaroscuro shadows across his weathered face. Romantic realism, 19th‑century nautical setting, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 159,
+    "segment_text": "Halloa there, you smut!",
+    "image_prompt": "A dim, charcoal‑toned ship’s workshop at night, a weary carpenter hunched over a wooden bench under flickering lantern light, filing ivory and bone with steady hands. The scene captures the tense hush of Ahab’s command: “Halloa there, you smut,” echoing across the cramped deck. Romantic realism, high‑contrast chiaroscuro, fine linework blended with semi‑realistic gradients, deep navy and charcoal palette, 19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 160,
+    "segment_text": "Bear a hand there with those screws, and let's finish it before the resurrection fellow comes a-calling with his horn for all legs, true or false, as gruery men go round collecting old beer barrels to fill them up again.",
+    "image_prompt": "A dimly lit ship’s carpenter’s bench in a 19th‑century whaling vessel, night watch on deck. A rugged, soot‑stained carpenter grips a metal screw, his hands steady as he files ivory bone with a sharp file beside glowing lanterns. Nearby, a blacksmith stirs a roaring forge, sparks dancing like distant stars. Captain Ahab watches from the ship’s railing, eyes fixed on the work, while the stormy sea yawns beyond. Romantic realism, deep navy and charcoal tones, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 161,
+    "segment_text": "What a leg this is!",
+    "image_prompt": "A dim deck at night, lantern glow cutting sharp chiaroscuro across a carpenter’s worn bench; an ivory leg—half‑shaped, filleted, bone dust swirling—rests in a vice while Ahab watches, his face lit by two flickering lamps. The sea’s deep navy horizon blurs beyond the ship’s hull, charcoal shadows pooling on wooden planks, capturing tension and Romantic realism of 19th‑century whaling.  Style: moody high‑contrast illustration, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 162,
+    "segment_text": "It looks like a real live leg, filed down to nothing but the core.",
+    "image_prompt": "A dark ship’s galley at night, a rugged carpenter hunched over a wooden bench, lanterns casting sharp chiaroscuro across ivory bone and metal tools. The foreboding cabin is filled with the scent of oil and sawdust; a forge glows red in the background. In the foreground, a gleaming, filed‑down whale leg—its flesh stripped to a pale core—rests against the vice, its edges catching the lantern light like a ghostly relic. Romantic realism, 19th‑century maritime atmosphere, deep navy and charcoal tones."
+  },
+  {
+    "segment_index": 163,
+    "segment_text": "He'll be standing on this tomorrow.",
+    "image_prompt": "Carpenter hunched over a polished ivory leg at a cramped shipboard bench, two flickering lanterns casting deep navy shadows and sharp charcoal highlights; a red forge flame sputters nearby, blacksmith’s tools glinting in the chiaroscuro light. Ahab stands behind, eyes narrowed, whispering “Hell be standing on this tomorrow.” Romantic realism, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling tension."
+  },
+  {
+    "segment_index": 164,
+    "segment_text": "He'll be taking altitudes on it.",
+    "image_prompt": "A weary carpenter hunched over a wooden bench in the dim deck’s lantern glow, ivory and bone dust swirling like sea mist. He files a jagged whale‑jaw leg, his hand trembling as he measures its length with a brass ruler—“Hell be taking altitudes on it.” Ahab looms in shadowed rigging beyond, eyes fixed on the work. Romantic realism, 19th‑century nautical setting, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 165,
+    "segment_text": "Halloa!",
+    "image_prompt": "A dim deck at night, two lanterns casting sharp chiaroscuro on a wooden bench where a rugged carpenter files ivory and bone; the forge’s red flame flickers nearby, blacksmith hammering steel shoulder blades. Captain Ahab stands in the gloom, voice booming “Halloa,” his silhouette framed by deep navy shadows and charcoal tones. Romantic realism style, 19th‑century whaling ship interior, subtle paper grain, fine linework with semi‑realistic gradients."
+  },
+  {
+    "segment_index": 166,
+    "segment_text": "I almost forgot the little oval slate, smoothed ivory, where he figures up the latitude.",
+    "image_prompt": "Ahab, hunched over a dimly lit workbench in the ship’s cramped galley, intently files an oval ivory slate that will chart his next course. Lanterns cast deep navy shadows; the forge’s red flame flickers beside him. Rough tools scatter: leather straps, iron screws, bone filings. A haunting chiaroscuro of charcoal and midnight blue highlights the grim determination in Ahab’s face as he smooths the ivory for precise latitude calculations, a Romantic realism rendering of 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 167,
+    "segment_text": "Sew, sew, chisel, file, and sandpaper, now!",
+    "image_prompt": "A dim deck at night, Captain Ahab’s stern silhouette against the storm‑lit horizon. In his cramped cabin a rugged carpenter hunched over a battered wooden bench, ivory chips scattered like snowflakes. He grips a chisel, file, and sandpaper, sweat glistening on his brow as he shapes a whale leg, the glow of two lanterns casting sharp chiaroscuro shadows. Romantic realism, 19th‑century naval setting, deep navy and charcoal tones, fine linework with semi‑realistic gradients."
+  }
+]

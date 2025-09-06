@@ -1,177 +1,297 @@
 [
   {
     "segment_index": 0,
-    "segment_text": "CHAPTER FIFTY AHAB'S BOAT AND CREW THADDALA Who would have thought it, Flask?",
-    "image_prompt": "Dark, moody 19th‑century oil painting: Ahab’s weathered face half‑lit by a flickering lantern aboard the Pequod’s cramped foredeck, his eyes fixed on a trembling Flask in ragged sea‑cloth. Stubb stands beside him, laughing, while a shadowy crew of whalemen loom in the background, their coats wind‑torn. The ocean roils below, hinting at looming Moby Dick. Style evokes melancholy dread and gritty realism of classic maritime tragedy."
+    "segment_text": "Chapter 51.",
+    "image_prompt": "Moonlit night on the Pequod’s deck, silver waves rolling like scrolls; a mysterious silvery jet rises from the sea ahead, glowing celestial under navy sky. Captain Ahab stands resolute, his ivory leg visible, eyes fixed forward as he commands sails to rise. The crew, cloaked in charcoal hues, watches in tense awe while the ship cuts through calm waters. Romantic realism, 19th‑century whaling voyage, sharp chiaroscuro, deep navy tones, fine linework with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 1,
-    "segment_text": "cried Stubb.",
-    "image_prompt": "A storm‑laden deck of the Pequod at dusk, waves crashing against iron railings, smoke curling from a nearby whaleboat. In the foreground, Stubb, broad‑shouldered and scarred, stands with arms raised, eyes wild, his voice echoing across the ship as he shouts to a stunned crew beneath a bruised sky. Dark, moody 19th‑century oil painting style."
+    "segment_text": "The Spirit Spout Days, weeks passed, and under easy sail the ivory Pequod had slowly swept across four several cruising grounds, that off the Azores, off the Cape de Verdes, on the Plate so-called, being off the mouth of the Rio de la Plata, and the Carol Ground, an unstaked, watery locality southerly from St.",
+    "image_prompt": "Moonlit midnight sea, ivory Pequod gliding across distant Azores to Cape Verde, Rio de la Plata, and Carol Ground, her sails billowing in deep navy twilight. A lone silvery jet appears on the horizon like a celestial spear. Sharp chiaroscuro illuminates the deck crew in charcoal tones; fine linework and semi‑realistic gradients reveal the ship’s polished hull, rigging, and trembling waves. Romantic realism of 19th‑century whaling voyage, moody, high‑contrast illustration."
   },
   {
     "segment_index": 2,
-    "segment_text": "If I had but one leg he would not catch me in a boat, unless maybe to stop the plug-hole with my timber toe.",
-    "image_prompt": "A rugged 19th‑century whaling ship’s deck at dusk, a stormy Atlantic horizon. In the foreground, Stubb, jovial and grizzled, stands on splintered planks, his one sturdy leg planted firmly as he jokes with an unseen Ahab. His left foot is bare, the right missing; he gestures with a wooden toe to a leaking plug‑hole in the hull, hinting at a desperate repair. Dark clouds loom, waves crash against the prow, and the mood is brooding, oil‑painted with muted earth tones. Art style: dark, moody, 19th‑century oil painting."
+    "segment_text": "Helena.",
+    "image_prompt": "A moonlit Pequod deck, deep navy waves curling like silver scrolls; a lone figure—Helena—stands in the foreground, her silhouette sharp against the chiaroscuro glow of lantern light. She wears a weathered sea‑cloth coat, eyes fixed toward an unseen horizon where a faint, celestial jet glows. The ship’s rigging sways in the wind, casting dramatic charcoal shadows; fine linework and subtle paper grain capture the tense, Romantic realism of a 19th‑century whaling voyage."
   },
   {
     "segment_index": 3,
-    "segment_text": "Oh, he's a wonderful old man.",
-    "image_prompt": "A dimly lit Pequod cabin, heavy wooden beams and scattered charts, where Captain Ahab sits on a creaking chair, his beard long and white, eyes fierce yet weary. Stubb, grizzled and scarred, leans over him with a half‑smile, raising a weathered hand as he says, “Oh, he's a wonderful old man.” The scene is rendered in a dark, moody 19th‑century oil painting style, rich shadows, muted earth tones, conveying the tense camaraderie of the whaling crew."
+    "segment_text": "It was while gliding through these latter waters that one serene and moonlight night, when all the waves rolled by like scrolls of silver, and, by their soft, suffusing seethings, made what seemed a silvery silence, not a solitude.",
+    "image_prompt": "Moonlit night over calm ocean: rolling silver waves glide past an ivory‑tusked Pequod; the deck glows in deep navy and charcoal tones. Captain Ahab stands at helm, his lone figure silhouetted against moonlight, while Ishmael gazes outward. Fine linework meets semi‑realistic gradients, chiaroscuro lighting accentuates silvery silence, paper grain adds texture. Romantic realism, 19th‑century whaling voyage, moody high‑contrast illustration."
   },
   {
     "segment_index": 4,
-    "segment_text": "I don't think it's so strange, after all, on that account,\" said Flask.",
-    "image_prompt": "A dimly lit galley aboard the Pequod at night, moonlight filtering through cracked shutters, casting long shadows on weather‑worn wooden planks. Flask, a grizzled old whaler with a scarred face and a weary beard, leans against a battered oar, his hand gripping a chipped mug of grog. His voice echoes in the cramped space as he mutters, “I don’t think it’s so strange, after all.” The atmosphere is heavy with salt air, oil lamps sputtering, and distant waves lapping against the hull—an intimate, brooding moment captured in a dark, moody 19th‑century oil painting."
+    "segment_text": "On such a silent night a silvery jet was seen far in advance of the white bubbles at the bow.",
+    "image_prompt": "Moonlit night over calm Atlantic, ivory Pequod cutting silver waves; a distant, glowing, silvery jet appears ahead of frothy white spray at the bow. Ahab’s stern silhouette stands on deck, eyes fixed forward as crew in muted attire brace the breeze. Romantic realism, 19th‑century style: deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain, moody high‑contrast illustration."
   },
   {
     "segment_index": 5,
-    "segment_text": "If his leg were off at the hip now, it would be a different thing.",
-    "image_prompt": "A shadowed, storm‑gloomy deck of the Pequod under a brooding sky, Captain Ahab standing solitary in his weather‑worn coat, eyes narrowed as he contemplates a grievous injury to his leg—“if it were off at the hip now…” His posture tense, hand gripping a musket’s barrel, while Ishmael peers from a distance, wary. The scene is rendered in a dark, moody 19th‑century oil painting style, with muted grays and deep shadows emphasizing Ahab’s looming dread."
+    "segment_text": "Lit up by the moon, it looked celestial, seemed some plumed and glittering god uprising from the sea.",
+    "image_prompt": "Moonlit night over calm Atlantic, a lone silver jet rises from the sea like a plumed, glittering god. The Pequod’s hull glistens in deep navy and charcoal shadows; sharp chiaroscuro highlights the glowing spray and the jet’s ethereal glow. Fine linework and semi‑realistic gradients capture the contrast of moonlight on water, with subtle paper grain adding texture to this Romantic realism illustration of 19th‑century whaling tension."
   },
   {
     "segment_index": 6,
-    "segment_text": "That would disable him.",
-    "image_prompt": "Ahab, a gaunt whaling captain, stands on the deck of the Pequod under stormy twilight, his left leg reduced to a stump at the hip, the broken limb exposed and ragged. He grips a worn brass compass, eyes fixed on distant horizons where waves churn like blackened ink. Beside him, Stubb leans on his oar, Flask whispers anxiously. The muted palette of deep blues, grays, and ash highlights the grim reality that “that would disable him.” Rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Fadala first described this jet, for of these moonlight nights it was his want to mount to the main mast head and stand alook out there with the same precision as if it had been day.",
+    "image_prompt": "Moonlit night on the Pequod’s deck, a silver jet glows ahead of the white bubbles; Fadala climbs the mainmast, his turban gleaming, eyes fixed forward with day‑like focus. Ahab watches from lower decks, stern silhouette against deep navy sea, while waves roll like silver scrolls. Romantic realism: chiaroscuro lighting, charcoal tones, fine linework blending into semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage."
   },
   {
     "segment_index": 7,
-    "segment_text": "But he has one knee, and good part of the other left, you know.",
-    "image_prompt": "Ahab stands on a weather‑worn whale‑boat amid stormy Atlantic spray, his left leg bent at the knee, the right leg missing beyond the hip, yet he grips the oar with fierce resolve. The crew—Stubb, Flask, Starbuck—watch in hushed awe as the captain’s single knee bears the weight of a doomed voyage. Dark, moody 19th‑century oil painting style, chiaroscuro lighting highlighting Ahab’s scarred face and the turbulent sea below."
+    "segment_text": "And yet, though herds of whales were seen by night, not one whaleman in a hundred would venture a lowering for them.",
+    "image_prompt": "Moonlit black Atlantic, deep navy and charcoal tones swirl with sharp chiaroscuro. On the Pequod’s deck, fine linework shows weary sailors in dark coats, eyes fixed toward a silver‑white horizon where ghostly whales glide silently beneath the moon. No whalers lower nets; their hands remain at the rail, tense and hesitant. Romantic realism, semi‑realistic gradients, subtle paper grain capture the eerie night tension of 19th‑century whaling."
   },
   {
     "segment_index": 8,
-    "segment_text": "I don't know that, my little man.",
-    "image_prompt": "A storm‑clouded deck of the Pequod at twilight, waves lashing green‑black hulls. In the foreground, rugged Captain Ahab—torn coat, scarred face—leans over the rail, speaking gravely to a young, nervous sailor in his lapels, eyes wide with uncertainty. The scene is shrouded in heavy mist and dim lantern glow, casting long shadows across weather‑worn planks. Dark, moody 19th‑century oil painting style."
+    "segment_text": "You may think with what emotions then.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, waves like silver scrolls, a distant silvery jet glows against a deep navy sky. Ahab stands beside the helm, his ivory leg raised, eyes fixed on the faint celestial plume. The crew watches in hushed awe, their faces illuminated by sharp chiaroscuro lighting; shadows cling to rigging and hull. Romantic realism, 19th‑century whaling voyage, fine linework with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 9,
-    "segment_text": "I never yet saw him kneel.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of the Pequod’s weathered deck at dusk: Captain Ahab, gaunt and scarred, stands upright with a single lower leg visible, his wooden prosthetic creaking beneath him. He gazes across storm‑choked waters, eyes fixed on an unseen horizon. Around him, Stubb, Flask, Starbuck, and Ishmael lean in, their faces lit by lantern glow, all watching Ahab’s resolute stance—none kneeling, as Ishmael muses, “I never yet saw him kneel.”"
+    "segment_text": "The seaman beheld this old oriental perched aloft at such unusual hours, his turban in the moon, companions in one sky.",
+    "image_prompt": "A moonlit night on the Pequod’s deck, a lone seaman watches an old oriental figure perched aloft near the mast, turban glowing silver against deep navy sky; companions of stars swirl around him, casting sharp chiaroscuro shadows over weathered rigging and creaking hull. Romantic realism with fine linework and subtle paper grain, 19th‑century whaling voyage atmosphere, high‑contrast illustration in charcoal tones."
   },
   {
     "segment_index": 10,
-    "segment_text": "Among whale-wise people it has often been argued whether, considering the paramount importance of his life to the success of the voyage, it is right for a whaling captain to jeopardize that life",
-    "image_prompt": "A somber, dimly lit harbor at dusk, Captain Ahab stands on a weather‑worn wooden deck of the Pequod, his face illuminated by a single lantern flame. Behind him, storm clouds gather over the restless sea. Ishmael, Queequeg, Starbuck, Stubb, and Flask sit in tense silence, their eyes fixed on Ahab as he contemplates the perilous gamble of risking his own life for the voyage’s success. The scene evokes a 19th‑century oil painting: muted earth tones, heavy brushstrokes, and a palpable sense of foreboding."
+    "segment_text": "But when, after spending his uniform interval there for several successive nights without uttering a single sound,",
+    "image_prompt": "A solitary figure stands at the helm of the moonlit Pequod, his silhouette framed by the dark rigging and a swirling sea of charcoal waves; he watches the horizon in silence for several successive nights, eyes fixed on the distant silvery jet. The deck is shrouded in deep navy mist, sharp chiaroscuro highlighting the lone man’s weathered face and ivory leg. Romantic realism, 19th‑century whaling voyage style, with fine linework and subtle paper grain."
   },
   {
     "segment_index": 11,
-    "segment_text": "in the active perils of the chase.",
-    "image_prompt": "A dimly lit, storm‑swept deck at night, waves lashing against a battered whaling ship; Captain Ahab stands on the prow, eyes fixed ahead as a massive white whale breaches in the distance, its spout spraying mist. The crew—Stubb, Flask, Starbuck—clutch wooden poles, their faces tense with dread. Dark clouds gather overhead, casting a moody, 19th‑century oil painting atmosphere of imminent danger and relentless pursuit. Style: dark, moody, 19th-century oil painting."
+    "segment_text": "When, after all this silence, his unearthly voice was heard announcing that silvery moonlit jet, every reclining mariner started to his feet, as if some winged spirit had lighted in the rigging and hailed the mortal crew.",
+    "image_prompt": "A moonlit night over the Pequod’s deck, deep navy sky bleeding into charcoal waves; a silver jet of light rises from the horizon like a celestial spear. Mariners, silhouettes in sharp chiaroscuro, leap to their feet, faces illuminated by lantern glow, as if winged spirits ignite the rigging. Captain Ahab stands stoic, his ivory leg glinting, while the crew’s eyes widen with awe and dread. Romantic realism, 19th‑century seafaring, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 12,
-    "segment_text": "So Timerlane's soldiers often argued with tears in their eyes whether that invaluable life of his ought to be carried into the thickest of the fight.",
-    "image_prompt": "A tense, moonlit harbor where Timerlane’s weary soldiers stand in ragged coats, their faces streaked with salt‑sprayed tears, debating the fate of Captain Ahab. In the foreground a weathered wooden plank, its splintered edge catching the dim lantern glow, while distant sails creak against a stormy horizon. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and subtle, sorrowful expression, capturing the weight of life versus peril."
+    "segment_text": "There she blows!",
+    "image_prompt": "Moonlit night on the Pequod’s deck, silver waves roll like scrolls; a sudden, celestial jet of light erupts far ahead, glowing against the deep navy sea. Captain Ahab stands tall, his ivory leg visible, eyes fixed forward as he commands the sails to billow. The crew, cloaked in charcoal shadows, gathers around him, faces illuminated by sharp chiaroscuro. Romantic realism, 19th‑century whaling voyage, fine linework with semi‑realistic gradients and subtle paper grain."
   },
   {
     "segment_index": 13,
-    "segment_text": "But with Ahab the question assumed a modified aspect.",
-    "image_prompt": "Ahab stands alone on the Pequod’s weather‑torn deck at twilight, his scarred face illuminated by a single lantern flame; he grips a cracked compass as the sea roils beneath him. His weary eyes survey the horizon where a phantom whale’s shadow lingers. The ship’s creaking timbers and distant gulls echo his solitary resolve—his mind wrestling with fate, duty, and vengeance. Rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Had the trump of judgment blown, they could not have quivered more, yet still they felt no terror, rather pleasure.",
+    "image_prompt": "A moonlit night aboard the ivory Pequod, a lone trumpet of judgment blows from the masthead; the crew—Captain Ahab with his iron leg, Ishmael in a weathered coat, Starbuck clutching a lantern, Stubb and Flask flanking—turn to face it. Their faces glow with exhilaration, eyes wide but untroubled, as silver moonlight bathes the deck. High‑contrast Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage."
   },
   {
     "segment_index": 14,
-    "segment_text": "Considering that with two legs man is but a hobbling white in all times of danger, considering that the pursuit of whales is always under great and extraordinary difficulties,",
-    "image_prompt": "A dark, moody 19th‑century oil painting: Captain Ahab, gaunt and scarred, stands on a weathered deck amid stormy Atlantic clouds, his single leg cradled in a wooden brace. Below him, a battered whale‑boat lurks, its crew of rough sailors clustered around the prow, eyes fixed on a looming, shadowy leviathan beyond the horizon. The scene captures Ahab’s grim determination and the perilous, relentless chase that turns every man into a trembling, hobbling figure in the relentless sea."
+    "segment_text": "For though it was a most unwanted hour, yet so impressive was the cry, and so deliriously exciting, that almost every soul on board instinctively desired a lowering.",
+    "image_prompt": "Moonlit night over the calm Atlantic, silver waves rolling like scrolls; a sudden, blinding jet of light appears ahead of the Pequod’s bow, its glow celestial and godlike. Crew in dark navy uniforms stand on the deck, faces lit by chiaroscuro moonlight, eyes wide with awe. Captain Ahab, ivory leg gleaming, commands sails; every sailor instinctively wants to lower a line, their silhouettes sharp against the deep charcoal sea, Romantic realism style, 19th‑century nautical illustration."
   },
   {
     "segment_index": 15,
-    "segment_text": "that every individual moment, indeed, then comprises a perilings.",
-    "image_prompt": "A dimly lit deck at dusk, the Pequod’s weather‑worn hull groaning beneath a stormy sky; Captain Ahab stands rigid, eyes narrowed as he watches a massive whale breach beyond horizon, its spout spray curling like black smoke. Beside him, Stubb grips his knife, Flask fumbles with a rope, while Starbuck holds a lantern casting wavering amber light on the crew’s tense faces. The scene captures every fleeting moment as a perilous breath, rendered in dark, moody 19th‑century oil style."
+    "segment_text": "Walking the deck with quick, side-lunging strides, Ahab commanded the tegallant sails and royals to be set, and every stunsail spread, the best man in the ship must take the helm.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, sharp chiaroscuro lighting on dark navy hull, Captain Ahab strides forward with fierce determination, his ivory leg gleaming under starlight. He commands crew to set tegallant sails and royals; a rugged sailor grips the helm as sails unfurl in silver mist. Romantic realism, 19th‑century whaling style, deep charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 16,
-    "segment_text": "Under these circumstances is it wise for any maimed man to enter a whale-boat in the hunt, as a general thing the joint owners of the Pequod must have plainly thought not.",
-    "image_prompt": "A shadowed deck of the Pequod at dusk, a somber gathering of crew—Captain Ahab, stern Stubb, nervous Flask—concentrated around a weather‑worn whale‑boat in the harbor. Their faces are lit by flickering lanterns, reflecting deep worry and debate about a maimed man’s perilous entry into the hunt. The sea roils behind them, hinting at impending danger, all rendered in dark, moody 19th‑century oil painting style."
+    "segment_text": "Then, with every masthead manned, the piled-up craft rolled down before the wind.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, a hush of silver waves curling beneath deep navy clouds. Captain Ahab stands tall, his lone leg gripping the helm as every masthead crewman climbs into place. The ship’s billowing sails catch the sharp chiaroscuro glow, casting long charcoal shadows across weather‑worn planks. In this Romantic realism illustration, 19th‑century whaling tension meets dramatic lighting, with subtle paper grain and fine linework capturing the vessel’s poised descent into the wind."
   },
   {
     "segment_index": 17,
-    "segment_text": "Ahab well knew that although his friends at home would think little of his entering a boat in certain comparatively harmless vicissitudes of the chase, for the sake of being near the scene of action and giving his orders in person, yet for Captain Ahab to have a boat actually apportioned to him as a regular headsman in the hunt above all",
-    "image_prompt": "Dark, moody 19th‑century oil painting: Captain Ahab stands on a weathered wooden deck of the Pequod, his scarred face illuminated by flickering lantern light. He grips a brass compass, eyes fixed on the horizon where a small whale‑boat sails in rough seas. Beside him, Stubb and Flask lean over the railing, their rough hands clutching oars. The stormy sky looms, waves crash against iron hulls, and Ahab’s stern silhouette commands the scene, hinting at his relentless pursuit of Moby Dick."
+    "segment_text": "The strange, upheaving, lifting tendency of the tafrail breeze filling the hollows of so many sails made the buoyant, hovering deck to feel like air beneath the feet, while still she rushed along, as if two antagonistic influences were struggling in her, one to mount direct to heaven, the other to drive yawingly to some horizontal goal.",
+    "image_prompt": "Moonlit night on the Pequod’s deck: a high‑contrast Romantic realism illustration of Captain Ahab standing amid billowing white sails, wind swirling through the rafters like a celestial tempest. The sea glows in deep navy and charcoal, with sharp chiaroscuro lighting casting long shadows. Fine linework blends into semi‑realistic gradients, subtle paper grain adds texture. The scene captures tension as air lifts the deck, yet the ship veers, caught between heavenly lift and horizontal drift, 19th‑century whaling voyage atmosphere."
   },
   {
     "segment_index": 18,
-    "segment_text": "for Captain Ahab to be supplied with five extra men as that same boat's crew.",
-    "image_prompt": "A dark, moody 19th‑century oil painting of Captain Ahab standing on the deck of the Pequod, his weathered face turned toward a small whale‑boat tied to the side. Five rugged whalers—Stubb, Flask, Starbuck, Ishmael, and Queequeg—stand in rough linen coats, their hands gripping oars as they prepare to launch. The stormy sea roils below, lightning crackling, casting long shadows across Ahab’s determined expression and the crew’s ready stance. Style: 19th‑century oil painting."
+    "segment_text": "And had you watched Ahab's face that night, you would have thought that in him also two different things were warring.",
+    "image_prompt": "A haunting nocturnal scene on the Pequod’s deck: Captain Ahab stands beneath a silver moon, his gaunt, weather‑worn visage split by fierce internal conflict—one side bright with burning vengeance, the other shadowed with weary resignation. Dramatic chiaroscuro casts deep navy and charcoal contrasts across his furrowed brow, trembling lips, and icy eyes, while fine linework and subtle paper grain render the tension of a 19th‑century whaling voyage in Romantic realism."
   },
   {
     "segment_index": 19,
-    "segment_text": "He well knew that such generous conceits never entered the heads of the owners, therefore he had not solicited a boat's crew from them, nor had he in any way hinted his desires on that head.",
-    "image_prompt": "A solitary Captain Ahab stands amid the dim, lantern-lit galley of the Pequod, his weathered face illuminated by a single candle flame. He holds a weather‑worn chart in one hand, eyes fixed on a parchment map of a whale‑boat, while a shadowy figure of a crew member leans against the rigging, unseen. The heavy wooden beams and muted tones convey a storm of secrecy; Ahab’s mind is a swirling vortex of strategy, his lips pressed tight as he keeps his plans hidden from the ship’s owners. Dark, moody 19th‑century oil painting."
+    "segment_text": "While his one live leg made lively echoes along the deck, every stroke of his dead limbs sounded like a coffin tap.",
+    "image_prompt": "Ahab stands alone on the moonlit deck of the ivory Pequod, his single living leg swinging in rhythmic echo while his dead limb taps the rail with a hollow, coffin‑like clang. The night sea glows silver, waves roll like scrolls; sharp chiaroscuro lights cast deep navy shadows over the ship’s rigging. Romantic realism, 19th‑century whaling style, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 20,
-    "segment_text": "Nevertheless, he taken private measures of his own touching all that matter.",
-    "image_prompt": "A shadowed, cramped aft cabin of the Pequod at twilight, Captain Ahab alone hunched over a battered wooden boat, his weather‑worn hands tightening iron pins and carving skewer grooves by lantern glow; the deck outside is stormy, waves crashing. He wears a grim, resolute expression, eyes fixed on the unfinished whale‑boat as if sealing fate. The scene is drenched in deep charcoal shadows and flickering oil light, capturing a 19th‑century moody, dramatic oil painting atmosphere."
+    "segment_text": "On life and death this old man walked.",
+    "image_prompt": "Ahab strides across the moonlit Pequod deck, his ivory leg casting a long shadow, eyes fixed ahead; one hand grips the helm, the other clenches a shroud. The sea glows silver beneath him, waves whispering like ghosts. His expression is fierce yet weary, embodying the clash of life and death—fighting fate while bound to destiny. Romantic realism, 19th‑century maritime, deep navy and charcoal tones, sharp chiaroscuro, fine linework with subtle paper grain."
   },
   {
     "segment_index": 21,
-    "segment_text": "Until Cobacco's published discovery, the sailors had little foreseen it, though, to be sure when, after being a little while out of port, all hands had concluded the customary business of fitting the whale-boats for service.",
-    "image_prompt": "A dim harbor at dusk, a battered whaling ship’s deck littered with oars, ropes, and wooden spars. Sailors in worn navy coats labor over newly fitted whale‑boats, their hands stained with tar and sweat. Captain Ahab stands aloof, eyes fixed on the horizon, while Ishmael watches in shadowed reverence. The air hangs heavy with salt mist; a lone lantern casts trembling light, hinting at an unseen discovery that will soon unsettle the crew. Dark, moody 19th‑century oil painting."
+    "segment_text": "But though the ship so swiftly sped, and though from every eye, like arrows, the eager glances shot, yet the silvery jet was no more seen that night.",
+    "image_prompt": "Moonlit night over the calm Atlantic; the ivory‑tusked *Pequod* cuts swiftly through silver waves, sails billowing in sharp chiaroscuro light. Crew members—Ahab, Starbuck, Ishmael—peer forward like arrows, eyes glittering with hope. A sudden silvery jet appears on the horizon, then vanishes into darkness, leaving only the ship’s silhouette against deep navy and charcoal tones. Romantic realism, 19th‑century whaling voyage style, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 22,
-    "segment_text": "When, sometime after this, Ahab was now and then found berserring himself in the matter of making full pins with his own hands for what was thought to be one of the spare boats, and even solicitously cutting the small wooden skewers, which, when the line is running out, are pinned over the groove in the bow, when the bow, when all this was over muddy.",
-    "image_prompt": "Ahab stands alone on a weather‑torn deck, sweat dripping from his furrowed brow as he fiercely carves wooden pins and skewers by hand, the spatter of mud clinging to his boots. The dim lantern light flickers over splintered planks and a battered spare boat’s bow, where the sharp tools leave deep grooves. In the background, storm clouds loom, hinting at the looming hunt, all rendered in a dark, moody 19th‑century oil painting style."
+    "segment_text": "Every sailor swore he saw it once, but not a second time.",
+    "image_prompt": "A moonlit night on the ivory Pequod, waves silver‑scrolling beneath deep navy skies; a lone sailor stands amid dark rigging, his silhouette sharp against stark chiaroscuro light. The crew’s hushed faces are illuminated by a faint, ghostly glow from an unseen jet of light far ahead, evoking wonder and dread. Romantic realism style, 19th‑century maritime illustration, charcoal tones, subtle paper grain, dramatic contrast."
   },
   {
     "segment_index": 23,
-    "segment_text": "But almost everybody supposed that this particular preparative heedfulness in Ahab must only be with a view to the ultimate chase of Moby Dick, for had already revealed his intention to hunt that mortal monster in person.",
-    "image_prompt": "Dark, moody 19th‑century oil painting: Captain Ahab stands alone on the deck of the Pequod at dusk, a stormy horizon behind him. His weathered face is lit by flickering lantern light, eyes fixed toward the distant black shape of Moby Dick. Beside him, Ishmael and Queequeg watch in silent awe, while Starbuck and Stubb lean over the railing, their expressions tense. The sea roils with foamy spray, hinting at an impending chase that will test all aboard."
+    "segment_text": "This midnight spout had almost grown a forgotten thing when, some days after, lo!",
+    "image_prompt": "Midnight on the Pequod’s deck under a bruised navy sky; moonlight silver‑glints ripple over calm waters as a spectral jet appears, its glow like a distant god rising from the sea. Ahab stands in silhouette, his ivory leg casting long shadow, while crew members pause, eyes fixed on the glowing apparition that flickers and vanishes, their faces lit by sharp chiaroscuro. Romantic realism, 19th‑century maritime illustration, deep navy and charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 24,
-    "segment_text": "But such a supposition did by no means involve the remotest suspicion as to any boat's crew being assigned to that boat.",
-    "image_prompt": "A dimly lit whaling deck at twilight, the Pequod’s wooden hull groaning under a stormy sky. Captain Ahab stands alone on a small whale‑boat, his weathered face illuminated by a single lantern, hands gripping a rope as if preparing to launch into a chase. Beside him, Ishmael, Queequeg, and Starbuck watch in silent tension, their silhouettes framed by the flickering glow of oil lamps. The scene exudes 19th‑century maritime dread, painted in dark, moody oil strokes."
+    "segment_text": "at the same silent hour it was again announced, again it was described by all.",
+    "image_prompt": "Moonlit night over the Pequod’s rolling deck, deep navy waves shimmering silver; a sudden silvery jet glows ahead, celestial and ghost‑like. Ahab stands at helm with one leg raised, eyes fixed forward, his face half in shadow, while crew—Ishmael, Starbuck, Stubb, Flask—gaze in awed silence, hands on ropes, the moon casting stark chiaroscuro across their faces. Romantic realism, fine linework blended with semi‑realistic gradients, subtle paper grain, 19th‑century whaling atmosphere."
   },
   {
     "segment_index": 25,
-    "segment_text": "Now, with the subordinate phantoms, what wonder remained soon waned away, for in Wailer wonders soon wane.",
-    "image_prompt": "A shadowy, oil‑painted scene of Captain Ahab’s cramped whaling ship at night, its deck lit by a single flickering lantern. Ahab, gaunt and determined, stands beside a weather‑worn whale‑boat, his eyes fixed on the mist‑shrouded horizon where a phantom figure—an ethereal “subordinate phantoms” specter—glides silently above the waves. The crew, including Stubb, Flask, and Ishmael, watch in hushed awe, their faces illuminated by oil lamps, as the sea swells ominously beneath them. Dark, moody 19th‑century oil painting."
+    "segment_text": "But upon making sail to overtake it, once more it disappeared as if it had never been.",
+    "image_prompt": "Sailing the moonlit Atlantic, the ivory‑tusked Pequod cuts through silver waves as a phantom plume vanishes before it can be caught—light flickers, then fades into mist. Ahab’s stern face in chiaroscuro, deck creaking, sails billowing, while the unseen jet dissolves like a dream. Romantic realism, deep navy and charcoal tones, fine linework with subtle gradients, paper‑grain texture, 19th‑century whaling voyage."
   },
   {
     "segment_index": 26,
-    "segment_text": "Besides, now and then such unaccountable odds and ends of strange nations come up from the unknown nooks and ash-holes of the earth,",
-    "image_prompt": "A storm‑swept Pequod cuts through a dark Atlantic, its battered hull illuminated by flickering lanterns. Ahab stands at the helm, weathered face set in grim resolve, while Ishmael gazes out over the churning sea. In the foreground, a mysterious, hooded figure—perhaps Fedala—climbs aboard from a shadowy wreck, his exotic garb hinting at distant lands. The scene is rendered as a dark, moody 19th‑century oil painting, heavy with chiaroscuro and brooding atmosphere."
+    "segment_text": "And so it served us night after night till no one heeded it but to wonder at it.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, waves rolling like silver scrolls; a lone, silvery jet of light glows far ahead, unseen yet haunting. Crew members pause, eyes fixed on the distant glow, their faces illuminated by sharp chiaroscuro under moonlight. Captain Ahab stands resolute, hand on helm, while Ishmael and Starbuck watch in silent awe. Romantic realism, 19th‑century maritime style, deep navy and charcoal tones, fine linework with subtle paper grain."
   },
   {
     "segment_index": 27,
-    "segment_text": "to man these floating outlaws of whalers of whalers.",
-    "image_prompt": "Aboard the Pequod’s creaking hull, Captain Ahab stands amid a ragged band of “floating outlaws” – weather‑worn whalers, half‑tattered coats and patched sails, their faces scarred by salt and storms. The deck is slick with sea spray; broken barrels and torn canvas litter the floor. Ahab’s stern gaze fixes on a distant white whale silhouette against a stormy sky, his hand gripping a rope as the crew wrestles with menacing waves. Dark, moody 19th‑century oil painting style."
+    "segment_text": "mysteriously jetted into the clear moonlight, or starlight, as the case might be, disappearing again for one whole day, or two days, or three, and somehow seeming at every distinct repetition to be advancing still further and further in our van,",
+    "image_prompt": "Moonlit night on the Pequod’s deck: a silvery jet of light streaks across deep navy skies, shimmering like starlight, then vanishes as if swallowed by darkness—reappearing days later, each time drifting farther ahead. Ahab stands rigid in charcoal‑toned rigging, eyes fixed on the fleeting apparition; crew huddle below deck, their silhouettes etched against moonlit waves. Romantic realism, 19th‑century whaling style, high contrast chiaroscuro, fine linework with subtle paper grain."
   },
   {
     "segment_index": 28,
-    "segment_text": "And the ships themselves often pick up such queer castaway creatures found tossing about the open sea on planks, bits of wreck, oars, whale-boats, canoes, blown-off Japanese junks, and what not El Zebo might climb up the side and step down into the cabin to chat with the captain.",
-    "image_prompt": "A storm‑swept 19th‑century whaling vessel in a moonlit sea, its battered deck littered with torn planks, broken oars, and fragments of a Japanese junk. Amid the debris, a ragged castaway—El Zebo—climbs a splintered mast, his weathered face illuminated by lantern light as he steps into the dim cabin to converse with Captain Ahab, whose stern silhouette looms behind a window. Dark, moody oil painting style, 19th‑century maritime drama."
+    "segment_text": "this solitary jet seemed forever alluring us on.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, a lone silver jet glimmering ahead like a celestial beacon, its light cutting through deep navy waves; Ahab stands in silhouette beside the mast, his ivory leg gleaming, while crew look on with awe. Romantic realism, 19th‑century whaling voyage style, sharp chiaroscuro, charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain—capturing tension and wonder."
   },
   {
     "segment_index": 29,
-    "segment_text": "and it would not create any unsudoable excitement in the forecastle.",
-    "image_prompt": "A dim, moonlit forecastle aboard the Pequod, wooden planks slick with salt and sweat, a lone lantern casting wavering light on weather‑torn faces of Stubb, Flask, and Starbuck hunched over charts; their eyes weary yet unfazed by the storm outside. The crew’s silence hangs heavy, no commotion or alarm breaks the hushed air, as the ship rolls gently under a brooding sky—an ominous, 19th‑century oil painting of calm amid looming peril."
+    "segment_text": "Nor with the immemorial superstition of their race, and in accordance with the preternaturalness as it seemed, which in many things invested the Pequod, were there wanting some of the seamen who swore that whenever and wherever described, at however remote times, or in however far apart latitudes and longitudes,",
+    "image_prompt": "Moonlit night over the vast Atlantic, the ivory‑tusked Pequod cutting through silent waves. A lone, silver jet glimmers on the horizon like a celestial god, its glow reflected in the crew’s wide eyes. Captain Ahab stands at the helm, stern and resolute, while Ishmael, Starbuck, and other seamen watch with wary reverence, their faces lit by chiaroscuro moonlight. Romantic realism, 19th‑century maritime illustration, deep navy and charcoal tones, fine linework blended with semi‑realistic gradients, subtle paper grain."
   },
   {
     "segment_index": 30,
-    "segment_text": "But be all this as it may, certain it is that while the subordinate phantoms soon found their place among the crew, though still, as it were, somehow distinct from them, yet that Herr Turban Fedala remained a muffled mystery to the last.",
-    "image_prompt": "A dimly lit deck of the Pequod at twilight, a lone, hooded figure—Herr Turban Fedala—stands apart from the crew, his silhouette ghost‑like against the stormy horizon. The men in rough wool coats and weathered hats look on with wary curiosity; the ship’s wooden planks creak beneath their boots. Fog curls around the mast, and a distant gull cries above, as the mysterious sailor’s presence casts an eerie, unresolved hush over the crew.  \n*Dark, moody 19th‑century oil painting.*"
+    "segment_text": "That unnearable spout was cast by oneself same whale, and that whale Moby Dick.",
+    "image_prompt": "Moonlit night over the Atlantic, a silver‑glowing spout bursts from the deep, its light like a celestial flare. Captain Ahab stands on the deck of the ivory‑tusked *Pequod*, eyes fixed on the phantom jet that seems to rise from the whale itself—Moby Dick. Storm clouds loom, waves roll like silver scrolls, and crew in dark woolmen watch with tense awe, their silhouettes sharp against a deep navy sky. Romantic realism, 19th‑century style, chiaroscuro lighting, fine linework, subtle paper grain."
   },
   {
     "segment_index": 31,
-    "segment_text": "Whence he came in a mannerly world like this, by what sort of unaccountable tie, he soon evinced himself to be linked with Ahab's peculiar fortunes, nay, so far as to have some sort of a half-hinted influence, Heaven knows.",
-    "image_prompt": "A dimly lit galley aboard the Pequod at dusk, lanterns casting wavering pools of amber on weather‑worn wood. In the foreground, a tall, enigmatic Moorish man—handsome yet gaunt, eyes gleaming with secret knowledge—stands beside Captain Ahab, who is framed by stormy clouds outside the porthole. The Moor’s subtle gesture toward Ahab hints at unseen influence, while Ishmael watches from a shadowed corner, his notebook open. Starbuck and Stubb linger in background, tension palpable. Dark, moody 19th‑century oil painting."
+    "segment_text": "For a time there reigned, too, a sense of peculiar dread at this flitting apparition, as if it were treacherously beckoning us on and on, in order that the monster might turn round upon us and rend us at last in the remotest and most savage seas.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, silver mist swirling around a ghost‑like glowing jet drifting above the waves; startled crew in tight white wool coats clutching ropes, eyes wide with dread, as Captain Ahab watches from the helm, his ivory leg gleaming. The ship’s sails billow sharply against deep navy sky, charcoal silhouettes of gulls overhead. Romantic realism, 19th‑century maritime style, high‑contrast chiaroscuro, fine linework and subtle paper grain."
   },
   {
     "segment_index": 32,
-    "segment_text": "But it might have been even authority over him, over him, none knew.",
-    "image_prompt": "A dimly lit Pequod deck at twilight, Captain Ahab stands stoically in worn leather breeches, his eyes narrowed, while an enigmatic, hooded figure—perhaps Fedala—casts a long shadow across him from the rigging. The sea roils beneath, gulls cry; a lone lantern flickers, revealing subtle tension and unseen authority. Oil paint, 19th‑century style, dark, moody palette, dramatic chiaroscuro."
+    "segment_text": "These temporary apprehensions, so vague but so awful, derived a wondrous potency from the contrasting serenity of the weather, in which, beneath all its blue blandness, some thought there lurked a devilish charm, as for days and days we voyaged along, through seas so wearily, lonesomely mild, that all space and repugnance to our vengeful errand seemed vacating itself of life before our urn-like prow.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, waves rolling like silver scrolls; Captain Ahab stands alone, his ivory leg glinting, eyes closed, staring into a deep navy sky. Dark clouds swirl above, yet the sea remains eerily calm, its pale blue surface reflecting faint charcoal shadows of distant sails. The scene captures a tense, Romantic‑realism mood: sharp chiaroscuro lighting, fine linework, semi‑realistic gradients, subtle paper grain, 19th‑century nautical atmosphere."
   },
   {
     "segment_index": 33,
-    "segment_text": "But one cannot sustain an indifferent air concerning Fedala.",
-    "image_prompt": "A shadowed, cramped cabin aboard the Pequod, a lone figure—Fedala—draped in tattered oriental robes, hunched over a worn table, his face half‑hidden by a dark hood; Captain Ahab looms behind him in stiff navy uniform, eyes narrowed, hand resting on a brass compass. The dim lantern casts wavering light across polished wood and scattered maps, revealing the tension of an unseen threat. In the gloom, Stubb’s laughter fades into a distant echo, while Ishmael watches from the doorway, his notebook poised. A dark, moody 19th‑century oil painting."
+    "segment_text": "But, at last, when turning to the eastward, the Cape winds began howling around us and we rose and fell upon the long, troubled seas that are there, when the ivory-tusked Pequod sharply bowed to the blast and gored the dark waves in her madness, till, like showers of silver chips, the foam flakes flew over her bulwarks.",
+    "image_prompt": "Moonlit night, Cape winds howling around an ivory‑tusked Pequod, she bows sharply into a storm of dark waves; silver foam chips crash over bulwarks like starlit showers. Ahab’s lone figure stands at helm, eyes fixed on the horizon, while crew scrambles in bowlines. Moody, high‑contrast Romantic realism with deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage."
   },
   {
     "segment_index": 34,
-    "segment_text": "He was such a creature as civilized, domestic people in the temperate zone only see in their dreams, and that but dimly, but the like of whom now and then glide among the unchanging Asiatic communities, especially the oriental isles to the east of the continent, those insulated, immemorial, unalterable countries, which even in these modern days still preserve much of the ghostly aboriginalness of earth's primal generations, when the memory of the first man was a distinct recollection, and all men his descendants, unknowing whence he came, eyed",
-    "image_prompt": "A lone, enigmatic figure—half‑human, half‑phantom—stands on a weathered deck under a stormy sky, eyes fixed toward distant oriental isles. His gaunt, wind‑torn form hints at ancient lineage, while faint wisps of ghostly mist swirl around him, echoing primordial memories. The Pequod’s wooden hull creaks beneath him as waves crash in the dark sea, and a subtle sense of eerie mystique lingers, suggesting his connection to forgotten, aboriginal worlds. Rendered as a dark, moody 19th‑century oil painting."
+    "segment_text": "Then all this desolate vacuity of life went away, but gave place to sights more dismal than before.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, Captain Ahab standing tall in a dark, billowing coat as thunderous waves crash against her hull. Storm clouds swirl above in deep navy and charcoal, lightning slicing the sky. The ship’s silver‑lined rigging glows with chiaroscuro contrast, while shadowy figures of crew cling to ropes, their faces gaunt and pale. A haunting, dismal vista unfolds—dark horizons, ominous swells, and a foreboding sense of impending doom. Romantic realism, 19th‑century nautical illustration."
+  },
+  {
+    "segment_index": 35,
+    "segment_text": "Close to our bows, strange forms in the water darted hither and thither before us, while thick in our rear flew the inscrutable sea-ravens.",
+    "image_prompt": "Moonlit night on the Pequod’s deck, waves rolling silver‑slick; close to the bow, eerie translucent shapes dart through the water like ghostly whales, their silhouettes stark against a deep navy sky. In the rear, dark sea‑ravens spiral and swoop over the hull, their wings cut sharp in charcoal tones. Romantic realism, 19th‑century maritime, high‑contrast chiaroscuro, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 36,
+    "segment_text": "And every morning, perched on our stays, rows of these birds were seen, and spite of our hootings, for a long time obstinately clung to the hemp, as though they deemed our ship some drifting, uninhabited craft, a thing appointed to desolation, and therefore fit roosting-place for their homeless selves.",
+    "image_prompt": "Moonlit dawn over the Pequod’s black hull, deep navy sky bleeding into charcoal waves; sharp chiaroscuro casts long shadows across the rigging. Rows of raven‑like sea‑birds, wings ruffled, perch on swollen stays, their silhouettes stark against the pale mastheads. The birds cling obstinately to the hemp, eyes gleaming in muted gold, as if the ship is a drifting, abandoned refuge. Fine linework blends with semi‑realistic gradients, subtle paper grain accentuating the tense, Romantic realism of a 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 37,
+    "segment_text": "and heaved and heaved, still unrestingly heaved the Black Sea, as if its vast tides were a conscience, and the great mundane soul were in anguish and remorse for the long sin and suffering it had bred.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, waves rolling like silver scrolls; Captain Ahab stands with one hand on his ivory leg, eyes fixed toward the horizon as the black sea heaves relentlessly—tides rising and falling like a living conscience. Storm clouds loom, sharp chiaroscuro casting deep navy shadows across the ship’s rigging, while subtle paper grain adds texture to the Romantic realism illustration of 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 38,
+    "segment_text": "Cape of good hope, do they call ye?",
+    "image_prompt": "A moonlit night over the black Atlantic, the ivory Pequod cutting through thick gray waves toward a distant, mist‑shrouded cape labeled “Cape of Good Hope.” Captain Ahab stands on the deck, eyes fixed ahead, his white leg glinting in stark chiaroscuro. Storm clouds swirl above, casting deep navy shadows; a lone gull circles, its silhouette sharp against charcoal sky. Romantic realism, 19th‑century whaling era, moody high‑contrast illustration with subtle paper grain."
+  },
+  {
+    "segment_index": 39,
+    "segment_text": "Rather, Cape Tormentoto, as called of yore.",
+    "image_prompt": "Dark moonlit horizon shows the jagged cliffs of Cape Tormentoto, shrouded in swirling charcoal mist and deep navy waves. A lone ivory‑tusked *Pequod* sails beneath a stormy sky, its black hull illuminated by sharp chiaroscuro lighting. Fine linework reveals creaking rigging and a distant silhouette of Captain Ahab, his white leg glinting, standing on the bow as the cape’s ominous name looms over the turbulent sea—Romantic realism, 19th‑century maritime illustration."
+  },
+  {
+    "segment_index": 40,
+    "segment_text": "For long allured by the perfidious silences that before had attended us, we found ourselves launched into this tormented sea, where guilty beings transformed into those fowls and these fish, seemed condemned to swim on everlastingly without any haven in store, or beat that black air without any horizon.",
+    "image_prompt": "Moonlit night over the Pequod’s deck, Ahab stands alone, his silhouette sharp against a deep navy sea. Dark waves crash like silent drums, swirling charcoal mist. Ethereal fowl and fish glide in the fog, their forms blurred, symbolizing condemned souls. The ship cuts through black air, horizon vanished. Romantic realism, 19th‑century whaling era, chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain, moody high‑contrast illustration."
+  },
+  {
+    "segment_index": 41,
+    "segment_text": "But calm, snow-white and unvarying, still directing its fountain of feathers to the sky, still beckoning us on from before, the solitary jet would at times be described.",
+    "image_prompt": "A moonlit night over the restless Atlantic, a lone silvery jet—like a celestial plume of feathered light—glides ahead of the ivory Pequod, its glow cutting through calm, snow‑white waves. The deck is hushed; Ahab stands on the helm, eyes fixed on the distant beam, while crew in dark coats watch the shimmering trail vanish into horizon. Romantic realism, 19th‑century maritime, high‑contrast navy and charcoal tones, chiaroscuro lighting, fine linework with subtle paper grain."
+  },
+  {
+    "segment_index": 42,
+    "segment_text": "During all this blackness of the elements, Ahab, though assuming for the time the almost continual command of the drenched and dangerous deck, manifested the gloomiest reserve, and more seldom than ever addressed his mates.",
+    "image_prompt": "Ahab standing alone on a rain‑slick, moonless deck of the Pequod, waves crashing in deep navy and charcoal hues, his gaunt silhouette cast by sharp chiaroscuro lighting. Storm clouds loom, swirling dark tones, while the ship’s rigging glistens with wet sheen. He grips the rail, eyes narrowed, voice silent, a brooding figure amid turbulent seas, embodying Romantic realism with fine linework, semi‑realistic gradients, subtle paper grain, 19th‑century nautical atmosphere."
+  },
+  {
+    "segment_index": 43,
+    "segment_text": "In tempestuous times like these, after everything above and aloft has been secured, nothing more can be done but passively to await the issue of the gale.",
+    "image_prompt": "A storm‑bound Pequod at night, waves hammering its hull in deep navy and charcoal; sharp chiaroscuro highlights the crew’s tense faces beneath flickering lanterns. Captain Ahab stands resolute on the deck, his ivory leg glinting, while sailors secure themselves in bowlines, their silhouettes stark against the turbulent sea. The wind roars, but all are frozen, awaiting the gale’s arrival—an ominous, moody Romantic realism illustration of 19th‑century whaling tension."
+  },
+  {
+    "segment_index": 44,
+    "segment_text": "Then captain and crew become practical fatalists.",
+    "image_prompt": "A moonlit, high‑contrast illustration of the Pequod’s deck in a roaring gale, navy and charcoal tones with sharp chiaroscuro. Captain Ahab stands tall on the quarterdeck, his ivory leg visible, eyes fixed forward, hands gripping a shroud, while crew members in tight bowlines line the bulwarks, their silhouettes tense against billowing sails. The storm‑swept sea roils below, evoking 19th‑century whaling realism with subtle paper grain and dramatic lighting. Romantic realism, 1800s nautical scene."
+  },
+  {
+    "segment_index": 45,
+    "segment_text": "So, with his ivory leg inserted into its accustomed hole, and with one hand firmly grasping a shroud, Ahab for hours and hours would stand gazing dead to windward, while an occasional squall of sleet or snow would all but congeal his very eyelashes together.",
+    "image_prompt": "Ahab stands on the moonlit deck, ivory leg in its socket, one hand gripping a weather‑torn shroud, eyes fixed on windward as sleet curls into snowflakes around him; his lashes tremble, the ship’s rigging sways sharply. The scene is rendered in moody Romantic realism, deep navy and charcoal tones with sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain—capturing a 19th‑century whaling voyage at night."
+  },
+  {
+    "segment_index": 46,
+    "segment_text": "Meantime, the crew driven from the forward part of the ship by the perilous seas that burstingly broke over its bows, stood in a line along the bulwarks in the waist, and the better to guard against the leaping waves, each man had slipped himself into a sort of bowline secured to the rail, in which he swung as in a loosened belt.",
+    "image_prompt": "A moonlit night on the Pequod’s deck: a jagged white spray of breaking waves crashes over the bows, sending crew members fleeing forward and lining the bulwarks in the waist. Each sailor is caught mid‑swing, his body looping like a loose belt as he grips a rope‑bound bowline to the rail. The scene glows with deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients—capturing 19th‑century whaling tension in Romantic realism."
+  },
+  {
+    "segment_index": 47,
+    "segment_text": "Few or no words were spoken, and the silent ship, as if manned by painted sailors in wax, day after day tore on through all the swift madness and gladness of the demoniac waves.",
+    "image_prompt": "A hushed Pequod cuts silently through tempestuous, silver‑lit waves; no word breaks the gloom as if crew were wax‑painted statues. Dark navy sails billow against charcoal skies, chiaroscuro light striking polished brass rigging. The deck shimmers with wet sheen, while a lone lantern casts trembling glow on a captain’s weathered face. Romantic realism captures the ship’s relentless, almost demonic motion—an eerie ballet of iron and tide under moonlit storm. 19th‑century maritime illustration."
+  },
+  {
+    "segment_index": 48,
+    "segment_text": "By night the same muteness of humanity before the shrieks of the ocean prevailed.",
+    "image_prompt": "Moonlit deck of the ivory Pequod, silent crew hunched beneath a storm‑laden sky, waves crashing like thunderous drums; only the faint glow of lanterns and the sharp silhouette of Captain Ahab’s lone figure cast against dark rigging. The scene captures 19th‑century whaling tension in Romantic realism: deep navy charcoal tones, dramatic chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain—evoking eerie stillness before ocean shrieks."
+  },
+  {
+    "segment_index": 49,
+    "segment_text": "Still in silence the men swung in the bowlines, still wordless.",
+    "image_prompt": "A moonlit deck of the ivory Pequod, waves silvered by starlight; weary sailors in tight leather harnesses swing rhythmically in bowlines, their bodies tense yet silent, eyes fixed on the horizon. Captain Ahab stands nearby, a lone silhouette against the dark sea, his weather‑worn face half‑hidden in shadow. The scene is rendered in moody Romantic realism, deep navy and charcoal tones, sharp chiaroscuro lighting, fine linework with semi‑realistic gradients, subtle paper grain, 19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 50,
+    "segment_text": "Ahab stood up to the blast.",
+    "image_prompt": "Ahab stands rigid on the deck of the ivory‑tusked Pequod as a fierce gale roars through midnight sea, his lone iron leg gleaming under moonlit navy skies. The ship’s sails billow in sharp chiaroscuro, throwing deep charcoal shadows across weather‑scarred hull and trembling crew. Romantic realism renders Ahab’s determined face with fine linework, subtle paper grain accentuating the 19th‑century whaling atmosphere, while wind gusts crackle like silver lightning across the scene."
+  },
+  {
+    "segment_index": 51,
+    "segment_text": "Even when wearied nature seemed demanding repose, he would not seek that repose in his hammock.",
+    "image_prompt": "Ahab stands on the moonlit deck of the ivory‑tusked Pequod, shoulders squared against a relentless gale, eyes fixed on distant horizons; his weather‑worn face set in grim determination, refusing even the soft lull of a hammock. The ship’s rigging sways like blackened ribbons under sharp chiaroscuro light, deep navy and charcoal tones casting stark shadows across creaking timbers, capturing the tense, relentless resolve of 19th‑century whaling—Romantic realism style."
+  },
+  {
+    "segment_index": 52,
+    "segment_text": "Never could Starbuck forget the old man's aspect.",
+    "image_prompt": "Moonlit deck of the ivory‑tusked Pequod, sails billowing in a sharp wind; Captain Ahab stands tall, one leg in its stump, eyes closed, lantern swinging from clenched hand. Starbuck watches from below, memory etched. Dark navy and charcoal tones dominate, chiaroscuro lighting casts deep shadows across polished wood and silver rigging. Romantic realism with fine linework, semi‑realistic gradients, subtle paper grain—19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 53,
+    "segment_text": "When one night going down into the cabin to mark how the barometer stood, he saw him with closed eyes sitting straight in his floor-screwed chair, the rain and half-melted sleet of the storm from which he had some time before emerged, still slowly dripping from the unremoved hat and coat.",
+    "image_prompt": "Ahab seated in a dimly lit 19th‑century ship’s cabin, his face drawn with closed eyes and stoic expression, hunched over a weathered floor‑screwed chair. Rain and half‑melted sleet drip from an unremoved hat and coat onto the cracked wooden planks, while a brass barometer glows faintly in the gloom. Moody, high‑contrast Romantic realism with navy–charcoal tones, sharp chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain – 19th‑century whaling voyage."
+  },
+  {
+    "segment_index": 54,
+    "segment_text": "On the table beside him lay unrolled one of those charts of tides and currents which have previously been spoken of.",
+    "image_prompt": "Moonlit cabin of the 19th‑century Pequod: Captain Ahab, gaunt and stoic, sits in a dimly lit, timbered room, lantern flickering against soot‑stained walls. In front of him on a worn table lies an unrolled chart of tides and currents, ink lines crisp against vellum, illuminated by the lantern’s harsh glow. Shadows deepen the wooden planks; a faint haze curls around the cabin, evoking tension and isolation in Romantic realism style with navy and charcoal tones."
+  },
+  {
+    "segment_index": 55,
+    "segment_text": "His lantern swung from his tightly clenched hand.",
+    "image_prompt": "Ahab in a storm‑tossed cabin, hands tight around a flickering lantern that swings with trembling grace; the dim glow cuts sharp shadows across weather‑scarred walls, revealing his gaunt face, eyes closed, shoulders tense as wind howls outside.  Romantic realism, 19th‑century nautical setting, deep navy and charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain, moody high‑contrast illustration."
+  },
+  {
+    "segment_index": 56,
+    "segment_text": "Though the body was erect, the head was thrown back so that the closed eyes were pointed towards the needle of the tell-tale that swung from a beam in the ceiling.",
+    "image_prompt": "Eerie night on the Pequod’s cabin: Captain Ahab stands upright, head tilted back, eyes closed, staring toward a swinging tell‑tale needle hanging from the ceiling beam. The dim lantern casts sharp shadows across his weathered face and rough wooden deck. Moody, high‑contrast Romantic realism in deep navy and charcoal tones, chiaroscuro lighting, fine linework blended with semi‑realistic gradients, subtle paper grain – 19th‑century whaling voyage atmosphere."
+  },
+  {
+    "segment_index": 57,
+    "segment_text": "The cabin compass is called the tell-tale because without going to the compass at the helm, the captain, while below, can inform himself of the course of the ship.",
+    "image_prompt": "Moonlit Pequod cabin in 19th‑century whaling era, dimly lit by a single trembling lantern. Captain Ahab sits upright, his one leg on the floor‑screwed chair, eyes closed but focused upward toward a brass tell‑tale swinging from a ceiling beam. Below, the compass glows faintly, its needle pointing true course. Storm clouds rattle against the hull outside, while the ship’s interior remains a quiet, chiaroscuro study of duty and destiny. Romantic realism, navy charcoal tones, fine linework with semi‑realistic gradients, subtle paper grain."
+  },
+  {
+    "segment_index": 58,
+    "segment_text": "Terrible old man, thought Starbuck with a shudder, Sleeping in this gale, still thou steadfastly Eyest thy purpose.",
+    "image_prompt": "A moody, high‑contrast illustration of Captain Ahab on the Pequod’s deck during a violent storm, his ivory leg planted in the rail, eyes closed and lantern flickering. The sea roils in deep navy and charcoal, waves crashing against bulwarks, while dark clouds loom overhead. Sharp chiaroscuro highlights Ahab’s weathered face, trembling hands gripping the shroud, evoking 19th‑century whaling tension in Romantic realism."
   }
 ]

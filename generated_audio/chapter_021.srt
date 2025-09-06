@@ -1,412 +1,380 @@
 1
-00:00:00,031 --> 00:00:00,752
-CHAPTER XXI.
+00:00:00,031 --> 00:00:10,075
+Chapter 21 - Going Aboard. It was nearly six o'clock, but only grey imperfect misty dawn when we drew nigh the wharf.
 
 2
-00:00:01,393 --> 00:00:08,881
-GOING ABOARD IT was nearly six o'clock, but only grey and perfect misty dawn, when we drew nigh the wharf.
+00:00:10,392 --> 00:00:14,498
+There are some sailors running ahead there, if I see right," said I to Queequeg.
 
 3
-00:00:09,642 --> 00:00:13,526
-"'There are some sailors running ahead there, if I see right,' said Adequique.
+00:00:15,099 --> 00:00:16,060
+It can't be shadows.
 
 4
-00:00:13,907 --> 00:00:15,008
-"'It can't be shadows.
-
-5
-00:00:15,268 --> 00:00:17,070
+00:00:16,260 --> 00:00:17,722
 She's off by sunrise, I guess.
 
+5
+00:00:18,163 --> 00:00:18,584
+Come on!
+
 6
-00:00:17,171 --> 00:00:17,631
-Come on!'
+00:00:19,244 --> 00:00:19,845
+Avast!
 
 7
-00:00:17,651 --> 00:00:18,893
-"'Avast!'
+00:00:20,546 --> 00:00:33,885
+cried a voice, whose owner at the same time coming close behind us, laid a hand upon both our shoulders, and then insinuating himself between us, stood stooping forward a little in the uncertain twilight, strangely peering from Queequeg to me.
 
 8
-00:00:19,353 --> 00:00:28,063
-cried a voice, whose owner at the same time coming close behind us, laid a hand upon both our shoulders, and then insinuating himself between us.
+00:00:33,865 --> 00:00:36,027
+It was Elijah, going aboard.
 
 9
-00:00:28,043 --> 00:00:34,655
-stood stooping forward a little, in the uncertain twilight, strangely peering from Queequeg to me.
+00:00:36,047 --> 00:00:37,348
+"'Hands off, will you?'
 
 10
-00:00:34,695 --> 00:00:36,498
-It was Elijah.
+00:00:37,569 --> 00:00:37,909
+said I.
 
 11
-00:00:37,941 --> 00:00:38,542
-Going aboard?
+00:00:37,929 --> 00:00:40,792
+"'Looky here,' said Queequeg, shaking himself.
 
 12
-00:00:38,682 --> 00:00:39,764
-Hands off, will you?
+00:00:41,052 --> 00:00:41,493
+"'Go away.
 
 13
-00:00:40,065 --> 00:00:41,968
-said I. Lookie here!
+00:00:41,533 --> 00:00:42,834
+Ain't going aboard, then?'
 
 14
-00:00:42,068 --> 00:00:44,072
-said Queequeg, shaking himself.
+00:00:42,854 --> 00:00:44,616
+"'Yes, we are,' said I.
 
 15
-00:00:44,553 --> 00:00:45,234
-Go away!
+00:00:44,636 --> 00:00:45,336
+"'But wait.
 
 16
-00:00:45,254 --> 00:00:46,997
-Ain't going aboard, then?
+00:00:46,017 --> 00:00:47,058
+Ain't going aboard, then?'
 
 17
-00:00:47,669 --> 00:00:51,614
-"'Yes, we are,' said I, "'but what business is that of yours?
+00:00:47,078 --> 00:00:48,980
+"'Yes, we are,' said I.
 
 18
-00:00:52,014 --> 00:00:55,799
-Do you know, Mr. Elijah, that I consider you a little impertinent?'
+00:00:49,000 --> 00:00:50,982
+"'But what business is that of yours?
 
 19
-00:00:55,899 --> 00:01:05,670
-"'No, no, I wasn't aware of that,' said Elijah, slowly and wonderingly looking from me to Kwee Kweg, with the most unaccountable glances.
+00:00:51,583 --> 00:00:54,485
+Do you know, Mr. Elijah, that I consider you a little impertinent?'
 
 20
-00:01:05,690 --> 00:01:10,656
-"'Elijah,' said I, "'you will oblige my friend and me by withdrawing.'
+00:00:54,505 --> 00:00:56,067
+"'No, no, no.
 
 21
-00:01:10,636 --> 00:01:15,068
-We are going to the Indian and Pacific Oceans and would prefer not to be detained.
+00:00:56,307 --> 00:01:03,214
+I wasn't aware of that,' said Elijah, slowly and wonderingly looking from me to Queequeg with the most unaccountable glances.
 
 22
-00:01:15,910 --> 00:01:16,952
-Yea be, B.G.
+00:01:03,683 --> 00:01:07,286
+"'Elijah,' said I, "'you will oblige my friend and me by withdrawing.
 
 23
-00:01:17,454 --> 00:01:22,587
-Coming back a full breakfast?"
+00:01:07,306 --> 00:01:11,630
+"'We are going to the Indian and Pacific Oceans "'and would prefer not to be detained.
 
 24
-00:01:23,495 --> 00:01:24,556
-"'Hullo!'
+00:01:11,651 --> 00:01:15,134
+"'Ye be, be ye, coming back afore breakfast.'
 
 25
-00:01:24,737 --> 00:01:28,582
-cried stationary Elijah, hailing us when we had removed a few paces.
+00:01:15,154 --> 00:01:18,777
+"'He's cracked, Queequeg,' said I, "'coming back afore breakfast.'
 
 26
-00:01:28,602 --> 00:01:31,506
-"'Never mind him,' said I, queequeg.
+00:01:18,797 --> 00:01:26,625
+"'He's cracked, Queequeg,' said I, "'come on,' cried stationary Elijah, "'hailing us when we had removed a few paces.
 
 27
-00:01:31,526 --> 00:01:32,267
-"'Come on!'
+00:01:26,645 --> 00:01:30,248
+"'Never mind him,' said I, "'Queequeg, come on.'
 
 28
-00:01:33,208 --> 00:01:43,342
-But he stole up to us again, and suddenly, clapping his hand on my shoulder, said, "'Did you see anything looking like men going towards that ship a while ago?'
+00:01:30,869 --> 00:01:39,782
+But he stole up to us again and suddenly clapping his hand on my shoulder said, did you see anything looking like men going towards that ship a while ago?
 
 29
-00:01:43,683 --> 00:01:45,926
-struck by this plain matter-of-fact question.
+00:01:40,167 --> 00:01:48,439
+Struck by this plain matter-of-fact question, I answered, saying, Yes, I thought I did see four or five men, but it was too dim to be sure.
 
 30
-00:01:46,346 --> 00:01:52,675
-I answered, saying, "'Yes, I thought I did see four or five men, but it was too dim to be sure.
+00:01:48,479 --> 00:01:51,984
+Very dim, very dim, said Elijah.
 
 31
-00:01:52,655 --> 00:01:56,783
-Very dim, very dim, said Elijah, mourning to ye.
+00:01:52,505 --> 00:01:53,206
+Mourning to ye.
 
 32
-00:01:56,823 --> 00:02:05,159
+00:01:53,246 --> 00:02:01,478
 Once more we quitted him, but once more he came softly after us, and touching my shoulder again, said, See if you can find him now, will ye?
 
 33
-00:02:06,121 --> 00:02:06,722
+00:02:01,738 --> 00:02:02,219
 Find who?
 
 34
-00:02:06,762 --> 00:02:08,385
-Mourning to ye.
+00:02:02,259 --> 00:02:07,727
+Mourning to ye, mourning to ye, mourning to ye, he rejoined, again moving off.
 
 35
-00:02:08,686 --> 00:02:12,110
-Mourning to ye," he rejoined, again moving off.
+00:02:07,707 --> 00:02:12,453
+Oh, I was going to warn ye against, but never mind, never mind, never mind.
 
 36
-00:02:12,130 --> 00:02:15,033
-"'Oh, I was going to warn ye against.
+00:02:12,874 --> 00:02:14,937
+It's all one, all in the family, too.
 
 37
-00:02:15,494 --> 00:02:18,036
-But never mind, never mind, it's all one.
+00:02:15,377 --> 00:02:16,859
+Sharp frost this morning, ain't it?
 
 38
-00:02:18,497 --> 00:02:19,378
-All in the family.
+00:02:17,240 --> 00:02:17,921
+Goodbye to ye.
 
 39
-00:02:19,438 --> 00:02:21,360
-Too sharp frost this morning, ain't it?
+00:02:18,662 --> 00:02:22,767
+Shan't see ye again very soon, I guess, unless it's before the grand jury."
 
 40
-00:02:22,041 --> 00:02:22,982
-Good-bye to you.
-
-41
-00:02:23,723 --> 00:02:25,405
-Shan't see ye again very soon.
-
-42
-00:02:25,945 --> 00:02:27,847
-I guess it's before the grand jury."
-
-43
-00:02:28,748 --> 00:02:37,478
+00:02:23,849 --> 00:02:31,459
 And with these cracked words he finally departed, leaving me, for the moment, in no small wonderment at his frantic impudence.
 
-44
-00:02:37,458 --> 00:02:44,832
+41
+00:02:31,479 --> 00:02:37,647
 At last, stepping on board the Pequod, we found everything in profound quiet, not a soul moving.
 
-45
-00:02:44,852 --> 00:02:51,084
-The cabin entrance was locked within the hatches were all on, and lumbered with coils of rigging.
+42
+00:02:37,829 --> 00:02:43,215
+The cabin entrance was locked within, the hatches were all on, and lumbered with coils of rigging.
 
-46
-00:02:51,966 --> 00:02:56,715
+43
+00:02:43,876 --> 00:02:47,560
 Going forward to the forecastle, we found the slide of the scuttle open.
 
-47
-00:02:56,695 --> 00:03:03,828
-Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket.
+44
+00:02:48,621 --> 00:02:54,128
+Seeing a light, we went down and found only an old rigger there, wrapped in a tattered pea jacket.
 
-48
-00:03:04,429 --> 00:03:10,440
+45
+00:02:54,889 --> 00:03:00,235
 He was thrown at whole length upon two chests, his face downwards and enclosed in his folded arms.
 
-49
-00:03:11,121 --> 00:03:14,046
+46
+00:03:01,036 --> 00:03:03,178
 The profoundest slumber slept upon him.
 
-50
-00:03:14,026 --> 00:03:18,454
+47
+00:03:04,357 --> 00:03:07,942
 Those sailors we saw, Queequeg, where can they have gone to?"
 
-51
-00:03:18,934 --> 00:03:21,238
+48
+00:03:08,182 --> 00:03:10,245
 said I, looking dubiously at the sleeper.
 
+49
+00:03:10,966 --> 00:03:15,952
+But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to.
+
+50
+00:03:15,992 --> 00:03:23,682
+Hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah's otherwise inexplicable question.
+
+51
+00:03:24,387 --> 00:03:33,456
+But I beat the thing down, and again marking the sleeper, jocularly hinted to Queequeg that perhaps we had best sit up with the body, telling him to establish himself accordingly.
+
 52
-00:03:21,539 --> 00:03:32,558
-But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to, hence I would have thought myself to have been optically deceived in that matter,
-
-53
-00:03:32,538 --> 00:03:36,882
-Were it not for Elijah's otherwise inexplicable question.
-
-54
-00:03:37,763 --> 00:03:41,066
-But I'd beat the thing down and again marking the sleeper.
-
-55
-00:03:41,687 --> 00:03:50,175
-Jocularly hinted to Queequeg that, perhaps we had best sit up with the body, telling him to establish himself accordingly.
-
-56
-00:03:50,676 --> 00:03:58,283
+00:03:34,077 --> 00:03:41,544
 He put his hand upon the sleeper's rear, as though feeling if it was soft enough, and then, without more ado, sat quietly down there.
 
+53
+00:03:42,325 --> 00:03:42,766
+Gracious.
+
+54
+00:03:43,306 --> 00:03:48,191
+Queequeg, don't sit there, said I. Oh, parry dude's seat, said Queequeg.
+
+55
+00:03:48,432 --> 00:03:50,193
+My country way won't hurt him face.
+
+56
+00:03:50,874 --> 00:03:53,837
+Face, said I. Call that his face?
+
 57
-00:03:59,124 --> 00:04:02,207
-Gracious, Queequeg don't sit there, said I.
+00:03:53,817 --> 00:03:58,285
+Very benevolent countenance then, but how hard he breathes, he's heaving himself.
 
 58
-00:04:02,187 --> 00:04:04,670
-"'Oh, peridude seat,' said Quirreg.
+00:03:58,745 --> 00:04:02,051
+Get off, Queequeg, you are heavy, it's grinding the face of the poor.
 
 59
-00:04:04,690 --> 00:04:07,152
-"'My country way won't hurt him face.'
+00:04:02,592 --> 00:04:04,515
+Queequeg, you are heavy, it's gree.
 
 60
-00:04:07,172 --> 00:04:08,694
-"'Face!'
+00:04:04,996 --> 00:04:05,958
+Get off, Queequeg.
 
 61
-00:04:09,354 --> 00:04:09,775
-said I.
-
-62
-00:04:09,795 --> 00:04:11,156
-"'Call that his face?'
-
-63
-00:04:11,176 --> 00:04:14,600
-"'Very benevolent countenance, then.
-
-64
-00:04:14,960 --> 00:04:16,362
-But how hard he breathes!
-
-65
-00:04:16,842 --> 00:04:18,003
-He's heaving himself.
-
-66
-00:04:18,344 --> 00:04:19,405
-Get off, Queequeg.
-
-67
-00:04:19,665 --> 00:04:20,306
-You are heavy.
-
-68
-00:04:20,606 --> 00:04:22,348
-It's grinding the face of the poor.
-
-69
-00:04:22,888 --> 00:04:23,929
-Get off, Queequeg.
-
-70
-00:04:24,170 --> 00:04:25,851
+00:04:06,398 --> 00:04:07,761
 Look, he'll twitch you off soon.
 
-71
-00:04:26,312 --> 00:04:27,553
-I wonder he don't we?'
+62
+00:04:08,101 --> 00:04:09,784
+I wonder he don't wake.
 
-72
-00:04:27,533 --> 00:04:33,093
-Kwee Kweg removed himself to just beyond the head of the sleeper and lighted his tomahawk pipe.
+63
+00:04:09,764 --> 00:04:14,350
+Cui Cueg removed himself to just beyond the head of the sleeper and lighted his tomahawk pipe.
 
-73
-00:04:34,137 --> 00:04:35,502
+64
+00:04:14,971 --> 00:04:15,832
 I sat at the feet.
 
-74
-00:04:36,747 --> 00:04:40,433
-We kept the pipe passing over the sleeper, from one to the other.
+65
+00:04:16,252 --> 00:04:19,116
+We kept the pipe passing over the sleeper from one to the other.
 
-75
-00:04:40,633 --> 00:04:59,481
-Meanwhile, upon questioning him in his broken fashion, Cuique gave me to understand that, in his land, owing to the absence of settees and sofas of all sorts, the king, chiefs, and great people generally were in the custom of fattening some of the lower orders for Ottomans for
+66
+00:04:19,797 --> 00:04:36,278
+Meanwhile, upon questioning him in his broken fashion, Cui Cueg gave me to understand that, in his land owing to the absence of settees and sofas of all sorts, the king, chiefs, and great people generally were in the custom of fattening some of the lower orders for Ottomans.
 
-76
-00:04:59,528 --> 00:05:10,231
-Ottomans, and, to furnish a house comfortably in that respect, you had only to buy up eight or ten lazy fellows, and lay them round in the piers and alcoves.
+67
+00:04:36,258 --> 00:04:43,828
+and to furnish a house comfortably in that respect, you had only to buy up eight or ten lazy fellows and lay them round in the piers and alcoves.
 
-77
-00:05:10,471 --> 00:05:17,807
-Besides, it was very convenient on an excursion, much better than those garden chairs which are convertible,
+68
+00:04:44,429 --> 00:05:01,152
+Besides, it was very convenient on an excursion, much better than those garden chairs which are convertible into walking-sticks, upon occasion a chief calling his attendant and desiring him to make a settee of himself under a spreading tree, perhaps in some damp marshy place.
 
-78
-00:05:17,787 --> 00:05:30,227
-into walking-sticks upon occasion, a chief calling his attendant, and desiring him to make a settee of himself under a spreading-tree, perhaps in some damp, marshy place.
+69
+00:05:01,503 --> 00:05:08,735
+While narrating these things, every time Queequeg received the tomahawk from me, he flourished the hatchet side of it over the sleeper's head.
 
-79
-00:05:30,275 --> 00:05:37,927
-While narrating these things, every time Queequeg received the tomahawk from me, he flourished the hatchet-side of it over the sleeper's head.
-
-80
-00:05:39,249 --> 00:05:40,591
+70
+00:05:09,336 --> 00:05:10,478
 What's that for, Queequeg?
 
-81
-00:05:41,673 --> 00:05:43,136
-Peri-easy, kill-o!
-
-82
-00:05:43,596 --> 00:05:44,538
+71
+00:05:11,239 --> 00:05:11,880
 Peri-easy!
 
-83
-00:05:44,918 --> 00:05:56,637
-He was going on with some wild reminiscences about his tomahawk-pipe, which, it seemed, had in its two uses both brained his foes and soothed his soul.
+72
+00:05:12,261 --> 00:05:12,942
+Kili-oh!
 
-84
-00:05:56,617 --> 00:06:05,068
-When we were directly attracted to the sleeping rigour, the strong vapour now completely filling the contracted hole, it began to tell upon him.
+73
+00:05:13,242 --> 00:05:13,943
+Peri-easy!
 
-85
-00:06:05,889 --> 00:06:14,601
+74
+00:05:14,524 --> 00:05:27,325
+He was going on with some wild reminiscences about his tomahawk pipe, which, it seemed, had in its two uses both brained his foes and soothed his soul when we were directly attracted to the sleeping rigger.
+
+75
+00:05:27,490 --> 00:05:32,257
+The strong vapor now completely filling the contracted hole, it began to tell upon him.
+
+76
+00:05:32,838 --> 00:05:40,891
 He breathed with a sort of muffledness, then seemed troubled in the nose, then revolved over once or twice, then sat up and rubbed his eyes.
 
-86
-00:06:15,722 --> 00:06:18,005
-He breathed at last.
+77
+00:05:41,792 --> 00:05:42,333
+Halloa!
 
-87
-00:06:18,466 --> 00:06:19,527
-Who be ye, smokers?
+78
+00:05:43,154 --> 00:05:44,296
+he breathed at last.
 
-88
-00:06:20,569 --> 00:06:23,873
+79
+00:05:44,717 --> 00:05:45,838
+Who be, smokers?
+
+80
+00:05:46,860 --> 00:05:49,324
 Shipped men, answered I. When does she sail?
 
-89
-00:06:24,241 --> 00:06:25,806
-Ah, here going in her?
+81
+00:05:49,384 --> 00:05:52,048
+Aye, aye, ye are going in her be.
 
-90
-00:06:25,826 --> 00:06:27,852
-B. She sails to-day.
+82
+00:05:52,389 --> 00:05:53,310
+She sails to-day.
 
-91
-00:06:27,912 --> 00:06:30,158
+83
+00:05:53,370 --> 00:05:55,894
 The captain came aboard last night.
 
-92
-00:06:30,700 --> 00:06:31,342
+84
+00:05:56,380 --> 00:05:57,021
 What captain?
 
-93
-00:06:31,924 --> 00:06:32,285
+85
+00:05:57,382 --> 00:05:57,762
 Ahab.
 
-94
-00:06:32,706 --> 00:06:38,503
-Who but him and D. I was going to ask him some further questions concerning Ahab, when we heard a noise on deck.
+86
+00:05:58,123 --> 00:05:59,205
+Who but him indeed?
 
-95
-00:06:39,395 --> 00:06:40,036
-"'Ha, lol!
+87
+00:05:59,225 --> 00:06:04,935
+I was going to ask him some further questions concerning Ahab when we heard a noise on deck.
 
-96
-00:06:40,336 --> 00:06:42,318
-Starbuck's a steer,' said the rigger.
+88
+00:06:05,376 --> 00:06:05,857
+Halloa!
 
-97
-00:06:42,758 --> 00:06:49,285
-"'He's a lively chief mate, that god-man, and a pious, but all alive now I must turn to.'"
+89
+00:06:06,338 --> 00:06:08,001
+Starbuck's a stir, said the rigger.
 
-98
-00:06:50,206 --> 00:06:52,888
+90
+00:06:08,522 --> 00:06:13,731
+He's a lively chief mate that, good man, and a pious, but all alive now I must turn to.
+
+91
+00:06:13,751 --> 00:06:17,578
 And so saying, he went on deck, and we followed.
 
-99
-00:06:53,029 --> 00:06:54,590
+92
+00:06:17,677 --> 00:06:19,122
 It was now clear sunrise.
 
-100
-00:06:55,051 --> 00:06:59,635
-Soon the crew came on board in twos and threes, the riggers bestirred themselves.
+93
+00:06:20,005 --> 00:06:22,294
+Soon the crew came on board in twos and threes.
 
-101
-00:07:00,236 --> 00:07:02,158
-The mates were actively engaged.
+94
+00:06:22,936 --> 00:06:30,964
+The riggers bestirred themselves, the mates were actively engaged, and several of the shore people were busy in bringing various last things on board.
 
-102
-00:07:03,139 --> 00:07:08,524
-And several of the shore people were busy in bringing various last things on board.
-
-103
-00:07:08,504 --> 00:07:13,418
-Meanwhile Captain Ahab remained invisibly enshrined within his cabin.
+95
+00:06:31,747 --> 00:06:35,601
+Meanwhile, Captain Ahab remained invisibly enshrined within his cabin.
 

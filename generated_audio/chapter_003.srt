@@ -1,1368 +1,1360 @@
 1
-00:00:00,031 --> 00:00:02,582
-Chapter 3 The Spouter Inn
+00:00:00,031 --> 00:00:01,981
+Chapter 3 - The Spouter Inn
 
 2
-00:00:04,148 --> 00:00:14,984
-Entering that dable-ended spouter inn, you found yourself in a wide, low, straggling entry with old-fashioned wainscots, reminding one of the bulwarks of some condemned old craft.
+00:00:02,101 --> 00:00:04,651
+Entering that gable-ended spouter inn, 
 
 3
-00:00:15,164 --> 00:00:32,991
-On one side hung a very large oil painting, so thoroughly besmoked and every way defaced that in the unequal crosslights by which you viewed it, it was only by diligent study, in a series of systematic visits to it, and careful inquiry of the neighbors,
+00:00:04,723 --> 00:00:14,234
+you found yourself in a wide, low, straggling entry with old-fashioned wainscots, reminding one of the bulwarks of some condemned old craft.
 
 4
-00:00:32,971 --> 00:00:37,279
-that you could any way arrive at an understanding of its purpose.
+00:00:14,814 --> 00:00:30,190
+On one side hung a very large oil painting so thoroughly besmoked and every way defaced that in the unequal crosslights by which you viewed it, it was only by diligent study and a series of systematic visits to it, and careful inquiry of the neighbors,
 
 5
-00:00:37,739 --> 00:00:51,283
-Such unaccountable masses of shades and shadows, that at first you almost thought some ambitious young artist, in the time of the New England Hags, had endeavored to delineate chaos bewitched.
+00:00:30,170 --> 00:00:33,376
+that you could any way arrive at an understanding of its purpose.
 
 6
-00:00:51,263 --> 00:01:09,540
-But by dint of much and earnest contemplation, and oft-repeated ponderings, and especially by throwing open the little window towards the back of the entry, you at last come to the conclusion that such an idea, however wild, might not be altogether unwarranted.
+00:00:34,318 --> 00:00:45,478
+Such unaccountable masses of shades and shadows, that at first you almost thought some ambitious young artist, in the time of the New England hags, had endeavored to delineate chaos bewitched.
 
 7
-00:01:09,960 --> 00:01:18,908
-But what most puzzled and confounded you was a long, limber, portentous, black mass of something hovering in the centre of the picture,
+00:00:46,015 --> 00:01:01,037
+but by dint of much and earnest contemplation and oft-repeated ponderings, and especially by throwing open the little window towards the back of the entry, you at last come to the conclusion that such an idea, however wild, might not be altogether unwarranted.
 
 8
-00:01:18,888 --> 00:01:30,434
-over three blue, dim, perpendicular lines floating in a nameless yeast, a boggy, soggy, squitchy picture, truly, enough to drive a nervous man distracted.
+00:01:01,017 --> 00:01:13,744
+But what most puzzled and confounded you was a long, limber, portentous, black mass of something hovering in the center of the picture over three blue, dim, perpendicular lines floating in a nameless yeast.
 
 9
-00:01:30,454 --> 00:01:38,432
-Yet was there a sort of indefinite half-attained, unimaginable sublimity about it that fairly froze you to it,
+00:01:14,385 --> 00:01:19,195
+A boggy, soggy, squitchy picture, truly, enough to drive a nervous man distracted.
 
 10
-00:01:38,412 --> 00:01:44,720
-till you involuntarily took an oath with yourself to find out what that marvellous painting meant.
+00:01:19,782 --> 00:01:31,320
+Yet was there a sort of indefinite, half-attained, unimaginable sublimity about it that fairly froze you to it, till you involuntarily took an oath with yourself to find out what that marvelous painting meant?
 
 11
-00:01:45,481 --> 00:01:50,667
-Ever in and on a bright, but, alas, deceptive idea would dart you through.
+00:01:32,342 --> 00:01:36,528
+Ever and anon, a bright but, alas, deceptive idea would dart you through.
 
 12
-00:01:51,368 --> 00:01:53,431
+00:01:36,568 --> 00:01:39,693
 It's the black sea in a midnight gale.
 
 13
-00:01:53,952 --> 00:01:57,436
+00:01:39,713 --> 00:01:43,900
 It's the unnatural combat of the four primal elements.
 
 14
-00:01:57,997 --> 00:01:59,358
+00:01:43,947 --> 00:01:45,029
 It's a blasted heath.
 
 15
-00:01:59,859 --> 00:02:01,761
+00:01:45,870 --> 00:01:47,713
 It's a hyperborean winter scene.
 
 16
-00:02:02,322 --> 00:02:05,466
-It's the breaking up of the ice-bound stream of time.
+00:01:47,754 --> 00:01:51,179
+It's the breaking up of the icebound stream of time.
 
 17
-00:02:05,446 --> 00:02:10,912
+00:01:51,240 --> 00:01:57,931
 But at last all these fancies yielded to that one portentous something in the picture's midst.
 
 18
-00:02:11,612 --> 00:02:14,655
-That one's found out, and all the rest were plain.
+00:01:57,951 --> 00:02:00,876
+That once found out, and all the rest were plain.
 
 19
-00:02:15,396 --> 00:02:22,023
-But stop there a faint resemblance to a gigantic fish, even the great Leviathan himself.
+00:02:01,548 --> 00:02:02,069
+But stop!
 
 20
-00:02:22,764 --> 00:02:34,896
-In fact, the artist's design seemed this covinal theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject.
+00:02:02,710 --> 00:02:05,777
+Does it not bear a faint resemblance to a gigantic fish?
 
 21
-00:02:34,876 --> 00:02:38,020
-The picture represents a Cape Horner in a great hurricane.
+00:02:06,458 --> 00:02:08,081
+Even the great Leviathan himself?
 
 22
-00:02:38,040 --> 00:02:55,301
-The half-founded ship, waltering there with its three dismantled masts alone visible, and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mast heads.
+00:02:08,903 --> 00:02:19,945
+In fact, the artist's design seemed this, a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject.
 
 23
-00:02:55,541 --> 00:03:02,790
-The opposite wall of this entry was hung all over with a heathenish array of monstrous clubs and spears.
+00:02:20,060 --> 00:02:37,444
+The picture represents a Cape Horner in a great hurricane, the half-foundered ship weltering there with its three dismantled masts alone visible, and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mastheads.
 
 24
-00:03:02,770 --> 00:03:19,748
-Some were thickly set with glittering teeth resembling ivory saws, others were tufted with knots of human hair, and one was sickle-shaped, with a vast handle sweeping round like the segment made in the new-mown grass by a long-armed mower.
+00:02:37,424 --> 00:02:43,115
+The opposite wall of this entry was hung all over with a heathenish array of monstrous clubs and spears.
 
 25
-00:03:19,768 --> 00:03:29,959
-You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a-death-harvesting with such a hacking, horrifying implement.
+00:02:43,917 --> 00:02:57,964
+Some were thickly set with glittering teeth resembling ivory saws, others were tufted with knots of human hair, and one was sickle-shaped with a vast handle sweeping round like the segment made in the new mown grass by a long-armed mower.
 
 26
-00:03:29,939 --> 00:03:36,047
-Mixed with these were rusty old whaling lances and harpoons, all broken and deformed.
+00:02:57,944 --> 00:03:06,392
+You shuddered as you gazed and wondered what monstrous cannibal and savage could ever have gone adef, harvesting with such a hacking, horrifying implement.
 
 27
-00:03:37,029 --> 00:03:38,291
-Some were storied weapons.
+00:03:07,093 --> 00:03:12,958
+Mixed with these were rusty old whaling lances and harpoons all broken and deformed, all broken and deformed.
 
 28
-00:03:38,691 --> 00:03:47,703
-With this once long lance, now wildly elbowed, fifty years ago did Nathan Swain kill fifteen whales between a sunrise and a sunset.
+00:03:13,599 --> 00:03:14,840
+Some were storied weapons.
 
 29
-00:03:48,424 --> 00:03:58,258
-And that harpoon-sow, like a corkscrew, now was flung in jauvincies, and run away with by a whale, years afterwards slain off the Cape of Blanco.
+00:03:15,321 --> 00:03:24,289
+With this once long lance, now wildly elbowed, fifty years ago did Nathan Swain kill fifteen whales between a sunrise and a sunset.
 
 30
-00:03:58,357 --> 00:04:23,535
-The original iron entered nigh the tail, and, like a restless needle sojourning in the body of a man, travelled full forty feet, and at last was found embedded in the hump, crossing this dusky entry, and on through yon low-arched wicket, through what in old times must have been a great central chimney, with fireplaces all round you, into the public room.
+00:03:24,269 --> 00:03:32,780
+And that harpoon, so like a corkscrew now, was flung in Javan's seas, and run away with by a whale, years afterwards, slain off the Cape of Blanco.
 
 31
-00:04:23,635 --> 00:04:25,798
-A still duskier place is this.
+00:03:33,521 --> 00:03:45,096
+The original iron entered nigh the tail, and, like a restless needle sojourning in the body of a man, travelled full forty feet, and at last was found embedded in the hump.
 
 32
-00:04:25,778 --> 00:04:41,877
-with such low ponderous beams above, and such old wrinkled planks beneath, that you would almost fancy you trod some old craft's cockpits, especially of such a howling night, when this corner-anchored old ark rocked so furiously.
+00:03:45,076 --> 00:03:56,069
+crossing this dusky entry and on through yon low-arched way, cut through what in old times must have been a great central chimney with fireplaces all round, you enter the public room.
 
 33
-00:04:42,037 --> 00:04:53,170
-On one side stood a long, low, shelf-like table covered with cracked glass cases, filled with dusty rarities gathered from this wide world's remotest nooks,
+00:03:56,089 --> 00:04:13,108
+A still duskier place is this, with such low ponderous beams above and such old wrinkled planks beneath, that you would almost fancy you trod some old craft's cockpits, especially of such a howling night, when this corner-anchored old ark rocked so furiously.
 
 34
-00:04:53,150 --> 00:05:00,564
-Projecting from the further angle of the room stands a dark-looking Den Vibaro rude attempt at a right whale's head.
+00:04:13,088 --> 00:04:22,048
+On one side stood a long, low, shelf-like table covered with cracked glass cases, filled with dusty rarities gathered from this wide world's remotest nooks.
 
 35
-00:05:01,426 --> 00:05:09,862
-Be that how it may, there stands the vast arched bone of the whale's jaw, so wide a coach might almost drive beneath it.
+00:04:22,529 --> 00:04:30,186
+Projecting from the further angle of the room stands a dark-looking den, the bar, a rude attempt at a right whale's head.
 
 36
-00:05:10,082 --> 00:05:14,230
-Within are shabby shelves, range drowned with old decanters.
+00:04:30,335 --> 00:04:38,283
+Be that how it may, there stands the vast arched bone of the whale's jaw, so wide a coach might almost drive beneath it.
 
 37
-00:05:14,210 --> 00:05:29,587
-bottles, flasks, and in those jaws of swift destruction, like another cursed Jonah by which name indeed they called him, bustles a little-withered old man, who, for their money, dearly sells the sailors' deliriums and death.
+00:04:38,884 --> 00:04:56,221
+Within are shabby shelves, ranged round with old decanters, bottles, flasks, and in those jaws of swift destruction, like another cursed Jonah, by which name indeed they called him, bustles a little withered old man, who, for their money, dearly sells the sailor's deliriums and death.
 
 38
-00:05:29,947 --> 00:05:41,820
-Abominable are the tumblers into which he pours his poison, though true cylinders without within, the villainous green goggling glasses deceitfully tapered downwards to a cheating bottom.
+00:04:57,202 --> 00:05:00,325
+Abominable are the tumblers into which he pours his poison.
 
 39
-00:05:43,943 --> 00:05:48,752
-Parallel meridians rudely pecked into the glass surround these footpads' goblets.
+00:05:00,980 --> 00:05:08,272
+Though true cylinders without, within, the villainous green goggling glasses deceitfully tapered downwards to a cheating bottom.
 
 40
-00:05:49,473 --> 00:06:00,955
-Fill to this mark, and your charge is but a penny to this, a penny more, and so on to the full glass for Cape Horn measure, which you may gulp down for a shilling.
+00:05:08,833 --> 00:05:14,262
+Parallel meridians rudely pecked into the glass, surround these footpads' goblets.
 
 41
-00:06:01,155 --> 00:06:05,884
-Upon entering the place, I found a number of young seamen gathered about a table,
+00:05:14,282 --> 00:05:19,931
+Fill to this mark, and your charge is but a penny, to this a penny more, and so on to the full glass.
 
 42
-00:06:05,864 --> 00:06:21,477
-Examining by a dim light diver's specimens of scrimshander, I sought the landlord, and telling him I desired to be accommodated with a room, received for answer that his house was full not a bed unoccupied.
+00:05:20,512 --> 00:05:23,697
+The cape-horn measure, which you may gulp down for a shilling.
 
 43
-00:06:21,457 --> 00:06:24,723
-"'But avast,' he added, tapping his forehead.
+00:05:24,048 --> 00:05:31,659
+Upon entering the place, I found a number of young seamen gathered about a table, examining by a dim light diver specimens of scrimshander.
 
 44
-00:06:24,743 --> 00:06:29,612
-"'You hain't no objections to sharing a harpooner's blanket, have ye?'
+00:05:32,320 --> 00:05:40,872
+I sought the landlord, and telling him I desired to be accommodated with a room, received for answer that his house was full, not a bed unoccupied.
 
 45
-00:06:29,632 --> 00:06:32,216
-"'I spose you're gonna wheelin.'
+00:05:41,833 --> 00:05:44,277
+But a vast, he added, tapping his forehead.
 
 46
-00:06:32,236 --> 00:06:38,187
-"'So you'd better get used to that sort of thing,' I told him that I never liked to sleep to in a bed.
+00:05:44,898 --> 00:05:47,942
+You hain't no objections to sharing a harponeer's blanket, have ye?
 
 47
-00:06:38,207 --> 00:06:40,832
-"'That if I should ever do so—'
+00:05:48,783 --> 00:05:52,789
+I suppose you are going a-whaling, so you'd better get used to that sort of thing.
 
 48
-00:06:40,812 --> 00:07:02,888
-It would depend upon who the harpooneer might be, and that if he the landlord really had no other place for me, and the harpooneer was not decidedly objectionable, why, rather than wander further about a strange town on so bitter a night, I would put up with the half of any decent man's blanket.
+00:05:52,955 --> 00:06:14,481
+I told him that I never liked to sleep two in a bed, that if I should ever do so, it would depend upon who the harpooneer might be, and that if he, the landlord, really had no other place for me, and the harpooneer was not decidedly objectionable, why rather than wander further about a strange town on so bitter a night, I would put up with the half of any decent man's blanket.
 
 49
-00:07:02,868 --> 00:07:03,689
+00:06:15,302 --> 00:06:15,902
 I thought so.
 
 50
-00:07:04,331 --> 00:07:05,593
+00:06:15,922 --> 00:06:17,945
 All right, take a seat.
 
 51
-00:07:06,134 --> 00:07:06,434
+00:06:18,506 --> 00:06:18,786
 Supper?
 
 52
-00:07:07,015 --> 00:07:07,737
+00:06:18,826 --> 00:06:20,027
 You want supper?
 
 53
-00:07:08,498 --> 00:07:10,081
-Supper'll be ready directly."
+00:06:20,488 --> 00:06:22,270
+Supper will be ready directly.
 
 54
-00:07:10,742 --> 00:07:15,570
+00:06:22,435 --> 00:06:26,722
 I sat down on an old wooden settle, carved all over like a bench on the battery.
 
 55
-00:07:15,670 --> 00:07:26,850
-At one end, a ruminating tower was still further adorning it with his jack-knife, stooping over and diligently working away at the space between his legs.
+00:06:27,343 --> 00:06:34,956
+At one end the ruminating tar was still further adorning it with his jackknife, stooping over and diligently working away at the space between his legs.
 
 56
-00:07:26,830 --> 00:07:32,560
+00:06:35,637 --> 00:06:40,545
 He was trying his hand at a ship under full sail, but he didn't make much headway, I thought.
 
 57
-00:07:32,820 --> 00:07:37,428
+00:06:40,525 --> 00:06:44,310
 At last some four or five of us were summoned to our meal in an adjoining room.
 
 58
-00:07:38,210 --> 00:07:44,080
-It was cold, as Iceland no fire at all the landlord said he couldn't afford it.
+00:06:44,991 --> 00:06:47,534
+It was cold as Iceland, no fire at all.
 
 59
-00:07:44,060 --> 00:07:48,528
-Nothing but two dismal tallow candles, each in a winding sheet.
+00:06:48,095 --> 00:06:49,737
+The landlord said he couldn't afford it.
 
 60
-00:07:48,989 --> 00:07:56,183
-We were fain to button up our monkey jackets, and hold to our lips cups of scalding tea with our half-frozen fingers.
+00:06:50,358 --> 00:06:54,103
+Nothing but two dismal tallow candles, each in a winding sheet.
 
 61
-00:07:57,225 --> 00:08:02,855
-But the fare was of the most substantial kind, not only meat and potatoes, but dumplings.
+00:06:54,924 --> 00:07:01,052
+We were feigned to button up our monkey jackets and hold to our lips cups of scalding tea with our half-frozen fingers.
 
 62
-00:08:03,557 --> 00:08:04,218
-God heavens!
+00:07:01,553 --> 00:07:03,836
+But the fare was of the most substantial kind.
 
 63
-00:08:04,679 --> 00:08:06,422
-Dumplings for supper!
+00:07:04,216 --> 00:07:06,620
+Not only meat and potatoes, but dumplings.
 
 64
-00:08:06,402 --> 00:08:12,892
-One young fellow in a green-box coat addressed himself to these dumplings in a most direful manner.
+00:07:06,900 --> 00:07:07,521
+Good heavens!
 
 65
-00:08:12,912 --> 00:08:19,222
-"'My boy,' said the landlord, "'you'll have the nightmare to a dead Sartenti.'"
+00:07:07,901 --> 00:07:09,283
+Dumplings for supper!
 
 66
-00:08:19,242 --> 00:08:23,068
-"'Landlord,' I whispered, "'that ain't the harpooner, is it?'
+00:07:09,803 --> 00:07:15,191
+One young fellow in a green boxcoat addressed himself to these dumplings in a most direful manner.
 
 67
-00:08:23,088 --> 00:08:27,955
-"'Oh, no,' said he, looking a sort of diabolically funny.
+00:07:16,012 --> 00:07:20,037
+My boy, said the landlord, you'll have the nightmare to a dead certainty.
 
 68
-00:08:27,935 --> 00:08:30,240
-The Harponier is a dark complexion, chap.
+00:07:20,899 --> 00:07:23,602
+Landlord, I whispered, that ain't the Harponeer, is it?
 
 69
-00:08:30,801 --> 00:08:32,384
-He never eats dumplings, he don't.
+00:07:24,403 --> 00:07:30,512
+Oh no, said he, looking a sort of diabolically funny, the Harponeer is a dark-complexioned chap.
 
 70
-00:08:32,906 --> 00:08:34,329
-He eats nothing but steaks.
+00:07:30,492 --> 00:07:31,914
+He never eats dumplings, he don't.
 
 71
-00:08:34,830 --> 00:08:35,992
-And he likes M.
+00:07:32,274 --> 00:07:34,557
+He eats nothing but steaks, and he likes them rare.
 
 72
-00:08:36,012 --> 00:08:36,313
-Rare."
+00:07:34,597 --> 00:07:38,683
+The devil he does, says I. Where is that harpooner?
 
 73
-00:08:36,333 --> 00:08:40,762
-"'The devil he does,' says I. Where is that Harponier?
+00:07:38,963 --> 00:07:39,384
+Is he here?
 
 74
-00:08:40,822 --> 00:08:41,865
-Is he here?'
+00:07:39,444 --> 00:07:42,207
+He'll be here afore long, was the answer.
 
 75
-00:08:41,885 --> 00:08:45,893
-"'He'll be here afore long,' was the answer.
+00:07:42,688 --> 00:07:47,154
+I could not help it, but I began to feel suspicious of this dark-complexioned harpooner.
 
 76
-00:08:45,873 --> 00:08:51,359
-I could not help it, but I began to feel suspicious of this dark, complexioned harponeer.
-
-77
-00:08:52,260 --> 00:09:00,469
+00:07:47,735 --> 00:07:55,605
 At any rate, I made up my mind that if it so turned out that we should sleep together, he must undress and get into bed before I did.
 
+77
+00:07:55,703 --> 00:08:03,743
+Supper over, the company went back to the barroom, when, knowing not what else to do with myself, I resolved to spend the rest of the evening as a looker-on.
+
 78
-00:09:00,930 --> 00:09:10,800
-Supper over, the company went back to the bar-room, when, knowing not what else to do with myself, I resolved to spend the rest of the evening as a looker-on.
+00:08:04,304 --> 00:08:07,131
+Presently, a rioting noise was heard without.
 
 79
-00:09:11,882 --> 00:09:14,985
-Presently a rioting noise was heard without.
+00:08:07,415 --> 00:08:10,882
+Starting up, the landlord cried, that's the grampus's crew.
 
 80
-00:09:14,965 --> 00:09:24,592
-"'Starting up,' the Landlord cried, "'that's the Grampuses' crew,' Iceda reported in the Offen this morning, a three years' voyage, and a full ship.
+00:08:10,902 --> 00:08:16,212
+I seed her reported in the offing this morning, a three years voyage and a full ship.
 
 81
-00:09:25,816 --> 00:09:29,346
-Hurrah, boys, now I'll have the latest news from the Feegees."
+00:08:16,953 --> 00:08:20,420
+Hurrah boys, now we'll have the latest news from the Fijis.
 
 82
-00:09:30,220 --> 00:09:32,723
-A tramping of sea-boots was heard in the entry.
+00:08:21,522 --> 00:08:23,726
+A tramping of sea boots was heard in the entry.
 
 83
-00:09:33,384 --> 00:09:37,929
-The door was flung open, and in rolled a wild set of mariners enough.
+00:08:24,107 --> 00:08:28,495
+The door was flung open and enrolled a wild set of mariners enough.
 
 84
-00:09:38,549 --> 00:09:52,245
-Enveloped in their shaggy watch-coats, and with their heads muffled in woolen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador.
+00:08:28,475 --> 00:08:40,193
+Enveloped in their shaggy watchcoats, and with their heads muffled in woolen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador.
 
 85
-00:09:52,377 --> 00:09:56,946
+00:08:40,754 --> 00:08:44,880
 They had just landed from their boat, and this was the first house they entered.
 
 86
-00:09:57,908 --> 00:10:10,352
+00:08:45,012 --> 00:08:54,664
 No wonder, then, that they made a straight wake for the whale's mouth, the bar, when the wrinkled little old Jonah, there officiating, soon poured them out brimmers all round.
 
 87
-00:10:10,332 --> 00:10:31,699
-Juan complained of a bad cold in his head, upon which Jonah mixed him a pitch-like potion of gin and molasses, which he swore was a sovereign cure for all colds and cataracts whatsoever, never mind of how long-standing, or whether caught off the coast of Labrador or on the weather-side of an ice-island.
+00:08:55,285 --> 00:09:13,348
+One complained of a bad cold in his head, upon which Jonah mixed him a pitch-like potion of gin and molasses, which he swore was a sovereign cure for all colds and catars whatsoever, never mind of how long-standing, or whether caught off the coast of Labrador, or on the weather-side of an ice island.
 
 88
-00:10:31,679 --> 00:10:43,873
-The liquor soon mounted into their hands, as it generally does even with the Orantis toppers newly landed from sea, and they began capering about most obstreperously.
+00:09:13,700 --> 00:09:23,322
+The liquor soon mounted into their heads, as it generally does even with the errantest toppers newly landed from sea, and they began capering about most obstreperously.
 
 89
-00:10:44,033 --> 00:10:55,746
-I observed, however, that one of them held somewhat aloof, and though he seemed desirous not to spoil the hilarity of his shipmates by his own sober face,
+00:09:23,521 --> 00:09:35,537
+I observed, however, that one of them held somewhat aloof, and though he seemed desirous not to spoil the hilarity of his shipmates by his own sober face, yet upon the whole he refrained from making as much noise as the rest.
 
 90
-00:10:55,726 --> 00:10:59,892
-Yet, upon the whole, he refrained from making as much noise as the rest.
+00:09:36,237 --> 00:09:48,313
+This man interested me at once, and since the sea-gods had ordained that he should soon become my shipmate, though but a sleeping partner one, so far as this narrative is concerned, I will here venture upon a little description of him.
 
 91
-00:11:00,093 --> 00:11:16,217
-This man interested me at once, and, since the sea gods had ordained that he should soon become my shipmate, though but a sleeping partner one, so far as this narrative is concerned, I will here venture upon a little description of him.
+00:09:48,479 --> 00:09:53,106
+He stood full six feet in height with noble shoulders and a chest like a cofferdam.
 
 92
-00:11:16,558 --> 00:11:23,168
-He stood full six feet in height, with noble shoulders, and a chest like a cofferdam.
-
-93
-00:11:23,148 --> 00:11:25,473
+00:09:53,126 --> 00:09:55,769
 I have seldom seen such brawn in a man.
 
-94
-00:11:25,613 --> 00:11:38,300
+93
+00:09:55,809 --> 00:10:07,005
 His face was deeply brown and burnt, making his white teeth dazzling by the contrast, while in the deep shadows of his eyes floated some reminiscences that did not seem to give him much joy.
 
+94
+00:10:07,045 --> 00:10:16,258
+His voice at once announced that he was a Southerner, and from his fine stature I thought he must be one of those tall mountaineers from the Alleghenian Ridge in Virginia.
+
 95
-00:11:38,360 --> 00:11:42,709
-His voice at once announced that he was a Southerner.
-
-96
-00:11:42,689 --> 00:11:51,237
-And from his fine stature I thought he must be one of those tall mountaineers from the Alleghenian Ridge in Virginia.
-
-97
-00:11:51,317 --> 00:12:02,367
+00:10:16,610 --> 00:10:25,725
 When the revelry of his companions had mounted to its height, this man slipped away unobserved, and I saw no more of him till he became my comrade on the sea.
 
+96
+00:10:25,942 --> 00:10:34,316
+In a few minutes, however, he was missed by his shipmates, and being, it seems, for some reason a huge favorite with them, they raised a cry of, Bulkington!
+
+97
+00:10:34,376 --> 00:10:35,558
+Bulkington!
+
 98
-00:12:02,387 --> 00:12:12,696
-In a few minutes, however, he was missed by his shipmates, and being, it seems, for some reason a huge favorite with them, they raised a cry of,
+00:10:35,618 --> 00:10:36,980
+Where's Bulkington?
 
 99
-00:12:12,676 --> 00:12:13,897
-Bolking!
-
-100
-00:12:14,918 --> 00:12:15,900
-Where's Bolkington?"
-
-101
-00:12:16,841 --> 00:12:18,883
+00:10:37,040 --> 00:10:39,384
 and darted out of the house in pursuit of him.
 
-102
-00:12:19,043 --> 00:12:33,139
+100
+00:10:39,404 --> 00:10:52,506
 It was now about nine o'clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seaman.
 
-103
-00:12:34,380 --> 00:12:37,063
-No man prefers to sleep two in a bed
+101
+00:10:52,486 --> 00:10:55,210
+No man prefers to sleep two in a bed.
 
-104
-00:12:37,482 --> 00:12:42,090
+102
+00:10:55,250 --> 00:10:59,297
 In fact, you would a good deal rather not sleep with your own brother.
 
-105
-00:12:43,353 --> 00:12:47,961
+103
+00:10:59,818 --> 00:11:03,083
 I don't know how it is, but people like to be private when they are sleeping.
 
+104
+00:11:03,604 --> 00:11:11,997
+And when it comes to sleeping with an unknown stranger, in a strange inn, in a strange town, and that stranger a harpooner,
+
+105
+00:11:11,977 --> 00:11:14,641
+then your objections indefinitely multiply.
+
 106
-00:12:48,161 --> 00:13:00,283
-And when it comes to sleeping with an unknown stranger, in a strange inn, in a strange town, and that stranger a harpooner, then your objections indefinitely multiply.
+00:11:14,681 --> 00:11:28,940
+Nor was there any earthly reason why I as a sailor should sleep two in a bed more than anybody else, for sailors no more sleep two in a bed at sea than bachelor kings do ashore, to be sure they all sleep together in one apartment.
 
 107
-00:13:00,263 --> 00:13:13,166
-Nor was there any earthly reason Why I, as a sailor, should sleep to in a bed More than anybody else, for sailors no more Sleep to in a bed at sea than bachelor kings do ashore.
+00:11:29,681 --> 00:11:34,968
+But you have your own hammock, and cover yourself with your own blanket, and sleep in your own skin.
 
 108
-00:13:13,186 --> 00:13:22,963
-To be sure, they all sleep together in one apartment, But you have your own hammock, and cover yourself With your own blanket, and sleep in your own skin.
+00:11:35,048 --> 00:11:41,477
+The more I pondered over this harpooner, the more I abominated the thought of sleeping with him.
 
 109
-00:13:24,361 --> 00:13:30,654
-The more I pondered over this harpooneer, the more I abominated the thought of sleeping with him.
-
-110
-00:13:30,954 --> 00:13:41,475
+00:11:41,677 --> 00:11:50,051
 It was fair to presume that being a harpooneer, his linen or woolen, as the case might be, would not be of the tidiest, certainly none of the finest.
 
-111
-00:13:41,455 --> 00:13:43,499
+110
+00:11:50,692 --> 00:11:52,115
 I began to twitch all over.
 
-112
-00:13:44,301 --> 00:13:49,993
+111
+00:11:52,676 --> 00:11:57,845
 Besides, it was getting late, and my decent harpooneer ought to be home and going bedwards.
 
-113
-00:13:50,254 --> 00:13:53,301
+112
+00:11:58,386 --> 00:12:01,491
 Suppose now he should tumble in upon me at midnight.
 
-114
-00:13:53,822 --> 00:13:59,093
+113
+00:12:01,471 --> 00:12:04,317
 How could I tell from what vile hole he had been coming?
 
+114
+00:12:04,858 --> 00:12:05,539
+Landlord!
+
 115
-00:13:59,326 --> 00:14:02,009
-I've changed my mind about that Harponier.
+00:12:05,579 --> 00:12:08,004
+I've changed my mind about that harpooner.
 
 116
-00:14:02,870 --> 00:14:04,111
-I shan't sleep with him.
+00:12:08,465 --> 00:12:09,547
+I shat sleep with him.
 
 117
-00:14:04,131 --> 00:14:05,813
+00:12:09,607 --> 00:12:11,010
 I'll try the bench here.
 
 118
-00:14:05,913 --> 00:14:07,014
+00:12:11,591 --> 00:12:12,573
 Just as you please.
 
 119
-00:14:07,134 --> 00:14:11,078
-I'm sorry I can't spare you a tablecloth for a mattress.
+00:12:12,934 --> 00:12:20,188
+I'm sorry I can't spare you a tablecloth for a mattress, and it's a plaguey rough board here, feeling of the knots and notches.
 
 120
-00:14:11,619 --> 00:14:15,923
-And it's a plaguey rough board here, feeling of the knots and notches.
+00:12:20,303 --> 00:12:23,869
+But wait a bit, Scrimshander, I've got a carpenter's plane there in the bar.
 
 121
-00:14:16,724 --> 00:14:18,386
-But wait a bit, Scrimshanda.
+00:12:24,610 --> 00:12:27,996
+Wait, I say, and I'll make you snug enough."
 
 122
-00:14:18,806 --> 00:14:24,372
-I have got a carpenter's playing there in the barred wade, I say, and I'll make you snug enough.
+00:12:28,016 --> 00:12:37,131
+So saying he procured the plane, and with his old silk handkerchief first dusting the bench, vigorously set to planing away at my bed, the wile grinning like an ape.
 
 123
-00:14:24,622 --> 00:14:35,262
-So saying, he procured the plane, and with his old silk handkerchief first dusting the bench, vigorously set to planing away at my bed, a while grinning like an ape.
+00:12:37,111 --> 00:12:42,864
+The shavings flew right and left, till at last the plane iron came bump against an indestructible knot.
 
 124
-00:14:36,244 --> 00:14:43,558
-The shavings flew right and left, till at last the plane-iron came bump against an indestructible knot.
+00:12:43,786 --> 00:12:47,975
+The landlord was near spraining his wrist, and I told him for heaven's sake to quit.
 
 125
-00:14:43,538 --> 00:14:58,602
-The landlord was near spraining his wrist, and I told him, for heaven's sake, to quit the bed, was soft enough to suit me, and I did not know how all the planing in the world could make either down of a pine plank.
+00:12:48,676 --> 00:12:55,491
+The bed was soft enough to suit me, and I did not know how all the planing in the world could make either down of a pine plank.
 
 126
-00:14:58,622 --> 00:15:09,259
-So, gathering up the shavings with another grin, and throwing them into the great stove in the middle of the room, he went about his business, and left me in a brown study.
+00:12:55,707 --> 00:13:04,698
+So gathering up the shavings with another grin and throwing them into the great stove in the middle of the room, he went about his business and left me in a brown study.
 
 127
-00:15:10,420 --> 00:15:18,594
-I now took the measure of the bench, and found that it was a foot too short, but that could be mended with a chair.
+00:13:05,338 --> 00:13:10,665
+I now took the measure of the bench and found that it was a foot too short, but that could be mended with a chair.
 
 128
-00:15:19,716 --> 00:15:29,273
+00:13:11,185 --> 00:13:18,694
 But it was a foot too narrow, and the other bench in the room was about four inches higher than the planed one, so there was no yoking them.
 
 129
-00:15:29,253 --> 00:15:39,796
+00:13:18,674 --> 00:13:27,045
 I then placed the first bench lengthwise along the only clear space against the wall, leaving a little interval between, for my back to settle down in.
 
 130
-00:15:40,177 --> 00:15:47,312
-But I soon found that there came such a draft of cold air over me from under the sill of the window
+00:13:27,526 --> 00:13:45,070
+But I soon found that there came such a draft of cold air over me from under the sill of the window, that this plan would never do at all, especially as another current from the rickety door met the one from the window, and both together formed a series of small whirlwinds in the immediate vicinity of the spot where I had thought to spend the night.
 
 131
-00:15:47,292 --> 00:16:05,183
-that this plan would never do at all, especially as another current from the rickety door met the one from the window, and both together formed a series of small whirlwinds in the immediate vicinity of the spot where I had thought to spend the night.
+00:13:45,623 --> 00:13:48,952
+The devil fetched that harpooneer, thought I. But stop!
 
 132
-00:16:05,163 --> 00:16:08,968
-The devil fetched that harpooner, thought I. But stop!
+00:13:49,312 --> 00:13:50,656
+Couldn't I steal a march on him?
 
 133
-00:16:09,489 --> 00:16:16,978
-Couldn't I steal a march on him, bolt his door inside, and jump into his bed, not to be awakened by the most violent knockings?
+00:13:51,498 --> 00:13:56,551
+Bolt his door inside and jump into his bed, not to be wakened by the most violent knockings?
 
 134
-00:16:18,040 --> 00:16:19,622
-It seemed no bad idea.
+00:13:57,514 --> 00:14:01,624
+It seemed no bad idea, but upon second thoughts I dismissed it.
 
 135
-00:16:20,363 --> 00:16:27,632
-But upon second thoughts I dismissed it, for who could tell but what the next morning, so soon as I popped out of the room?
+00:14:01,807 --> 00:14:09,234
+For who could tell but what the next morning, so soon as I popped out of the room, the harpooner might be standing in the entry, all ready to knock me down.
 
 136
-00:16:28,293 --> 00:16:31,677
-The harpooner might be standing in the entry.
+00:14:09,995 --> 00:14:24,108
+Still, looking round me again, and seeing no possible chance of spending a sufferable night, unless in some other person's bed, I began to think that after all, I might be cherishing unwarrantable prejudices against this unknown harpooner.
 
 137
-00:16:31,657 --> 00:16:33,500
-all ready to knock me down.
+00:14:24,808 --> 00:14:28,692
+Thinks I, I'll wait a while, he must be dropping in before long.
 
 138
-00:16:33,560 --> 00:16:51,589
-Still looking round me again, and seeing no possible chance of spending a sufferable night unless in some other person's bed, I began to think that after all I might be cherishing unwarrantable prejudices against this unknown harpooneer, thinks I,
+00:14:28,672 --> 00:14:33,057
+I'll have a good look at him then, and perhaps we may become jolly good bedfellows after all."
 
 139
-00:16:51,569 --> 00:16:52,973
-I'll wait a while.
-
-140
-00:16:53,153 --> 00:16:55,019
-He must be dropping in before long.
-
-141
-00:16:55,660 --> 00:17:01,497
-I'll have a good look at him then, and perhaps we may become jolly good bedfellows after all.
-
-142
-00:17:01,838 --> 00:17:03,081
+00:14:33,878 --> 00:14:34,679
 There's no telling.
 
+140
+00:14:35,260 --> 00:14:42,189
+But though the other boarders kept coming in by ones, twos, and threes, and going to bed, yet no sign of my harponeer.
+
+141
+00:14:42,209 --> 00:14:46,053
+"'Landlord,' said I, "'what sort of a chap is he?
+
+142
+00:14:46,093 --> 00:14:48,136
+Does he always keep such late hours?'
+
 143
-00:17:03,145 --> 00:17:10,774
-But though the other boarders kept coming in by ones, twos, and threes, and going to bed, yet no sign of my harpooneer.
-
-144
-00:17:10,794 --> 00:17:15,119
-"'Landlord,' said I, was sort of a chap as he dance.
-
-145
-00:17:15,199 --> 00:17:17,001
-He always keeps such late hours."
-
-146
-00:17:18,222 --> 00:17:20,125
+00:14:49,197 --> 00:14:51,180
 It was now hard upon twelve o'clock.
 
-147
-00:17:20,245 --> 00:17:27,533
+144
+00:14:51,920 --> 00:14:58,088
 The landlord chuckled again with his lean chuckle, and seemed to be mightily tickled at something beyond my comprehension.
 
+145
+00:14:58,625 --> 00:14:59,807
+No, he answered.
+
+146
+00:15:00,288 --> 00:15:04,174
+Generally he's an early bird, early to bed and early to rise.
+
+147
+00:15:04,655 --> 00:15:06,638
+Yes, he's the bird what catches the worm.
+
 148
-00:17:27,513 --> 00:17:29,577
-"'No,' he answered.
+00:15:07,299 --> 00:15:14,692
+But tonight he went out a-peddling, you see, and I don't see what on earth keeps him so late, unless, maybe, he can't sell his head.
 
 149
-00:17:30,218 --> 00:17:34,866
-'Generally he's an early bird, early to bed and early to rise, yes.
+00:15:15,453 --> 00:15:16,294
+Can't sell his head?
 
 150
-00:17:35,387 --> 00:17:37,511
-He's the bird what catches the worm.
+00:15:16,334 --> 00:15:19,840
+What sort of a bamboozlingly story is this you are telling me?
 
 151
-00:17:38,172 --> 00:17:47,749
-But to-night he went out to paddling, you see, and I don't see what on air keeps him so late, unless maybe he can't sell his head.'
+00:15:20,702 --> 00:15:22,725
+Getting into a towering rage.
 
 152
-00:17:47,729 --> 00:17:49,311
-can't sell his head.
+00:15:22,705 --> 00:15:32,044
+Do you pretend to say, landlord, that this harpooner is actually engaged this blessed Saturday night, or rather Sunday morning, in peddling his head around this town?"
 
 153
-00:17:50,012 --> 00:17:53,478
-What sort of a bamboozlingly story is this you are telling me?"
+00:15:33,126 --> 00:15:37,094
+That's precisely it," said the landlord, and I told him he couldn't sell it here.
 
 154
-00:17:54,359 --> 00:18:07,980
-Getting into a towering rage, "'Do you pretend to say, landlord, that this harpooner is actually engaged this blessed Saturday night, or rather Sunday morning, in peddling his head around this town?'
+00:15:37,314 --> 00:15:38,497
+The market's overstocked.
 
 155
-00:18:08,000 --> 00:18:11,766
-"'That's precisely it,' said the landlord.
+00:15:39,358 --> 00:15:39,879
+With what?"
 
 156
-00:18:11,786 --> 00:18:16,032
-And I told him he couldn't sell it here, the markets overstocked.
+00:15:40,100 --> 00:15:42,284
+shouted I. With heads, to be sure.
 
 157
-00:18:16,012 --> 00:18:16,873
-"'With what?'
+00:15:42,324 --> 00:15:44,629
+Ain't there too many heads in the world?
 
 158
-00:18:17,214 --> 00:18:17,895
-shouted I.
+00:15:44,727 --> 00:15:47,675
+I tell you what it is, landlord," said I quite calmly.
 
 159
-00:18:17,915 --> 00:18:20,038
-"'With heads, to be sure.
+00:15:47,715 --> 00:15:49,861
+You'd better stop spinning that yarn to me.
 
 160
-00:18:20,058 --> 00:18:22,522
-Ain't there too many heads in the world?'
+00:15:49,901 --> 00:15:50,864
+I'm not green.
 
 161
-00:18:22,542 --> 00:18:27,049
-"'I tell you what it is, landlord,' said I quite calmly.
+00:15:51,646 --> 00:15:59,749
+Maybe not, taking out a stick and whittling a toothpick, but I rather guess you'll be done brown if that heir harpoonier hears you a slander in his head.
 
 162
-00:18:27,069 --> 00:18:29,713
-"'You'd better stop spinning that yarn to me.
+00:15:59,915 --> 00:16:05,550
+I'll break it for him," said I, now flying into a passion again at this unaccountable farrago of the landlord's.
 
 163
-00:18:30,054 --> 00:18:30,835
-I'm not green.'
+00:16:06,211 --> 00:16:07,555
+It's broke already, said he.
 
 164
-00:18:30,935 --> 00:18:34,581
-"'Maybe not,' taking out a stick and whittling a toothpick.
+00:16:07,615 --> 00:16:10,964
+Broke, said I. Broke, do you mean?
 
 165
-00:18:34,601 --> 00:18:42,373
-"'But I rather guess you'll be done brown, if that here Harponier hears you a-slundering his head.'
+00:16:11,625 --> 00:16:15,375
+Sartain, and that's the very reason he can't sell it, I guess.
 
 166
-00:18:43,771 --> 00:18:50,461
-break it for him," said I, now flying into a passion again at this unaccountable farrago of the landlord's.
+00:16:15,355 --> 00:16:19,702
+"'Landlord,' said I, going up to him as cool as Monhecla in a snowstorm.
 
 167
-00:18:50,481 --> 00:18:52,324
-"'It's broker eighty,' said he.
+00:16:19,722 --> 00:16:21,605
+"'Landlord, stop whittling.
 
 168
-00:18:52,344 --> 00:18:54,787
-"'Broke,' said I. Broke.
-
-169
-00:18:55,428 --> 00:18:55,889
-"'Do you mean?'
-
-170
-00:18:55,909 --> 00:18:57,211
-"'Certain.
-
-171
-00:18:57,251 --> 00:19:00,075
-And that's the very reason he can't sell it, I guess.'
-
-172
-00:19:00,095 --> 00:19:06,925
-"'Landlord,' said I, going up to him as cool as Mettecla in a snowstorm, landlord, stop whittling.
-
-173
-00:19:07,366 --> 00:19:12,073
+00:16:21,625 --> 00:16:25,271
 You and I must understand one another, and that too without delay.
 
-174
-00:19:12,053 --> 00:19:14,568
+169
+00:16:25,291 --> 00:16:27,375
 I come to your house and want a bed.
 
+170
+00:16:27,415 --> 00:16:32,503
+You tell me you can only give me half of one, that the other half belongs to a certain harponeer.'
+
+171
+00:16:32,720 --> 00:16:35,125
+that the other half belongs to a certain harpooner.
+
+172
+00:16:35,165 --> 00:16:54,643
+And about this harpooner, whom I have not yet seen, you persist in telling me the most mystifying and exasperating stories tending to beget in me an uncomfortable feeling towards the man whom you design for my bedfellow, a sort of connection, landlord, which is an intimate and confidential one in the highest degree.
+
+173
+00:16:54,623 --> 00:17:02,895
+I now demand of you to speak out and tell me who and what this harpooner is, and whether I shall be in all respects safe to spend the night with him.
+
+174
+00:17:02,935 --> 00:17:15,514
+And in the first place, you will be so good as to unsay that story about selling his head, which, if true, I take to be good evidence that this harpooner is stark mad, and I've no idea of sleeping with a madman.
+
 175
-00:19:15,272 --> 00:19:18,672
-You tell me you can only give me half a one, that—
+00:17:15,554 --> 00:17:20,361
+And you, sir, you, I mean, landlord, you, sir,
 
 176
-00:19:18,888 --> 00:19:21,511
-The other half belongs to a certain Harponier.
+00:17:20,341 --> 00:17:26,347
+By trying to induce me to do so knowingly, would thereby render yourself liable to a criminal prosecution."
 
 177
-00:19:21,752 --> 00:19:44,119
-And about this Harponier, whom I have not yet seen, you persist in telling me the most mystifying and exasperating stories, tending to beget in me an uncomfortable feeling towards the man whom you designed for my bedfellow a sort of connection, landlord, which is an intimate and confidential one in the highest degree."
+00:17:26,908 --> 00:17:29,750
+Wall," said the landlord, fetching a long breath.
 
 178
-00:19:44,099 --> 00:19:54,471
-I now demand of you to speak out and tell me who and what this harpooneer is, and whether I shall be in all respect safe to spend the night with him.
+00:17:30,171 --> 00:17:33,234
+That's a pretty long sermon for a chap that rips a little now and then.
 
 179
-00:19:54,972 --> 00:20:14,055
-And, in the first place, you will be so good as to unsay that story about selling his head, which, if true, I take to be good evidence that this harpooneer is stark mad, and I have no idea of sleeping with a madman and you, sir—you mean, landlord, you, sir?
-
-180
-00:20:14,035 --> 00:20:21,181
-by trying to induce me to do so knowingly, would thereby render yourself liable to a criminal prosecution."
-
-181
-00:20:21,201 --> 00:20:21,622
-"'What?'
-
-182
-00:20:22,362 --> 00:20:24,524
-said the landlord, fetching a long breath.
-
-183
-00:20:24,544 --> 00:20:29,529
-"'That's a pretty long sermon for a chap that rips a little now and then.
-
-184
-00:20:29,789 --> 00:20:31,490
+00:17:33,294 --> 00:17:35,736
 But be easy, be easy.
 
+180
+00:17:35,816 --> 00:17:47,428
+This here harpooner I have been telling you of has just arrived from the South Seas, where he bought up a lot of balm New Zealand heads, great curios, you know, and he sold all on them but one.
+
+181
+00:17:47,408 --> 00:17:56,099
+And that one he's trying to sell tonight caused tomorrow's Sunday and it would not do to be selling human heads about the streets when folks is going to churches.
+
+182
+00:17:56,700 --> 00:18:05,331
+He wanted to last Sunday but I stopped him just as he was going out of the door with four heads strung on a string for all the earth like a string of Indians.
+
+183
+00:18:06,232 --> 00:18:13,922
+This account cleared up the otherwise unaccountable mystery and showed that the landlord after all had had no idea of fooling me.
+
+184
+00:18:14,138 --> 00:18:24,735
+But at the same time, what could I think of a harpooner who stayed out of a Saturday night, clean into the Holy Sabbath, engaged in such a cannibal business as selling the heads of dead idolaters?
+
 185
-00:20:31,591 --> 00:20:43,401
-This here harponeer I have been telling you of has just arrived from the South Seas, where he bought up a lot of bombed New Zealand heads, great curios, you know.
+00:18:25,356 --> 00:18:26,618
+Depend upon it, landlord.
 
 186
-00:20:43,381 --> 00:20:57,274
-and he's sold all on him but one, and that one he's trying to sell tonight, cos tomorrow's Sunday, and it would not do to be selling human heads about the streets when folks is going to churches."
+00:18:26,638 --> 00:18:29,062
+That harpooner is a dangerous man.
 
 187
-00:20:57,814 --> 00:21:09,024
-He wanted to last Sunday, but I stopped him just as he was going out of the door, with four heads strung on a string, for all the earth like a string of Indians.
+00:18:29,723 --> 00:18:31,626
+He pays regular, was the rejoinder.
 
 188
-00:21:09,404 --> 00:21:13,388
-This account cleared up the otherwise unaccountable mystery,
+00:18:32,027 --> 00:18:34,250
+But come, it's getting dreadful late.
 
 189
-00:21:13,368 --> 00:21:31,934
-and showed that the landlord, after all, had had no idea of fooling me but, at the same time, what could I think of a harpooneer who stayed out of a Saturday night, clean into the holy Sabbath, engaged in such a cannibal business as selling the heads of dead idolaters?
-
-190
-00:21:32,815 --> 00:21:37,401
-Depend upon it, landlord, that harpooneer is a dangerous man.
-
-191
-00:21:37,381 --> 00:21:40,044
-"'He pays reglaw,' was the rejoinder.
-
-192
-00:21:40,064 --> 00:21:43,347
-"'But come, it's getting dreadful late.
-
-193
-00:21:43,708 --> 00:21:45,369
+00:18:34,511 --> 00:18:35,873
 You had better be turning flukes.
 
-194
-00:21:45,850 --> 00:21:50,134
-It's a nice bed Sal and me slept in that air-bed the night we were spliced.
+190
+00:18:36,614 --> 00:18:37,456
+It's a nice bed.
 
-195
-00:21:50,535 --> 00:21:53,858
+191
+00:18:37,796 --> 00:18:40,821
+Sal and me slept in that earbed the night we were spliced.
+
+192
+00:18:41,155 --> 00:18:43,459
 There's plenty of room for two to kick about in that bed.
 
-196
-00:21:54,359 --> 00:21:56,421
+193
+00:18:43,859 --> 00:18:45,482
 It's an almighty big bed, that.
 
-197
-00:21:57,282 --> 00:22:03,068
+194
+00:18:46,123 --> 00:18:50,550
 Why, afore we give it up, Sal used to put our Sam and little Johnny in the foot of it.
 
+195
+00:18:51,331 --> 00:18:58,542
+But I got a dreaming and sprawling about one night, and somehow Sam got pitched on the floor and came near breaking his arm.
+
+196
+00:18:59,444 --> 00:19:01,527
+Arter that, Sal said it wouldn't do.
+
+197
+00:19:02,198 --> 00:19:04,583
+Come along here, I'll give you a glim and a jiffy."
+
 198
-00:22:03,048 --> 00:22:11,117
-But I got a-dreaming and scrawling about one night, and somehow Sam got pitched on the floor and came near breaking his arm.
-
-199
-00:22:12,138 --> 00:22:14,461
-Harder that, Sam said it wouldn't do.
-
-200
-00:22:14,561 --> 00:22:15,282
-Come along here.
-
-201
-00:22:15,322 --> 00:22:17,605
-I'll give you a glim and a jiffy.
-
-202
-00:22:17,645 --> 00:22:23,852
+00:19:05,284 --> 00:19:09,472
 And so saying, he lighted a candle and held it towards me, offering to lead the way.
 
-203
-00:22:24,072 --> 00:22:28,617
-But I stood irresolute when looking at a clock in the corner, he explained.
+199
+00:19:10,133 --> 00:19:11,295
+But I stood irresolute.
 
-204
-00:22:28,597 --> 00:22:32,361
-Ah, vomit Sunday, you won't see that Harponier to-night.
+200
+00:19:11,596 --> 00:19:15,744
+When looking at a clock in the corner, he exclaimed, "'Ivum, it's Sunday.
 
-205
-00:22:32,962 --> 00:22:34,724
+201
+00:19:15,764 --> 00:19:17,728
+You won't see that harpooner tonight.
+
+202
+00:19:17,848 --> 00:19:19,050
 He's come to anchor somewhere.
 
+203
+00:19:19,591 --> 00:19:20,192
+Come along then.
+
+204
+00:19:20,232 --> 00:19:20,974
+Dio, come.
+
+205
+00:19:21,154 --> 00:19:22,637
+Won't ye come?'
+
 206
-00:22:35,204 --> 00:22:35,965
-Come along, then.
+00:19:22,617 --> 00:19:35,113
+I considered the matter a moment, and then upstairs we went, and I was ushered into a small room, cold as a clam, and furnished, sure enough, with a prodigious bed, almost big enough indeed for any four harpooneers to sleep abreast.
 
 207
-00:22:36,646 --> 00:22:37,927
-You come, dey come."
+00:19:35,974 --> 00:19:46,768
+There, said the landlord, placing the candle on a crazy old sea-chest that did double duty as a washstand and center table, there, make yourself comfortable now, and good-night-tea.
 
 208
-00:22:38,548 --> 00:22:54,165
-I considered the matter a moment, and then upstairs we went, and I was ushered into a small room, cold as a clam, and furnished, sure enough, with a prodigious bed, almost big enough indeed for any four Harponiers to sleep abreast.
-
-209
-00:22:54,854 --> 00:22:55,215
-There!"
-
-210
-00:22:55,797 --> 00:23:07,193
-said the landlord, placing the candle on a crazy old sea-chest that did double duty as a washstand and scented table.
-
-211
-00:23:08,455 --> 00:23:12,221
+00:19:46,867 --> 00:19:50,013
 I turned round from eyeing the bed, but he had disappeared.
 
-212
-00:23:12,361 --> 00:23:15,586
+209
+00:19:50,473 --> 00:19:52,878
 Folding back the counterpane, I stooped over the bed.
 
-213
-00:23:16,567 --> 00:23:21,314
+210
+00:19:53,318 --> 00:19:57,205
 Though none of the most elegant, it yet stood the scrutiny tolerably well.
 
-214
-00:23:21,434 --> 00:23:36,437
-I then glanced round the room, and, besides the bedstead and centre table, could see no other furniture belonging to the place but a rude shelf, the four walls, and a papered fireboard representing a man striking a whale.
+211
+00:19:57,786 --> 00:20:09,988
+I then glanced round the room, and besides, the bedstead and center table could see no other furniture belonging to the place but a rude shelf, the four walls, and a papered fireboard representing a man striking a whale.
 
-215
-00:23:36,637 --> 00:23:51,837
+212
+00:20:10,677 --> 00:20:23,352
 Of things not properly belonging to the room, there was a hammock lashed up and thrown upon the floor in one corner, also a large seaman's bag, containing the harpooner's wardrobe, no doubt in lieu of a land trunk.
 
-216
-00:23:51,857 --> 00:24:01,910
-Likewise, there was a parcel of outlandish bone fish-hooks on the shelf over the fireplace, and a tall harpoon standing at the head of the bed.
+213
+00:20:23,372 --> 00:20:31,622
+Likewise, there was a parcel of outlandish bone fishhooks on the shelf over the fireplace and a tall harpoon standing at the head of the bed.
 
-217
-00:24:02,732 --> 00:24:04,193
+214
+00:20:32,108 --> 00:20:33,530
 But what is this on the chest?
 
-218
-00:24:04,414 --> 00:24:05,395
-I took it up.
+215
+00:20:34,271 --> 00:20:43,583
+I took it up and held it close to the light and felt it and smelt it and tried every way possible to arrive at some satisfactory conclusion concerning it.
 
-219
-00:24:05,375 --> 00:24:15,247
-and held it close to the light, and felt it, and smelt it, and tried every way possible to arrive at some satisfactory conclusion concerning it.
+216
+00:20:44,244 --> 00:20:53,796
+I can compare it to nothing but a large doormat, ornamented at the edges with little tinkling tags, something like the stained porcupine quills round an Indian moccasin.
 
-220
-00:24:15,427 --> 00:24:27,501
-I can compare it to nothing but a large doormat, ornamented at the edges with little, tinkling tags, something like the stained porcupine quills round an Indian moccasin.
-
-221
-00:24:27,835 --> 00:24:34,164
+217
+00:20:54,597 --> 00:21:00,124
 There was a hole or slit in the middle of this mat, as you see the same in South American ponchos.
 
-222
-00:24:34,284 --> 00:24:43,938
-But could it be possible that any sober harpooneer would get into a doormat and parade the streets of any Christian town in that sort of guise?
+218
+00:21:00,526 --> 00:21:07,896
+But could it be possible that any sober harpooner would get into a doormat and parade the streets of any Christian town in that sort of guise?
 
-223
-00:24:44,599 --> 00:24:47,042
-Put it on to try it.
+219
+00:21:08,577 --> 00:21:19,933
+I put it on to try it, and it weighed me down like a hamper, being uncommonly shaggy and thick, and I thought a little damp, as though this mysterious harpooner had been wearing it of a rainy day.
 
-224
-00:24:47,022 --> 00:24:58,314
-and it weighed me down like a hamper, being uncommonly shaggy and thick, and I thought a little damp, as though this mysterious harpooneer had been wearing it of a rainy day.
+220
+00:21:19,993 --> 00:21:26,061
+I went up in it to a bit of glass stuck against the wall, and I never saw such a sight in my life.
 
-225
-00:24:58,334 --> 00:25:05,022
-I went up in it, to a bit of glass stuck against the wall, and I never saw such a sight in my life.
-
-226
-00:25:06,063 --> 00:25:10,988
+221
+00:21:26,750 --> 00:21:30,763
 I tore myself out of it in such a hurry that I gave myself a kink in the neck.
 
-227
-00:25:10,968 --> 00:25:19,099
+222
+00:21:31,505 --> 00:21:37,384
 I sat down on the side of the bed and commenced thinking about this head-peddling harpooner and his doormat.
 
+223
+00:21:37,972 --> 00:21:44,498
+After thinking some time on the bedside, I got up and took off my monkey jacket and then stood in the middle of the room thinking.
+
+224
+00:21:45,118 --> 00:21:48,561
+I then took off my coat and thought a little more in my shirt sleeves.
+
+225
+00:21:49,242 --> 00:22:07,978
+But beginning to feel very cold now, half undressed as I was, and remembering what the landlord said about the harpeniers not coming home at all that night, it being so very late, I made no more ado but jumped out of my pantaloons and boots and then blowing out the light tumbled into bed and commended myself to the care of heaven.
+
+226
+00:22:07,958 --> 00:22:16,852
+Whether that mattress was stuffed with corn cobs or broken crockery, there is no telling, but I rolled about a good deal and could not sleep for a long time.
+
+227
+00:22:16,892 --> 00:22:29,431
+At last I slid off into a light doze and had pretty nearly made a good offing towards the land of Nod when I heard a heavy footfall in the passage and saw a glimmer of light come into the room from under the door.
+
 228
-00:25:20,201 --> 00:25:28,653
-After thinking some time on the bedside, I got up and took off my monkey-jacket, and then stood in the middle of the room thinking.
+00:22:30,052 --> 00:22:35,400
+Lord save me, thinks I. That must be the harpooner, the infernal head peddler.
 
 229
-00:25:28,913 --> 00:25:33,820
-I then took off my coat and thought a little more in my shirt-sleeves.
+00:22:35,380 --> 00:22:39,387
+But I lay perfectly still and resolved not to say a word till spoken to.
 
 230
-00:25:33,800 --> 00:25:57,657
-But beginning to feel very cold now, half undressed as I was, and remembering what the landlord said about the harpooneers not coming home at all that night, it being so very late, I made no more ado, but jumped out of my pantaloons and boots, and then blowing out the light, tumbled into bed, and commended myself to the care of Heaven.
+00:22:39,447 --> 00:22:58,198
+Holding a light in one hand and that identical New Zealand head in the other, the stranger entered the room and without looking towards the bed placed his candle a good way off from me on the floor in one corner and then began working away at the knotted cords of the large bag-eye before spoke of as being in the room.
 
 231
-00:25:57,837 --> 00:26:02,524
-Whether that mattress was stuffed with corn cobs, or broken crockery,
-
-232
-00:26:02,504 --> 00:26:08,571
-There is no telling, but I rolled about a good deal, and could not sleep for a long time.
-
-233
-00:26:09,212 --> 00:26:23,669
-At last I slid off into a light doze, and had pretty nearly made a good offing towards the land of Nob, when I heard a heavy footfall in the passage, and saw a glimmer of light come into the room from under the door.
-
-234
-00:26:23,689 --> 00:26:30,857
-"'Lord, save me,' thinks I. That must be the harpooneer, the infernal head-pebbler.
-
-235
-00:26:30,837 --> 00:26:35,042
-But I lay perfectly still, and resolved not to say a word till spoken to.
-
-236
-00:26:35,082 --> 00:26:55,765
-Holding a light in one hand, and that identical Gruzeland head in the other, the stranger entered the room, and without looking towards the bed, placed his candle a good way off from me on the floor in one corner, and then began working away at the knotted cords of the large bag I before spoke of,
-
-237
-00:26:55,745 --> 00:26:57,387
-as being in the room.
-
-238
-00:26:57,607 --> 00:27:04,895
+00:22:58,178 --> 00:23:05,007
 I was all eagerness to see his face, but he kept it averted for some time while employed in unlacing the bag's mouth.
 
-239
-00:27:06,057 --> 00:27:09,901
-This accomplished, however, he turned round when, good heavens!
+232
+00:23:05,707 --> 00:23:07,890
+This accomplished, however, he turned round.
 
-240
-00:27:10,341 --> 00:27:11,062
-what a sight!
+233
+00:23:08,371 --> 00:23:10,574
+When, good heavens, what a sight!
 
-241
-00:27:11,483 --> 00:27:12,264
-such a face!
+234
+00:23:11,214 --> 00:23:12,055
+Such a face!
 
-242
-00:27:12,824 --> 00:27:19,812
-It was of a dark purplish-yellow colour, here and there stuck over with large blackish-looking squares.
+235
+00:23:12,096 --> 00:23:18,464
+It was of a dark purplish-yellow color, here and there stuck over with large blackish-looking squares.
 
-243
-00:27:20,281 --> 00:27:22,243
+236
+00:23:19,144 --> 00:23:20,466
 Yes, it's just as I thought.
 
-244
-00:27:22,763 --> 00:27:24,225
+237
+00:23:20,867 --> 00:23:22,228
 He's a terrible bedfellow.
 
-245
-00:27:24,725 --> 00:27:29,670
-I's been in a fight, got dreadfully cut, and here he is, just from the surgeon.
+238
+00:23:22,569 --> 00:23:27,595
+He's been in a fight, got dreadfully cut, and here he is, just from the surgeon.
 
-246
-00:27:30,311 --> 00:27:41,481
-But at that moment he chanced to turn his face so towards the light that I plainly saw they could not be sticking plasters at all, those black squares on his cheeks.
+239
+00:23:27,845 --> 00:23:33,333
+But at that moment he chanced to turn his face so towards the light that I plainly saw they could not be sticking.
 
-247
-00:27:42,502 --> 00:27:44,724
+240
+00:23:34,094 --> 00:23:36,938
+Plasters at all, those black squares on his cheeks.
+
+241
+00:23:37,839 --> 00:23:39,602
 They were stains of some sort or other.
 
-248
-00:27:44,865 --> 00:27:47,487
-At first I knew not what to make of this.
+242
+00:23:40,183 --> 00:23:44,469
+At first I knew not what to make of this, but soon an inkling of the truth occurred to me.
 
-249
-00:27:47,467 --> 00:27:50,611
-But soon an inkling of the truth occurred to me.
+243
+00:23:45,390 --> 00:23:51,439
+I remembered a story of a white man, a whaleman too, who, falling among the cannibals, had been tattooed by them.
 
-250
-00:27:51,492 --> 00:27:59,163
-I remembered a story of a white man, a whaleman to who, falling among the cannibals, had been tattooed by them.
+244
+00:23:51,875 --> 00:23:57,927
+I concluded that this harpooner, in the course of his distant voyages, must have met with a similar adventure.
 
-251
-00:27:59,423 --> 00:28:06,893
-I concluded that this harpooneer, in the course of his distant voyages, must have met with a similar adventure.
-
-252
-00:28:06,873 --> 00:28:09,176
+245
+00:23:57,947 --> 00:24:00,351
 And what is it, thought I, after all?
 
-253
-00:28:09,756 --> 00:28:14,481
-It's only his outside of, ah, ma, can be honest in any sort of skin.
+246
+00:24:00,391 --> 00:24:02,556
+It's only his outside.
 
-254
-00:28:14,662 --> 00:28:17,985
-But then, what to make of his unearthly complexion?
+247
+00:24:03,117 --> 00:24:05,361
+A man can be honest in any sort of skin.
 
-255
-00:28:18,686 --> 00:28:29,498
-That part of it, I mean, lying round about, and completely independent of the squares of tattooing, to be sure, it might be nothing but a good coat of tropical tanning.
+248
+00:24:05,695 --> 00:24:14,705
+But then, what to make of his unearthly complexion, that part of it, I mean, lying round about and completely independent of the squares of tattooing?
 
-256
-00:28:30,339 --> 00:28:35,665
-But I never heard of a hot sun's tanning a white man into a purplish-yellow one.
+249
+00:24:15,425 --> 00:24:18,829
+To be sure, it might be nothing but a good coat of tropical tanning.
 
-257
-00:28:36,421 --> 00:28:44,863
+250
+00:24:19,390 --> 00:24:23,955
+But I never heard of a hot sun's tanning, a white man into a purplish-yellow one.
+
+251
+00:24:24,515 --> 00:24:31,703
 However, I had never been in the South Seas, and perhaps the sun there produced these extraordinary effects upon the skin.
 
-258
-00:28:44,983 --> 00:28:52,523
-Now, while all these ideas were passing through me like lightning, this Harponia never noticed me at all.
+252
+00:24:31,683 --> 00:24:37,871
+Now, while all these ideas were passing through me like lightning, this harpooner never noticed me at all.
 
-259
-00:28:52,503 --> 00:29:04,122
-But, after some difficulty having opened his bag, he commenced fumbling in it, and presently pulled out a sort of tomahawk and a seal-skin wallet with a hair on.
+253
+00:24:38,812 --> 00:24:48,204
+But, after some difficulty having opened his bag, he commenced fumbling in it and presently pulled out a sort of tomahawk and a sealskin wallet with the hair on.
 
-260
-00:29:04,282 --> 00:29:15,000
+254
+00:24:49,025 --> 00:24:57,235
 Placing these on the old chest in the middle of the room, he then took the New Zealand head, a ghastly thing enough, and crammed it down into the bag.
 
-261
-00:29:14,980 --> 00:29:20,986
-He now took off his hat, a new beaver hat, when I came nigh, singing and with fresh surprise.
+255
+00:24:57,215 --> 00:25:02,741
+He now took off his hat, a new beaver hat, when I came nigh singing out with fresh surprise.
 
-262
-00:29:21,746 --> 00:29:29,174
-There was no hair on his head, none to speak of, at least nothing, but a small scout-knot twisted up on his forehead.
+256
+00:25:03,462 --> 00:25:09,368
+There was no hair on his head, none to speak of at least, nothing but a small scalp knot twisted up on his forehead.
 
-263
-00:29:30,215 --> 00:29:35,199
-His bald, purplish head now looked for all the world like a mildewed skull.
+257
+00:25:09,949 --> 00:25:13,994
+His bald purplish head now looked for all the world like a mildewed skull.
 
-264
-00:29:35,379 --> 00:29:43,367
-Had not the stranger stood between me and the door, I would have bolted out of it quicker than ever I bolted a dinner.
+258
+00:25:14,394 --> 00:25:18,619
+Had not the stranger stood between me and the door, I would have bolted out of it quicker than ever.
 
-265
-00:29:43,347 --> 00:29:50,657
+259
+00:25:18,899 --> 00:25:19,760
+I bolted at dinner.
+
+260
+00:25:20,341 --> 00:25:25,146
 Even as it was, I thought something of slipping out of the window, but it was the second floor back.
 
+261
+00:25:25,750 --> 00:25:30,857
+I am no coward, but what to make of this head-peddling purple rascal altogether passed my comprehension.
+
+262
+00:25:31,438 --> 00:25:43,354
+Ignorance is the parent of fear, and being completely nonplussed and confounded about the stranger, I confess I was now as much afraid of him as if it was the devil himself who had thus broken into my room at the dead of night.
+
+263
+00:25:44,075 --> 00:25:53,108
+In fact, I was so afraid of him that I was not game enough just then to address him and demand a satisfactory answer concerning what seemed inexplicable in him.
+
+264
+00:25:53,273 --> 00:25:57,618
+Meanwhile, he continued the business of undressing and at last showed his chest and arms.
+
+265
+00:25:58,599 --> 00:26:02,783
+As I live, these covered parts of him were checkered with the same squares as his face.
+
 266
-00:29:50,958 --> 00:29:58,433
-I am no coward but what to make of this head-peddling purple rascal altogether past my comprehension.
+00:26:03,304 --> 00:26:06,287
+His back, too, was all over the same dark squares.
 
 267
-00:29:58,593 --> 00:30:13,422
-Ignorance is the parent of fear, and being completely nonplussed and confounded about the stranger, I confess I was now as much afraid of him as if it was the devil himself who had thus broken into my room
+00:26:06,828 --> 00:26:11,293
+He seemed to have been in a thirty years war and just escaped from it with a sticking plaster shirt.
 
 268
-00:30:13,402 --> 00:30:14,605
-at the dead of night.
+00:26:12,194 --> 00:26:19,922
+Still more, his very legs were marked as if a parcel of dark green frogs were running up the trunks of young palms.
 
 269
-00:30:14,766 --> 00:30:26,078
-In fact, I was so afraid of him that I was not game enough just then to address him, and demand a satisfactory answer concerning what seemed inexplicable in him.
+00:26:19,902 --> 00:26:27,971
+It was now quite plain that he must be some abominable savage or others shipped aboard of a whaleman in the South Seas, and so landed in this Christian country.
 
 270
-00:30:27,408 --> 00:30:32,613
-Meanwhile he continued the business of undressing, and at last showed his chest and arms.
+00:26:28,812 --> 00:26:29,773
+I quaked to think of it.
 
 271
-00:30:32,933 --> 00:30:41,941
-As I live, these covered parts of him were checkered with the same squares as his face, his back, too, was all over the same dark squares.
+00:26:30,614 --> 00:26:31,755
+A peddler of heads, too.
 
 272
-00:30:42,882 --> 00:30:49,708
-He seemed to have been in a thirty years' war, and just escaped from it with a sticking plaster shirt.
+00:26:32,316 --> 00:26:33,758
+Perhaps the heads of his own brothers.
 
 273
-00:30:49,728 --> 00:30:57,415
-Still more, his very legs were marked, as if a parcel of dark green frogs were running up the trunks of young palms.
+00:26:34,358 --> 00:26:35,680
+He might take a fancy to mine.
 
 274
-00:30:57,395 --> 00:31:08,565
-It was now quite plain that he must be some abominable savage or other shipped aboard of a whaleman in the South Seas, and so landed in this Christian country.
+00:26:36,321 --> 00:26:36,721
+Heavens!
 
 275
-00:31:09,306 --> 00:31:14,330
-I quaked to think of it, a peddler of heads to perhaps the heads of his own brothers.
+00:26:37,442 --> 00:26:38,383
+Look at that tomahawk.
 
 276
-00:31:15,211 --> 00:31:17,873
-He might take a fancy to mine heavens!
+00:26:39,024 --> 00:26:48,154
+But there was no time for shuddering, for now the savage went about something that completely fascinated my attention and convinced me that he must indeed be a heathen.
 
 277
-00:31:18,334 --> 00:31:19,915
-Look at that tomahawk!
+00:26:48,202 --> 00:27:01,587
+Going to his heavy grego or rapal or dreadnought, which he had previously hung on a chair, he fumbled in the pockets and produced at length a curious little deformed image with a hunch on its back and exactly the color of a three days old Congo baby.
 
 278
-00:31:19,935 --> 00:31:27,402
-But there was no time for shuddering, for now the savage went about something that completely fascinated my attention.
-
-279
-00:31:27,382 --> 00:31:35,594
-and convinced me that he must indeed be a heathen, going to his heavy greggle, or rappel, or dreadnought.
-
-280
-00:31:35,614 --> 00:31:44,947
+00:27:02,123 --> 00:27:08,509
 Remembering the embalmed head, at first I almost thought that this black mannequin was a real baby preserved in some similar manner.
 
+279
+00:27:09,029 --> 00:27:18,998
+But seeing that it was not at all limber, and that it glistened a good deal like polished ebony, I concluded that it must be nothing but a wooden idol, which indeed it proved to be.
+
+280
+00:27:19,058 --> 00:27:29,548
+For now, the savage goes up to the empty fireplace, and removing the papered fireboard sets up this little hunchbacked image, like a ten-pin, between the andirons.
+
 281
-00:31:45,087 --> 00:31:51,516
-But seeing that it was not at all limber, and that it glistened a good deal like polished ebony,
+00:27:30,068 --> 00:27:39,025
+The chimney jams and all the bricks inside were very sooty, so that I thought this fireplace made a very appropriate little shrine or chapel for his Congo idol.
 
 282
-00:31:51,496 --> 00:31:57,849
-I concluded that it must be nothing but a wooden idol, which, indeed, it proved to be.
+00:27:39,706 --> 00:27:47,200
+I now screwed my eyes hard towards the half-hidden image, feeling but ill at ease meantime, to see what was next to follow.
 
 283
-00:31:57,929 --> 00:32:09,792
-For now the savage goes up to the empty fireplace, and, removing the papered fire-board, sets up this little hunchbacked image, like a tin-pin, between the andirons.
+00:27:47,298 --> 00:27:53,312
+First he takes about a double handful of shavings out of his grego pocket and places them carefully before the idol.
 
 284
-00:32:09,772 --> 00:32:21,172
-The chimney-jams and all the bricks inside were very sooty, so that I thought this fireplace made a very appropriate little shrine or chapel for his Congo idol.
+00:27:53,914 --> 00:28:00,750
+Then laying a bit of ship biscuit on top and applying the flame from the lamp, he kindled the shavings into a sacrificial blaze.
 
 285
-00:32:21,333 --> 00:32:24,979
-I now screwed my eyes hard towards the half-hidden image.
-
-286
-00:32:24,959 --> 00:32:29,604
-Feeling but ill at ease mean time to see what was next to follow.
-
-287
-00:32:30,025 --> 00:32:47,305
-First he takes about a double handful of shavings out of his gregal pocket and places them carefully before the idol, then laying a bit of shit-biscuit on top, and applying the flame from the lamp, he kindled the shavings into a sacrificial blaze.
-
-288
-00:32:47,285 --> 00:32:59,061
+00:28:01,034 --> 00:28:11,733
 Presently, after many hasty snatches into the fire, and still hastier withdrawals of his fingers, whereby he seemed to be scorching them badly, he at last succeeded in drawing out the biscuit.
 
-289
-00:32:59,702 --> 00:33:05,850
-Then, blowing off the heat and ashes a little, he made a polite offer of it to the little negro.
+286
+00:28:12,354 --> 00:28:17,423
+Then blowing off the heat and ashes a little, he made a polite offer of it to the little negro.
 
-290
-00:33:07,467 --> 00:33:12,615
-end of But the little devil did not seem to fancy such dry sort of fare at all.
+287
+00:28:17,605 --> 00:28:21,230
+But the little devil did not seem to fancy such dry sort of fare at all.
 
-291
-00:33:13,276 --> 00:33:14,759
+288
+00:28:21,531 --> 00:28:22,632
 He never moved his lips.
 
+289
+00:28:23,454 --> 00:28:38,095
+All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song or else singing some pagan psalmody or other, during which his face twitched about in the most unnatural manner.
+
+290
+00:28:39,239 --> 00:28:49,748
+At last, extinguishing the fire, he took the idol up very unceremoniously, and bagged it again in his grego pocket as carelessly as if he were a sportsman bagging a dead woodcock.
+
+291
+00:28:50,409 --> 00:29:09,246
+All these queer proceedings increased my uncomfortableness, and seeing him now exhibiting strong symptoms of concluding his business operations and jumping into bed with me, I thought it was high time, now or never, before the light was put out, to break the spell in which I had so long been bound.
+
 292
-00:33:15,059 --> 00:33:34,791
-All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song, or else singing some pagan psalmity or other, during which his face twitched about in the most unnatural manner, at last extinguishing the fire.
-
-293
-00:33:34,771 --> 00:33:45,165
-He took the idol up very unceremoniously, and bagged it again in his grigo pocket, as carelessly as if he were a sportsman begging a dead woodcock.
-
-294
-00:33:45,426 --> 00:34:03,090
-All these queer proceedings increased my uncomfortableness, and seeing him now exhibiting strong symptoms of concluding his business operations, and jumping into bed with me, I thought it was high time, now or never, before the light was put out.
-
-295
-00:34:03,070 --> 00:34:06,459
-to break the spell in which I had so long been bound.
-
-296
-00:34:07,101 --> 00:34:11,774
+00:29:09,226 --> 00:29:14,118
 But the interval I spent in deliberating what to say was a fatal one.
 
+293
+00:29:14,960 --> 00:29:24,484
+Taking up his tomahawk from the table, he examined the head of it for an instant, and then holding it to the light with his mouth at the handle, he puffed out great clouds of tobacco smoke.
+
+294
+00:29:25,088 --> 00:29:31,580
+The next moment the light was extinguished and this wild cannibal, tomahawk between his teeth, sprang into bed with me.
+
+295
+00:29:32,381 --> 00:29:37,410
+I sang out, I could not help it now, and giving a sudden grunt of astonishment he began feeling me.
+
+296
+00:29:38,332 --> 00:29:49,392
+Stammering out something, I knew not what, I rolled away from him against the wall and then conjured him, whoever or whatever he might be, to keep quiet and let me get up and light the lamp again.
+
 297
-00:34:12,577 --> 00:34:18,092
-Taking up his tomahawk from the table, he examined the head of it for an instant,
+00:29:49,760 --> 00:29:54,408
+But his guttural responses satisfied me at once that he but ill-comprehended my meaning.
 
 298
-00:34:18,072 --> 00:34:25,472
-and then holding it to the light, with his mouth at the handle, he puffed out great clouds of tobacco smoke.
+00:29:55,510 --> 00:29:55,750
+Who?
 
 299
-00:34:25,492 --> 00:34:33,313
-The next moment the light was extinguished, and this wild cannibal, tomahawk between his teeth, sprang into bed with me.
+00:29:56,331 --> 00:29:58,295
+Edebelu, he at last said.
 
 300
-00:34:34,458 --> 00:34:43,987
-I sang out, I could not help it now, and giving a sudden grunt of astonishment he began feeling me, stammering out something I knew not what.
+00:29:58,335 --> 00:30:05,507
+You no speaky, damn me, I kill ye, and so saying the lighted tomahawk began flourishing about me in the dark.
 
 301
-00:34:44,648 --> 00:34:55,058
-I rolled away from him against the wall, and then conjured him, whoever or whatever he might be, to keep quiet, and let me get up and light the lamp again.
+00:30:05,487 --> 00:30:08,031
+"'Landlord, for God's sake, Peter Coffin!'
 
 302
-00:34:55,399 --> 00:35:01,765
-But his guttural responses satisfied me at once that he but ill comprehended my meaning,
+00:30:08,191 --> 00:30:08,751
+shouted I.
 
 303
-00:35:01,745 --> 00:35:05,651
-"'Oui, W. He at last said you no speaky.
+00:30:08,772 --> 00:30:09,693
+"'Landlord!
 
 304
-00:35:05,752 --> 00:35:06,974
-Damn me, I killy!'
+00:30:09,933 --> 00:30:10,334
+Watch!
 
 305
-00:35:07,615 --> 00:35:11,701
-And so saying, the lighted tomahawk began flourishing about me in the dark.
+00:30:10,614 --> 00:30:11,075
+Coffin!
 
 306
-00:35:12,583 --> 00:35:15,007
-"'Landlord, for God's sake, peel coffin!'
+00:30:11,395 --> 00:30:11,816
+Angels!
 
 307
-00:35:15,147 --> 00:35:18,132
-shouted I. Landlord, watch, coffin!
+00:30:12,096 --> 00:30:12,597
+Save me!
 
 308
-00:35:18,713 --> 00:35:20,175
-Angels, save me!'
+00:30:12,877 --> 00:30:13,418
+Speak ye!
 
 309
-00:35:21,151 --> 00:35:24,596
-Speak ye, tell me who he be, or damn me I kill ye."
+00:30:13,478 --> 00:30:16,222
+Tell ye me who ye be or damn me, I kill ye!'
 
 310
-00:35:25,177 --> 00:35:33,668
-Again growled the cannibal, while his horrid flourishings of the tomahawk scattered the hot tobacco ashes about me till I thought my minon would get on fire.
+00:30:16,562 --> 00:30:24,673
+again growled the cannibal, while his horrid flourishings of the tomahawk scattered the hot tobacco ashes about me till I thought my linen would get on fire.
 
 311
-00:35:33,688 --> 00:35:37,974
-But thank heaven at that moment the landlord came into the room light in hand.
+00:30:25,515 --> 00:30:31,663
+But thank heaven, at that moment the landlord came into the room light in hand, and leaping from the bed I ran up to him.
 
 312
-00:35:38,455 --> 00:35:40,678
-In leaping from the bed I ran up to him.
+00:30:32,082 --> 00:30:34,465
+Don't be afraid now, said he, grinning again.
 
 313
-00:35:41,806 --> 00:35:45,291
-"'Don't be afraid now,' said he, grinning again.
+00:30:35,146 --> 00:30:37,389
+Queak-white here wouldn't harm a hair of your head.
 
 314
-00:35:45,311 --> 00:35:48,956
-"'Quick-quake here wouldn't harm a hair of your head.'
+00:30:38,731 --> 00:30:43,577
+Stop your grinning, shouted I, and why didn't you tell me that that infernal harpooner was a cannibal?
 
 315
-00:35:48,976 --> 00:35:51,619
-"'Stop your grinning,' shouted I.
+00:30:44,198 --> 00:30:47,943
+I thought ye knowed it, didn't I tell ye he was a-peddlin' heads around town?
 
 316
-00:35:51,639 --> 00:35:56,125
-"'And why didn't you tell me that that infernal harpooneer was a cannibal?'
+00:30:48,564 --> 00:30:50,867
+But turn flukes again and go to sleep.
 
 317
-00:35:56,145 --> 00:35:58,408
-"'I thought ye noted it.
+00:30:51,033 --> 00:30:52,155
+Queequeg, look here.
 
 318
-00:35:58,869 --> 00:35:59,790
-Didn't I tell ye?
+00:30:52,436 --> 00:30:54,040
+You savvy me, I savvy you.
 
 319
-00:36:00,191 --> 00:36:02,234
-He was a-peddling heads around town.
+00:30:54,080 --> 00:30:55,322
+This man sleep you.
 
 320
-00:36:03,075 --> 00:36:05,558
-But turn flukes again and go to sleep.'
+00:30:55,363 --> 00:30:57,126
+You, this man sleep you.
 
 321
-00:36:05,578 --> 00:36:06,239
-"'Quick-quake!
+00:30:57,768 --> 00:30:59,111
+You, this man sleep you.
 
 322
-00:36:06,619 --> 00:36:08,021
-Look here, you sabby me.
+00:30:59,151 --> 00:31:01,155
+You, this man sleep you?
 
 323
-00:36:08,061 --> 00:36:09,603
-I'll sabby you, this man.
+00:31:01,175 --> 00:31:02,338
+You savvy?
 
 324
-00:36:09,684 --> 00:36:11,526
-Sleep you, you sabby.'
+00:31:03,140 --> 00:31:07,810
+Me savvy plenty, grunted Queequeg, puffing away at his pipe and sitting up in bed.
 
 325
-00:36:11,506 --> 00:36:17,513
-Me sabby plendy," grunted Cuicague, puffing away at his pipe and sitting up in bed.
+00:31:08,566 --> 00:31:13,935
+You get in," he added, motioning to me with his tomahawk and throwing the clothes to one side.
 
 326
-00:36:17,533 --> 00:36:24,302
-"'You get he in,' he added, motioning to me with his tomahawk and throwing the clothes to one side.
+00:31:14,496 --> 00:31:18,323
+He really did this in not only a civil but a really kind and charitable way.
 
 327
-00:36:24,322 --> 00:36:29,168
-"'He really did this in not only a civil but a really kind and charitable way.
-
-328
-00:36:29,208 --> 00:36:31,591
+00:31:18,343 --> 00:31:20,346
 I stood looking at him a moment.
 
+328
+00:31:20,907 --> 00:31:24,994
+For all his tattooings, he was on the whole a clean, comely-looking cannibal.
+
 329
-00:36:32,312 --> 00:36:37,598
-For all his tattooings he was on the whole a clean, comely-looking cannibal.
+00:31:25,515 --> 00:31:29,342
+What's all this fuss I have been making about, thought I to myself.
 
 330
-00:36:37,578 --> 00:36:40,341
-What's all this fuss I have been making about?"
+00:31:29,457 --> 00:31:31,643
+The man's a human being just as I am.
 
 331
-00:36:40,661 --> 00:36:41,963
-thought I, to myself.
-
-332
-00:36:42,623 --> 00:36:45,306
-The man's a human being, just as I am Kur.
-
-333
-00:36:45,727 --> 00:36:50,111
+00:31:31,703 --> 00:31:35,654
 He has just as much reason to fear me as I have to be afraid of him.
 
-334
-00:36:50,752 --> 00:36:54,015
+332
+00:31:36,215 --> 00:31:39,484
 Better sleep with a sober cannibal than a drunken Christian.
 
+333
+00:31:39,987 --> 00:31:45,035
+Landlord, said I, tell him to stash his tomahawk there, or pipe, or whatever you call it.
+
+334
+00:31:45,295 --> 00:31:48,200
+Tell him to stop smoking in short, and I will turn in with him.
+
 335
-00:36:54,035 --> 00:37:00,982
-"'Landlord,' said I, "'tell him to stash his tomahawk there, or pipe, or whatever you call it.
-
-336
-00:37:01,303 --> 00:37:05,307
-Tell him to stop smoking, in short, and I will turn in with him.'
-
-337
-00:37:05,287 --> 00:37:08,716
+00:31:48,741 --> 00:31:51,305
 But I don't fancy having a man smoking in bed with me.
 
-338
-00:37:09,177 --> 00:37:09,919
+336
+00:31:51,585 --> 00:31:52,286
 It's dangerous.
 
+337
+00:31:52,587 --> 00:31:54,029
+Besides, I ain't insured.
+
+338
+00:31:54,550 --> 00:32:04,746
+This being told to Queequeg, he at once complied, and again politely motioned me to get into bed, rolling over to one side as much as to say, I won't touch a leg of ye.
+
 339
-00:37:10,481 --> 00:37:12,646
-Besides, I ain't insured."
+00:32:04,726 --> 00:32:07,028
+Good night, landlord," said I. You may go.
 
 340
-00:37:12,666 --> 00:37:23,134
-This being told to Queequeg, he at once complied, and again politely motioned me to get into bed, rolling over to one side, as much as to say, "'I won't touch a leg of ye.'"
-
-341
-00:37:23,154 --> 00:37:27,264
-"'Good-night, landlord,' said I. You may go."
-
-342
-00:37:27,304 --> 00:37:31,395
-I turned in, and never slept better in my life.
+00:32:07,048 --> 00:32:10,399
+I turned in and never slept better in my life.
 

@@ -48,7 +48,7 @@ def generate_long_audio(model, text, output_path, audio_prompt_path, max_words=8
         audios_for_one_segment = []
         for i, chunk_text in enumerate(chunks):
             print(f"Generating audio for chunk: {chunk_text}")
-            wav = model.generate(chunk_text, exaggeration=0.55, cfg_weight=0.4, audio_prompt_path=audio_prompt_path)
+            wav = model.generate(chunk_text, exaggeration=0.50, cfg_weight=0.35, audio_prompt_path=audio_prompt_path)
             audios_for_one_segment.append(wav)
 
         if audios_for_one_segment:

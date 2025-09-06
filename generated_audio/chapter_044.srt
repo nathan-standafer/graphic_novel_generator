@@ -1,144 +1,264 @@
 1
-00:00:00,031 --> 00:00:02,076
-CHAPTER XLIII Hark!
+00:00:00,031 --> 00:00:20,740
+Chapter 44 - The Chart. Had you followed Captain Ahab down into his cabin after the squall that took place on the night succeeding that wild ratification of his purpose with his crew, you would have seen him go to a locker in the transom, and bringing out a large wrinkled roll of yellowish sea charts, spread them before him on his screwed-down table.
 
 2
-00:00:02,557 --> 00:00:05,804
-Hissed Did you hear that noise, Cavaco?
+00:00:20,720 --> 00:00:33,018
+Then seating himself before it, you would have seen him intently study the various lines and shadings which there met his eye, and with slow but steady pencil trace additional courses over spaces that before were blank.
 
 3
-00:00:06,686 --> 00:00:08,570
-It was the Middle Watch, a fair moonlight.
+00:00:33,759 --> 00:00:46,137
+At intervals he would refer to piles of old log-books beside him, wherein were set down the seasons and places in which, on various former voyages of various ships, sperm-whales had been captured or seen.
 
 4
-00:00:09,151 --> 00:00:16,588
-The seamen were standing in accordon, extending from one of the fresh-water butts in the waist to the scuttlebutt near the tafrail.
+00:00:46,117 --> 00:01:10,791
+While thus employed, the heavy pewter lamp suspended in chains over his head, continually rocked with the motion of the ship, and forever threw shifting gleams and shadows of lines upon his wrinkled brow, till it almost seemed that while he himself was marking out lines and courses on the wrinkled charts, some invisible pencil was also tracing lines and courses upon the deeply marked chart of his forehead.
 
 5
-00:00:16,822 --> 00:00:20,827
-In this manner they passed the buckets to fill the scuttlebutt.
+00:01:11,210 --> 00:01:17,680
+But it was not this night in particular that, in the solitude of his cabin, Ahab thus pondered over his charts.
 
 6
-00:00:21,728 --> 00:00:30,579
-Standing, for the most part, on the hallowed precincts of the quarterdeck, they were careful not to speak or rustle their feet.
+00:01:18,742 --> 00:01:25,071
+Almost every night they were brought out, almost every night some pencil marks were effaced and others were substituted.
 
 7
-00:00:30,840 --> 00:00:42,154
-From hand to hand the buckets went in the deepest silence, only broken by the occasional flap of a sail and the steady hum of the unceasingly advancing keel.
+00:01:25,131 --> 00:01:37,150
+For with the charts of all four oceans before him, Ahab was threading a maze of currents and eddies with a view to the more certain accomplishment of that monomaniac thought of his soul.
 
 8
-00:00:42,134 --> 00:00:52,370
-It was in the midst of this repose that Archie, one of the Cordon, whose post was near the after-hatches, whispered to his neighbor, "'Acholo!'
+00:01:37,130 --> 00:01:50,127
+Now, to anyone not fully acquainted with the ways of the Leviathans, it might seem an absurdly hopeless task, thus to seek out one solitary creature in the unhooped oceans of this planet.
 
 9
-00:00:52,711 --> 00:00:53,552
-the words above.
+00:01:50,191 --> 00:02:14,545
+But not so did it seem to Ahab, who knew the sets of all tides and currents, and thereby calculating the driftings of the sperm-whale's food, and, also, calling to mind the regular, ascertained seasons for hunting him in particular latitudes, could arrive at reasonable surmises, almost approaching to certainties, concerning the timeliest day to be upon this or that ground, in search of his prey.
 
 10
-00:00:54,333 --> 00:00:54,694
-"'Hist!
+00:02:14,525 --> 00:02:38,009
+So assured, indeed, is the fact concerning the periodicalness of the sperm whales resorting to given waters, that many hunters believe that, could he be closely observed and studied throughout the world, were the logs for one voyage of the entire whale fleet carefully collated, then the migrations of the sperm whale would be found to correspond in invariability to those of the herring shoals or the flights of swallows.
 
 11
-00:00:55,054 --> 00:00:56,737
-Did you hear that noise, Capico?
+00:02:38,789 --> 00:02:44,295
+On this hint, attempts have been made to construct elaborate migratory charts of the sperm whale.
 
 12
-00:00:57,218 --> 00:00:58,880
-Take the bucket, will ye, Archie?
+00:02:45,102 --> 00:02:51,475
+A since the above was written, the statement is happily borne out by an official circular issued by Lt.
 
 13
-00:00:59,201 --> 00:01:00,563
-What noise d'ye mean?'
+00:02:51,515 --> 00:02:55,743
+Morey of the National Observatory, Washington, April 16, 1851.
 
 14
-00:01:00,743 --> 00:01:02,666
-"'There it is again under the hatches.
+00:02:57,206 --> 00:03:05,423
+By that circular, it appears that precisely such a chart is in course of completion, and portions of it are presented in the circular.
 
 15
-00:01:02,726 --> 00:01:04,709
-Don't you hear it a—' "'Cough!
+00:03:05,403 --> 00:03:20,627
+This chart divides the ocean into districts of five degrees of latitude by five degrees of longitude, perpendicularly through each of which districts are twelve columns for the twelve months, and horizontally through each of which districts are three lines,
 
 16
-00:01:04,769 --> 00:01:05,871
-It sounded like a cough!'
+00:03:20,607 --> 00:03:30,302
+one to show the number of days that have been spent in each month in every district, and the two others to show the number of days in which whales, sperm, or rite have been seen.
 
 17
-00:01:05,891 --> 00:01:08,195
-"'Cough, be damned!
+00:03:31,123 --> 00:03:43,722
+Besides, when making a passage from one feeding ground to another, the sperm whales, guided by some infallible instinct, say, rather, secret intelligence from the deity, mostly swim in vians as they are called.
 
 18
-00:01:08,475 --> 00:01:10,318
-Pass along that return-bucket!'
+00:03:44,063 --> 00:03:48,690
+Continuing their way along a given ocean line with such undeviating exactitude,
 
 19
-00:01:11,328 --> 00:01:12,290
-There again!
+00:03:48,670 --> 00:03:54,880
+that no ship ever sailed her course, by any chart, with one tithe of such marvellous precision.
 
 20
-00:01:12,350 --> 00:01:13,392
-There it is!
+00:03:54,940 --> 00:04:10,864
+Though, in these cases, the direction taken by any one whale be straight as a surveyor's parallel, and though the line of advance be strictly confined to its own unavoidable straight wake, yet the arbitrary vee-ine in which at these times he is said to swim,
 
 21
-00:01:13,412 --> 00:01:16,419
-It sounds like two or three sleepers turning over.
+00:04:10,844 --> 00:04:24,808
+generally embraces some few miles in width, more or less, as the vein is presumed to expand or contract, but never exceeds the visual sweep from the whale-ship's mastheads, when circumspectly gliding along this magic zone.
 
 22
-00:01:16,459 --> 00:01:17,100
-Now!
+00:04:25,529 --> 00:04:33,983
+The sum is, that at particular seasons within that breadth and along that path, migrating whales may with great confidence be looked for.
 
 23
-00:01:17,922 --> 00:01:20,067
-Karamba have done, shipmate, will ye?
+00:04:34,199 --> 00:04:52,984
+And hence, not only at substantiated times, upon well-known separate feeding grounds, could Ahab hope to encounter his prey, but in crossing the widest expanses of water between those grounds he could, by his art, so place in time himself on his way, as even then not to be holy without prospect of a meeting.
 
 24
-00:01:20,227 --> 00:01:25,017
-It's the three soaked biscuits ye eat for supper turning over inside of ye nothing else.
+00:04:53,437 --> 00:04:58,744
+There was a circumstance which at first sight seemed to entangle his delirious but still methodical scheme.
 
 25
-00:01:25,599 --> 00:01:26,440
-Look to the bucket.
+00:04:59,525 --> 00:05:05,973
+But not so in the reality, perhaps, though the gregarious sperm whales have their regular seasons for particular grounds.
 
 26
-00:01:27,583 --> 00:01:30,028
-Say what ye will, shipmate.
+00:05:06,573 --> 00:05:22,313
+Yet in general you cannot conclude that the herds which haunted such-and-such a latitude or longitude this year, say, will turn out to be identically the same with those that were found there the preceding season, though there are peculiar and unquestionable instances where the contrary of this has proved true.
 
 27
-00:01:30,008 --> 00:01:31,430
-Ay, then ye's.
+00:05:22,293 --> 00:05:30,006
+In general, the same remark, only within a less wide limit, applies to the solitaries and hermits among the matured, aged sperm whales.
 
 28
-00:01:32,091 --> 00:01:39,782
-Ay, you are the chap, ain't ye, that heard the hum of the old Quakeress's knitting needles fifty miles at sea from Nantucket.
+00:05:30,847 --> 00:05:48,756
+So that though Moby Dick had in a former year been seen, for example, on what is called the Seychelles Ground in the Indian Ocean, or Volcano Bay on the Japanese coast, yet it did not follow that were the Pequod to visit either of those spots at any subsequent corresponding season she would infallibly encounter him there.
 
 29
-00:01:40,162 --> 00:01:41,024
-You're the chap.
+00:05:49,293 --> 00:05:53,424
+So, too, with some other feeding-grounds where he had at times revealed himself.
 
 30
-00:01:42,065 --> 00:01:42,966
-Grin away, well.
+00:05:53,985 --> 00:06:00,563
+But all these seemed only his casual stopping-places in ocean-ends, so to speak, not his places of prolonged abode.
 
 31
-00:01:43,427 --> 00:01:44,689
-We'll see what turns up.
+00:06:01,124 --> 00:06:05,175
+And where Ahab's chances of accomplishing his object have hitherto been spoken of,
 
 32
-00:01:44,769 --> 00:01:54,883
-Hark ye, Capico, there is somebody down in the afterhold that has not yet been seen on deck, and I suspect our old mogul knows something of it too.
+00:06:05,155 --> 00:06:28,598
+Illusion has only been made to whatever way, side, antecedent, extra-prospects were his, ere a particular set time or place were attained, when all possibilities would become probabilities, and, as Ahab fondly thought, every possibility the next thing to a certainty, that particular set time and place were conjoined in the one technical phrase, the season on the line.
 
 33
-00:01:55,424 --> 00:01:58,328
-I heard Stub-tail flask, one morning watch,
+00:06:29,303 --> 00:06:42,280
+For there and then, for several consecutive years, Moby Dick had been periodically described, lingering in those waters for a while, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac.
 
 34
-00:01:58,308 --> 00:02:00,747
-that there was something of that sort in the wind.
+00:06:42,780 --> 00:06:47,366
+There it was, too, that most of the deadly encounters with the white whale had taken place.
 
 35
-00:02:01,875 --> 00:02:02,198
-Tish!
+00:06:47,947 --> 00:06:49,950
+There the waves were storied with his deeds.
 
 36
-00:02:02,742 --> 00:02:03,306
-The bucket!
+00:06:50,650 --> 00:06:57,319
+There also was that tragic spot where the monomaniac old man had found the awful motive to his vengeance.
+
+37
+00:06:57,299 --> 00:07:13,554
+But in the cautious comprehensiveness and unloitering vigilance with which Ahab threw his brooding soul into this unfaltering hunt, he would not permit himself to rest all his hopes upon the one crowning fact above mentioned, however flattering it might be to those hopes.
+
+38
+00:07:14,034 --> 00:07:21,080
+Nor in the sleeplessness of his vow could he so tranquilize his unquiet heart as to postpone all intervening quest.
+
+39
+00:07:21,881 --> 00:07:27,306
+Now the Pequod had sailed from Nantucket at the very beginning of the season on the line.
+
+40
+00:07:27,286 --> 00:07:39,637
+No possible endeavor then could enable her commander to make the Great Passage southwards, double Cape Horn, and then running down sixty degrees of latitude, arrive in the equatorial Pacific in time to cruise there.
+
+41
+00:07:40,399 --> 00:07:43,827
+Therefore, he must wait for the next ensuing season.
+
+42
+00:07:43,975 --> 00:07:52,390
+Yet the premature hour of the Pequod's sailing had, perhaps, been correctly selected by Ahab, with a view to this very complexion of things.
+
+43
+00:07:53,272 --> 00:08:06,456
+Because, an interval of three hundred and sixty-five days and nights was before him, an interval which, instead of impatiently enduring ashore, he would spend in a miscellaneous hunt, if by chance the white whale,
+
+44
+00:08:06,436 --> 00:08:33,017
+spending his vacation in seas far remote from his periodical feeding grounds, should turn up his wrinkled brow off the Persian Gulf, or in the Bengal Bay, or China Seas, or in any other waters haunted by his race, so that monsoons, pampas, nor'westers, harmatins, trades, any wind but the Levanter and Samoon, might blow Moby Dick into the devious zigzag world circle of the Pequod's circumnavigating wake.
+
+45
+00:08:33,993 --> 00:08:53,517
+But granting all this, yet regarded discreetly and coolly, seems it not but a mad idea this that in the broad, boundless ocean, one solitary whale, even if encountered, should be thought capable of individual recognition from his hunter, even as a white-bearded mufti in the thronged thoroughfares of Constantinople.
+
+46
+00:08:54,338 --> 00:09:02,008
+Yes, for the peculiar snow-white brow of Moby Dick and his snow-white hump could not but be unmistakable.
+
+47
+00:09:02,377 --> 00:09:04,159
+And have I not tallied the whale?
+
+48
+00:09:04,640 --> 00:09:11,488
+Ahab would mutter to himself, as after pouring over his charts till long after midnight he would throw himself back in reveries.
+
+49
+00:09:12,269 --> 00:09:14,051
+Tallied him, and shall he escape?
+
+50
+00:09:14,832 --> 00:09:18,857
+His broad fins are bored, and scalloped out like a lost sheep's ear.
+
+51
+00:09:19,498 --> 00:09:30,291
+And here his mad mind would run on in a breathless race till a weariness and faintness of pondering came over him, and in the open air of the deck he would seek to recover his strength.
+
+52
+00:09:30,355 --> 00:09:37,065
+Ah, God, what trances of torments does that man endure who is consumed with one unachieved revengeful desire?
+
+53
+00:09:37,946 --> 00:09:51,587
+He sleeps with clenched hands and wakes with his own bloody nails in his palms, often when forced from his hammock by exhausting and intolerably vivid dreams of the night, which, resuming his own intense thoughts through the day,
+
+54
+00:09:51,567 --> 00:10:01,965
+carried them on amid a clashing of frenzies, and whirled them round and round and round in his blazing brain, till the very throbbing of his life-spot became insufferable anguish.
+
+55
+00:10:02,502 --> 00:10:22,198
+And when, as was sometimes the case, these spiritual throes in him heaved his being up from its base, and a chasm seemed opening in him, from which fort flames and lightning shot up, and accursed fiends beckoned him to leap down among them, when this hell in himself yawned beneath him, a wild cry would be heard through the ship.
+
+56
+00:10:22,178 --> 00:10:32,749
+Yet these, perhaps, instead of being the unsuppressible symptoms of some latent weakness or fright at his own resolve, were but the plainest tokens of its intensity.
+
+57
+00:10:33,630 --> 00:10:47,224
+For, at such times, Crazy Ahab, the scheming, unappusedly steadfast hunter of the white whale, this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again.
+
+58
+00:10:47,204 --> 00:10:50,790
+the latter was the eternal living principle or soul in him.
+
+59
+00:10:50,830 --> 00:11:07,378
+And in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of the frantic thing, of which, for the time, it was no longer an integral.
+
+60
+00:11:07,759 --> 00:11:11,625
+But as the mind does not exist unless leagued with the soul,
+
+61
+00:11:11,605 --> 00:11:28,066
+Therefore it must have been that, in Ahab's case, yielding up all his thoughts and fancies to his one supreme purpose, that purpose, by its own sheer inveteracy of will, forced itself against gods and devils into a kind of self-assumed, independent being of its own.
+
+62
+00:11:28,106 --> 00:11:38,119
+Nay, could grimly live and burn, while the common vitality to which it was conjoined fled horror-stricken from the unbidden and unfathered birth.
+
+63
+00:11:38,200 --> 00:11:56,057
+Therefore the tormented spirit that glared out of bodily eyes, when what seemed Ahab rushed from his room, was for the time but a vacated thing, a formless somnambulistic being, a ray of living light to be sure, but without an object to color, and therefore a blankness in itself.
+
+64
+00:11:56,375 --> 00:11:57,639
+God help thee, old man.
+
+65
+00:11:57,980 --> 00:12:02,976
+Thy thoughts have created a creature in thee, and he whose intense thinking thus makes him a Prometheus.
+
+66
+00:12:03,398 --> 00:12:08,494
+A vulture feeds upon that heart forever, that vulture the very creature he creates.
 

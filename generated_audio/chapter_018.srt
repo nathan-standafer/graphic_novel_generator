@@ -1,376 +1,392 @@
 1
-00:00:00,031 --> 00:00:24,960
-CHAPTER XVIII HIS MARK As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg, in his gruff voice, loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft unless they previously produced their papers.
+00:00:00,031 --> 00:00:20,458
+Chapter 18 His Mark As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft unless they previously produced their papers.
 
 2
-00:00:25,180 --> 00:00:27,523
+00:00:21,219 --> 00:00:23,322
 What do you mean by that, Captain Peleg?
 
 3
-00:00:27,503 --> 00:00:32,608
+00:00:23,302 --> 00:00:28,169
 said I, now jumping on the bulwarks and leaving my comrade standing on the wharf.
 
 4
-00:00:32,628 --> 00:00:37,373
-"'I mean,' he replied, "'he must show his papers.'
+00:00:28,890 --> 00:00:31,533
+I mean, he replied, he must show his papers.
 
 5
-00:00:38,615 --> 00:00:45,081
-"'Yes,' said Captain Bildad in his hollow voice, sticking his head from behind Peleg's out of the wigwam.
+00:00:32,635 --> 00:00:38,863
+Yes, said Captain Bildad in his hollow voice, sticking his head from behind Pelegs out of the wigwam.
 
 6
-00:00:45,342 --> 00:00:47,264
-"'He must show that he's converted.
+00:00:39,624 --> 00:00:41,387
+He must show that he's converted.
 
 7
-00:00:47,884 --> 00:00:50,767
-Son of darkness,' he added, turning to Queequeg.
+00:00:42,608 --> 00:00:49,798
+Son of Darkness, he added, turning to Kwekweg, art thou at present in communion with any Christian church?
 
 8
-00:00:51,848 --> 00:00:55,452
-"'Art thou at present in communion with any Christian church?'
+00:00:49,964 --> 00:00:53,732
+Why, said I, he's a member of the First Congregational Church.
 
 9
-00:00:56,596 --> 00:01:00,546
-Why," said I, he's a member of the First Congregational Church.
-
-10
-00:01:00,687 --> 00:01:07,905
+00:00:54,613 --> 00:01:01,287
 Here be it said that many tattooed savages sailing in Nantucket ships at last come to be converted into the churches.
 
+10
+00:01:02,549 --> 00:01:04,814
+First Congregational Church, cried Bildad.
+
 11
-00:01:09,202 --> 00:01:12,106
-first congregational church," cried Bildad.
+00:01:05,154 --> 00:01:09,002
+What, that worships in Deacon Deuteronomy Coleman's meeting house?
 
 12
-00:01:12,126 --> 00:01:17,233
-"'What that worships in Deacon Deuteronomy Coleman's meeting-house?'
+00:01:09,320 --> 00:01:21,432
+And so saying, taking out his spectacles, he rubbed them with his great yellow bandana handkerchief, and putting them on very carefully, came out of the wigwam, and leaning stiffly over the bulwarks, took a good long look at Queequeg.
 
 13
-00:01:17,253 --> 00:01:32,813
-And so saying, taking out his spectacles, he rubbed them with his great yellow bandanna-handkerchief, and putting them on very carefully, came out of the wigwam, and leaning stiffly over the bulwarks, took a good long look at Queequeg.
+00:01:21,972 --> 00:01:23,373
+How long hath he been a member?
 
 14
-00:01:34,227 --> 00:01:36,352
-How long hath he been a member?"
+00:01:23,794 --> 00:01:25,175
+he then said, turning to me.
 
 15
-00:01:36,592 --> 00:01:39,398
-he then said, turning to me, not very long.
+00:01:25,195 --> 00:01:27,898
+Not very long, I rather guess, young man.
 
 16
-00:01:40,140 --> 00:01:41,423
-I rather guess, young man.
+00:01:27,918 --> 00:01:35,665
+No, said Peleg, and he hasn't been baptized right either, or it would have washed some of that devil's blue off his face.
 
 17
-00:01:41,443 --> 00:01:50,503
-No, said Pellag, and he hasn't been baptized right either, or it would have washed some of that devil's blue off his face.
+00:01:35,645 --> 00:01:37,467
+"'Do tell now,' cried Bildad.
 
 18
-00:01:50,523 --> 00:01:53,670
-To tell now, cried Bildad.
+00:01:37,487 --> 00:01:41,233
+"'Is this Philistine a regular member of Deacon Deuteronomy's meeting?
 
 19
-00:01:53,650 --> 00:01:57,717
-Is this Philistine a regular member of Deacon Deuteronomy's meeting?
+00:01:41,773 --> 00:01:44,717
+I never saw him going there, and I pass it every Lord's Day.'"
 
 20
-00:01:58,298 --> 00:02:01,724
-I never saw him going there, and I pass it every Lord's Day."
+00:01:45,398 --> 00:01:48,803
+"'I don't know anything about Deacon Deuteronomy or his meeting,' said I.
 
 21
-00:02:01,744 --> 00:02:06,833
-"'I don't know anything about Deacon Deuteronomy or his meeting,' said Inoes.
+00:01:48,823 --> 00:01:54,350
+"'All I know is, that Queequeg here is a born member of the First Congregational Church.
 
 22
-00:02:07,334 --> 00:02:12,343
-That Kwekwek here is a born member of the First Congregational Church.
+00:01:54,971 --> 00:01:57,134
+He is a deacon himself, Queequeg is.'"
 
 23
-00:02:12,984 --> 00:02:15,709
-He is a deacon himself, Kwekwek is."
+00:01:57,154 --> 00:02:02,361
+"'Young man,' said Bildad sternly, "'thou art skylarking with me.
 
 24
-00:02:15,689 --> 00:02:23,138
-"'Young man,' said Bildad sternly, "'thou art sky-larking with me, explain thyself, thou young Hittite.
+00:02:02,341 --> 00:02:04,526
+Explain thyself, thou young Hittite.
 
 25
-00:02:23,158 --> 00:02:24,359
+00:02:05,067 --> 00:02:06,369
 What church dost thee mean?
 
 26
-00:02:24,399 --> 00:02:25,401
-Answer me.'
+00:02:06,409 --> 00:02:07,211
+Answer me."
 
 27
-00:02:25,921 --> 00:02:45,004
-Finding myself thus hard-pushed, I replied, "'I mean, sir, the same ancient Catholic church to which you and I, and Captain Peleg there, and Queequeg here, and all of us, and every mother's son and soul of us, belong the great and everlasting first congregation of this whole worshipping world.
+00:02:08,133 --> 00:02:22,543
+Finding myself thus hard-pushed, I replied, I mean Sir, the same ancient Catholic church to which you and I, and Captain Peleg there, and Queequeg here, and all of us, and every mother's son and soul of us belong,
 
 28
-00:02:44,984 --> 00:02:47,608
-We all belong to that call.
+00:02:22,523 --> 00:02:27,010
+the great and everlasting First Congregation of this whole worshipping world.
 
 29
-00:02:48,209 --> 00:02:52,817
-Some of us cherish some queer cratchits, No ways touching the grand belief.
+00:02:27,671 --> 00:02:28,773
+We all belong to that.
 
 30
-00:02:53,218 --> 00:02:56,383
-Chin, a tee, and thee, all join hands.
+00:02:29,274 --> 00:02:31,537
+Only some of us cherish some queer crotchets.
 
 31
-00:02:56,704 --> 00:03:01,292
-Splice thou mean splice hands, cried Peleg, drawing nearer.
+00:02:31,938 --> 00:02:33,680
+No way's touching the grand belief.
 
 32
-00:03:02,013 --> 00:03:07,482
-Young man, you'd better ship for a missionary, Instead of a foremast hand, either.
+00:02:34,161 --> 00:02:36,285
+In THH all join hands.
 
 33
-00:03:07,462 --> 00:03:09,185
-Never heard a better sermon.
+00:02:37,486 --> 00:02:37,927
+Splice!
 
 34
-00:03:09,907 --> 00:03:11,530
-Deacon Deuteronomy, why?
+00:02:38,568 --> 00:02:42,074
+Thou mean'st splice hands, cried Peleg, drawing nearer.
 
 35
-00:03:11,870 --> 00:03:15,497
-Father Mapple himself couldn't beat it, and he's reckoned something.
+00:02:42,775 --> 00:02:46,741
+Young man, you'd better ship for a missionary instead of a four-mast hand.
 
 36
-00:03:15,597 --> 00:03:18,422
-Come aboard, come aboard, never mind about the papers.
+00:02:47,061 --> 00:02:48,384
+I never heard a better sermon.
 
 37
-00:03:19,184 --> 00:03:26,938
-I say, tell Quahog there—what's that you call him?—tell Quahog to step along, by the great anchor.
+00:02:48,984 --> 00:02:50,607
+Deacon Deuteronomy,
 
 38
-00:03:26,918 --> 00:03:28,760
-What a harpoon he's got there.
+00:02:50,587 --> 00:02:54,252
+Why, Father Mapple himself couldn't beat it, And he's reckoned something.
 
 39
-00:03:29,261 --> 00:03:30,683
-Looks like good stuff, that.
+00:02:55,093 --> 00:02:57,876
+Come aboard, come aboard, Never mind about the papers.
 
 40
-00:03:31,264 --> 00:03:32,886
-And he handles it about right.
+00:02:58,477 --> 00:03:00,319
+I say, tell Quollhog there.
 
 41
-00:03:33,066 --> 00:03:38,753
-I say, Quahog, or whatever your name is, did you ever stand in the head of a whale-boat?
+00:03:00,960 --> 00:03:02,041
+What's that you call him?
 
 42
-00:03:39,494 --> 00:03:40,836
-Did you ever strike a fish?
+00:03:02,442 --> 00:03:04,044
+Tell Quollhog to step along.
 
 43
-00:03:41,317 --> 00:03:47,104
-Without saying a word, Queequeg, in his wild sort of way, jumped upon the bulwarks.
+00:03:04,664 --> 00:03:07,067
+By the great anchor, What a harpoon he's got there.
 
 44
-00:03:47,084 --> 00:03:59,202
-From thence into the bows of one of the whale-boats hanging to the side, and then bracing his left knee and poising his harpoon, cried out in some such way as this, "'Copaine!
+00:03:07,508 --> 00:03:10,772
+Looks like good stuff, that, And he handles it about right.
 
 45
-00:03:59,863 --> 00:04:02,506
-You see him small drop tar on water, dare?
+00:03:10,752 --> 00:03:15,819
+I say, Quillhog, or whatever your name is, did you ever stand in the head of a whaleboat?
 
 46
-00:04:03,127 --> 00:04:04,249
-You see him?'
+00:03:16,279 --> 00:03:17,381
+Did you ever strike a fish?
 
 47
-00:04:04,229 --> 00:04:08,355
-Well, spose I'm one way lie, well, din!"
+00:03:17,902 --> 00:03:31,680
+Without saying a word, Queequeg in his wild sort of way jumped upon the bulwarks, from thence into the bows of one of the whaleboats hanging to the side, and then bracing his left knee and poising his harpoon, cried out in some such way as this,
 
 48
-00:04:09,076 --> 00:04:18,671
-And taking sharp aim at it, he darted the iron right over old Bildad's broad brim, clean across the ship's decks, and struck the glistening tar-spot out of sight.
+00:03:31,660 --> 00:03:34,883
+Cap'n, you see him small drop tar on water, dare?
 
 49
-00:04:18,691 --> 00:04:22,457
-"'Now,' said Queak-Quake, quietly hauling in the line,
+00:03:35,304 --> 00:03:35,884
+You see him?
 
 50
-00:04:22,437 --> 00:04:26,603
-Spose ye him, whaley I, Why, dad whale dead!"
+00:03:35,924 --> 00:03:38,206
+Well, spose him one whale-eye.
 
 51
-00:04:27,684 --> 00:04:35,776
-Quick, Bildad," said Peleg, his partner, who, aghast at the close vicinity of the flying harpoon, had retreated towards the cabin gangway.
+00:03:38,447 --> 00:03:39,147
+Well, den."
 
 52
-00:04:35,936 --> 00:04:40,142
-Quick, I say you, Bildad, and get the ship's papers.
+00:03:39,948 --> 00:03:49,998
+And taking sharp aim at it, he darted the iron right over old Bildad's broad brim, clean across the ship's decks, and struck the glistening tar spot out of sight.
 
 53
-00:04:40,122 --> 00:04:44,748
-We must have Hedgehog there—I mean Quahog in one of our boats.
+00:03:50,659 --> 00:03:55,523
+Now, said Queequeg, quietly hauling in the line, spose him whale-eye.
 
 54
-00:04:45,489 --> 00:04:53,120
-Look ye, Quahog, we'll give ye the ninetieth lay, and that's more than ever was given a harpoonier yet out of Nantucket."
+00:03:55,944 --> 00:03:57,025
+Why, dad whale dead.
 
 55
-00:04:53,140 --> 00:05:02,653
-So down we went into the cabin, and to my great joy Queequeg was soon enrolled among the same ship's company to which I myself belonged.
+00:03:57,746 --> 00:03:59,187
+Quick, Bildad.
 
 56
-00:05:02,735 --> 00:05:10,186
-When all preliminaries were over, and Peleg had got everything ready for signing, he turned to me and said, I guess.
+00:03:59,167 --> 00:04:06,218
+Said Peleg, his partner, who, aghast at the close vicinity of the flying harpoon, had retreated towards the cabin gangway.
 
 57
-00:05:10,706 --> 00:05:13,550
-Quahog, there don't know how to write, does he?
+00:04:06,859 --> 00:04:09,784
+Quick, I say, you build ad, and get the ship's papers.
 
 58
-00:05:14,432 --> 00:05:16,455
-I say, Quahog, blast ye.
+00:04:10,525 --> 00:04:14,712
+We must have Hedgehog there, I mean Quahog, in one of our boats.
 
 59
-00:05:16,475 --> 00:05:19,158
-Dost thou sign thy name, or make thy mark?
+00:04:14,692 --> 00:04:22,132
+Look ye, Quahog, we'll give ye the ninetieth lay, and that's more than ever was given a harpooner yet out of Nantucket."
 
 60
-00:05:19,179 --> 00:05:32,117
-But at this question, Queequeg, who had twice or thrice before taken part in similar ceremonies, looked no ways abashed at taking the offered pen, copied upon the paper, in the proper place,
+00:04:22,152 --> 00:04:29,713
+So down we went into the cabin, and to my great joy Queequeg was soon enrolled among the same ship's company to which I myself belonged.
 
 61
-00:05:32,097 --> 00:05:45,815
-An exact counterpart of a queer round figure which was tattooed upon his arm, so that, through Captain Peleg's obstinate mistake touching his appellative, it stood something like this quahog.
+00:04:30,082 --> 00:04:39,326
+When all preliminaries were over and Peleg had got everything ready for signing, he turned to me and said, I guess, Quohog, there don't know how to write, does he?
 
 62
-00:05:46,456 --> 00:05:47,137
-His S-mark.
+00:04:39,347 --> 00:04:45,222
+I say, Quohog, Blasgy, dost thou sign thy name or make thy mark?
 
 63
-00:05:47,237 --> 00:05:59,674
-Meanwhile Captain Bildad sat earnestly and steadfastly eyeing Queequeg, and at last, rising solemnly and fumbling in the huge pockets of his broad-skirted drab coat, took out a bundle of tracks and, selecting one entitled
+00:04:45,202 --> 00:05:07,832
+But at this question, Queequeg, who had twice or thrice before taken part in similar ceremonies, looked no ways abashed, but taking the offered pen, copied upon the paper, in the proper place, an exact counterpart of a queer round figure which was tattooed upon his arm, so that through Captain Peleg's obstinate mistake touching his appellative, it stood something like this.
 
 64
-00:05:59,654 --> 00:06:17,196
-The latter day coming, or no time to lose, placed it in Quixote's hands, and then, grasping them in the book with both his, looked earnestly into his eyes, and said, Son of darkness, I must do my duty by the latter day coming earned of this ship, and feel concern for the souls of all its crew, if thou still clingest to thy pagas, I must.
+00:05:08,893 --> 00:05:11,597
+Quohog, his X mark.
 
 65
-00:06:17,216 --> 00:06:27,889
-Spurned the idle bell, and the hideous dragon turned from the wrath, to come thine eye, I say, O goodness gracious, steer clear of the fiery pit.
+00:05:11,729 --> 00:05:32,623
+Meanwhile, Captain Bildad sat earnestly and steadfastly eyeing Queequeg, and at last, rising solemnly and fumbling in the huge pockets of his broad-skirted drab coat, took out a bundle of tracks, and selecting one entitled The Latter Day Coming or No Time to Lose, placed it in Queequeg's hands, and then grasping them and the book with both his,
 
 66
-00:06:27,869 --> 00:06:36,484
-something of the salt sea, yet lingered in old Bildad's language, heterogeneously mixed with scriptural and domestic phrases.
+00:05:32,603 --> 00:05:37,873
+looked earnestly into his eyes and said, Son of Darkness, I must do my duty by thee.
 
 67
-00:06:37,005 --> 00:06:42,775
-Avast there, avast there, Bildad, avast now spoiling our harpooneer, Peleg.
+00:05:38,194 --> 00:05:42,182
+I am part owner of this ship and feel concern for the souls of all its crew.
 
 68
-00:06:43,256 --> 00:06:47,603
-Pious harpooneers never make good voyagers, it takes the shark out of him.
+00:05:42,222 --> 00:05:49,937
+If thou still clingest to thy pagan ways, which I sadly fear, I beseech thee, remain not for I a Belial bondsman.
 
 69
-00:06:48,144 --> 00:06:51,430
-No harpooneer is worth a straw who ain't pretty sharkish.
+00:05:49,917 --> 00:05:55,067
+Spurn the idle bell and the hideous dragon, Turn from the wrath to come, mind thine eye.
 
 70
-00:06:51,410 --> 00:06:58,544
-There was young Nat Swain, once the bravest boatheader out of all Nantucket and the Vineyard.
+00:05:55,308 --> 00:05:59,597
+I say, O, goodness gracious, steer clear of the fiery pit.
 
 71
-00:06:58,964 --> 00:07:01,449
-He joined the meeting and never came to good.
+00:06:00,278 --> 00:06:08,635
+Something of the salt sea yet lingered in old Bildad's language, heterogeneously mixed with scriptural and domestic phrases.
 
 72
-00:07:01,730 --> 00:07:12,490
-He got so frightened about his plaguey soul that he shrinked and sheared away from Wales for fear of afterclaps, in case he got stove and went to Davy Jones.
+00:06:08,615 --> 00:06:11,261
+Avast there, avast there, Bildad.
 
 73
-00:07:13,128 --> 00:07:13,589
-Pelleg!
+00:06:11,522 --> 00:06:14,328
+Avast now spoiling our harpooneer, Peleg.
 
 74
-00:07:13,989 --> 00:07:14,671
-Pelleg!"
+00:06:14,929 --> 00:06:17,395
+Pious harpooneers never make good voyagers.
 
 75
-00:07:14,691 --> 00:07:17,195
-said Bildad, lifting his eyes and hands.
+00:06:17,836 --> 00:06:19,079
+It takes the shark out of them.
 
 76
-00:07:17,816 --> 00:07:22,324
-Thou thyself, as I am myself, hast seen many a perilous time.
+00:06:19,419 --> 00:06:22,386
+No harpooneer is worth a straw who ain't pretty sharkish.
 
 77
-00:07:22,364 --> 00:07:25,990
-Thou knowest, Pelleg, what it is to have the fear of death.
+00:06:22,827 --> 00:06:24,531
+There was young Nat Swain.
 
 78
-00:07:26,611 --> 00:07:29,476
-How, then, canst thou prate in this ungodly guise?
+00:06:24,511 --> 00:06:30,646
+Once the bravest boatheader out of all Nantucket and the vineyard, he joined the meeting and never came to good.
 
 79
-00:07:30,158 --> 00:07:33,263
-Thou beliest thine own heart, Pelleg."
+00:06:31,388 --> 00:06:41,473
+He got so frightened about his plaguey soul that he shrinked and sheared away from Wales for fear of afterclaps, in case he got stove and went to Davy Jones.
 
 80
-00:07:33,243 --> 00:07:46,741
-When this same Pequod here had her three masts Overboard in that typhoon on Japan, That same voyage when thou went to mate With Captain Ahab, didst thou not think Of death and the judgment then?
+00:06:41,453 --> 00:06:42,035
+Pelag.
 
 81
-00:07:46,761 --> 00:07:47,482
-"'Hear him!
+00:06:43,018 --> 00:06:51,003
+Pelag, said Bildad, lifting his eyes and hands, thou thyself, as I myself, has seen many a perilous time.
 
 82
-00:07:47,942 --> 00:07:48,764
-hear him now!'
+00:06:51,043 --> 00:06:55,176
+Thou knowest, Pelag, what it is to have the fear of death.
 
 83
-00:07:49,204 --> 00:07:55,192
-cried Peleg, Marching across the cabin, and thrusting His hands far down into his pockets.
+00:06:55,274 --> 00:06:58,219
+How then canst thou prate in this ungodly guise?
 
 84
-00:07:55,573 --> 00:07:56,654
-"'Hear him, all of ye!
+00:06:58,259 --> 00:07:00,883
+Thou belliest thine own heart, Pelag.
 
 85
-00:07:56,694 --> 00:08:00,499
-think of that, When every moment we thought the ship would sink,
+00:07:01,564 --> 00:07:12,962
+Tell me, when this same Pequod here had her three masts overboard in that typhoon on Japan, that same voyage when thou went mate with Captain Ahab, didst thou not think of death and the judgment then?
 
 86
-00:08:00,766 --> 00:08:02,411
-Death and the judgment, then?
+00:07:12,942 --> 00:07:14,604
+"'Hear him, hear him now!'
 
 87
-00:08:02,431 --> 00:08:04,015
-What?
+00:07:14,924 --> 00:07:19,489
+cried Peleg, marching across the cabin and thrusting his hands far down into his pockets.
 
 88
-00:08:04,316 --> 00:08:14,585
-With all three masts making Such an everlasting thundering against the sigh, And every sea breaking over us fore and aft, Think of death and the judgment, then?
+00:07:19,930 --> 00:07:21,071
+"'Hear him, all of ye!
 
 89
-00:08:14,605 --> 00:08:15,788
-No.
+00:07:21,111 --> 00:07:24,575
+Think of that, when every moment we thought the ship would sink!
 
 90
-00:08:15,768 --> 00:08:18,332
-No time to think about death then.
+00:07:25,456 --> 00:07:26,697
+Death and the judgment then?
 
 91
-00:08:18,552 --> 00:08:30,952
-Life was what Captain Ahab and I was thinking of, and how to save all hands, how to rig jury-masts, how to get into the nearest port—it—that was what I was thinking of."
+00:07:26,757 --> 00:07:27,538
+What?
 
 92
-00:08:30,972 --> 00:08:36,681
-Bill died, said no more, but buttoning up his coat, stalked on deck, where we followed him.
+00:07:28,279 --> 00:07:36,088
+With all three masts making such an everlasting thundering against the side, and every sea breaking over us, fore and aft!
 
 93
-00:08:36,821 --> 00:08:43,952
-There he stood, very quietly overlooking some seymakers who were mending a top-sail in the waste.
+00:07:37,109 --> 00:07:38,811
+Think of death and the judgment then!
 
 94
-00:08:43,932 --> 00:08:52,002
-Now and then he stooped to pick up a patch or save an end of tarred twine, which otherwise might have been wasted.
+00:07:38,871 --> 00:07:42,595
+No, no time to think about death then!
+
+95
+00:07:43,199 --> 00:07:53,736
+Life was what Captain Ahab and I was thinking of, and how to save all hands, how to rig jury masts, how to get into the nearest port—that was what I was thinking of."
+
+96
+00:07:54,457 --> 00:07:59,324
+Bildad said no more, but, buttoning up his coat, stalked on deck where we followed him.
+
+97
+00:07:59,986 --> 00:08:05,033
+There he stood, very quietly overlooking some sailmakers who were mending a top sail in the waste.
+
+98
+00:08:05,514 --> 00:08:11,704
+Now and then he stooped to pick up a patch or save an end of tarred twine which otherwise might have been wasted.
 
