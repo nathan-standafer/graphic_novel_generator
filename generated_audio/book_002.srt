@@ -1,0 +1,740 @@
+1
+00:00:00,031 --> 00:00:00,732
+Book 2.
+
+2
+00:00:01,093 --> 00:00:02,755
+Assembly of the People of Ithaca.
+
+3
+00:00:03,356 --> 00:00:05,559
+Speeches of Telemachus and of the Suetors.
+
+4
+00:00:05,980 --> 00:00:10,707
+Telemachus makes his preparations and starts for Pylos the with Minerva disguised as Mentor.
+
+5
+00:00:11,408 --> 00:00:17,136
+Now when the child of morning, rosy-fingered Dawn, appeared, Telemachus rose and dressed himself.
+
+6
+00:00:17,737 --> 00:00:24,587
+He bound his sandals onto his comely feet, girded his sword about his shoulder, and left his room looking like an immortal god.
+
+7
+00:00:24,567 --> 00:00:30,276
+He had once sent the criers round to call the people in assembly, so they called them and the people gathered thereon.
+
+8
+00:00:30,557 --> 00:00:37,288
+Then, when they were got together, he went to the place of assembly spear in hand, not alone, for his two hounds went with him.
+
+9
+00:00:38,049 --> 00:00:48,887
+Minerva endowed him with a presence of such divine comeliness that all marveled at him as he went by, and when he took his place in his father's seat, even the oldest counsellors made way for him.
+
+10
+00:00:49,002 --> 00:00:54,428
+Aegyptius, a man bent double with age and of infinite experience, was the first to speak.
+
+11
+00:00:55,209 --> 00:01:05,140
+His son Antiphus had gone with Ulysses to Ilias, land of noble steeds, but the savage Cyclops had killed him when they were all shut up in the cave, and had cooked his last dinner for him.17.
+
+12
+00:01:05,180 --> 00:01:11,808
+He had three sons left, of whom two still worked on their father's land, while the third, Uranimus, was one of the suitors.
+
+13
+00:01:12,028 --> 00:01:17,254
+Nevertheless, their father could not get over the loss of Antiphus, and was still weeping for him when he began his speech.
+
+14
+00:01:17,234 --> 00:01:19,860
+Men of Ithaca, he said, hear my words.
+
+15
+00:01:20,261 --> 00:01:24,310
+From the day Ulysses left us there has been no meeting of our counsellors until now.
+
+16
+00:01:24,711 --> 00:01:29,241
+Who then can it be, whether old or young, that finds it so necessary to convene us?
+
+17
+00:01:29,762 --> 00:01:36,677
+Has he got wind of some host approaching, and does he wish to warn us, or would he speak upon some other matter of public moment?
+
+18
+00:01:36,657 --> 00:01:41,444
+I am sure he is an excellent person, and I hope Jove will grant him his heart's desire."
+
+19
+00:01:42,185 --> 00:01:47,632
+Telemachus took this speech as of good omen and rose at once, for he was bursting with what he had to say.
+
+20
+00:01:47,692 --> 00:01:52,499
+He stood in the middle of the assembly and the good herald Pisanor brought him his staff.
+
+21
+00:01:53,020 --> 00:02:01,872
+Then, turning to Aegyptius, "'Sir,' said he, "'it is I, as you will shortly learn, who have convened you, for it is I who am the most aggrieved.
+
+22
+00:02:01,852 --> 00:02:08,363
+I have not got wind of any host approaching about which I would warn you, nor is there any matter of public moment on which I would speak.
+
+23
+00:02:08,924 --> 00:02:13,833
+My grievance is purely personal, and turns on two great misfortunes which have fallen upon my house.
+
+24
+00:02:14,454 --> 00:02:21,427
+The first of these is the loss of my excellent father, who was chief among all you here present, and was like a father to every one of you.
+
+25
+00:02:21,968 --> 00:02:26,796
+The second is much more serious, and ere long will be the utter ruin of my estate.
+
+26
+00:02:27,417 --> 00:02:31,721
+The sons of all the chief men among you are pestering my mother to marry them against her will.
+
+27
+00:02:32,482 --> 00:02:39,508
+They are afraid to go to her father Acarius, asking him to choose the one he likes best, and to provide marriage gifts for his daughter.
+
+28
+00:02:39,908 --> 00:02:49,517
+But day by day they keep hanging about my father's house, sacrificing our oxen, sheep, and fat goats for their banquets, and never giving so much as a thought to the quantity of wine they drink.
+
+29
+00:02:50,037 --> 00:02:51,899
+No estate can stand such recklessness.
+
+30
+00:02:52,299 --> 00:02:57,424
+We have now no Ulysses to ward off harm from our doors, and I cannot hold my own against them.
+
+31
+00:02:57,404 --> 00:03:00,046
+I shall never all my days be as good a man as he was.
+
+32
+00:03:00,427 --> 00:03:05,831
+Still, I would indeed defend myself if I had power to do so, for I cannot stand such treatment any longer.
+
+33
+00:03:06,372 --> 00:03:08,254
+My house is being disgraced and ruined.
+
+34
+00:03:08,834 --> 00:03:11,857
+Have respect, therefore, to your own consciences and to public opinion.
+
+35
+00:03:12,417 --> 00:03:17,121
+Fear, too, the wrath of heaven, lest the gods should be displeased and turn upon you.
+
+36
+00:03:17,802 --> 00:03:25,909
+I pray you by Jove and Themis, who is the beginning and the end of councils, do not hold back, my friends, and leave me single-handed eighteen.
+
+37
+00:03:25,889 --> 00:03:33,421
+unless it be that my brave father Ulysses did some wrong to the Achaeans which you would now avenge on me, by aiding and abetting these suitors.
+
+38
+00:03:34,042 --> 00:03:47,863
+Moreover, if I am to be eaten out of house and home at all, I had rather you did the eating yourselves, for I could then take action against you to some purpose, and serve you with notices from house to house till I got paid in full, whereas now I have no remedy.
+
+39
+00:03:47,843 --> 00:03:48,504
+19.
+
+40
+00:03:49,105 --> 00:03:52,569
+With this Telemachus dashed his staff to the ground and burst into tears.
+
+41
+00:03:53,330 --> 00:04:00,540
+Everyone was very sorry for him, but they all sat still and no one ventured to make him an angry answer, save only Antinous who spoke thus.
+
+42
+00:04:01,280 --> 00:04:05,987
+Telemachus, insolent braggart that you are, how dare you try to throw the blame upon us suitors?
+
+43
+00:04:06,728 --> 00:04:10,172
+It is your mother's fault, not ours, for she is a very artful woman.
+
+44
+00:04:10,152 --> 00:04:19,472
+This three years past, and close on four, she had been driving us out of our minds by encouraging each one of us and sending him messages without meaning one word of what she says.
+
+45
+00:04:20,233 --> 00:04:22,278
+And then there was that other trick she played us.
+
+46
+00:04:23,360 --> 00:04:29,072
+She set up a great tambour frame in her room and began to work on an enormous piece of fine needlework.
+
+47
+00:04:29,052 --> 00:04:32,357
+"'Sweethearts,' said she, "'Ulysses is indeed dead.
+
+48
+00:04:32,597 --> 00:04:34,921
+Still do not press me to marry again immediately.
+
+49
+00:04:35,342 --> 00:04:44,316
+Wait, for I would not have skill in needlework perish unrecorded till I have completed a pall for the hero Laertes to be in readiness against the time when death shall take him.
+
+50
+00:04:44,977 --> 00:04:49,744
+He is very rich, and the women of the place will talk if he is laid out without a pall.'
+
+51
+00:04:49,724 --> 00:04:58,681
+This was what she said, and we assented, whereon we could see her working on her great web all day long, but at night she would unpick the stitches again by torchlight.
+
+52
+00:04:59,222 --> 00:05:12,627
+She fooled us in this way for three years, and we never found her out, but as time wore on, and she was now in her fourth year, one of her maids who knew what she was doing told us, and we caught her in the act of undoing her work, so she had to finish it whether she would or no.
+
+53
+00:05:12,961 --> 00:05:18,086
+The suitors, therefore, make you this answer, that both you and the Achaeans may understand.
+
+54
+00:05:18,686 --> 00:05:31,598
+Send your mother away, and bid her marry the man of her own and of her father's choice, for I do not know what will happen if she goes on plaguing us much longer with the airs she gives herself on the score of the accomplishments Minerva has taught her, and because she is so clever.
+
+55
+00:05:32,319 --> 00:05:33,820
+We never yet heard of such a woman.
+
+56
+00:05:34,060 --> 00:05:41,247
+We know all about Tyro, Alcmena, Mycenae, and the famous women of old, but they were nothing to your mother, any one of them.
+
+57
+00:05:41,227 --> 00:05:57,345
+It was not fair of her to treat us in that way, and as long as she continues in the mind with which heaven has now endowed her, so long shall we go on eating up your estate, and I do not see why she should change, for she gets all the honour and glory, and it is you who pay for it, not she.
+
+58
+00:05:57,325 --> 00:06:05,978
+Understand, then, that we will not go back to our lands, neither here nor elsewhere, till she has made her choice and married someone or other of us."
+
+59
+00:06:05,998 --> 00:06:10,886
+Telemachus answered, "'And Tinnus, how can I drive the mother who bore me from my father's house?
+
+60
+00:06:11,326 --> 00:06:14,451
+My father is abroad, and we do not know whether he is alive or dead.
+
+61
+00:06:14,972 --> 00:06:22,303
+It will be hard on me if I have to pay Icarius the large sum which I must give him, if I insist on sending his daughter back to him.
+
+62
+00:06:22,283 --> 00:06:26,328
+Not only will he deal rigorously with me, but heaven will also punish me.
+
+63
+00:06:26,709 --> 00:06:30,434
+For my mother when she leaves, the house will call on the Irinias to avenge her.
+
+64
+00:06:30,814 --> 00:06:34,960
+Besides, it would not be a creditable thing to do, and I will have nothing to say to it.
+
+65
+00:06:35,460 --> 00:06:43,431
+If you choose to take offense at this, leave the house and feast elsewhere at one another's houses at your own cost, turn and turn about.
+
+66
+00:06:43,411 --> 00:06:54,262
+If, on the other hand, you elect to persist in sponging upon one man, heaven help me, but Jove shall reckon with you in full, and when you fall in my father's house there shall be no man to avenge you."
+
+67
+00:06:55,626 --> 00:06:58,534
+As he spoke, Jove sent two eagles from the top of the mountain,
+
+68
+00:06:58,666 --> 00:07:03,734
+and they flew on and on with the wind, sailing side by side in their own lordly flight.
+
+69
+00:07:04,195 --> 00:07:12,247
+When they were right over the middle of the assembly, they wheeled and circled about, beating the air with their wings and glaring death into the eyes of them that were below.
+
+70
+00:07:12,287 --> 00:07:18,497
+Then, fighting fiercely and tearing at one another, they flew off towards the right over the town.
+
+71
+00:07:18,477 --> 00:07:36,368
+The people wondered as they saw them, and asked each other what all this might be, whereon Halitharses, who was the best prophet and reader of omens among them, spoke to them plainly and in all honesty, saying, Hear me men of Ithaca, and I speak more particularly to the suitors, for I see mischief brewing for them.
+
+72
+00:07:36,348 --> 00:07:38,510
+Ulysses is not going to be away much longer.
+
+73
+00:07:38,550 --> 00:07:45,578
+Indeed, he is close at hand to deal out death and destruction, not on them alone but on many another of us who live in Ithaca.
+
+74
+00:07:46,279 --> 00:07:50,463
+Let us then be wise in time and put a stop to this wickedness before he comes.
+
+75
+00:07:51,304 --> 00:07:53,386
+Let the suitors do so of their own accord.
+
+76
+00:07:53,666 --> 00:07:56,930
+It will be better for them, for I am not prophesying without due knowledge.
+
+77
+00:07:57,410 --> 00:08:02,676
+Everything has happened to Ulysses as I foretold when the Argive set out for Troy, and he with them.
+
+78
+00:08:02,656 --> 00:08:11,234
+I said that after going through much hardship and losing all his men he should come home again in the twentieth year, and that no one would know him, and now all this is coming true.
+
+79
+00:08:11,274 --> 00:08:18,268
+Eurymachus son of Polybus then said, Go home, old man, and prophesy to your own children, or it may be worse for them.
+
+80
+00:08:18,248 --> 00:08:21,134
+I can read these omens myself much better than you can.
+
+81
+00:08:21,454 --> 00:08:25,943
+Birds are always flying about in the sunshine somewhere or other, but they seldom mean anything.
+
+82
+00:08:26,444 --> 00:08:36,223
+Ulysses has died in a far country, and it is a pity you are not dead along with him, instead of prating here about omens and adding fuel to the anger of Telemachus, which is fierce enough as it is.
+
+83
+00:08:36,203 --> 00:08:46,198
+I suppose you think he will give you something for your family, but I tell you, and it shall surely be when an old man like you who should know better, talks a young one over till he becomes troublesome.
+
+84
+00:08:46,659 --> 00:08:49,844
+In the first place his young friend will only fare so much the worse.
+
+85
+00:08:50,345 --> 00:08:53,049
+He will take nothing by it, for the suitors will prevent this.
+
+86
+00:08:53,850 --> 00:09:00,861
+And in the next we will lay a heavier fine, sir, upon yourself than you will at all like paying, for it will bear hardly upon you.
+
+87
+00:09:00,841 --> 00:09:11,197
+As for Telemachus, I warn him in the presence of you all to send his mother back to her father, who will find her a husband and provide her with all the marriage gifts so dear a daughter may expect.
+
+88
+00:09:11,918 --> 00:09:21,533
+Till then we shall go on harassing him with our suit, for we fear no man, and care neither for him with all his fine speeches, nor for any fortune-telling of yours.
+
+89
+00:09:21,513 --> 00:09:25,220
+You may preach as much as you please, but we shall only hate you the more.
+
+90
+00:09:25,781 --> 00:09:41,310
+We shall go back and continue to eat up Telemachus's estate without paying him, till such time as his mother leaves off tormenting us by keeping us day after day on the tiptoe of expectation, each vying with the other in his suit for a prize of such rare perfection.
+
+91
+00:09:41,290 --> 00:09:47,898
+Besides, we cannot go after the other women whom we should marry in due course, but for the way in which she treats us.
+
+92
+00:09:48,699 --> 00:09:58,110
+Then Telemachus said, Eurymachus, and you other suitors, I shall say no more and entreat you no further, for the gods and the people of Ithaca now know my story.
+
+93
+00:09:58,731 --> 00:10:07,922
+Give me, then, a ship and a crew of twenty men to take me hither and thither, and I will go to Sparta and to Pylos in quest of my father who has so long been missing.
+
+94
+00:10:07,902 --> 00:10:13,652
+Someone may tell me something, or, and people often hear things in this way, some heaven-sent message may direct me.
+
+95
+00:10:14,213 --> 00:10:20,904
+If I can hear of him as alive and on his way home, I will put up with the waste you suitors will make for yet another twelve months.
+
+96
+00:10:21,545 --> 00:10:31,041
+If, on the other hand, I hear of his death, I will return at once, celebrate his funeral rites with all due pomp, build a barrow to his memory, and make my mother marry again.
+
+97
+00:10:31,122 --> 00:10:39,530
+With these words he sat down, and Mentor Twenty, who had been a friend of Ulysses and had been left in charge of everything with full authority over the servants, rose to speak.
+
+98
+00:10:39,990 --> 00:10:43,233
+He then, plainly and in all honesty, addressed them thus.
+
+99
+00:10:44,014 --> 00:10:45,175
+Hear me, men of Ithaca.
+
+100
+00:10:45,555 --> 00:10:51,261
+I hope that you may never have a kind and well-disposed ruler anymore, nor one who will govern you equitably.
+
+101
+00:10:51,661 --> 00:11:00,049
+I hope that all your chiefs henceforward may be cruel and unjust, for there is not one of you but has forgotten Ulysses, who ruled you as though he were your father.
+
+102
+00:11:00,265 --> 00:11:11,359
+I am not half so angry with the suitors, for if they choose to do violence in the naughtiness of their hearts and wager their heads that Ulysses will not return, they can take the high hand and eat up his estate.
+
+103
+00:11:11,760 --> 00:11:21,693
+But as for you others, I am shocked at the way in which you all sit still without even trying to stop such scandalous goings-on, which you could do if you chose, for you are many and they are few."
+
+104
+00:11:22,714 --> 00:11:29,563
+Leocritus, son of Evne, answered him, saying, Mentor, what folly is all this, that you should set the people to stay us?
+
+105
+00:11:29,543 --> 00:11:32,969
+It is a hard thing for one man to fight with many about his victuals.
+
+106
+00:11:33,751 --> 00:11:48,818
+Even though Ulysses himself were to set upon us while we are feasting in his house, and do his best to oust us, his wife, who wants him back so very badly, would have small cause for rejoicing, and his blood would be upon his own head if he fought against such great odds.
+
+107
+00:11:48,798 --> 00:11:50,762
+There is no sense in what you have been saying.
+
+108
+00:11:50,802 --> 00:11:59,721
+Now, therefore, to you people go about your business and let his father's old friends, Mentor and Halitherses, speed this boy on his journey, if he goes at all.
+
+109
+00:12:00,122 --> 00:12:05,794
+Which I do not think he will, for he is more likely to stay where he is till someone comes and tells him something.
+
+110
+00:12:05,960 --> 00:12:12,309
+On this he broke up the assembly, and every man went back to his own abode, while the suitors returned to the house of Ulysses.
+
+111
+00:12:12,950 --> 00:12:18,799
+Then Telemachus went all alone by the seaside, washed his hands in the grey waves, and prayed to Minerva.
+
+112
+00:12:19,259 --> 00:12:26,550
+Hear me, he cried, you God who visited me yesterday, and bade me sail the seas in search of my father, who has so long been missing.
+
+113
+00:12:26,530 --> 00:12:33,183
+I would obey you, but the Achaeans, and more particularly the wicked suitors, are hindering me that I cannot do so."
+
+114
+00:12:34,044 --> 00:12:38,853
+As he thus prayed, Minerva came close up to him in the likeness and with the voice of Mentor.
+
+115
+00:12:38,873 --> 00:12:49,213
+"'Telemachus,' said she, "'if you are made of the same stuff as your father, you will be neither fool nor coward henceforward, for Ulysses never broke his word nor left his work half done.'"
+
+116
+00:12:49,193 --> 00:12:58,855
+If, then, you take after him, your voyage will not be fruitless, but unless you have the blood of Ulysses and of Penelope in your veins, I see no likelihood of your succeeding.
+
+117
+00:12:59,396 --> 00:13:01,561
+Sons are seldom as good men as their fathers.
+
+118
+00:13:02,122 --> 00:13:04,007
+They are generally worse, not better.
+
+119
+00:13:04,688 --> 00:13:08,637
+Still, as you are not going to be either fool or coward henceforward,
+
+120
+00:13:08,617 --> 00:13:14,663
+and are not entirely without some share of your father's wise discernment, I look with hope upon your undertaking.
+
+121
+00:13:15,264 --> 00:13:27,937
+But mind you never make common cause with any of those foolish suitors, for they have neither sense nor virtue, and give no thought to death and to the doom that will shortly fall on one and all of them, so that they shall perish on the same day.
+
+122
+00:13:28,658 --> 00:13:31,060
+As for your voyage, it shall not be long delayed.
+
+123
+00:13:31,360 --> 00:13:35,805
+Your father was such an old friend of mine that I will find you a ship, and will come with you myself.
+
+124
+00:13:35,785 --> 00:13:39,651
+Now, however, return home, and go about among the suitors.
+
+125
+00:13:40,051 --> 00:13:42,054
+Begin getting provisions ready for your voyage.
+
+126
+00:13:42,415 --> 00:13:51,708
+See everything well stowed, the wine in jars, and the barley meal, which is the staff of life, in leathern bags, while I go round the town and beat up volunteers at once.
+
+127
+00:13:52,329 --> 00:13:54,572
+There are many ships in Ithaca both old and new.
+
+128
+00:13:54,993 --> 00:13:57,697
+I will run my eye over them for you and will choose the best.
+
+129
+00:13:57,997 --> 00:14:01,422
+We will get her ready and will put out to sea without delay."
+
+130
+00:14:01,402 --> 00:14:06,757
+Thus spoke Minerva, daughter of Jove, and Telemachus lost no time in doing as the goddess told him.
+
+131
+00:14:07,479 --> 00:14:11,911
+He went moodily home and found the suitors flaying goats and singeing pigs in the outer court.
+
+132
+00:14:12,593 --> 00:14:16,744
+Antinous came up to him at once and laughed as he took his hand in his own, saying,
+
+133
+00:14:16,724 --> 00:14:24,359
+Telemachus, my fine fire-eater, bear no more ill blood, neither in word nor deed, but eat and drink with us as you used to do.
+
+134
+00:14:24,820 --> 00:14:33,838
+The Achaeans will find you in everything, a ship and a picked crew to boot, so that you can set sail for Pylos at once and get news of your noble father.
+
+135
+00:14:34,392 --> 00:14:40,479
+Antinous answered Telemachus, I cannot eat in peace, nor take pleasure of any kind with such men as you are.
+
+136
+00:14:40,920 --> 00:14:45,305
+Was it not enough that you should waste so much good property of mine, while I was yet a boy?
+
+137
+00:14:45,886 --> 00:14:53,916
+Now that I am older and know more about it, I am also stronger, and whether here among this people, or by going to Pylos, I will do you all the harm I can.
+
+138
+00:14:54,497 --> 00:15:02,847
+I shall go, and my going will not be in vain, though, thanks to you suitors, I have neither ship nor crew of my own, and must be passenger, not captain.
+
+139
+00:15:02,827 --> 00:15:05,790
+As he spoke, he snatched his hand from that of Antinous.
+
+140
+00:15:06,231 --> 00:15:12,458
+Meanwhile, the others went on getting dinner ready about the buildings, 201 jeering at him tauntingly as they did so.
+
+141
+00:15:12,478 --> 00:15:16,342
+"'Telemachus,' said one youngster, "'means to be the death of us.
+
+142
+00:15:16,723 --> 00:15:22,309
+I suppose he thinks he can bring friends to help him from Pylos, or again from Sparta, where he seems bent on going.
+
+143
+00:15:22,730 --> 00:15:27,315
+Or will he go to Ephira as well, for poison to put in our wine and kill us?'
+
+144
+00:15:27,295 --> 00:15:33,645
+Another said, Perhaps if Telemachus goes on board Shib, he will be like his father and perish far from his friends.
+
+145
+00:15:34,205 --> 00:15:38,432
+In this case we should have plenty to do, for we could then divide up his property amongst us.
+
+146
+00:15:38,892 --> 00:15:42,177
+As for the house, we can let his mother and the man who marries her have that.
+
+147
+00:15:42,798 --> 00:15:43,920
+This was how they talked.
+
+148
+00:15:44,390 --> 00:15:55,322
+But Telemachus went down into the lofty and spacious storeroom where his father's treasure of gold and bronze lay heaped up upon the floor, and where the linen and spare clothes were kept in open chests.
+
+149
+00:15:55,342 --> 00:16:06,575
+Here, too, there was a store of fragrant olive oil, while casks of old, well-ripened wine, unblended and fit for a god to drink, were ranged against the wall in case Ulysses should come home again after all.
+
+150
+00:16:07,356 --> 00:16:10,279
+The room was closed with well-made doors opening in the middle.
+
+151
+00:16:10,343 --> 00:16:17,293
+Moreover, the faithful old housekeeper Eurycleia, daughter of Ops the son of Pisenor, was in charge of everything both night and day.
+
+152
+00:16:17,333 --> 00:16:31,373
+Telemachus called her to the storeroom and said, Nurse, draw me off some of the best wine you have, after what you were keeping for my father's own drinking, in case, poor man, he should escape death and find his way home again after all.
+
+153
+00:16:31,353 --> 00:16:34,437
+Let me have twelve jars, and see that they all have lids.
+
+154
+00:16:34,978 --> 00:16:39,885
+Also fill me some well-sewn leathen bags with barley meal, about twenty measures in all.
+
+155
+00:16:40,366 --> 00:16:43,310
+Get these things put together at once, and say nothing about it.
+
+156
+00:16:43,871 --> 00:16:47,536
+I will take everything away this evening as soon as my mother has gone upstairs for the night.
+
+157
+00:16:48,057 --> 00:16:53,344
+I am going to Sparta and to Pylos to see if I can hear anything about the return of my dear father."
+
+158
+00:16:53,932 --> 00:17:01,731
+When Eurycleia heard this she began to cry and spoke fondly to him, saying, My dear child, whatever can have put such notion as that into your head?
+
+159
+00:17:02,312 --> 00:17:06,743
+Where in the world do you want to go to, you who are the one hope of the house?
+
+160
+00:17:06,790 --> 00:17:17,991
+Your poor father is dead and gone in some foreign country nobody knows where, and as soon as your back is turned these wicked ones here will be scheming to get you put out of the way, and will share all your possessions among themselves.
+
+161
+00:17:18,372 --> 00:17:24,023
+Stay where you are among your own people, and do not go wandering and worrying your life out on the barren ocean.
+
+162
+00:17:24,104 --> 00:17:26,029
+"'Fear not, nurse,' answered Telemachus.
+
+163
+00:17:26,049 --> 00:17:39,160
+"'My scheme is not without heaven's sanction, but swear that you will say nothing about all this to my mother, till I have been away some ten or twelve days, unless she hears of my having gone, and asks you, for I do not want her to spoil her beauty by crying.'"
+
+164
+00:17:39,933 --> 00:17:49,054
+The old woman swore most solemnly that she would not, and when she had completed her oath, she began drawing off the wine into jars and getting the... Then Minerva bethought her of another matter.
+
+165
+00:17:49,615 --> 00:17:55,849
+She took his shape and went round the town to each one of the crew, telling them to meet at the ship by sundown.
+
+166
+00:17:55,829 --> 00:18:01,240
+She went also to Neumann son of Fronius, and asked him to let her have a ship, which he was very ready to do.
+
+167
+00:18:01,782 --> 00:18:11,863
+When the sun had set and darkness was over all the land, she got the ship into the water, put all the tackle on board her that ships generally carry, and stationed her at the end of the harbour.
+
+168
+00:18:11,843 --> 00:18:15,590
+Presently the crew came up and the goddess spoke encouragingly to each of them.
+
+169
+00:18:16,111 --> 00:18:20,460
+Furthermore, she went to the house of Ulysses and threw the suitors into a deep slumber.
+
+170
+00:18:21,121 --> 00:18:27,253
+She caused their drink to fuddle them and made them drop their cups from their hands, so that instead of sitting over their wine,
+
+171
+00:18:27,233 --> 00:18:31,661
+They went back into the town to sleep, with their eyes heavy and full of drowsiness.
+
+172
+00:18:32,342 --> 00:18:36,689
+Then she took the form and voice of Mentor and called Telemachus to come outside.
+
+173
+00:18:37,090 --> 00:18:44,162
+Telemachus, said she, the men are on board and at their oars, waiting for you to give your orders, so make haste and let us be off.
+
+174
+00:18:44,142 --> 00:18:47,307
+On this she led the way, while Telemachus followed in her steps.
+
+175
+00:18:47,908 --> 00:18:55,000
+When they got to the ship, they found the crew waiting by the waterside, and Telemachus said, Now my men, help me to get the stores on board.
+
+176
+00:18:55,020 --> 00:19:01,391
+They are all put together in the cloister, and my mother does not know anything about it, nor any of the maidservants except one.
+
+177
+00:19:02,393 --> 00:19:05,678
+With these words he led the way, and the others followed after.
+
+178
+00:19:05,658 --> 00:19:14,834
+When they had brought the things, as he told them, Telemachus went on board, Minerva going before him and taking her seat in the stern of the vessel, while Telemachus sat beside her.
+
+179
+00:19:15,274 --> 00:19:18,159
+Then the men loosed the horses and took their places on the benches.
+
+180
+00:19:18,640 --> 00:19:31,041
+Minerva sent them a fair wind from the west tether twenty-two that whistled over the deep blue waves twenty-three whereon Telemachus told them to catch hold of the ropes and hoist sail, and they did as he told them.
+
+181
+00:19:31,021 --> 00:19:36,402
+They set the mast in its socket in the cross plank, raised it, and made it fast with the forestays.
+
+182
+00:19:36,924 --> 00:19:41,402
+Then they hoisted their white sails aloft with ropes of twisted oxhide.
+
+183
+00:19:41,483 --> 00:19:48,741
+As the sail bellied out with the wind, the ship flew through the deep blue water, and the foam hissed against her bows as she sped onward.
+
+184
+00:19:49,644 --> 00:20:00,090
+Then they made all fast throughout the ship, filled the mixing bowls to the brim, and made drink offerings to the immortal gods that are from everlasting, but more particularly to the grey-eyed daughter of Jove.
+
+185
+00:20:00,912 --> 00:20:05,263
+Thus, then, the ship sped on her way through the watches of the night from dark till dawn.
+

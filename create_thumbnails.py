@@ -12,7 +12,7 @@ def create_thumbnails(chapter_number):
         chapter_number (str): The chapter number (e.g., '001').
     """
     base_dir = 'generated_illustrations'
-    chapter_dir = os.path.join(base_dir, f'chapter_{chapter_number}')
+    chapter_dir = os.path.join(base_dir, f'book_{chapter_number}')
 
     if not os.path.isdir(chapter_dir):
         print(f"Error: Directory not found at '{chapter_dir}'")
@@ -53,7 +53,8 @@ def create_thumbnails(chapter_number):
                 draw = ImageDraw.Draw(img)
 
                 # Text to add
-                text = f"Moby Dick\nChapter {chapter_number}"
+                #text = f"Moby Dick\nChapter {chapter_number}"
+                text = f"The Odyssey\nPrologue"
 
                 # Get text size
                 text_bbox = draw.textbbox((0, 0), text, font=font)

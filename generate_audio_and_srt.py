@@ -48,7 +48,7 @@ def generate_long_audio(model, text, output_path, audio_prompt_path, max_words=8
         audios_for_one_segment = []
         for i, chunk_text in enumerate(chunks):
             print(f"Generating audio for chunk: {chunk_text}")
-            wav = model.generate(chunk_text, exaggeration=0.50, cfg_weight=0.35, audio_prompt_path=audio_prompt_path)
+            wav = model.generate(chunk_text, exaggeration=0.35, cfg_weight=0.45, audio_prompt_path=audio_prompt_path)
             audios_for_one_segment.append(wav)
 
         if audios_for_one_segment:
@@ -97,30 +97,30 @@ def generate_audio_and_srt():
     output_dir = 'generated_audio'
     os.makedirs(output_dir, exist_ok=True)
 
-    # Get all chapter files
-    chapter_files = sorted(glob.glob(os.path.join(source_text_dir, '*.txt')))
+    # Get all book files (previously chapter files)
+    book_files = sorted(glob.glob(os.path.join(source_text_dir, '*.txt')))
 
-    for chapter_file in chapter_files:
-        chapter_name = os.path.splitext(os.path.basename(chapter_file))[0]
-        output_audio_path = os.path.join(output_dir, f'{chapter_name}.wav')
-        output_srt_path = os.path.join(output_dir, f'{chapter_name}.srt')
+    for book_file in book_files:
+        book_name = os.path.splitext(os.path.basename(book_file))[0]
+        output_audio_path = os.path.join(output_dir, f'{book_name}.wav')
+        output_srt_path = os.path.join(output_dir, f'{book_name}.srt')
 
-        print(f'Processing {chapter_file}...')
+        print(f'Processing {book_file}...')
 
-        # Read chapter text
-        with open(chapter_file, 'r') as f:
+        # Read book text
+        with open(book_file, 'r') as f:
             text = f.read()
 
         # Generate audio
         if not os.path.exists(output_audio_path):
-            print(f'Generating audio for {chapter_name}...')
+            print(f'Generating audio for {book_name}...')
             generate_long_audio(model, text, output_audio_path, AUDIO_PROMPT_PATH)
         else:
-            print(f'Audio for {chapter_name} already exists.')
+            print(f'Audio for {book_name} already exists.')
 
         # Generate SRT
         if not os.path.exists(output_srt_path):
-            print(f'Generating SRT for {chapter_name}...')
+            print(f'Generating SRT for {book_name}...')
             command = [
                 'conda', 'run', '-n', 'openhands', 'python', '-m', 'whisperx',
                 output_audio_path,
@@ -131,7 +131,7 @@ def generate_audio_and_srt():
             print("Executing: {}".format(command))
             subprocess.run(command)
         else:
-            print(f'SRT for {chapter_name} already exists.')
+            print(f'SRT for {book_name} already exists.')
 
 if __name__ == '__main__':
     generate_audio_and_srt()

@@ -1,0 +1,820 @@
+1
+00:00:00,031 --> 00:00:03,455
+Book 3, Telemachus Visits, Nestor, at Pylos.
+
+2
+00:00:04,576 --> 00:00:12,905
+But as the sun was rising from the fair sea to Thor into the firmament of heaven to shed light on mortals and immortals, they reached Pylos, the city of Nelius.
+
+3
+00:00:13,786 --> 00:00:19,713
+Now the people of Pylos were gathered on the seashore to offer sacrifice of black bulls to Neptune, lord of the earthquake.
+
+4
+00:00:20,394 --> 00:00:25,279
+There were nine guilds with five hundred men in each, and there were nine bulls to each guild.
+
+5
+00:00:25,327 --> 00:00:36,687
+As they were eating the inward meats 25 and burning the thigh bones on the embers in the name of Neptune, Telemachus and his crew arrived, furled their sails, brought their ship to anchor, and went ashore.
+
+6
+00:00:37,248 --> 00:00:39,491
+Minerva led the way and Telemachus followed her.
+
+7
+00:00:40,173 --> 00:00:44,500
+Presently, she said, Telemachus, you must not be in the least shy or nervous.
+
+8
+00:00:44,480 --> 00:00:52,912
+You have taken this voyage to try and find out where your father is buried and how he came by his end, so go straight up to Nestor that we may see what he has got to tell us.
+
+9
+00:00:53,613 --> 00:00:58,179
+Beg of him to speak the truth, and he will tell no lies, for he is an excellent person.
+
+10
+00:00:58,960 --> 00:01:04,328
+But how, mentor, replied Telemachus, dare I go up to Nestor, and how am I to address him?
+
+11
+00:01:04,969 --> 00:01:12,259
+I have never yet been used to holding long conversations with people, and am ashamed to begin questioning one who is so much older than myself.
+
+12
+00:01:12,425 --> 00:01:22,595
+Some things, Telemachus, answered Minerva, will be suggested to you by your own instinct, and heaven will prompt you further, for I am assured that the gods have been with you from the time of your birth until now.
+
+13
+00:01:23,535 --> 00:01:29,581
+She then went quickly on, and Telemachus followed in her steps till they reached the place where the guilds of the Pilean people were assembled.
+
+14
+00:01:30,142 --> 00:01:39,450
+There they found Nestor sitting with his sons, while his company round him were busy getting dinner ready and putting pieces of meat onto the spits twenty-six while other pieces were cooking.
+
+15
+00:01:40,011 --> 00:01:42,313
+When they saw the strangers they crowded round them,
+
+16
+00:01:42,293 --> 00:01:44,758
+took them by the hand and bade them take their places.
+
+17
+00:01:45,539 --> 00:01:54,476
+Nestor's son Pisistratus at once offered his hand to each of them and seated them on some soft sheepskins that were lying on the sands near his father and his brother Thrasymedes.
+
+18
+00:01:55,237 --> 00:02:00,066
+Then he gave them their portions of the inward meats and poured wine for them into a golden cup.
+
+19
+00:02:00,046 --> 00:02:03,353
+handing it to Minerva first and saluting her at the same time.
+
+20
+00:02:03,393 --> 00:02:14,094
+Offer a prayer, sir, said he to King Neptune, for it is his feast that you are joining, when you have duly prayed and made your drink offering, pass the cup to your friend that he may do so also.
+
+21
+00:02:14,114 --> 00:02:20,687
+I doubt not that he too lifts his hands in prayer, for man cannot live without God in the world.
+
+22
+00:02:20,667 --> 00:02:27,535
+Still he is younger than you are, and is much of an age with myself, so I will give you the precedence."
+
+23
+00:02:27,555 --> 00:02:29,978
+As he spoke he handed her the cup.
+
+24
+00:02:29,998 --> 00:02:33,983
+Minerva thought it very right and proper of him to have given it to herself first.
+
+25
+00:02:34,624 --> 00:02:37,948
+Twenty-seven she accordingly began praying heartily to Neptune.
+
+26
+00:02:38,809 --> 00:02:45,898
+O thou, she cried, that encirclest the earth vouchsafe to grant the prayers of thy servants that call upon thee.
+
+27
+00:02:45,878 --> 00:02:49,924
+More especially, we pray thee send down thy grace on Nestor and on his sons.
+
+28
+00:02:50,305 --> 00:02:55,894
+Thereafter also make the rest of the Pilean people some handsome return for the goodly hecatomb they are offering you.
+
+29
+00:02:56,635 --> 00:03:03,145
+Lastly, grant Telemachus and myself a happy issue, in respect of the matter that has brought us in our ship to Pylos.
+
+30
+00:03:03,428 --> 00:03:08,417
+When she had thus made an end of praying, she handed the cup to Telemachus, and he prayed likewise.
+
+31
+00:03:09,138 --> 00:03:16,492
+By and by, when the outer meats were roasted and had been taken off the spits, the carvers gave every man his portion, and they all made an excellent dinner.
+
+32
+00:03:17,193 --> 00:03:21,401
+As soon as they had had enough to eat and drink, Nestor, knight of Jerene, began to speak.
+
+33
+00:03:21,982 --> 00:03:26,550
+Now, said he, that our guests have done their dinner, it will be best to ask them who they are.
+
+34
+00:03:26,530 --> 00:03:30,395
+"'Who then, sir strangers, are you, and from what port have you sailed?
+
+35
+00:03:30,836 --> 00:03:37,304
+Are you traders, or do you sail the seas as rovers with your hand against every man, and every man's hand against you?'
+
+36
+00:03:37,324 --> 00:03:43,352
+Telemachus answered boldly, for Minerva had given him courage to ask about his father and get himself a good name.
+
+37
+00:03:43,372 --> 00:03:47,537
+"'Nestor,' said he, son of Nellius, "'honor to the Achaean name.
+
+38
+00:03:47,818 --> 00:03:50,041
+You ask whence we come, and I will tell you.
+
+39
+00:03:50,621 --> 00:03:54,867
+We come from Ithaca under Neritum, toate and the matter about which I would speak,
+
+40
+00:03:54,847 --> 00:03:57,050
+is of private, not public import.
+
+41
+00:03:57,551 --> 00:04:03,358
+I seek news of my unhappy father Ulysses, who is said to have sacked the town of Troy in company with yourself.
+
+42
+00:04:04,179 --> 00:04:22,103
+We know what fate befell each one of the other heroes who fought at Troy, but as regards Ulysses' heaven has hidden from us the knowledge even that he is dead at all, for no one can certify us in what place he perished, nor say whether he fell in battle on the mainland or was lost at sea amid the waves of Amphitrite.
+
+43
+00:04:22,083 --> 00:04:33,422
+Therefore I am suppliant at your knees, if happily you may be pleased to tell me of his melancholy end, whether you saw it with your own eyes, or heard it from some other traveller, for he was a man born to trouble.
+
+44
+00:04:34,243 --> 00:04:39,231
+Do not soften things out of any pity for me, but tell me in all plainness exactly what you saw."
+
+45
+00:04:39,211 --> 00:04:51,431
+If my brave father Ulysses ever did you loyal service, either by word or deed, when you Achaeans were harassed among the Trojans, bear it in mind now, as in my favor, and tell me truly all."
+
+46
+00:04:51,451 --> 00:05:00,325
+"'My friend,' answered Nestor, "'you recall a time of much sorrow to my mind, for the brave Achaeans suffered much both at sea, while privateering under Achilles,
+
+47
+00:05:00,305 --> 00:05:02,847
+and when fighting before the great city of King Priam.
+
+48
+00:05:03,428 --> 00:05:05,609
+Our best men, all of them fell there.
+
+49
+00:05:06,350 --> 00:05:15,398
+Ajax, Achilles, Patroclus, peer of gods and council, and my own dear son Antilochus, a man singularly fleet of foot and in fight valiant.
+
+50
+00:05:15,958 --> 00:05:20,062
+But we suffered much more than this, what mortal tongue indeed could tell the whole story.
+
+51
+00:05:20,742 --> 00:05:30,210
+Though you were to stay here and question me for five years, or even six, I could not tell you all that the Achaeans suffered, and you would turn homeward weary of my tale before it ended.
+
+52
+00:05:30,190 --> 00:05:35,478
+Nine long years did we try every kind of stratagem, but the hand of heaven was against us.
+
+53
+00:05:35,799 --> 00:05:39,745
+During all this time there was no one who could compare with your father in subtlety.
+
+54
+00:05:40,426 --> 00:05:45,674
+If indeed you are his son, I can hardly believe my eyes, and you talk just like him too.
+
+55
+00:05:46,375 --> 00:05:50,562
+No one would say that people of such different ages could speak so much alike.
+
+56
+00:05:50,542 --> 00:06:01,840
+He and I never had any kind of difference from first to last, neither in camp nor council, but in singleness of heart and purpose we advised the Argives how all might be ordered for the best.
+
+57
+00:06:02,521 --> 00:06:15,081
+When, however, we had sacked the city of Priam and were setting sail in our ships as heaven had dispersed us, then Jove saw fit to vex the Argives on their homeward voyage, for they had not all been either wise or understanding,
+
+58
+00:06:15,061 --> 00:06:22,810
+and hence many came to a bad end through the displeasure of Jove's daughter Minerva, who brought about a quarrel between the two sons of Atreus.
+
+59
+00:06:22,830 --> 00:06:28,777
+The sons of Atreus called a meeting which was not as it should be, for it was sunset and the Achaeans were heavy with wine.
+
+60
+00:06:29,758 --> 00:06:41,592
+When they explained why they had called the people together, it seemed that Menelaus was for sailing homeward at once, and this displeased Agamemnon, who thought that we should wait till we had offered hecatombs to appease the anger of Minerva.
+
+61
+00:06:41,572 --> 00:06:48,308
+Fool that he was, he might have known that he would not prevail with her, for when the gods have made up their minds they do not change them lightly.
+
+62
+00:06:49,233 --> 00:06:57,042
+So the two stood bandying hard words, whereon the Achaeans sprang to their feet with a cry that rent the air, and were of two minds as to what they should do.
+
+63
+00:06:57,062 --> 00:07:01,848
+That night we rested and nursed our anger, for Jove was hatching mischief against us.
+
+64
+00:07:02,509 --> 00:07:11,680
+But in the morning some of us drew our ships into the water and put our goods with our women on board, while the rest, about half in number, stayed behind with Agamemnon.
+
+65
+00:07:11,660 --> 00:07:16,809
+We, the other half, embarked and sailed, and the ships went well, for heaven had smoothed the sea.
+
+66
+00:07:17,310 --> 00:07:21,818
+When we reached Tenedos we offered sacrifices to the gods, for we were longing to get home.
+
+67
+00:07:22,138 --> 00:07:33,398
+Cruel Jove, however, did not yet mean that we should do so, and raised a second quarrel in the course of which some among us turned their ships back again and sailed away under Ulysses to make their peace with Agamemnon.
+
+68
+00:07:33,378 --> 00:07:38,467
+But I and all the ships that were with me pressed forward, for I saw that mischief was brewing.
+
+69
+00:07:38,868 --> 00:07:42,134
+The son of Tydeus went on also with me, and his crews with him.
+
+70
+00:07:42,876 --> 00:07:56,601
+Later on Menelaus joined us at Lesbos, and found us making up our minds about our course, for we did not know whether to go outside Chios by the island of Syra, keeping this to our left, or inside Chios, over against the stormy headland of Mimas.
+
+71
+00:07:56,581 --> 00:08:04,134
+So we asked heaven for a sign, and were shown one to the effect that we should be soonest out of danger if we headed our ships across the open sea to Euboea.
+
+72
+00:08:04,795 --> 00:08:15,433
+This we therefore did, and a fair wind sprang up which gave us a quick passage during the night to Geraistas town to Nain, where we offered many sacrifices to Netun for having helped us so far on our way.
+
+73
+00:08:15,413 --> 00:08:24,867
+Four days later, Diomed and his men stationed their ships in Argos, but I held on for Pylos, and the wind never fell light from the day when heaven first made it fair for me.
+
+74
+00:08:25,649 --> 00:08:29,394
+Therefore, my dear young friend, I returned without hearing anything about the others.
+
+75
+00:08:30,075 --> 00:08:39,750
+I know neither who got home safely nor who were lost, but, as in duty bound, I will give you without reserve the reports that have reached me since I have been here in my own house.
+
+76
+00:08:39,730 --> 00:08:47,200
+They say the Myrmidons returned home safely under Achilles' son the Optolemus, so also did the valiant son of Poias, Philoctetes.
+
+77
+00:08:47,861 --> 00:08:55,091
+Idomeneus, again, lost no men at sea, and all his followers who escaped death in the field got safe home with him to Crete.
+
+78
+00:08:55,792 --> 00:09:06,767
+No matter how far out of the world you live, you will have heard of Agamemnon and the bad end he came to at the hands of Aegisthus, and a fearful reckoning did Aegisthus presently pay.
+
+79
+00:09:06,747 --> 00:09:14,677
+See what a good thing it is for a man to leave a son behind him to do as Orestes did, who killed false Aegisthus, the murderer of his noble father.
+
+80
+00:09:15,158 --> 00:09:20,585
+You too, then, for you are a tall, smart-looking fellow show your mettle and make yourself a name in story."
+
+81
+00:09:21,426 --> 00:09:23,729
+Nesta, son of Naelius, answered Telemachus.
+
+82
+00:09:24,149 --> 00:09:30,898
+Honor to the Achaean name, the Achaeans applaud Orestes and his name will live through all time, for he has avenged his father nobly.
+
+83
+00:09:30,878 --> 00:09:44,029
+Would that heaven might grant me to do like vengeance on the insolence of the wicked suitors who are ill-treating me and plotting my ruin, but the gods have no such happiness in store for me and for my father, so we must bear it as best we may.
+
+84
+00:09:45,010 --> 00:09:53,898
+My friend, said Nestor, now that you remind me, I remember to have heard that your mother has many suitors who are ill-disposed towards you and are making havoc of your estate.
+
+85
+00:09:54,539 --> 00:09:59,603
+Do you submit to this tamely, or a public feeling and the voice of heaven against you?
+
+86
+00:09:59,583 --> 00:10:07,632
+Who knows but what Ulysses may come back after all, and pay these scoundrels in full, either single-handed or with a force of Achaeans behind him.
+
+87
+00:10:08,353 --> 00:10:24,852
+If Minerva were to take as great a liking to you as she did to Ulysses when we were fighting before Troy, for I never yet saw the gods so openly fond of anyone as Minerva then was of your father, if she would take as good care of you as she did of him, these wooers would soon some of them forget their wooing.
+
+88
+00:10:25,493 --> 00:10:28,476
+Telemachus answered, I can expect nothing of the kind.
+
+89
+00:10:28,625 --> 00:10:30,287
+it would be far too much to hope for.
+
+90
+00:10:30,868 --> 00:10:32,431
+I dare not let myself think of it.
+
+91
+00:10:32,971 --> 00:10:37,077
+Even though the gods themselves willed it no such good fortune could befall me."
+
+92
+00:10:37,698 --> 00:10:41,023
+On this Minerva said, "'Telemachus, what are you talking about?
+
+93
+00:10:41,304 --> 00:10:51,038
+Heaven has a long arm if it is minded to save a man, and if it were me, I should not care how much I suffered before getting home, provided I could be safe when I was once there."
+
+94
+00:10:51,018 --> 00:10:58,352
+I would rather this than get home quickly and then be killed in my own house as Agamemnon was by the treachery of Aegisthus and his wife.
+
+95
+00:10:58,993 --> 00:11:06,327
+Still, death is certain, and when a man's hour is come, not even the gods can save him, no matter how fond they are of him.
+
+96
+00:11:06,307 --> 00:11:10,077
+Mentor, answered Telemachus, do not let us talk about it anymore.
+
+97
+00:11:10,658 --> 00:11:13,145
+There is no chance of my father's ever coming back.
+
+98
+00:11:13,445 --> 00:11:15,791
+The gods have long since counseled his destruction.
+
+99
+00:11:16,573 --> 00:11:22,729
+There is something else, however, about which I should like to ask Nestor, for he knows much more than anyone else does.
+
+100
+00:11:22,709 --> 00:11:26,876
+They say he has reigned for three generations, so that it is like talking to an immortal.
+
+101
+00:11:27,517 --> 00:11:31,845
+Tell me therefore, Nestor, and tell me true, how did Agamemnon come to die in that way?
+
+102
+00:11:32,186 --> 00:11:33,388
+What was Menelaus doing?
+
+103
+00:11:33,828 --> 00:11:37,695
+And how came false Aegisthus to kill so far better a man than himself?
+
+104
+00:11:38,517 --> 00:11:46,270
+Was Menelaus away from Achaean Argos, voyaging elsewhither among mankind, that Aegisthus took heart and killed Agamemnon?
+
+105
+00:11:46,874 --> 00:11:51,780
+I will tell you truly, answered Nestor, and indeed you have yourself divined how it all happened.
+
+106
+00:11:52,441 --> 00:12:00,271
+If Menelaus, when he got back from Troy, had found Aegisthus still alive in his house, there would have been no barrow heaped up for him, not even when he was dead.
+
+107
+00:12:00,752 --> 00:12:07,701
+But he would have been thrown outside the city to doves and vultures, and not a woman would have mourned him, for he had done a deed of great wickedness.
+
+108
+00:12:07,681 --> 00:12:17,449
+But we were over there fighting hard at Troy, and Aegisthus, who was taking his ease quietly in the heart of Argos, cajoled Agamemnon's wife Clytemnestra with incessant flattery.
+
+109
+00:12:17,990 --> 00:12:23,125
+At first she would have nothing to do with his wicked scheme, for she was of a good natural disposition.
+
+110
+00:12:23,105 --> 00:12:30,996
+Thirty moreover there was a bard with her, to whom Agamemnon had given strict orders on setting out for Troy, that he was to keep guard over his wife.
+
+111
+00:12:31,617 --> 00:12:42,733
+But when heaven had cancelled her destruction, Aegisthus carried this bard off to a desert island and left him there for crows and seagulls to batten upon, after which she went willingly enough to the house of Aegisthus.
+
+112
+00:12:43,314 --> 00:12:52,167
+Then he offered many burnt sacrifices to the gods and decorated many temples with tapestries and gilding, for he had succeeded far beyond his expectations.
+
+113
+00:12:52,265 --> 00:12:56,612
+Meanwhile, Menelaus and I were on our way home from Troy, on good terms with one another.
+
+114
+00:12:57,113 --> 00:13:17,867
+When we got to Sunium, which is the point of Athens, Apollo with his painless shafts killed Frontis, the steersman of Menelaus' ship, and never man knew better how to handle a vessel in rough weather, so that he died then and there with the helm in his hand, and Menelaus, though very anxious to press forward, had to wait in order to bury his comrade and give him his due funeral rites.
+
+115
+00:13:17,847 --> 00:13:28,185
+Presently, when he too could put to sea again, and had sailed on as far as the Malian heads, Jove counseled evil against him and made it blow hard till the waves ran mountains high.
+
+116
+00:13:28,766 --> 00:13:35,738
+Here he divided his fleet and took the one half towards Crete where the Sidonians dwell round about the waters of the river Iardanus.
+
+117
+00:13:35,718 --> 00:13:51,111
+There is a high headland hereabouts stretching out into the sea from a place called Gortin, and all along this part of the coast as far as Festus, the sea runs high when there is a south wind blowing, but after Festus the coast is more protected, for a small headland can make a great shelter.
+
+118
+00:13:51,091 --> 00:13:56,761
+Here, this part of the fleet was driven onto the rocks and wrecked, but the crews just managed to save themselves.
+
+119
+00:13:57,502 --> 00:14:05,336
+As for the other five ships, they were taken by winds and seas to Egypt, where Menelaus gathered much gold and substance among people of an alien speech.
+
+120
+00:14:06,258 --> 00:14:09,724
+Meanwhile, Aegisthus here at home plotted his evil deed.
+
+121
+00:14:09,704 --> 00:14:20,699
+For seven years after he had killed Agamemnon he ruled in Mycenae, and the people were obedient under him, but in the eighth year Orestes came back from Athens to be his bane and killed the murderer of his father.
+
+122
+00:14:21,540 --> 00:14:33,737
+Then he celebrated the funeral rites of his mother and a false Aegisthus by a banquet to the people of Argos, and on that very day Menelaus came home, thirty-one with as much treasure as his ships could carry.
+
+123
+00:14:33,717 --> 00:14:41,011
+Take my advice, then, and do not go traveling about for long so far from home, nor leave your property with such dangerous people in your house.
+
+124
+00:14:41,432 --> 00:14:45,620
+They will eat up everything you have among them, and you will have been on a fool's errand.
+
+125
+00:14:46,202 --> 00:14:55,540
+Still, I should advise you by all means to go and visit Menelaus, who has lately come off a voyage among such distant peoples as no man could ever hope to get back from.
+
+126
+00:14:55,520 --> 00:14:58,503
+when the winds had once carried him so far out of his reckoning.
+
+127
+00:14:59,324 --> 00:15:01,747
+Even birds cannot fly the distance in a twelve-month.
+
+128
+00:15:02,288 --> 00:15:04,770
+So vast and terrible are the seas that they must cross.
+
+129
+00:15:05,391 --> 00:15:08,455
+Go to him, therefore, by sea, and take your own men with you.
+
+130
+00:15:08,495 --> 00:15:16,784
+Or if you would rather travel by land, you can have a chariot, you can have horses, and here are my sons who can escort you to Lacedaemon, where Menelaus lives.
+
+131
+00:15:17,405 --> 00:15:22,911
+Beg of him to speak the truth, and he will tell you no lies, for he is an excellent person.
+
+132
+00:15:22,891 --> 00:15:38,267
+As he spoke the sun set and it came on dark, whereon Minerva said, Sir, all that you have said is, well, now, however, order the tongues of the victims to be cut, and mix wine that we may make drink-offerings to Neptune and the other immortals, and then go to bed, for it is bedtime.
+
+133
+00:15:38,968 --> 00:15:42,812
+People should go away early and not keep late hours at a religious festival.
+
+134
+00:15:43,513 --> 00:15:46,276
+Thus spoke the daughter of Jove, and they obeyed her saying.
+
+135
+00:15:46,856 --> 00:15:52,442
+Men's servants poured water over the hands of the guests, while pages filled the mixing-bowls with wine and water,
+
+136
+00:15:52,422 --> 00:15:55,366
+and handed it round after giving every man his drink offering.
+
+137
+00:15:55,827 --> 00:16:00,073
+Then they threw the tongues of the victims into the fire and stood up to make their drink offerings.
+
+138
+00:16:00,614 --> 00:16:09,807
+When they had made their offerings and had drunk each as much as he was minded, Minerva and Telemachus were forgoing on board their ship, but Nesta caught them up at once and stayed them.
+
+139
+00:16:09,787 --> 00:16:15,636
+"'Heaven and the immortal gods,' he exclaimed, "'forbid that you should leave my house "'to go on board of a ship.
+
+140
+00:16:16,257 --> 00:16:24,570
+"'Do you think I am so poor and short of clothes, "'or that I have so few cloaks, "'and as to be unable to find comfortable beds "'both for myself and for my guests?
+
+141
+00:16:24,590 --> 00:16:37,971
+"'Let me tell you, I have store both of rugs and cloaks, "'and shall not permit the son of my old friend Ulysses "'to camp down on the deck of a ship, "'not while I live, nor yet will my sons after me, "'but they will keep open house as I have done.
+
+142
+00:16:37,951 --> 00:16:43,996
+Then Minerva answered, Sir, you have spoken well, and it will be much better that Telemachus should do as you have said.
+
+143
+00:16:44,036 --> 00:16:50,882
+He, therefore, shall return with you and sleep at your house, but I must go back to give orders to my crew and keep them in good heart.
+
+144
+00:16:51,422 --> 00:16:53,204
+I am the only older person among them.
+
+145
+00:16:53,704 --> 00:17:01,010
+The rest are all young men of Telemachus's own age, who have taken this voyage out of friendship, so I must return to the ship and sleep there.
+
+146
+00:17:01,791 --> 00:17:07,536
+Moreover, tomorrow I must go to the Calconians, where I have a large sum of money long owing to me.
+
+147
+00:17:07,516 --> 00:17:14,209
+As for Telemachus, now that he is your guest, send him to Lacedaemon in a chariot, and let one of your sons go with him.
+
+148
+00:17:14,590 --> 00:17:17,877
+Be pleased to also provide him with your best and fleetest horses."
+
+149
+00:17:18,498 --> 00:17:23,668
+When she had thus spoken, she flew away in the form of an eagle, and all marveled as they beheld it.
+
+150
+00:17:23,918 --> 00:17:26,782
+Nestor was astonished and took Telemachus by the hand.
+
+151
+00:17:27,182 --> 00:17:34,372
+My friend, said he, I see that you are going to be a great hero some day, since the gods wait upon you thus while you are still so young.
+
+152
+00:17:34,932 --> 00:17:44,044
+This can have been none other of those who dwell in heaven than Job's redoubtable daughter, the Tritoborn, who shewed such favor towards your brave father among the Argives.
+
+153
+00:17:44,705 --> 00:17:51,394
+Holy Queen, he continued, vouchsafe to send down thy grace upon myself, my good wife, and my children.
+
+154
+00:17:51,374 --> 00:17:59,564
+In return, I will offer you in sacrifice a broad-browed heifer of a year old, unbroken and never yet brought by man under the yoke.
+
+155
+00:18:00,025 --> 00:18:03,970
+I will gild her horns and will offer her up to you in sacrifice."
+
+156
+00:18:03,990 --> 00:18:06,493
+Thus did he pray, and Minerva heard his prayer.
+
+157
+00:18:06,773 --> 00:18:10,758
+He then led the way to his own house, followed by his sons and sons-in-law.
+
+158
+00:18:11,179 --> 00:18:20,470
+When they had got there and had taken their places on the benches and seats, he mixed them a bowl of sweet wine that was eleven years old when the housekeeper took the lid off the jar that held it.
+
+159
+00:18:20,551 --> 00:18:26,283
+As he mixed the wine, he prayed much and made drink offerings to Minerva, daughter of Aegis bearing Jove.
+
+160
+00:18:26,683 --> 00:18:32,856
+Then, when they had made their drink offerings and had drunk each as much as he was minded, the others went home to bed each in his own abode.
+
+161
+00:18:33,397 --> 00:18:40,872
+But Nestor put Telemachus to sleep in the room that was over the gateway, along with Peisistratus, who was the only unmarried son now left him.
+
+162
+00:18:40,852 --> 00:18:45,299
+As for himself, he slept in an inner room of the house, with the queen his wife by his side.
+
+163
+00:18:45,940 --> 00:18:54,454
+Now when the child of morning rosy-fingered dawn appeared, Nestor left his couch and took his seat on the benches of white and polished marble that stood in front of his house.
+
+164
+00:18:55,175 --> 00:19:06,032
+Here aforetime sat Nellius, peer of gods and counsel, but he was now dead and had gone to the house of Hades, so Nestor sat in his seat-sceptre in hand, as guardian of the public wheel.
+
+165
+00:19:06,012 --> 00:19:08,595
+His sons, as they left their rooms, gathered round him.
+
+166
+00:19:09,116 --> 00:19:12,780
+Echefron, Stratius, Perseus, Eretus, and Thrasymedes.
+
+167
+00:19:13,220 --> 00:19:17,525
+The sixth son was Pisistratus, and when Telemachus joined them they made him sit with them.
+
+168
+00:19:18,146 --> 00:19:19,167
+Nestor then addressed them.
+
+169
+00:19:19,768 --> 00:19:22,992
+My sons, said he, make haste to do as I shall bid you.
+
+170
+00:19:23,352 --> 00:19:30,400
+I wish first and foremost to propitiate the great goddess Minerva, who manifested herself visibly to me during yesterday's festivities.
+
+171
+00:19:30,380 --> 00:19:36,526
+Go then, one or other of you to the plain, tell the stockman to look me out a heifer, and come on here with it at once.
+
+172
+00:19:37,287 --> 00:19:42,652
+Another must go to Telemachus's ship, and invite all the crew, leaving two men only in charge of the vessel.
+
+173
+00:19:43,632 --> 00:19:47,636
+Someone else will run and fetch Lercius the goldsmith to gild the horns of the heifer.
+
+174
+00:19:48,137 --> 00:19:55,844
+The rest, stay all of you where you are, tell the maids in the house to prepare an excellent dinner, and to fetch seats and logs of wood for a burnt offering.
+
+175
+00:19:56,244 --> 00:19:59,087
+Tell them also to bring me some clear spring water,
+
+176
+00:19:59,067 --> 00:20:01,350
+On this they hurried off on their several errands.
+
+177
+00:20:01,911 --> 00:20:05,957
+The heifer was brought in from the plain, and Telemachus' crew came from the ship.
+
+178
+00:20:06,337 --> 00:20:13,388
+The goldsmith brought the anvil, hammer, and tongs, with which he worked his gold, and Minerva herself came to accept the sacrifice.
+
+179
+00:20:14,068 --> 00:20:19,156
+Nestor gave out the gold, and the smith gilded the horns of the heifer that the goddess might have pleasure in their beauty.
+
+180
+00:20:19,797 --> 00:20:23,522
+Then Stratius and Echefron brought her in by the horns.
+
+181
+00:20:23,502 --> 00:20:30,700
+Aretas fetched water from the house in a ewer that had a flower pattern on it, and in his other hand he held a basket of barley meal.
+
+182
+00:20:31,201 --> 00:20:37,697
+Sturdy Thrasymedes stood by with a sharp axe, ready to strike the heifer, while Perseus held a bucket.
+
+183
+00:20:37,778 --> 00:20:45,752
+Then Nestor began with washing his hands and sprinkling the barley meal, and he offered many a prayer to Minerva as he threw a lock from the heifer's head upon the fire.
+
+184
+00:20:46,273 --> 00:20:56,310
+When they had done praying and sprinkling the barley meal 3.32, Thrasymedes dealt his blow and brought the heifer down with a stroke that cut through the tendons at the base of her neck.
+
+185
+00:20:56,290 --> 00:21:03,890
+whereon the daughters and daughters-in-law of Nestor, and his venerable wife Eurydice, she was eldest daughter to Clymenus, screamed with delight.
+
+186
+00:21:04,491 --> 00:21:08,642
+Then they lifted the heifer's head from off the ground, and Pisistratus cut her throat.
+
+187
+00:21:09,304 --> 00:21:12,612
+When she had done bleeding and was quite dead, they cut her up.
+
+188
+00:21:12,592 --> 00:21:19,221
+They cut out the thigh bones all in due course, wrapped them round in two layers of fat, and set some pieces of raw meat on the top of them.
+
+189
+00:21:19,742 --> 00:21:26,371
+Then Nestor laid them upon the wood fire and poured wine over them, while the young men stood near him with five pronged spits in their hands.
+
+190
+00:21:26,871 --> 00:21:34,582
+When the thighs were burned and they had tasted the inward meats, they cut the rest of the meat up small, put the pieces on the spits and toasted them over the fire.
+
+191
+00:21:35,223 --> 00:21:39,949
+Meanwhile, lovely Polycast, Nestor's youngest daughter, washed Telemachus.
+
+192
+00:21:39,929 --> 00:21:50,087
+When she had washed him and anointed him with oil, she brought him a fair mantle and shirt, 1033, and he looked like a god as he came from the bath and took his seat by the side of Nestor.
+
+193
+00:21:50,788 --> 00:22:00,165
+When the outer meats were done, they drew them off the spits and sat down to dinner where they were waited upon by some worthy henchmen, who kept pouring them out their wine in cups of gold.
+
+194
+00:22:00,145 --> 00:22:07,801
+As soon as they had had enough to eat and drink, Nestor said, Sons, put Telemachus' horses to the chariot, that he may start at once.
+
+195
+00:22:08,744 --> 00:22:13,654
+Thus did he speak, and they did even as he had said, and yoked the fleet-horses to the chariot.
+
+196
+00:22:14,556 --> 00:22:20,128
+The housekeeper packed them up a provision of bread, wine, and sweetmeats fit for the sons of princes.
+
+197
+00:22:20,108 --> 00:22:25,553
+Then Telemachus got into the chariot, while Peisistratus gathered up the reins and took his seat beside him.
+
+198
+00:22:26,234 --> 00:22:32,801
+He lashed the horses on and they flew forward, nothing loth into the open country, leaving the high citadel of Pylos behind them.
+
+199
+00:22:33,562 --> 00:22:39,788
+All that day did they travel, swaying the yoke upon their necks till the sun went down and darkness was over all the land.
+
+200
+00:22:40,549 --> 00:22:46,875
+Then they reached Pharai where Diocles lived, who was son to Ortolocus and grandson to Alpheus.
+
+201
+00:22:47,024 --> 00:22:50,632
+Here they passed the night, and Diocles entertained them hospitably.
+
+202
+00:22:51,134 --> 00:22:58,250
+When the child of morning, rosy-fingered Dawn, appeared, they again yoked their horses and drove out through the gateway under the echoing gatehouse.
+
+203
+00:22:58,852 --> 00:23:03,041
+Thirty-four Peisistratus lashed the horses on and they flew forward, nothing loth.
+
+204
+00:23:03,603 --> 00:23:10,278
+Presently they came to the cornlands of the open country, and in the course of time completed their journey, so well did their steeds take them.
+
+205
+00:23:11,321 --> 00:23:15,310
+Thirty-five Now when the sun had set and darkness was over the land,
+

@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 chapter_number_str = input("enter chapter number (XXX): ")
 chapter_number = int(chapter_number_str)
 chapter_number_formatted = f"{chapter_number:03d}"
-chapter_dir = f"chapter_{chapter_number_formatted}"
+chapter_dir = f"book_{chapter_number_formatted}"
 
 def parse_srt_time(s):
     return datetime.strptime(s, '%H:%M:%S,%f')
